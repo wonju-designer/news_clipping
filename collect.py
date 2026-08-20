@@ -88,15 +88,26 @@ def _normalize(item: dict, badge: str = None) -> dict:
         pub = parsedate_to_datetime(item.get("pubDate", "")).astimezone(config.KST)
     except Exception:
         pub = None
+    press = _press_name(orig)
     return {
         "title": title,
         "desc": desc,
         "link": item.get("link") or orig,
         "orig": orig,
-        "press": _press_name(orig),
+        "press": press,
         "pub": pub,
-        "badge": badge,  # 자회사 섹션 자사/산업 구분용
+        "badge": badge,               # 자회사 섹션 자사/산업 구분용
+        "is_major": press in config.MAJOR_PRESS,  # 주요 매체 우선 정렬용
+        "is_sports": _host(orig) in config.SPORTS_DOMAINS,  # 스포츠 매체 차단용
     }
+
+
+def _host(url: str) -> str:
+    try:
+        host = urlparse(url).netloc.lower()
+        return host[4:] if host.startswith("www.") else host
+    except Exception:
+        return ""
 
 
 def collect() -> dict:
@@ -115,6 +126,8 @@ def collect() -> dict:
                 art = _normalize(raw, badge)
                 if not art["orig"] or art["orig"] in seen:
                     continue
+                if art["is_sports"]:            # 스포츠 신문 원천 차단
+                    continue
                 if art["pub"] is None or art["pub"] < cutoff:
                     continue
                 if _excluded(art["title"] + " " + art["desc"], extra_exclude):
@@ -122,7 +135,8 @@ def collect() -> dict:
                 seen.add(art["orig"])
                 bucket.append(art)
             time.sleep(0.1)  # API 예의
-        bucket.sort(key=lambda a: a["pub"], reverse=True)
+        # 주요 매체 우선, 그다음 최신순 → '주요 일간지 소식부터'
+        bucket.sort(key=lambda a: (0 if a["is_major"] else 1, -a["pub"].timestamp()))
         return bucket
 
     for cat in config.CATEGORIES:
