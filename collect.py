@@ -150,7 +150,15 @@ def collect() -> dict:
         bucket.sort(key=lambda a: (0 if a["is_major"] else 1, -a["pub"].timestamp()))
         return bucket
 
-    for cat in config.CATEGORIES:
+    # 수집 순서: 구체적인 섹션(자사·경쟁사·자회사)을 먼저, 포괄적인 산업을 마지막.
+    # 전역 중복 제거 특성상, 먼저 도는 섹션이 해당 기사를 선점한다.
+    # (표시 순서는 config.CATEGORIES 순서를 그대로 따르므로 영향 없음)
+    collect_order = ["own", "competitor", "subsidiary", "industry"]
+    by_id = {c["id"]: c for c in config.CATEGORIES}
+    ordered = [by_id[i] for i in collect_order if i in by_id]
+    ordered += [c for c in config.CATEGORIES if c["id"] not in collect_order]
+
+    for cat in ordered:
         ex = cat.get("exclude", ())
         req = cat.get("require_any", ())
         if cat["id"] == "subsidiary":
