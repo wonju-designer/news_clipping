@@ -156,7 +156,7 @@ def _rank(articles: list, n: int, cat_title: str, priority_terms=()) -> list:
         f"알뜰폰·MVNO·이동통신 산업과 자사(아이즈비전) 관심도 관점에서 "
         f"가장 중요한 {n}건을 골라라. 선별 원칙: "
         f"{pr}"
-        f"① 주요 일간지·경제지·통신IT 전문지 기사를 우선한다. "
+        f"① 5대 일간지(조선·중앙·동아·한겨레·경향)와 주요 경제지·통신IT 전문지 기사를 우선한다. "
         f"② 게임·연예·스포츠·영화·연예인, 단순 광고·홍보·경품성, 단순 시세 기사는 반드시 제외한다. "
         f"③ 통신/사업과 무관하면 매체가 유명해도 제외한다. "
         + GUARDRAIL + " "
@@ -183,8 +183,9 @@ def _rank(articles: list, n: int, cat_title: str, priority_terms=()) -> list:
 
 
 def _order(arts: list, priority_terms=()) -> None:
-    """우선순위어 → 주요매체 → 최신순 (in-place)."""
+    """5대 일간지 → 우선순위어 → 주요매체 → 최신순 (in-place)."""
     arts.sort(key=lambda a: (
+        0 if a.get("is_five") else 1,
         0 if _has_priority(a, priority_terms) else 1,
         0 if a.get("is_major") else 1,
         -a["pub"].timestamp(),
