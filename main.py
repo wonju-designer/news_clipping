@@ -12,6 +12,7 @@ import config
 import collect as collector
 import analyze
 import render
+import docx_report
 import send as sender
 
 
@@ -39,6 +40,15 @@ def run(preview: bool = False):
         f.write(html_body)
     print("[렌더 완료] report_preview.html")
 
+    # 첨부용 워드 문서 생성
+    docx_path = f"아이즈비전_뉴스클리핑_{now:%Y%m%d}.docx"
+    try:
+        docx_report.build_docx(display, top, digests, docx_path, shown_total)
+        print(f"[문서 생성] {docx_path}")
+    except Exception as e:
+        print(f"[문서 생성 실패] {e}")
+        docx_path = None
+
     if preview:
         print("[프리뷰 모드] 발송 생략")
         return
@@ -47,7 +57,7 @@ def run(preview: bool = False):
         print("[종료] 노출 기사 0건 — 발송 생략")
         return
 
-    sender.send(html_body)
+    sender.send(html_body, docx_path)
     print("[완료]")
 
 
