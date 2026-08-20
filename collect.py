@@ -50,13 +50,8 @@ def _press_name(originallink: str) -> str:
 
 
 def _lookback_cutoff(now_kst: datetime) -> datetime:
-    """월요일이면 주말 포함(76h), 평일이면 28h 전까지."""
-    hours = (
-        config.LOOKBACK_HOURS_MONDAY
-        if now_kst.weekday() == 0
-        else config.LOOKBACK_HOURS_WEEKDAY
-    )
-    return now_kst - timedelta(hours=hours)
+    """매일 발송 기준: 직전 약 28시간(전일 저녁~당일 아침) 커버."""
+    return now_kst - timedelta(hours=config.LOOKBACK_HOURS_WEEKDAY)
 
 
 def naver_search(query: str, display: int) -> list:
@@ -125,10 +120,9 @@ def collect() -> dict:
     cutoff = _lookback_cutoff(now)
     print(f"[수집] 기준: {cutoff:%Y-%m-%d %H:%M} ~ {now:%Y-%m-%d %H:%M} (KST)")
 
-    seen = set()  # orig 링크 기준 전역 중복 제거
     result = {}
 
-    def _gather(keywords, badge=None, extra_exclude=(), require_any=(), protect_terms=()):
+    def _gather(keywords, seen, badge=None, extra_exclude=(), require_any=(), protect_terms=()):
         bucket = []
         for kw in keywords:
             raw_n = 0
@@ -169,29 +163,25 @@ def collect() -> dict:
             return list(keywords)
         return [f"{kw} {q}" for kw in keywords for q in qualifiers]
 
-    # 수집 순서: 구체적인 섹션(자사·경쟁사·자회사)을 먼저, 포괄적인 산업을 마지막.
-    # 전역 중복 제거 특성상, 먼저 도는 섹션이 해당 기사를 선점한다.
-    # (표시 순서는 config.CATEGORIES 순서를 그대로 따르므로 영향 없음)
-    collect_order = ["own", "competitor", "subsidiary", "industry"]
-    by_id = {c["id"]: c for c in config.CATEGORIES}
-    ordered = [by_id[i] for i in collect_order if i in by_id]
-    ordered += [c for c in config.CATEGORIES if c["id"] not in collect_order]
-
-    for cat in ordered:
+    # 섹션별 독립 수집 — 중복 제거를 '섹션 내부'로만 적용.
+    # 따라서 같은 기사가 산업동향·경쟁사 등 여러 섹션에 함께 나올 수 있음(중복 허용).
+    for cat in config.CATEGORIES:
         ex = cat.get("exclude", ())
         req = cat.get("require_any", ())
         prot = cat.get("protect_terms", ())
         quals = cat.get("qualifiers", ())
         pt = cat.get("priority_terms", ())
+        cat_seen = set()  # 섹션 내부 중복만 제거 (섹션 간 중복은 허용)
         if cat["id"] == "subsidiary":
-            own = _gather(cat["keywords"], badge="자사", extra_exclude=ex,
+            own = _gather(cat["keywords"], cat_seen, badge="자사", extra_exclude=ex,
                           require_any=req, protect_terms=prot)
-            ind = _gather(cat.get("industry_keywords", []), badge="산업",
+            ind = _gather(cat.get("industry_keywords", []), cat_seen, badge="산업",
                           extra_exclude=ex, require_any=req, protect_terms=prot)
             items = (own + ind)
         else:
             queries = _expand(cat["keywords"], quals)
-            items = _gather(queries, extra_exclude=ex, require_any=req, protect_terms=prot)
+            items = _gather(queries, cat_seen, extra_exclude=ex,
+                            require_any=req, protect_terms=prot)
             # 후보 컷 전에 우선순위어 든 기사를 앞으로 → 상한에서 잘려나가지 않게
             if pt:
                 def _pri(a):
