@@ -132,7 +132,9 @@ def build_docx(display: dict, top: list, digests: dict, path: str, total: int) -
             pp.paragraph_format.space_after = Pt(2)
             _run(pp, f"{t['rank']}. ", size=10.5, bold=True, color=ACCENT)
             _run(pp, t["headline"], size=10.5)
-            _run(pp, f"  [{label}]", size=9, color=MUTED)
+            _run(pp, f"  [{label}]  ", size=9, color=MUTED)
+            if t.get("link"):
+                _add_hyperlink(pp, t["link"], "원문보기")
     else:
         _run(doc.add_paragraph(), "선별된 핵심 기사가 없습니다.", size=10, color=MUTED)
     doc.add_paragraph()
