@@ -207,8 +207,9 @@ def _major_first(arts: list) -> None:
     _order(arts)
 
 
-def select_display(collected: dict) -> dict:
-    """카테고리별로 AI 중요도 선별 적용 → {cat_id: [노출 기사]} 반환."""
+def select_display(collected: dict, doc: bool = False) -> dict:
+    """카테고리별로 AI 중요도 선별 적용 → {cat_id: [노출 기사]} 반환.
+    doc=True면 문서(첨부)용으로 섹션별 개수를 DOC_MAX_PER_SECTION까지 확장."""
     display = {}
     for cat in config.CATEGORIES:
         items = collected.get(cat["id"], [])
@@ -219,24 +220,45 @@ def select_display(collected: dict) -> dict:
             ind = [a for a in items if a.get("badge") == "산업"]
             p_own = cat.get("priority_own", ())
             p_ind = cat.get("priority_industry", ())
-            own_pick = _rank(own, cat.get("display_max_own", 3),
-                             "자회사 동향(머큐리)", p_own, top_terms=p_own)
-            ind_pick = _rank(ind, cat.get("display_max_industry", 3),
+            if doc:
+                cap_own = (config.DOC_MAX_PER_SECTION + 1) // 2   # 8
+                cap_ind = config.DOC_MAX_PER_SECTION // 2         # 7
+            else:
+                cap_own = cat.get("display_max_own", 3)
+                cap_ind = cat.get("display_max_industry", 3)
+            own_pick = _rank(own, cap_own, "자회사 동향(머큐리)", p_own, top_terms=p_own)
+            ind_pick = _rank(ind, cap_ind,
                              "자회사 관련 산업(광통신·네트워크)", p_ind, top_terms=p_ind)
             _order(own_pick, p_own, top_terms=p_own)
             _order(ind_pick, p_ind, top_terms=p_ind)
             picked = own_pick + ind_pick  # 자사 먼저, 그다음 산업
         else:
             pt = cat.get("priority_terms", ())
-            picked = _rank(items, cat.get("display_max", 4), cat["title"], pt)
+            cap = config.DOC_MAX_PER_SECTION if doc else cat.get("display_max", 4)
+            picked = _rank(items, cap, cat["title"], pt)
             _order(picked, pt)
 
         for art in picked:
             art["cat_id"] = cat["id"]
             art["cat_title"] = cat["title"]
         display[cat["id"]] = picked
-        print(f"  {cat['num']} {cat['title']}: 후보 {len(items)} → 선별 {len(picked)}")
+        tag = "문서" if doc else "메일"
+        print(f"  {cat['num']} {cat['title']}({tag}): 후보 {len(items)} → 선별 {len(picked)}")
     return display
+
+
+def email_subset(doc_display: dict) -> dict:
+    """문서용 선별 결과에서 이메일용(섹션별 display_max) 상위만 잘라낸다."""
+    email = {}
+    for cat in config.CATEGORIES:
+        arts = doc_display.get(cat["id"], [])
+        if cat["id"] == "subsidiary":
+            own = [a for a in arts if a.get("badge") == "자사"][: cat.get("display_max_own", 3)]
+            ind = [a for a in arts if a.get("badge") == "산업"][: cat.get("display_max_industry", 3)]
+            email[cat["id"]] = own + ind
+        else:
+            email[cat["id"]] = arts[: cat.get("display_max", 4)]
+    return email
 
 
 def flatten(display: dict) -> list:
