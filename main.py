@@ -27,12 +27,13 @@ def run(preview: bool = False):
     display = analyze.select_display(collected)
     flat = analyze.flatten(display)
 
-    analyze.summarize(flat)          # Groq 배치 요약
-    top = analyze.select_top5(flat)  # 품질 AI Top5
+    analyze.summarize(flat)                      # Groq 기사별 요약
+    digests = analyze.section_digests(display)   # Groq 섹션별 동향 요약
+    top = analyze.select_top5(flat)              # 품질 AI Top5
 
     shown_total = len(flat)
     print(f"[정리] 수집 {raw_total}건 → 노출 {shown_total}건")
-    html_body = render.build_html(display, top, shown_total)
+    html_body = render.build_html(display, top, shown_total, digests)
 
     with open("report_preview.html", "w", encoding="utf-8") as f:
         f.write(html_body)
