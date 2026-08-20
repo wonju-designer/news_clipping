@@ -80,6 +80,13 @@ def _excluded(text: str, extra=()) -> bool:
     return any(kw.lower() in low for kw in terms)
 
 
+def _expand(keywords, qualifiers=None):
+    """수식어가 있으면 '키워드 수식어' 조합으로 확장 (예: 프리티 알뜰폰/프리티 요금제)."""
+    if not qualifiers:
+        return list(keywords)
+    return [f"{kw} {q}" for kw in keywords for q in qualifiers]
+
+
 def _normalize(item: dict, badge: str = None) -> dict:
     title = _clean(item.get("title", ""))
     desc = _clean(item.get("description", ""))
@@ -119,7 +126,7 @@ def collect() -> dict:
     seen = set()  # orig 링크 기준 전역 중복 제거
     result = {}
 
-    def _gather(keywords, badge=None, extra_exclude=()):
+    def _gather(keywords, badge=None, extra_exclude=(), require_any=()):
         bucket = []
         for kw in keywords:
             for raw in naver_search(kw, config.DISPLAY_PER_QUERY):
@@ -130,7 +137,11 @@ def collect() -> dict:
                     continue
                 if art["pub"] is None or art["pub"] < cutoff:
                     continue
-                if _excluded(art["title"] + " " + art["desc"], extra_exclude):
+                text = art["title"] + " " + art["desc"]
+                if _excluded(text, extra_exclude):
+                    continue
+                # 필수 조건어: 하나라도 없으면 제외 (경쟁사 통신 맥락 강제)
+                if require_any and not any(t.lower() in text.lower() for t in require_any):
                     continue
                 seen.add(art["orig"])
                 bucket.append(art)
@@ -141,12 +152,14 @@ def collect() -> dict:
 
     for cat in config.CATEGORIES:
         ex = cat.get("exclude", ())
+        req = cat.get("require_any", ())
         if cat["id"] == "subsidiary":
-            own = _gather(cat["keywords"], badge="자사", extra_exclude=ex)
-            ind = _gather(cat.get("industry_keywords", []), badge="산업", extra_exclude=ex)
+            own = _gather(cat["keywords"], badge="자사", extra_exclude=ex, require_any=req)
+            ind = _gather(cat.get("industry_keywords", []), badge="산업",
+                          extra_exclude=ex, require_any=req)
             items = (own + ind)
         else:
-            items = _gather(cat["keywords"], extra_exclude=ex)
+            items = _gather(cat["keywords"], extra_exclude=ex, require_any=req)
         result[cat["id"]] = items[: config.CANDIDATE_CAP]
         print(f"  {cat['num']} {cat['title']}: {len(items)}건")
 
