@@ -32,7 +32,7 @@ CATEGORIES = [
         "digest_long": True,   # 섹션 요약을 5문장 분량으로
         "keywords": [
             "알뜰폰", "알뜰폰 시장", "알뜰폰 점유율", "알뜰폰 가입자", "번호이동",
-            "MVNO", "이동통신", "MNO",
+            "풀MVNO", "도매대가", "설비보유", "MVNO", "이동통신", "MNO",
             "중고폰", "SKT", "KT", "유플러스", "LG유플러스", "엘지유플러스",
             "에스케이텔레콤", "케이티", "휴대전화", "갤럭시", "아이폰",
             "명의도용", "휴대폰", "개통",
@@ -154,6 +154,8 @@ PRESS_MAP = {
     "biz.chosun.com": "조선비즈", "moneys.co.kr": "머니S", "seoul.co.kr": "서울신문",
     "kmib.co.kr": "국민일보", "hankookilbo.com": "한국일보", "segye.com": "세계일보",
     "aitimes.com": "AI타임스", "it.chosun.com": "IT조선", "kbench.com": "케이벤치",
+    "enewstoday.co.kr": "이뉴스투데이", "greened.kr": "그린포스트코리아",
+    "apnews.kr": "에이피신문", "kihoilbo.co.kr": "기호일보",
     "nate.com": "네이트뉴스", "ajunews.com": "아주경제", "wowtv.co.kr": "한국경제TV",
     "yonhapnewstv.co.kr": "연합뉴스TV", "ytn.co.kr": "YTN", "sbs.co.kr": "SBS",
     "imbc.com": "MBC", "kbs.co.kr": "KBS", "tf.co.kr": "더팩트",
@@ -175,6 +177,7 @@ MAJOR_PRESS = {
     "머니투데이", "아시아경제", "헤럴드경제", "아주경제", "조선비즈",
     # 통신/IT 전문지 (본 도메인 핵심)
     "전자신문", "디지털데일리", "디지털타임스", "지디넷코리아", "블로터", "디일렉",
+    "아이뉴스24", "이뉴스투데이", "AI타임스", "IT조선",
     # 통신사/방송
     "뉴시스", "뉴스1", "YTN", "연합뉴스TV",
 }
