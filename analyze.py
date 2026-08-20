@@ -139,11 +139,11 @@ def _rank(articles: list, n: int, cat_title: str, priority_terms=()) -> list:
     """카테고리 후보를 AI가 중요도로 상위 n건 선별. 실패 시 우선순위·최신순 폴백."""
     if len(articles) <= n:
         return articles
-    # 우선순위어가 든 후보를 앞쪽으로 → AI 입력·폴백 모두 우선 반영
+    # 관련성(우선순위어) 우선 → 최신순. 매체 규모는 선별에서 배제(노출 순서에서만 반영)
     articles = sorted(
         articles,
         key=lambda a: (0 if _has_priority(a, priority_terms) else 1,
-                       0 if a.get("is_major") else 1, -a["pub"].timestamp()),
+                       -a["pub"].timestamp()),
     )
     numbered = [
         f"[{i}] ({a.get('press','')}) {a['title']}" for i, a in enumerate(articles)
@@ -156,7 +156,8 @@ def _rank(articles: list, n: int, cat_title: str, priority_terms=()) -> list:
         f"알뜰폰·MVNO·이동통신 산업과 자사(아이즈비전) 관심도 관점에서 "
         f"가장 중요한 {n}건을 골라라. 선별 원칙: "
         f"{pr}"
-        f"① 5대 일간지(조선·중앙·동아·한겨레·경향)와 주요 경제지·통신IT 전문지 기사를 우선한다. "
+        f"① 알뜰폰·MVNO·이동통신 등 통신 산업 관련성이 높은 기사를 최우선한다(매체 규모보다 관련성 우선). "
+        f"② 관련성이 비슷하면 5대 일간지·주요 경제지·통신IT 전문지를 우선한다. "
         f"② 게임·연예·스포츠·영화·연예인, 단순 광고·홍보·경품성, 단순 시세 기사는 반드시 제외한다. "
         f"③ 통신/사업과 무관하면 매체가 유명해도 제외한다. "
         + GUARDRAIL + " "
