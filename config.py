@@ -60,6 +60,8 @@ CATEGORIES = [
         "bar_color": "#185FA5",
         "display_max": 6,
         "keywords": ["아이즈비전", "아이즈모바일", "CirQle"],
+        # 본문에 정확한 자사명이 있어야 인정 → '아이즈'만 겹치는 무관 기사 배제
+        "require_any": ["아이즈비전", "아이즈모바일", "CirQle", "써클"],
         "priority_terms": DEFAULT_PRIORITY,
     },
     {
@@ -200,8 +202,10 @@ SPORTS_DOMAINS = {
 DISPLAY_PER_QUERY = 40       # 쿼리당 네이버 최대 수집 (max 100)
 CANDIDATE_CAP = 60           # 카테고리별 AI 선별 투입 후보 상한 (프롬프트 크기 제어)
 LOOKBACK_HOURS = 48          # 기본 수집 기간(시간): 최근 2일 (경계선 누락 방지)
-# 카테고리별 기간 예외 (시간). 없으면 LOOKBACK_HOURS 사용. (현재 전 섹션 동일)
-LOOKBACK_HOURS_BY_CATEGORY = {}
+# 카테고리별 기간 예외 (시간). 없으면 LOOKBACK_HOURS 사용.
+LOOKBACK_HOURS_BY_CATEGORY = {
+    "competitor": 72,        # 경쟁사: 기사가 드물어 3일로 확장
+}
 LOOKBACK_HOURS_WEEKDAY = 48  # (구) 참조 호환용
 LOOKBACK_HOURS_MONDAY = 48   # (구) 참조 호환용
 TOP_N = 5                    # 오늘의 핵심 개수
