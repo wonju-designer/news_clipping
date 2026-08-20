@@ -36,9 +36,9 @@ jobs:
           # QUALITY_AI: claude
           # ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           # CLAUDE_MODEL: claude-sonnet-5   # 저비용은 claude-haiku-4-5-20251001
-          # 모델명 교체가 필요하면 아래 주석 해제 후 값 지정
-          # GROQ_MODEL: llama-3.3-70b-versatile
-          # GEMINI_MODEL: gemini-2.0-flash
+          # 모델명 교체가 필요하면 아래 주석 해제 후 값 지정 (기본값이 최신이라 보통 불필요)
+          # GROQ_MODEL: openai/gpt-oss-120b     # 대안: openai/gpt-oss-20b
+          # GEMINI_MODEL: gemini-2.5-flash      # 대안: gemini-3.5-flash
         run: python main.py
 
       - name: 프리뷰 아티팩트 업로드
