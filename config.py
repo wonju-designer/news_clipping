@@ -205,6 +205,7 @@ LOOKBACK_HOURS_BY_CATEGORY = {}
 LOOKBACK_HOURS_WEEKDAY = 48  # (구) 참조 호환용
 LOOKBACK_HOURS_MONDAY = 48   # (구) 참조 호환용
 TOP_N = 5                    # 오늘의 핵심 개수
+DOC_MAX_PER_SECTION = 15     # 첨부 워드 문서에 담을 섹션별 최대 기사 수(이메일과 별개)
 
 # ────────────────────────────────────────────────
 # 이메일 안전 색상값 (템플릿 CSS 변수 치환용)
