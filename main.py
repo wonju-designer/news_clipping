@@ -23,27 +23,31 @@ def run(preview: bool = False):
     collected = collector.collect()
     raw_total = sum(len(v) for v in collected.values())
 
-    # AI 중요도 선별 → 카테고리별 노출 세트
+    # 문서(첨부)용으로 섹션별 넓게 선별 → 이메일은 그 상위만 사용
     print(f"[선별] AI 중요도 판단 (품질 AI: {analyze.QUALITY_AI})")
-    display = analyze.select_display(collected)
-    flat = analyze.flatten(display)
+    doc_display = analyze.select_display(collected, doc=True)
+    doc_flat = analyze.flatten(doc_display)
 
-    analyze.summarize(flat)                      # Groq 기사별 요약
-    digests = analyze.section_digests(display)   # Groq 섹션별 동향 요약
-    top = analyze.select_top5(flat)              # 품질 AI Top5
+    analyze.summarize(doc_flat)                       # Groq 기사별 요약(문서 전체)
+    digests = analyze.section_digests(doc_display)    # Groq 섹션별 동향 요약
+    top = analyze.select_top5(doc_flat)               # 품질 AI Top5
 
-    shown_total = len(flat)
-    print(f"[정리] 수집 {raw_total}건 → 노출 {shown_total}건")
-    html_body = render.build_html(display, top, shown_total, digests)
+    # 이메일용: 문서 선별 결과에서 섹션별 상위만 잘라냄
+    email_display = analyze.email_subset(doc_display)
+    email_total = sum(len(v) for v in email_display.values())
+    doc_total = len(doc_flat)
+    print(f"[정리] 수집 {raw_total}건 → 이메일 {email_total}건 / 문서 {doc_total}건")
+
+    html_body = render.build_html(email_display, top, email_total, digests)
 
     with open("report_preview.html", "w", encoding="utf-8") as f:
         f.write(html_body)
     print("[렌더 완료] report_preview.html")
 
-    # 첨부용 워드 문서 생성
+    # 첨부용 워드 문서 생성 (더 많은 기사 수록)
     docx_path = f"아이즈비전_뉴스클리핑_{now:%Y%m%d}.docx"
     try:
-        docx_report.build_docx(display, top, digests, docx_path, shown_total)
+        docx_report.build_docx(doc_display, top, digests, docx_path, doc_total)
         print(f"[문서 생성] {docx_path}")
     except Exception as e:
         print(f"[문서 생성 실패] {e}")
@@ -53,7 +57,7 @@ def run(preview: bool = False):
         print("[프리뷰 모드] 발송 생략")
         return
 
-    if shown_total == 0:
+    if email_total == 0:
         print("[종료] 노출 기사 0건 — 발송 생략")
         return
 
