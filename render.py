@@ -84,7 +84,20 @@ def _article_block(art: dict, last: bool, badge: str = None) -> str:
     )
 
 
-def _section(cat: dict, articles: list) -> str:
+def _digest_box(text: str) -> str:
+    if not text:
+        return ""
+    return (
+        f'<div style="background:{C["surface_1"]};border-left:3px solid {C["text_accent"]};'
+        f'border-radius:6px;padding:10px 12px;margin-top:14px;">'
+        f'<div style="font-size:11px;font-weight:600;color:{C["text_accent"]};'
+        f'margin-bottom:4px;">📌 이 섹션 한눈에</div>'
+        f'<div style="font-size:12.5px;color:{C["text_secondary"]};line-height:1.6;">{esc(text)}</div>'
+        f'</div>'
+    )
+
+
+def _section(cat: dict, articles: list, digest: str = "") -> str:
     if not articles:
         body = (
             f'<div style="font-size:13px;color:{C["text_muted"]};padding:6px 0 10px;">'
@@ -112,7 +125,7 @@ def _section(cat: dict, articles: list) -> str:
     )
     return (
         f'<div style="padding:16px 24px;border-top:8px solid {C["surface_0"]};">'
-        f'{header}{body}</div>'
+        f'{header}{body}{_digest_box(digest)}</div>'
     )
 
 
@@ -143,8 +156,9 @@ def _top5(top: list) -> str:
     )
 
 
-def build_html(collected_display: dict, top: list, total: int) -> str:
-    """collected_display: {cat_id: [articles]} (노출용), top: Top5 리스트"""
+def build_html(collected_display: dict, top: list, total: int, digests: dict = None) -> str:
+    """collected_display: {cat_id: [articles]} (노출용), top: Top5, digests: {cat_id: 요약문}"""
+    digests = digests or {}
     now = datetime.now(config.KST)
     meta = f"{now:%Y년 %-m월 %-d일} ({WD_KR[now.weekday()]}) · 오전 8:00 · 총 {total}건"
 
@@ -157,7 +171,7 @@ def build_html(collected_display: dict, top: list, total: int) -> str:
     )
 
     sections = "".join(
-        _section(cat, collected_display.get(cat["id"], []))
+        _section(cat, collected_display.get(cat["id"], []), digests.get(cat["id"], ""))
         for cat in config.CATEGORIES
     )
 
