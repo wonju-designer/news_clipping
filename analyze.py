@@ -132,13 +132,18 @@ def _rank(articles: list, n: int, cat_title: str) -> list:
     """카테고리 후보를 AI가 중요도로 상위 n건 선별. 실패 시 최신순 폴백."""
     if len(articles) <= n:
         return articles
-    numbered = [f"[{i}] {a['title']}" for i, a in enumerate(articles)]
+    # 매체명을 힌트로 제공 → 주요 일간지 우선 판단 근거
+    numbered = [
+        f"[{i}] ({a.get('press','')}) {a['title']}" for i, a in enumerate(articles)
+    ]
     prompt = (
         f"너는 통신사 임원 대상 조간 뉴스 브리핑 편집자다. "
-        f"아래는 '{cat_title}' 후보 기사 제목 목록이다. "
+        f"아래는 '{cat_title}' 후보 기사 목록이다(괄호는 매체명). "
         f"알뜰폰·MVNO·이동통신 산업과 자사(아이즈비전) 관심도 관점에서 "
-        f"가장 중요한 {n}건을 골라라. "
-        f"광고·홍보성, 단순 시세, 연예/스포츠/영화 등 무관 기사는 제외한다. "
+        f"가장 중요한 {n}건을 골라라. 선별 원칙: "
+        f"① 주요 일간지·경제지·통신IT 전문지 기사를 우선한다. "
+        f"② 게임·연예·스포츠·영화·연예인, 단순 광고·홍보성, 단순 시세 기사는 반드시 제외한다. "
+        f"③ 통신/사업과 무관하면 매체가 유명해도 제외한다. "
         + GUARDRAIL + " "
         f"출력은 오직 JSON 배열: [정수 인덱스 {n}개]. 그 외 텍스트 금지.\n\n"
         + "\n".join(numbered)
@@ -168,6 +173,18 @@ def select_display(collected: dict) -> dict:
     for cat in config.CATEGORIES:
         items = collected.get(cat["id"], [])
         picked = _rank(items, cat.get("display_max", 4), cat["title"])
+        # 노출 순서: 주요 일간지 먼저, 그다음 최신순
+        # (자회사 섹션은 자사→산업 뱃지 그룹을 유지한 채 그 안에서 정렬)
+        if cat["id"] == "subsidiary":
+            picked.sort(key=lambda a: (
+                0 if a.get("badge") == "자사" else 1,
+                0 if a.get("is_major") else 1,
+                -a["pub"].timestamp(),
+            ))
+        else:
+            picked.sort(key=lambda a: (
+                0 if a.get("is_major") else 1, -a["pub"].timestamp()
+            ))
         for art in picked:
             art["cat_id"] = cat["id"]
             art["cat_title"] = cat["title"]
@@ -205,6 +222,34 @@ def summarize(flat: list) -> None:
     for i, a in enumerate(flat):
         s = summaries.get(i, "")
         a["summary"] = s if s else (a["desc"][:88] + "…" if len(a["desc"]) > 88 else a["desc"])
+
+
+def section_digests(display: dict) -> dict:
+    """카테고리별 동향 요약(2~3문장) 생성. {cat_id: 요약문}. 실패 시 빈 문자열."""
+    digests = {}
+    for cat in config.CATEGORIES:
+        arts = display.get(cat["id"], [])
+        if not arts:
+            digests[cat["id"]] = ""
+            continue
+        bullets = "\n".join(
+            f"- {a['title']}: {a.get('summary', a.get('desc',''))}" for a in arts
+        )
+        label = cat["title"]
+        hint = ""
+        if cat["id"] == "subsidiary":
+            hint = "머큐리(자회사)와 광통신·광케이블·네트워크 사업 관점에서 정리한다. "
+        system = (
+            f"너는 통신사 임원 브리핑 편집자다. 아래 '{label}' 기사들을 종합해 "
+            f"오늘의 흐름을 한국어 2~3문장(최대 160자)으로 요약하라. {hint}"
+            + GUARDRAIL + " 개별 기사 나열이 아니라 전체 맥락을 짚는다. "
+            "출력은 요약문 그 자체만. 머리말·따옴표·목록 금지."
+        )
+        out = _groq(system, "기사 목록:\n" + bullets).strip()
+        # 방어: 모델이 JSON/따옴표를 붙이면 정리
+        out = out.strip().strip('"').strip()
+        digests[cat["id"]] = out
+    return digests
 
 
 def select_top5(flat: list) -> list:
