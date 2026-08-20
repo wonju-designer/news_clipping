@@ -167,24 +167,30 @@ def _rank(articles: list, n: int, cat_title: str) -> list:
     return picks[:n]
 
 
+def _major_first(arts: list) -> None:
+    """주요 일간지 먼저, 그다음 최신순 (in-place)."""
+    arts.sort(key=lambda a: (0 if a.get("is_major") else 1, -a["pub"].timestamp()))
+
+
 def select_display(collected: dict) -> dict:
     """카테고리별로 AI 중요도 선별 적용 → {cat_id: [노출 기사]} 반환."""
     display = {}
     for cat in config.CATEGORIES:
         items = collected.get(cat["id"], [])
-        picked = _rank(items, cat.get("display_max", 4), cat["title"])
-        # 노출 순서: 주요 일간지 먼저, 그다음 최신순
-        # (자회사 섹션은 자사→산업 뱃지 그룹을 유지한 채 그 안에서 정렬)
+
         if cat["id"] == "subsidiary":
-            picked.sort(key=lambda a: (
-                0 if a.get("badge") == "자사" else 1,
-                0 if a.get("is_major") else 1,
-                -a["pub"].timestamp(),
-            ))
+            # 자사(머큐리)와 산업(광통신)을 분리해 각각 선별 → 둘 다 반드시 노출
+            own = [a for a in items if a.get("badge") == "자사"]
+            ind = [a for a in items if a.get("badge") == "산업"]
+            own_pick = _rank(own, cat.get("display_max_own", 3), "자회사 동향(머큐리)")
+            ind_pick = _rank(ind, cat.get("display_max_industry", 3), "자회사 관련 산업(광통신·네트워크)")
+            _major_first(own_pick)
+            _major_first(ind_pick)
+            picked = own_pick + ind_pick  # 자사 먼저, 그다음 산업
         else:
-            picked.sort(key=lambda a: (
-                0 if a.get("is_major") else 1, -a["pub"].timestamp()
-            ))
+            picked = _rank(items, cat.get("display_max", 4), cat["title"])
+            _major_first(picked)
+
         for art in picked:
             art["cat_id"] = cat["id"]
             art["cat_title"] = cat["title"]
