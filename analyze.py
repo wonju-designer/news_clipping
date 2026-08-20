@@ -307,11 +307,18 @@ def section_digests(display: dict) -> dict:
 
 
 def select_top5(flat: list) -> list:
-    """Gemini로 Top5 선별. [{rank, headline, cat_title}] 반환.
-    실패 시 자사>산업>경쟁사>자회사 우선 + 최신순 폴백."""
+    """Gemini로 Top5 선별. [{rank, headline, cat_title, link, press}] 반환.
+    통신·알뜰폰·MVNO·MNO·요금제 우선. 실패 시 우선순위 폴백."""
     if not flat:
         return []
 
+    pri = config.TOP5_PRIORITY
+    # 우선순위어가 든 기사를 앞쪽으로 → AI 입력·폴백 모두 우선 반영
+    flat = sorted(
+        flat,
+        key=lambda a: (0 if (_has_priority(a, pri) or a["cat_id"] == "own") else 1,
+                       -a["pub"].timestamp()),
+    )
     numbered = [
         f"[{i}] ({a['cat_title']}) {a['title']}"
         for i, a in enumerate(flat)
@@ -319,7 +326,8 @@ def select_top5(flat: list) -> list:
     prompt = (
         "너는 통신사 임원 대상 조간 뉴스 브리핑 편집자다. "
         "아래 후보 기사 중 오늘 가장 중요한 5건을 골라라. "
-        "자사(아이즈비전/아이즈모바일/CirQle) 관련은 가중치를 높게 둔다. "
+        "우선순위: ① 자사(아이즈비전/아이즈모바일/CirQle) 관련, "
+        "② 통신·알뜰폰·MVNO·MNO·요금제가 든 기사. 이 둘을 최우선으로 고른다. "
         + GUARDRAIL + " "
         "headline은 해당 기사 제목을 20자 내외로 다듬되 새 사실을 넣지 마라. "
         '출력은 오직 JSON 배열: [{"idx":정수,"headline":"..."}] 5개. 그 외 텍스트 금지.\n\n'
@@ -344,11 +352,16 @@ def select_top5(flat: list) -> list:
                 "press": art.get("press", ""),
             })
 
-    if len(top) < config.TOP_N:  # 폴백
-        priority = {"own": 0, "industry": 1, "competitor": 2, "subsidiary": 3}
+    if len(top) < config.TOP_N:  # 폴백: 통신 우선순위 → 자사 → 최신순
+        catrank = {"own": 0, "industry": 1, "competitor": 2, "subsidiary": 3}
         used = {t["headline"] for t in top}
         ordered = sorted(
-            flat, key=lambda a: (priority.get(a["cat_id"], 9), -(a["pub"].timestamp()))
+            flat,
+            key=lambda a: (
+                0 if _has_priority(a, config.TOP5_PRIORITY) else 1,
+                catrank.get(a["cat_id"], 9),
+                -(a["pub"].timestamp()),
+            ),
         )
         for art in ordered:
             if len(top) >= config.TOP_N:
