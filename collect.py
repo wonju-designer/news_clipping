@@ -20,6 +20,7 @@ import config
 NAVER_ID = os.environ.get("NAVER_CLIENT_ID", "")
 NAVER_SECRET = os.environ.get("NAVER_CLIENT_SECRET", "")
 API_URL = "https://openapi.naver.com/v1/search/news.json"
+DEBUG = os.environ.get("DEBUG") == "1"   # 진단용: 검색어별 수집 건수 출력
 
 _TAG_RE = re.compile(r"<[^>]+>")
 
@@ -130,7 +131,10 @@ def collect() -> dict:
     def _gather(keywords, badge=None, extra_exclude=(), require_any=(), protect_terms=()):
         bucket = []
         for kw in keywords:
+            raw_n = 0
+            kept_before = len(bucket)
             for raw in naver_search(kw, config.DISPLAY_PER_QUERY):
+                raw_n += 1
                 art = _normalize(raw, badge)
                 if not art["orig"] or art["orig"] in seen:
                     continue
@@ -152,6 +156,8 @@ def collect() -> dict:
                     continue
                 seen.add(art["orig"])
                 bucket.append(art)
+            if DEBUG:
+                print(f"    · '{kw}': 원시 {raw_n} → 통과 {len(bucket) - kept_before}")
             time.sleep(0.1)  # API 예의
         # 주요 매체 우선, 그다음 최신순 → '주요 일간지 소식부터'
         bucket.sort(key=lambda a: (0 if a["is_major"] else 1, -a["pub"].timestamp()))
