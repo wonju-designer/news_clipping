@@ -105,6 +105,7 @@ def _normalize(item: dict, badge: str = None) -> dict:
         "pub": pub,
         "badge": badge,               # 자회사 섹션 자사/산업 구분용
         "is_major": press in config.MAJOR_PRESS,  # 주요 매체 우선 정렬용
+        "is_five": press in config.FIVE_DAILIES,  # 5대 일간지 최상단 정렬용
         "is_sports": _host(orig) in config.SPORTS_DOMAINS,  # 스포츠 매체 차단용
     }
 
@@ -175,6 +176,7 @@ def collect() -> dict:
         req = cat.get("require_any", ())
         prot = cat.get("protect_terms", ())
         quals = cat.get("qualifiers", ())
+        pt = cat.get("priority_terms", ())
         if cat["id"] == "subsidiary":
             own = _gather(cat["keywords"], badge="자사", extra_exclude=ex,
                           require_any=req, protect_terms=prot)
@@ -184,6 +186,12 @@ def collect() -> dict:
         else:
             queries = _expand(cat["keywords"], quals)
             items = _gather(queries, extra_exclude=ex, require_any=req, protect_terms=prot)
+            # 후보 컷 전에 우선순위어 든 기사를 앞으로 → 상한에서 잘려나가지 않게
+            if pt:
+                def _pri(a):
+                    low = (a["title"] + " " + a["desc"]).lower()
+                    return any(t.lower() in low for t in pt)
+                items.sort(key=lambda a: (0 if _pri(a) else 1, -a["pub"].timestamp()))
         result[cat["id"]] = items[: config.CANDIDATE_CAP]
         print(f"  {cat['num']} {cat['title']}: {len(items)}건")
 
