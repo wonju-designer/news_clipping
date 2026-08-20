@@ -128,21 +128,36 @@ def _quality(prompt: str) -> str:
     return _gemini(prompt)
 
 
-def _rank(articles: list, n: int, cat_title: str) -> list:
-    """카테고리 후보를 AI가 중요도로 상위 n건 선별. 실패 시 최신순 폴백."""
+def _has_priority(art: dict, terms) -> bool:
+    if not terms:
+        return False
+    text = (art.get("title", "") + " " + art.get("desc", "")).lower()
+    return any(t.lower() in text for t in terms)
+
+
+def _rank(articles: list, n: int, cat_title: str, priority_terms=()) -> list:
+    """카테고리 후보를 AI가 중요도로 상위 n건 선별. 실패 시 우선순위·최신순 폴백."""
     if len(articles) <= n:
         return articles
-    # 매체명을 힌트로 제공 → 주요 일간지 우선 판단 근거
+    # 우선순위어가 든 후보를 앞쪽으로 → AI 입력·폴백 모두 우선 반영
+    articles = sorted(
+        articles,
+        key=lambda a: (0 if _has_priority(a, priority_terms) else 1,
+                       0 if a.get("is_major") else 1, -a["pub"].timestamp()),
+    )
     numbered = [
         f"[{i}] ({a.get('press','')}) {a['title']}" for i, a in enumerate(articles)
     ]
+    pr = ("최우선: 다음 표현이 든 기사를 먼저 고른다 — "
+          + ", ".join(priority_terms) + ". ") if priority_terms else ""
     prompt = (
         f"너는 통신사 임원 대상 조간 뉴스 브리핑 편집자다. "
         f"아래는 '{cat_title}' 후보 기사 목록이다(괄호는 매체명). "
         f"알뜰폰·MVNO·이동통신 산업과 자사(아이즈비전) 관심도 관점에서 "
         f"가장 중요한 {n}건을 골라라. 선별 원칙: "
+        f"{pr}"
         f"① 주요 일간지·경제지·통신IT 전문지 기사를 우선한다. "
-        f"② 게임·연예·스포츠·영화·연예인, 단순 광고·홍보성, 단순 시세 기사는 반드시 제외한다. "
+        f"② 게임·연예·스포츠·영화·연예인, 단순 광고·홍보·경품성, 단순 시세 기사는 반드시 제외한다. "
         f"③ 통신/사업과 무관하면 매체가 유명해도 제외한다. "
         + GUARDRAIL + " "
         f"출력은 오직 JSON 배열: [정수 인덱스 {n}개]. 그 외 텍스트 금지.\n\n"
@@ -158,7 +173,7 @@ def _rank(articles: list, n: int, cat_title: str) -> list:
                     picks.append(art)
             if len(picks) >= n:
                 break
-    if len(picks) < n:  # 폴백: 최신순 보충
+    if len(picks) < n:  # 폴백: (이미 우선순위 정렬된) 순서대로 보충
         for art in articles:
             if art not in picks:
                 picks.append(art)
@@ -167,9 +182,17 @@ def _rank(articles: list, n: int, cat_title: str) -> list:
     return picks[:n]
 
 
+def _order(arts: list, priority_terms=()) -> None:
+    """우선순위어 → 주요매체 → 최신순 (in-place)."""
+    arts.sort(key=lambda a: (
+        0 if _has_priority(a, priority_terms) else 1,
+        0 if a.get("is_major") else 1,
+        -a["pub"].timestamp(),
+    ))
+
+
 def _major_first(arts: list) -> None:
-    """주요 일간지 먼저, 그다음 최신순 (in-place)."""
-    arts.sort(key=lambda a: (0 if a.get("is_major") else 1, -a["pub"].timestamp()))
+    _order(arts)
 
 
 def select_display(collected: dict) -> dict:
@@ -182,14 +205,18 @@ def select_display(collected: dict) -> dict:
             # 자사(머큐리)와 산업(광통신)을 분리해 각각 선별 → 둘 다 반드시 노출
             own = [a for a in items if a.get("badge") == "자사"]
             ind = [a for a in items if a.get("badge") == "산업"]
-            own_pick = _rank(own, cat.get("display_max_own", 3), "자회사 동향(머큐리)")
-            ind_pick = _rank(ind, cat.get("display_max_industry", 3), "자회사 관련 산업(광통신·네트워크)")
-            _major_first(own_pick)
-            _major_first(ind_pick)
+            p_own = cat.get("priority_own", ())
+            p_ind = cat.get("priority_industry", ())
+            own_pick = _rank(own, cat.get("display_max_own", 3), "자회사 동향(머큐리)", p_own)
+            ind_pick = _rank(ind, cat.get("display_max_industry", 3),
+                             "자회사 관련 산업(광통신·네트워크)", p_ind)
+            _order(own_pick, p_own)
+            _order(ind_pick, p_ind)
             picked = own_pick + ind_pick  # 자사 먼저, 그다음 산업
         else:
-            picked = _rank(items, cat.get("display_max", 4), cat["title"])
-            _major_first(picked)
+            pt = cat.get("priority_terms", ())
+            picked = _rank(items, cat.get("display_max", 4), cat["title"], pt)
+            _order(picked, pt)
 
         for art in picked:
             art["cat_id"] = cat["id"]
@@ -245,9 +272,13 @@ def section_digests(display: dict) -> dict:
         hint = ""
         if cat["id"] == "subsidiary":
             hint = "머큐리(자회사)와 광통신·광케이블·네트워크 사업 관점에서 정리한다. "
+        if cat.get("digest_long"):
+            length = "한국어 4~5문장(320자 내외)"
+        else:
+            length = "한국어 2~3문장(최대 160자)"
         system = (
             f"너는 통신사 임원 브리핑 편집자다. 아래 '{label}' 기사들을 종합해 "
-            f"오늘의 흐름을 한국어 2~3문장(최대 160자)으로 요약하라. {hint}"
+            f"오늘의 흐름을 {length}으로 요약하라. {hint}"
             + GUARDRAIL + " 개별 기사 나열이 아니라 전체 맥락을 짚는다. "
             "출력은 요약문 그 자체만. 머리말·따옴표·목록 금지."
         )
@@ -292,6 +323,8 @@ def select_top5(flat: list) -> list:
                 "rank": rank,
                 "headline": str(row.get("headline") or art["title"]).strip(),
                 "cat_title": art["cat_title"],
+                "link": art.get("link", ""),
+                "press": art.get("press", ""),
             })
 
     if len(top) < config.TOP_N:  # 폴백
@@ -309,6 +342,8 @@ def select_top5(flat: list) -> list:
                 "rank": len(top) + 1,
                 "headline": art["title"],
                 "cat_title": art["cat_title"],
+                "link": art.get("link", ""),
+                "press": art.get("press", ""),
             })
             used.add(art["title"])
 
