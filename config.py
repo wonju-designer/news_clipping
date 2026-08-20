@@ -12,8 +12,11 @@ from zoneinfo import ZoneInfo
 
 KST = ZoneInfo("Asia/Seoul")
 
-# 모든 섹션 공통 우선순위 표현 (이 표현이 든 기사를 상단·핵심으로 우선)
-DEFAULT_PRIORITY = ["알뜰폰", "이동통신", "요금제", "MNO", "MVNO"]
+# 1순위(최상위): 알뜰폰·MVNO 관련
+TOP_PRIORITY = ["알뜰폰", "알뜰요금제", "MVNO"]
+# 2순위: 이동통신·MNO 관련 (그다음 나머지)
+SECOND_PRIORITY = ["이동통신", "MNO"]
+DEFAULT_PRIORITY = SECOND_PRIORITY
 
 # ────────────────────────────────────────────────
 # 수집 카테고리 (템플릿 4개 섹션과 1:1 대응)
@@ -28,7 +31,7 @@ CATEGORIES = [
         "title": "산업 동향",
         "subtitle": "알뜰폰·MVNO·이동통신·MNO",
         "bar_color": "#BA7517",
-        "display_max": 5,
+        "display_max": 7,
         "digest_long": True,   # 섹션 요약을 5문장 분량으로
         "keywords": [
             "알뜰폰", "알뜰폰 시장", "알뜰폰 점유율", "알뜰폰 가입자", "번호이동",
@@ -65,7 +68,7 @@ CATEGORIES = [
         "title": "경쟁사 동향",
         "subtitle": "선별",
         "bar_color": "#1D9E75",
-        "display_max": 5,
+        "display_max": 7,
         # 브랜드 기본형 — 아래 qualifiers를 붙여 "브랜드 알뜰폰/요금제"로 검색
         "keywords": [
             "프리티", "티플러스", "헬로모바일", "SK세븐모바일",
