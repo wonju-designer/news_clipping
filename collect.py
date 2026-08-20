@@ -49,9 +49,10 @@ def _press_name(originallink: str) -> str:
     return host or "출처 미상"
 
 
-def _lookback_cutoff(now_kst: datetime) -> datetime:
-    """매일 발송 기준: 직전 약 28시간(전일 저녁~당일 아침) 커버."""
-    return now_kst - timedelta(hours=config.LOOKBACK_HOURS_WEEKDAY)
+def _lookback_cutoff(now_kst: datetime, cat_id: str = None) -> datetime:
+    """수집 기간 하한. 카테고리 예외가 있으면 그 시간, 없으면 기본값."""
+    hours = config.LOOKBACK_HOURS_BY_CATEGORY.get(cat_id, config.LOOKBACK_HOURS)
+    return now_kst - timedelta(hours=hours)
 
 
 def naver_search(query: str, display: int) -> list:
@@ -117,12 +118,11 @@ def _host(url: str) -> str:
 def collect() -> dict:
     """카테고리별 기사 딕셔너리 반환. 기간 필터·중복 제거·제외어 적용."""
     now = datetime.now(config.KST)
-    cutoff = _lookback_cutoff(now)
-    print(f"[수집] 기준: {cutoff:%Y-%m-%d %H:%M} ~ {now:%Y-%m-%d %H:%M} (KST)")
+    print(f"[수집] 기준시각: {now:%Y-%m-%d %H:%M} (KST), 기본 {config.LOOKBACK_HOURS}h")
 
     result = {}
 
-    def _gather(keywords, seen, badge=None, extra_exclude=(), require_any=(), protect_terms=()):
+    def _gather(keywords, seen, cutoff, badge=None, extra_exclude=(), require_any=(), protect_terms=()):
         bucket = []
         for kw in keywords:
             raw_n = 0
@@ -171,16 +171,17 @@ def collect() -> dict:
         prot = cat.get("protect_terms", ())
         quals = cat.get("qualifiers", ())
         pt = cat.get("priority_terms", ())
+        cutoff = _lookback_cutoff(now, cat["id"])   # 카테고리별 수집 기간
         cat_seen = set()  # 섹션 내부 중복만 제거 (섹션 간 중복은 허용)
         if cat["id"] == "subsidiary":
-            own = _gather(cat["keywords"], cat_seen, badge="자사", extra_exclude=ex,
+            own = _gather(cat["keywords"], cat_seen, cutoff, badge="자사", extra_exclude=ex,
                           require_any=req, protect_terms=prot)
-            ind = _gather(cat.get("industry_keywords", []), cat_seen, badge="산업",
+            ind = _gather(cat.get("industry_keywords", []), cat_seen, cutoff, badge="산업",
                           extra_exclude=ex, require_any=req, protect_terms=prot)
             items = (own + ind)
         else:
             queries = _expand(cat["keywords"], quals)
-            items = _gather(queries, cat_seen, extra_exclude=ex,
+            items = _gather(queries, cat_seen, cutoff, extra_exclude=ex,
                             require_any=req, protect_terms=prot)
             # 후보 컷 전에 티어(알뜰폰 최상위) 순으로 정렬 → 상한에서 잘려나가지 않게
             if pt:
