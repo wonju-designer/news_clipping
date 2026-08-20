@@ -189,7 +189,7 @@ def build_html(collected_display: dict, top: list, total: int, digests: dict = N
     footer = (
         f'<div style="padding:14px 24px;background:{C["surface_1"]};text-align:center;">'
         f'<div style="font-size:11px;color:{C["text_muted"]};line-height:1.5;">'
-        f'아이즈비전 뉴스 클리핑 · AI 자동 수집·요약 · 평일 오전 8시 발송<br>'
+        f'아이즈비전 뉴스 클리핑 · AI 자동 수집·요약 · 매일 오전 8시 발송<br>'
         f'본 리포트는 네이버 뉴스 기반 AI 요약이며, 정확한 내용은 원문 확인이 필요합니다.</div></div>'
     )
 
