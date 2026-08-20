@@ -126,7 +126,7 @@ def collect() -> dict:
     seen = set()  # orig 링크 기준 전역 중복 제거
     result = {}
 
-    def _gather(keywords, badge=None, extra_exclude=(), require_any=()):
+    def _gather(keywords, badge=None, extra_exclude=(), require_any=(), protect_terms=()):
         bucket = []
         for kw in keywords:
             for raw in naver_search(kw, config.DISPLAY_PER_QUERY):
@@ -138,10 +138,16 @@ def collect() -> dict:
                 if art["pub"] is None or art["pub"] < cutoff:
                     continue
                 text = art["title"] + " " + art["desc"]
-                if _excluded(text, extra_exclude):
+                low = text.lower()
+                # 전역 제외어(범죄·아이즈 오탐 등)는 항상 적용
+                if _excluded(text, ()):
                     continue
-                # 필수 조건어: 하나라도 없으면 제외 (경쟁사 통신 맥락 강제)
-                if require_any and not any(t.lower() in text.lower() for t in require_any):
+                # 카테고리 제외어: 단, protect_terms가 있으면 예외 유지
+                if extra_exclude and any(k.lower() in low for k in extra_exclude):
+                    if not (protect_terms and any(p.lower() in low for p in protect_terms)):
+                        continue
+                # 필수 조건어: 하나라도 없으면 제외
+                if require_any and not any(t.lower() in low for t in require_any):
                     continue
                 seen.add(art["orig"])
                 bucket.append(art)
@@ -149,6 +155,12 @@ def collect() -> dict:
         # 주요 매체 우선, 그다음 최신순 → '주요 일간지 소식부터'
         bucket.sort(key=lambda a: (0 if a["is_major"] else 1, -a["pub"].timestamp()))
         return bucket
+
+    def _expand(keywords, qualifiers):
+        """qualifiers가 있으면 '키워드 + 수식어' 조합으로 검색어 확장."""
+        if not qualifiers:
+            return list(keywords)
+        return [f"{kw} {q}" for kw in keywords for q in qualifiers]
 
     # 수집 순서: 구체적인 섹션(자사·경쟁사·자회사)을 먼저, 포괄적인 산업을 마지막.
     # 전역 중복 제거 특성상, 먼저 도는 섹션이 해당 기사를 선점한다.
@@ -161,13 +173,17 @@ def collect() -> dict:
     for cat in ordered:
         ex = cat.get("exclude", ())
         req = cat.get("require_any", ())
+        prot = cat.get("protect_terms", ())
+        quals = cat.get("qualifiers", ())
         if cat["id"] == "subsidiary":
-            own = _gather(cat["keywords"], badge="자사", extra_exclude=ex, require_any=req)
+            own = _gather(cat["keywords"], badge="자사", extra_exclude=ex,
+                          require_any=req, protect_terms=prot)
             ind = _gather(cat.get("industry_keywords", []), badge="산업",
-                          extra_exclude=ex, require_any=req)
+                          extra_exclude=ex, require_any=req, protect_terms=prot)
             items = (own + ind)
         else:
-            items = _gather(cat["keywords"], extra_exclude=ex, require_any=req)
+            queries = _expand(cat["keywords"], quals)
+            items = _gather(queries, extra_exclude=ex, require_any=req, protect_terms=prot)
         result[cat["id"]] = items[: config.CANDIDATE_CAP]
         print(f"  {cat['num']} {cat['title']}: {len(items)}건")
 
