@@ -135,21 +135,31 @@ def _has_priority(art: dict, terms) -> bool:
     return any(t.lower() in text for t in terms)
 
 
-def _rank(articles: list, n: int, cat_title: str, priority_terms=()) -> list:
-    """카테고리 후보를 AI가 중요도로 상위 n건 선별. 실패 시 우선순위·최신순 폴백."""
+def _ptier(art: dict, priority_terms=(), top_terms=None) -> int:
+    """우선순위 티어: 0=최상위(알뜰폰 등 top_terms), 1=일반 우선(priority_terms), 2=그 외."""
+    top_terms = config.TOP_PRIORITY if top_terms is None else top_terms
+    low = (art.get("title", "") + " " + art.get("desc", "")).lower()
+    if top_terms and any(t.lower() in low for t in top_terms):
+        return 0
+    if priority_terms and any(t.lower() in low for t in priority_terms):
+        return 1
+    return 2
+
+
+def _rank(articles: list, n: int, cat_title: str, priority_terms=(), top_terms=None) -> list:
+    """카테고리 후보를 AI가 중요도로 상위 n건 선별. 실패 시 티어(알뜰폰 최우선)·최신순 폴백."""
     if len(articles) <= n:
         return articles
-    # 관련성(우선순위어) 우선 → 최신순. 매체 규모는 선별에서 배제(노출 순서에서만 반영)
+    # 티어(알뜰폰 최상위) → 최신순 : 후보 정렬 + 폴백 순서
     articles = sorted(
         articles,
-        key=lambda a: (0 if _has_priority(a, priority_terms) else 1,
-                       -a["pub"].timestamp()),
+        key=lambda a: (_ptier(a, priority_terms, top_terms), -a["pub"].timestamp()),
     )
     numbered = [
         f"[{i}] ({a.get('press','')}) {a['title']}" for i, a in enumerate(articles)
     ]
-    pr = ("최우선: 다음 표현이 든 기사를 먼저 고른다 — "
-          + ", ".join(priority_terms) + ". ") if priority_terms else ""
+    tt = config.TOP_PRIORITY if top_terms is None else top_terms
+    pr = ("최우선: " + ", ".join(tt) + " 관련 기사를 가장 먼저 고른다. ") if tt else ""
     prompt = (
         f"너는 통신사 임원 대상 조간 뉴스 브리핑 편집자다. "
         f"아래는 '{cat_title}' 후보 기사 목록이다(괄호는 매체명). "
@@ -183,11 +193,11 @@ def _rank(articles: list, n: int, cat_title: str, priority_terms=()) -> list:
     return picks[:n]
 
 
-def _order(arts: list, priority_terms=()) -> None:
-    """5대 일간지 → 우선순위어 → 주요매체 → 최신순 (in-place)."""
+def _order(arts: list, priority_terms=(), top_terms=None) -> None:
+    """알뜰폰 티어 → 5대 일간지 → 주요매체 → 최신순 (in-place). 알뜰폰이 최우선."""
     arts.sort(key=lambda a: (
+        _ptier(a, priority_terms, top_terms),
         0 if a.get("is_five") else 1,
-        0 if _has_priority(a, priority_terms) else 1,
         0 if a.get("is_major") else 1,
         -a["pub"].timestamp(),
     ))
@@ -209,11 +219,12 @@ def select_display(collected: dict) -> dict:
             ind = [a for a in items if a.get("badge") == "산업"]
             p_own = cat.get("priority_own", ())
             p_ind = cat.get("priority_industry", ())
-            own_pick = _rank(own, cat.get("display_max_own", 3), "자회사 동향(머큐리)", p_own)
+            own_pick = _rank(own, cat.get("display_max_own", 3),
+                             "자회사 동향(머큐리)", p_own, top_terms=p_own)
             ind_pick = _rank(ind, cat.get("display_max_industry", 3),
-                             "자회사 관련 산업(광통신·네트워크)", p_ind)
-            _order(own_pick, p_own)
-            _order(ind_pick, p_ind)
+                             "자회사 관련 산업(광통신·네트워크)", p_ind, top_terms=p_ind)
+            _order(own_pick, p_own, top_terms=p_own)
+            _order(ind_pick, p_ind, top_terms=p_ind)
             picked = own_pick + ind_pick  # 자사 먼저, 그다음 산업
         else:
             pt = cat.get("priority_terms", ())
@@ -314,11 +325,11 @@ def select_top5(flat: list) -> list:
     if not flat:
         return []
 
-    pri = config.TOP5_PRIORITY
-    # 우선순위어가 든 기사를 앞쪽으로 → AI 입력·폴백 모두 우선 반영
+    # 티어(알뜰폰 최상위) → 자사 → 최신순
     flat = sorted(
         flat,
-        key=lambda a: (0 if (_has_priority(a, pri) or a["cat_id"] == "own") else 1,
+        key=lambda a: (_ptier(a, config.TOP5_PRIORITY, config.TOP_PRIORITY),
+                       0 if a["cat_id"] == "own" else 1,
                        -a["pub"].timestamp()),
     )
     numbered = [
@@ -360,7 +371,7 @@ def select_top5(flat: list) -> list:
         ordered = sorted(
             flat,
             key=lambda a: (
-                0 if _has_priority(a, config.TOP5_PRIORITY) else 1,
+                _ptier(a, config.TOP5_PRIORITY, config.TOP_PRIORITY),
                 catrank.get(a["cat_id"], 9),
                 -(a["pub"].timestamp()),
             ),
