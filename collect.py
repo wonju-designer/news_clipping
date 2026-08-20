@@ -182,12 +182,17 @@ def collect() -> dict:
             queries = _expand(cat["keywords"], quals)
             items = _gather(queries, cat_seen, extra_exclude=ex,
                             require_any=req, protect_terms=prot)
-            # 후보 컷 전에 우선순위어 든 기사를 앞으로 → 상한에서 잘려나가지 않게
+            # 후보 컷 전에 티어(알뜰폰 최상위) 순으로 정렬 → 상한에서 잘려나가지 않게
             if pt:
-                def _pri(a):
+                top = config.TOP_PRIORITY
+                def _tier(a):
                     low = (a["title"] + " " + a["desc"]).lower()
-                    return any(t.lower() in low for t in pt)
-                items.sort(key=lambda a: (0 if _pri(a) else 1, -a["pub"].timestamp()))
+                    if any(t.lower() in low for t in top):
+                        return 0
+                    if any(t.lower() in low for t in pt):
+                        return 1
+                    return 2
+                items.sort(key=lambda a: (_tier(a), -a["pub"].timestamp()))
         result[cat["id"]] = items[: config.CANDIDATE_CAP]
         print(f"  {cat['num']} {cat['title']}: {len(items)}건")
 
