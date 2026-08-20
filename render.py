@@ -133,12 +133,23 @@ def _top5(top: list) -> str:
     rows = []
     for t in top:
         label = SHORT.get(t["cat_title"], t["cat_title"])
+        link = esc(t.get("link", ""))
+        head = esc(t["headline"])
+        if link:
+            head_html = (
+                f'<a href="{link}" target="_blank" '
+                f'style="color:{C["text_primary"]};text-decoration:none;">{head}</a>'
+                f' <a href="{link}" target="_blank" '
+                f'style="color:{C["text_accent"]};text-decoration:none;font-size:11px;">원문보기 ↗</a>'
+            )
+        else:
+            head_html = head
         rows.append(
             f'<tr>'
             f'<td valign="top" style="font-size:13px;font-weight:600;color:{C["text_accent"]};'
             f'width:18px;padding:4px 0;">{t["rank"]}</td>'
             f'<td style="font-size:14px;color:{C["text_primary"]};line-height:1.5;padding:4px 0;">'
-            f'{esc(t["headline"])} '
+            f'{head_html} '
             f'<span style="font-size:11px;color:{C["text_muted"]};">[{esc(label)}]</span></td>'
             f'</tr>'
         )
