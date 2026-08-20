@@ -2,8 +2,8 @@ name: 뉴스 클리핑 (아이즈비전)
 
 on:
   schedule:
-    # 평일 08:00 KST = 23:00 UTC 전일 (일~목 = 0-4)
-    - cron: "0 23 * * 0-4"
+    # 매일 08:00 KST = 23:00 UTC 전일 (매일)
+    - cron: "0 23 * * *"
   workflow_dispatch:        # 수동 실행(테스트)용
 
 jobs:
