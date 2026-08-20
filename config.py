@@ -199,8 +199,14 @@ SPORTS_DOMAINS = {
 # ────────────────────────────────────────────────
 DISPLAY_PER_QUERY = 40       # 쿼리당 네이버 최대 수집 (max 100)
 CANDIDATE_CAP = 60           # 카테고리별 AI 선별 투입 후보 상한 (프롬프트 크기 제어)
-LOOKBACK_HOURS_WEEKDAY = 28  # 평일: 전일 저녁~당일 아침 커버
-LOOKBACK_HOURS_MONDAY = 76   # 월요일: 주말 포함
+LOOKBACK_HOURS = 28          # 기본 수집 기간(시간): 전일 저녁~당일 아침
+# 카테고리별 기간 예외 (시간). 없으면 LOOKBACK_HOURS 사용.
+# 경쟁사만 1주일로 확대해 수집 여부 테스트 (168h). 확인 후 원복 권장.
+LOOKBACK_HOURS_BY_CATEGORY = {
+    "competitor": 168,
+}
+LOOKBACK_HOURS_WEEKDAY = 28  # (구) 참조 호환용
+LOOKBACK_HOURS_MONDAY = 76   # (구) 참조 호환용
 TOP_N = 5                    # 오늘의 핵심 개수
 
 # ────────────────────────────────────────────────
