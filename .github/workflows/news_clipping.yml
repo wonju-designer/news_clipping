@@ -30,6 +30,8 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           REPORT_TO: ${{ secrets.REPORT_TO }}
+          # 진단 모드: 검색어별 수집 건수를 로그에 출력하려면 아래 줄 주석 해제
+          # DEBUG: "1"
           # 품질 AI를 Claude로 전환하려면 아래 3줄 주석 해제 + Secret에 ANTHROPIC_API_KEY 등록
           # QUALITY_AI: claude
           # ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
