@@ -283,8 +283,25 @@ def section_digests(display: dict) -> dict:
             "출력은 요약문 그 자체만. 머리말·따옴표·목록 금지."
         )
         out = _groq(system, "기사 목록:\n" + bullets).strip()
-        # 방어: 모델이 JSON/따옴표를 붙이면 정리
         out = out.strip().strip('"').strip()
+
+        if not out:  # 폴백 1: 품질 AI(Gemini/Claude)로 재시도
+            out = _quality(
+                f"다음 '{label}' 기사들을 종합해 오늘의 흐름을 {length}으로 요약하라. "
+                f"{hint}{GUARDRAIL} 요약문만 출력.\n\n기사 목록:\n{bullets}"
+            ).strip().strip('"').strip()
+
+        if not out:  # 폴백 2: 기사 요약을 이어붙여 최소 동향 요약 구성
+            take = 5 if cat.get("digest_long") else 3
+            parts = []
+            for a in arts[:take]:
+                s = (a.get("summary") or a.get("desc") or "").strip()
+                if s:
+                    parts.append(s.split(". ")[0].rstrip(". "))
+            out = ". ".join(parts)
+            if out:
+                out += "."
+
         digests[cat["id"]] = out
     return digests
 
