@@ -89,7 +89,7 @@ def _digest_box(text: str) -> str:
         return ""
     return (
         f'<div style="background:{C["surface_1"]};border-left:3px solid {C["text_accent"]};'
-        f'border-radius:6px;padding:10px 12px;margin-top:14px;">'
+        f'border-radius:6px;padding:10px 12px;margin:0 0 14px;">'
         f'<div style="font-size:11px;font-weight:600;color:{C["text_accent"]};'
         f'margin-bottom:4px;">📌 이 섹션 한눈에</div>'
         f'<div style="font-size:12.5px;color:{C["text_secondary"]};line-height:1.6;">{esc(text)}</div>'
@@ -125,7 +125,7 @@ def _section(cat: dict, articles: list, digest: str = "") -> str:
     )
     return (
         f'<div style="padding:16px 24px;border-top:8px solid {C["surface_0"]};">'
-        f'{header}{body}{_digest_box(digest)}</div>'
+        f'{header}{_digest_box(digest)}{body}</div>'
     )
 
 
