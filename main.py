@@ -13,6 +13,8 @@ import collect as collector
 import analyze
 import render
 import docx_report
+import archive
+import dashboard
 import send as sender
 
 
@@ -52,6 +54,13 @@ def run(preview: bool = False):
     except Exception as e:
         print(f"[문서 생성 실패] {e}")
         docx_path = None
+
+    # 대시보드용 데이터 저장 + 자체완결형 대시보드 HTML 갱신
+    try:
+        archive.save(doc_display, top, digests)
+        dashboard.build()
+    except Exception as e:
+        print(f"[대시보드 생성 실패] {e}")
 
     if preview:
         print("[프리뷰 모드] 발송 생략")
