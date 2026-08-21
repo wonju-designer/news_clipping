@@ -1,0 +1,100 @@
+{
+  "date": "2026-08-02",
+  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-21 14:44 소급 정리",
+  "top5": [],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "삼성 MX 7000억 적자·KT 539억 과징금 …민·관 'AI DC 얼라이언스' 첫발...",
+          "summary": "수익성과 점유율을 동시에 끌어올린다는 구상이다. 해외 돌파구도 모색한다. 삼성전자는 최근 진행된... 이 같은 보안 뚫림으로 인해 KT 및 KT망 알뜰폰 이용자 1만 6647명의 휴대전화번호와 가입자식별번호(IMSI…",
+          "press": "뉴스1",
+          "date": "2026-08-02",
+          "datetime": "2026-08-02 15:48",
+          "link": "https://n.news.naver.com/mnews/article/421/0009092684?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "데이터 다 써도 안 끊긴다…알뜰폰도 '안심옵션' 적용",
+          "summary": "5G 요금제 약 15종의 도매대가를 1~3%포인트 인하하고, 중소 알뜰폰 사업자의 전파사용료 감면율도 기존 50%에서 90%로 확대한다. 이에 따라 업계 전체적으로 연간 약 250억 원의 비용 절감 효과가 기대된다.…",
+          "press": "namdonews.com",
+          "date": "2026-08-02",
+          "datetime": "2026-08-02 13:58",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=918686",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰에서도 데이터 다 써도 계속…안심옵션 개방",
+          "summary": "이 중 5G 요금제 약 15종은 도매대가가 1∼3% 포인트 인하된다. 중소 알뜰폰 사업자의 전파사용료 감면율은 50%에서 90%로 확대돼 업계 전체적으로 연간 약 250억 원의 비용 절감 효과가 예상된다. 중고폰 인…",
+          "press": "kookje.co.kr",
+          "date": "2026-08-02",
+          "datetime": "2026-08-02 11:52",
+          "link": "https://n.news.naver.com/mnews/article/658/0000151165?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "풀MVNO에 '대역폭 과금제' 연다…알뜰폰 메기 출현 승부수",
+          "summary": "정부의 알뜰폰 경쟁력 강화 대책 중 독립형 알뜰폰(풀MVNO)에 적용될 망 용량 기반의 '대역폭 과금 방식'이 게임체인저가 될 전망이다. 자체 설비를 갖춘 풀MVNO에게 독자적 상품설계 권한과 규모의 경제 효과를 부…",
+          "press": "전자신문",
+          "date": "2026-08-02",
+          "datetime": "2026-08-02 09:31",
+          "link": "https://n.news.naver.com/mnews/article/030/0003453308?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": "",
+      "articles": [],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "4-1 파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "4-3 이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "4-4 리트코"
+        }
+      ]
+    }
+  ],
+  "total": 4
+}

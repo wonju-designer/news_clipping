@@ -1,0 +1,431 @@
+{
+  "date": "2026-08-16",
+  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-21 14:44 소급 정리",
+  "top5": [],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "[인터뷰] \"포털에 넘긴 편집권, AI시대엔 되찾아야\"",
+          "summary": "그때도 도매상이냐 소매상이냐 논란이 많았죠. 새로운 여론의 공간이라고 생각했는데, 그 포털이 우리를... 포털과의 계약, 뉴스 저작권, 전재료 등을 둘러싸고 여러 형태의 연대가 시도됐지만 매체마다 규모와 이해관계가.…",
+          "press": "mediaus.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 10:00",
+          "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=317834",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, '해킹 청구서' 본업까지 덮쳤다…무선 매출 꺾였는데 투자도 줄어",
+          "summary": "당시 박 부문장은 판매비를 늘려 가입자를 확보하기보다는 \"비대면 채널, 중고폰 활용 등 저비용 가입자를 확보하는 방식\"으로 성장하겠다고 했다. 비용 효율화 자체는 정상적인 경영 전략이다. 그러나 대형 보안...",
+          "press": "thepublic.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 09:32",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=315048",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신리뷰] LG 유플러스, AWS 기반 공공 클라우드 사업 본격 확대(8월2주...",
+          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web... KT컨소시엄은 이번 협약을 통해 정보통신부문 공식 후원사로 참여하며 △대회통합관리시스템 …",
+          "press": "theguru.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 09:08",
+          "link": "https://www.theguru.co.kr/news/article.html?no=105870",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[테니스] ATP-WTA 신시내티 오픈 결과···조코비치 2R 탈락",
+          "summary": "bt 케이티 볼터(독일) 2-0(6-3, 6-3) 알렉산드라 에알라(필리핀 x17) bt 가브리엘라 루스(루마니아) 6-1, 3-0 기권 아만다 아니시모바(미국 x9) bt 제네이프 쇤메즈(튀르키예) 2-0(6-2,…",
+          "press": "gukjenews.com",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 08:58",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3665933",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'제4이통' 6년 됐는데…日라쿠텐, KDDI 통신망 계속 빌려쓴다",
+          "summary": "시장 진입 6년이 지난 현재까지도 로밍을 완전히 종료하지 못하는 셈이다. 사실상 제4이통이란 표현보다 알뜰폰에 가깝다는 평가다. 현행 로밍 계약은 오는 9월 말 종료된다. KDDI는 일부 지방에 한해 일정 기간...",
+          "press": "지디넷코리아",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 08:43",
+          "link": "https://n.news.naver.com/mnews/article/092/0002434101?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"액정 깨졌네요, 28만원 입금\"…휴대폰 가격 300만원 넘자 보험금도 '껑...",
+          "summary": "나서 시장점유율을 높여나가고 있다. 통신사의 단말기 판매 과정에서 자연스럽게 이뤄지던 보험 가입이 줄자 자급제폰을 구입한 뒤 알뜰폰 요금제를 이용하는 소비자들을 집중 겨냥하는 전략이다. 제조사들도 직접...",
+          "press": "머니투데이",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 08:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005400665?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "케이티 레데키, 팬 퍼시픽 여자 400m 자유형 예선 4조 출격 준비",
+          "summary": "AFP 14일(현지시간) 케이티 레데키가 윌리엄 울렛 주니어 수영 센터에서 열린 팬 퍼시픽 수영 선수권 대회 3일째 여자 400m 자유형 예선 4조 경기에 출전하기 전 준비하는 모습이 포착됐다. 레데키는 미국 대표팀…",
+          "press": "gukjenews.com",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 03:00",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3665861",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아르헨티나, 20년 만에 민간 주도 에너지 인프라 투자 나서",
+          "summary": "아르헨티나 전력 도매시장 관리회사 카메사(CAMMESA)는 공사 착수를 위해 1억 달러(약 1400억원)를 지원한다.... AMBA I는 아르헨티나의 민간 주도 전력 인프라 사업이 확대될 수 있을지를 가늠할 첫 시험…",
+          "press": "theguru.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 00:02",
+          "link": "https://www.theguru.co.kr/news/article.html?no=105788",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "전기차 밖으로 나온 K-배터리…AI 데이터센터 전력시장 공략",
+          "summary": "전기차 중심이던 사업 영역을 에너지저장장치(ESS)와 무정전전원장치(UPS) 등 전력 인프라로 넓히는... 회사는 UPS뿐 아니라 서버 랙에 직접 전력을 공급하는 배터리백업유닛(BBU)용 초고출력 배터리를 사업...",
+          "press": "m-i.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 14:44",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1402803",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "4-1 파워넷"
+        },
+        {
+          "title": "뛰어난 확장성 갖춘 초소형 미니 워크스테이션, Minisforum MS-A2 [연중기...",
+          "summary": "USB 3.2 Gen1 Type-A 포트 2개와 USB 2.0 Type-A 포트 1개가 있어 외장 저장장치나 USB 메모리, 무선 키보드... 2 SSD 전용 액티브 블로어 팬 & 서멀 블록 전원 공급 : DC 19…",
+          "press": "ilovepc.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 10:00",
+          "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60340",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "4-1 파워넷"
+        },
+        {
+          "title": "새 판 짜기 돌입한 삼성SDI…불붙는 韓 ESS 3차 입찰 [위클리배터리]",
+          "summary": "삼성SDI는 말레이시아와 천안 공장에서 생산하는 원통형 배터리를 서버용 배터리백업유닛(BBU) 등에 공급하고 있습니다. 삼성SDI는 무정전전원장치(UPS)와 BBU 시장에서 각각 40~50% 수준의 점유율을 확보했다…",
+          "press": "디지털데일리",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 09:01",
+          "link": "https://n.news.naver.com/mnews/article/138/0002237973?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "4-1 파워넷"
+        },
+        {
+          "title": "AI 인프라, 다음 격전지는 ‘광통신’",
+          "summary": "기회’보고서는 AI 데이터센터의 구조적 특징을 분석하고 광통신 기술의 필요성과 한국 기업이 바라봐야... 국내 기업들은 일부 케이블·광트랜시버 분야에서 수주 성과를 올리고 있다. 대한광통신은 기초 소재인...",
+          "press": "kidd.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 09:10",
+          "link": "https://kidd.co.kr/news/247041",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "AI 데이터센터 붐 탄 美 제조업… 전력 장비로 활로 개척",
+          "summary": "가격 인상 효과에 힘입어 캐터필러의 2분기 영업이익은 지난해 같은 기간보다 50% 늘어났으며 이익... 하버드 경영대학원의 윌리 시 교수는 현재의 데이터센터 투자 열풍이 1990년대 말 초고속 광섬유 네트워크를 대거…",
+          "press": "g-enews.com",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 07:00",
+          "link": "https://www.g-enews.com/view.php?ud=2026081606511691802bd56fbc3c_1",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한끼 때우는 간편식?…\"내 입맛대로\" 달라진 트렌드",
+          "summary": "간편식은 예전에 즉석밥이나 만두, 찌개 같은 밀키트 제품이 주였다면, 이제는 유린기나 스테이크는 물론... 품질 경쟁력을 가져가면 가져갈수록 소비자들이 (간편식) 시장으로 들어갈 수밖에….] 한때 성숙기에...",
+          "press": "news.sbs.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 20:40",
+          "link": "https://n.news.naver.com/mnews/article/055/0001381059?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "삼립, '김우동'서 막국수까지 대동면지도 강화",
+          "summary": "삼립이 지역별 식문화를 접목한 면 제품을 잇달아 선보이며 가정간편식(HMR) 면류 제품군을 확대하고 있다.... 삼립은 면 제품을 중심으로 간편식 시장에서 제품군을 확대하는 한편, 면의 식감과 풍미를 유지하면서 조리…",
+          "press": "stardailynews.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 20:00",
+          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546141",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "SPC삼립, 김우동·막국수로 HMR 강화...‘대동면지도’ 통해 지역 면요리...",
+          "summary": "SPC삼립이 50년간 축적해 온 제면 기술력과 지역 특화 요리를 결합해 가정간편식(HMR) 및 B2B 식품 솔루션 등... 허 회장은 차별화된 제품이 시장의 새로운 기준이 될 것이라며 전문점 수준의 맛을 구현하는 기…",
+          "press": "hinews.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 15:12",
+          "link": "https://www.hinews.co.kr/view.php?ud=2026081615093931736cf2d78c68_48",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "SPC삼립 하이면, ‘김우동·막국수’로 여름 공략...‘대동면지도’ 라...",
+          "summary": "SPC삼립의 미식면 브랜드 ‘하이면’이 여름철을 겨냥해 ‘홍비빔 막국수’와 ‘들기름 막국수’ 신제품 2종을 출시하며 가정간편식(HMR) 시장 공략에 속도를 내고 있다. 50년간 축적한 제면 기술에 지역별 식문화를..…",
+          "press": "lawissue.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 15:10",
+          "link": "http://www.lawissue.co.kr/view.php?ud=2026081615063378166cf2d78c68_12",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "[푸드컬처N] \"같은 시장은 없다\"… 동남아 7억 인구 겨냥 'K-푸드 핀셋' ...",
+          "summary": "주력 수출품인 떡볶이, 라면을 필두로 유자차, 홍삼 등 건강식품 라인업이 전면에 섰다. 'Next K-Food 홍보존'에서는 현지 문화에 친숙한 김밥과 떡볶이 조리 시연이 이어졌다. 특히 프리미엄 과일인 샤인머스켓은…",
+          "press": "nc.press",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 14:33",
+          "link": "https://www.nc.press/news/articleView.html?idxno=623820",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "해외서 돈 벌고 국내선 가격 인상…소비자만 허리 휜다",
+          "summary": "(간식·김치·냉동볶음밥·소스·계란가공·만두·면 밀키트) 30개 품목의 소비자 가격을 평균 6.7% 올렸다.... 올해 제품 가격을 올리지 않은 삼양식품, 빙그레, 오리온, 롯데웰푸드, 남양유업, 매일유업 등도 내수 …",
+          "press": "한국경제TV",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 12:28",
+          "link": "https://n.news.naver.com/mnews/article/215/0001262538?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "“비용은 분담, 성과는 따로?”…식품업계 경영진 보수 살펴보니",
+          "summary": "9% 증가한 풀무원도 지난 13일부터 간식·김치·냉동볶음밥·소스·계란가공·만두·면 밀키트 등 주요 7개... 삼양식품과 빙그레, 오리온, 롯데웰푸드, 남양유업, 매일유업 등은 내수 시장 부진에도 K푸드 인기를...",
+          "press": "joseilbo.com",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 12:23",
+          "link": "https://n.news.naver.com/mnews/article/123/0002388477?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "美 일상 파고든 'K-라이프스타일'···만두·빵 넘어 스킨케어까지",
+          "summary": "특히 2019년 미국 냉동식품 기업 슈완스를 인수한 것도 유통망 확대에 영향을 미쳤다. CJ제일제당은... 특히 수출에서도 미국 시장의 비중이 커졌다. 식품의약품안전처에 따르면 올해 상반기 한국 화장품 수출액은...",
+          "press": "todaykorea.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 11:28",
+          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=404985",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "[유통 View] 관세서 물류로…'FTA 2.0' 타고 K-푸드 70.5억 달러 역대최고",
+          "summary": "식품기업에 물류비 일부를 보조하는 데 그치지 않고 항만과 해외 공동물류센터, 냉장·냉동 운송망을 하나의 국가 수출 인프라로 설계해야 한다는 의미다. 정부는 올해 K-푸드+ 수출 목표를 160억달러로 설정하고 목표..…",
+          "press": "newscj.com",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 11:02",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3425510",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "“가격 인상에 소비자는 힘든데” 오너 급여 올린 농심·오뚜기",
+          "summary": "하지만 풀무원은 지난 13일부터 총 7개 제품군(간식·김치·냉동볶음밥·소스·계란가공·만두·면 밀키트)... 위한 결정이었는지 의심스럽다”며 “시장 지배력을 활용한 가격 결정은 아닌지 우려된다”고 지적했다.",
+          "press": "한국경제",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 10:56",
+          "link": "https://n.news.naver.com/mnews/article/050/0000109713?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "“미국 어디서든 비비고를”…K푸드 현지화 속도 내는 CJ제일제당",
+          "summary": "단순히 한국에서 만든 제품을 미국에 수출하는 것을 넘어 현지에서 생산하고, 현지 유통망을 통해 판매하며, 미국 소비자의 입맛에 맞춰 제품까지 개발하는 구조를 구축한 것이다. CJ제일제당은 2019년 미국 냉동식품..…",
+          "press": "매일경제",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 10:11",
+          "link": "https://n.news.naver.com/mnews/article/009/0005721573?sid=103",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "식품업계 수익성 개선에도 가격인상…경영진 보수↑",
+          "summary": "면 밀키트) 30개 품목의 소비자 가격을 평균 6.7% 올렸습니다. 이 밖에 올해 제품 가격을 올리지 않은 삼양식품, 빙그레, 오리온, 롯데웰푸드, 남양유업, 매일유업 등도 내수 시장 침체에도 K푸드의 인기에 힘입어…",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 10:03",
+          "link": "https://n.news.naver.com/mnews/article/374/0000527749?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "\"1차가공 넘어 고부가가치로\"…제주 메밀, 상품화 박차",
+          "summary": "바탕으로 밀키트와 고압 가열 살균 식품을 개발해 소비자가 간편하게 즐길 수 있는 제품을 선보일 계획이다. 도민과 관광객을 대상으로 선호도와 만족도도 조사해 소비자 의견을 제품 개발에 반영하고, 시장성이 높은...",
+          "press": "nocutnews.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 09:16",
+          "link": "https://n.news.naver.com/mnews/article/079/0004179187?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "[현장] '1등 K만두' 매일 160톤씩 생산, CJ제일제당 보몬트공장 '미국판...",
+          "summary": "특히 2019년 미국 냉동식품기업 슈완스를 인수하면서 미국 사업의 규모가 크게 확대됐다. 현재 만두를... 보몬트 공장은 한국에서 만들어진 K푸드를 미국으로 수출하는 단계를 넘어 미국 소비자 취향에 맞는 제품을...",
+          "press": "businesspost.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 09:02",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444879",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "치킨·고수로 빚은 '비비고 만두', 美 수백만 식탁 홀렸다",
+          "summary": "2014년 캘리포니아 플러턴에 만두 공장을 가동하는 등 현지 생산능력을 확대했고, 2019년에는 미국 냉동식품 기업 슈완스를 인수했다. 슈완스 인수 이후에는 수출 중심에서 현지 생산과 유통을 결합한 구조로 사업을..…",
+          "press": "biz.newdaily.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 09:02",
+          "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/15/2026081500003.html",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "\"비비고 만두부터 K소스까지\"…CJ제일제당, 美 입맛 바꿨다",
+          "summary": "이 가운데서도 2019년 미국 냉동식품업체인 슈완스의 지분 70%를 인수하며 수출 중심의 사업 구조를 현지 생산·판매 중심으로 전환했다. 특히 K푸드 슈완스 인수를 기점으로 미국 사업의 폭발적인 성장이 시작됐다...…",
+          "press": "한국경제TV",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 09:00",
+          "link": "https://n.news.naver.com/mnews/article/215/0001262524?sid=103",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
+          "summary": "신시장·신거점 확장으로 글로벌 식품사업의 성장을 이어가고 있다\"며 \"고부가가치 제품 확대와 글로벌... 풀무원식품도 지난 13일부터 간식·김치·냉동볶음밥·소스·계란가공·만두·면 밀키트 등 7개 제품군...",
+          "press": "newscj.com",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 08:28",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3425499",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "관세 낮춘 후 물류·판로까지…K-푸드 수출 '패키지 지원'[FTA 시대, 수출...",
+          "summary": "수출업계 관계자는 \"냉동식품은 제품을 현지에 보내는 것보다 일정한 품질을 유지한 채 유통업체까지 전달하는 과정이 더 중요할 수 있다\"며 \"물류비 부담이 커지면 관세를 절감해도 현지 가격 경쟁력을 확보하기 어렵다...",
+          "press": "뉴시스",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 07:00",
+          "link": "https://n.news.naver.com/mnews/article/003/0014129919?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "해외서 벌고 국내 가격은 올린 식품기업들…경영진 월급도 인상",
+          "summary": "면 밀키트) 30개 품목의 소비자 가격을 평균 6.7% 올렸다. 이 밖에 올해 제품 가격을 올리지 않은 삼양식품, 빙그레, 오리온, 롯데웰푸드, 남양유업, 매일유업 등도 내수 시장 침체에도 K푸드의 인기에 힘입어 해…",
+          "press": "연합뉴스",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 06:01",
+          "link": "https://n.news.naver.com/mnews/article/001/0016253469?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "'3대째 닭한마리 운영' 할머니 울상…폭염·고물가에 \"복날 특수 없었다...",
+          "summary": "올해 폭염에 손님이 3분의 1은 줄어든 것 같아.\" 말복을 맞은 지난 14일, 서울 종로구 신진시장에서 3대째... 관념은 많이 없어지고 있고, 물가로 인해 외식보단 집에서 만드는 밀키트 등을 먹는 경우도 있다\"고 …",
+          "press": "뉴스1",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 06:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009115992?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "용산공원에 '고급 반값아파트'…\"서울 주택난 풀 핵심 카드\"",
+          "summary": "용산공원은 서울의 지리적 중심에 자리 잡고 있고 지하철 1·4·6호선과 경의중앙선, 수도권광역급행철도(GTX)... 서울의 열섬현상과 미세먼지, 집중호우 등에 대응하려면 도심의 대규모 녹지를 그대로 보존해야 한다는.…",
+          "press": "4th.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 15:40",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2116443",
+          "badge": "산업",
+          "subgroup": "ritco",
+          "subgroup_label": "4-4 리트코"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "4-1 파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "4-3 이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "4-4 리트코"
+        }
+      ]
+    }
+  ],
+  "total": 34
+}

@@ -1,0 +1,134 @@
+{
+  "date": "2026-08-01",
+  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-21 14:44 소급 정리",
+  "top5": [],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "데이터 안심옵션 풀리고 도매대가 인하…'알뜰폰 2.0' 막 올린다",
+          "summary": "5G 요금제 약 15종은 도매대가가 1∼3%포인트 인하된다. 중소 알뜰폰 사업자의 전파사용료 감면율은 50%에서 90%로 확대돼 업계 전체적으로 연간 약 250억원의 비용 절감 효과가 예상된다. 이 밖에도 중고폰 인…",
+          "press": "ftoday.co.kr",
+          "date": "2026-08-01",
+          "datetime": "2026-08-01 10:14",
+          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362905",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰, '단순 재판매' 수준 벗어나나···알뜰폰 시장 체질 개선 나선...",
+          "summary": "정부가 자체 전산망을 갖춘 서비스형 알뜰폰(부분 MVNO)·독립형 알뜰폰(풀 MVNO)을 최소 3개 이상 육성하고, 통신사의 도매대가를 낮추는 한편 부실 사업자 퇴출 기반을 정비한다. 그간 단순 통신3사의 상품 재판…",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-01",
+          "datetime": "2026-08-01 09:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422813",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "단순 재판매 벗어난다…과기정통부, '알뜰폰 2.0' 생태계 구축 시동",
+          "summary": "혁신·다양성 분야에서는 통신망은 빌리되 자체 설비로 요금제와 서비스를 독자적으로 설계할 수 있는 서비스형(부분 MVNO)·독립형(풀 MVNO) 알뜰폰의 법적 정의와 설비 요건을 마련한다. 또 망 연동 의무 사업자를.…",
+          "press": "블로터",
+          "date": "2026-08-01",
+          "datetime": "2026-08-01 07:59",
+          "link": "https://n.news.naver.com/mnews/article/293/0000088461?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "트럼프, 기업 모금 당당 '어둠의 공주' 지정…\"'보스의 뜻' 압박해 1조 ...",
+          "summary": "수백만 달러를 기부한 대가로 트럼프와 전화 통화를 한 일부 기부자들은 오히려 추가 기부를 요구받았고... 있었지만, 이는 그저 (과거와) 완전히 다른 '도매 자금'(wholesale money·대규모 자금 조달)일 …",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-08-01",
+          "datetime": "2026-08-01 07:41",
+          "link": "https://n.news.naver.com/mnews/article/374/0000524970?sid=104",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'어둠의 공주' 모금책 둔 트럼프…\"'보스의 뜻' 압박해 1조 걷어\"",
+          "summary": "수백만 달러를 기부한 대가로 트럼프와 전화 통화를 한 일부 기부자들은 오히려 추가 기부를 요구받기도... 있었지만, 이는 그저 (과거와) 완전히 다른 '도매 자금'(wholesale money·대규모 자금 조달)일 …",
+          "press": "연합뉴스",
+          "date": "2026-08-01",
+          "datetime": "2026-08-01 05:31",
+          "link": "https://n.news.naver.com/mnews/article/001/0016227934?sid=104",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[딜로이트 글로벌 경제 리뷰] 7월 FOMC '매파적 동결'과 정책 불확실성",
+          "summary": "그 대가는 1981~82년 10%에 달하는 실업률과 심각한 경기 침체였다. 1990년대 후반에 정반대 문제가 발생했다.... 마찬가지로 도매 및 소매업 부문의 고용도 지난 2년간 감소세를 보인 후 증가세로 돌아섰다.…",
+          "press": "financialpost.co.kr",
+          "date": "2026-08-01",
+          "datetime": "2026-08-01 05:00",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=268571",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "드론 잡는 ‘킬러 드론’... 방산업계 새 전쟁터로",
+          "summary": "자율비행이나 광섬유 조종처럼 전파방해를 피하는 드론이 전장에 등장하면서 요격 속도와 명중률, 가격 경쟁력, 대량생산 능력 등이 대(對)드론 산업의 새로운 경쟁 기준으로 떠오른 것이다. ◇적군의 ‘전투 드론’을...",
+          "press": "조선일보",
+          "date": "2026-08-01",
+          "datetime": "2026-08-01 12:01",
+          "link": "https://n.news.naver.com/mnews/article/023/0003990867?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "4-1 파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "4-3 이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "4-4 리트코"
+        }
+      ]
+    }
+  ],
+  "total": 7
+}

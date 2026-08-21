@@ -1,0 +1,301 @@
+{
+  "date": "2026-08-03",
+  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-21 14:44 소급 정리",
+  "top5": [],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "기아, 7월 글로벌 판매 29만8037대...전년比 13.4% 증가",
+          "summary": "도매 판매 기준이다. 차종별로는 스포티지가 5만2714대로 글로벌 시장에서 가장 많이 팔렸다.... 승용 모델은 레이 5178대, 모닝 3408대, K5 2362대 등 총 1만3113대가 판매됐다. 레저용차량(RV)…",
+          "press": "joongangenews.com",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 15:10",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=537294",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[더벨][i-point] 아이즈비전 \"과기부 알뜰폰 2.0 정책 수혜 기대\"",
+          "summary": "가격 측면에서 과기정통부는 이통3사 신규 요금제의 도매제공 확대, 5G 도매대가 인하(약 15종 1~3%p) 등을 통해 업계 전체적으로 연간 약 250억원 규모의 비용 절감 효과를 기대한다고 밝혔다. 이는 알뜰폰 사…",
+          "press": "thebell.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 13:32",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608031249160240108915",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이제이엠컴퍼니, 개인정보보호 관리체계 인증 획득",
+          "summary": "올해 심사에서는 에스케이텔레콤(주), 공무원연금공단, (주)씨제이이엔엠 등 국내 대표 대기업과 공공기관도 잇따라 인증을 획득했다. 이번 인증의 토대는 창사 이래 이어온 무사고 운영 이력이다. 이제이엠컴퍼니는...",
+          "press": "이뉴스투데이",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 13:25",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2455129",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이즈비전, 과기정통부 '알뜰폰 2.0' 정책 수혜 기대… 질적 성장 사업...",
+          "summary": "과기정통부는 이동통신 3사 신규 요금제의 도매제공 확대와 5세대 이동통신(5G) 도매대가 인하(약 15종 1~3%p) 등을 통해 알뜰폰 업계 전체적으로 연간 약 250억원 규모의 비용 절감 효과가 발생할 것으로 전망…",
+          "press": "머니투데이",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 11:47",
+          "link": "https://n.news.naver.com/mnews/article/008/0005394743?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이즈비전, 과기정통부 ‘알뜰폰 2.0’ 정책 수혜 기대…성장 기반 부...",
+          "summary": "정부는 이동통신 3사(SKTㆍKTㆍLGU+) 신규 요금제의 도매제공 확대와 5G 도매대가 인하(약 15종, 1~3%포인트(p))를 추진한다. 과기정통부는 이를 통해 알뜰폰 업계 전체적으로 연간 약 250억원 규모의 …",
+          "press": "etoday.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 11:30",
+          "link": "https://www.etoday.co.kr/news/view/2610354",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "7월 번호이동 63만건…갤럭시Z8 출시 앞두고 숨 고르기",
+          "summary": "정부는 도매대가 인하와 전파사용료 감면을 통해 요금 인하 여력을 확보하는 한편, 자체 설비를 갖춘 부분 MVNO와 독립형 알뜰폰(풀MVNO)이 시장에 진입할 수 있도록 제도 기반을 마련하기로 했다.",
+          "press": "디지털데일리",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 10:16",
+          "link": "https://n.news.naver.com/mnews/article/138/0002236335?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[초동시각]알뜰폰에 쥐여준 고기잡이 도구의 무게",
+          "summary": "정부가 최근 자체 설비를 갖춘 서비스형(부분 MVNO)·독립형(풀 MVNO) 알뜰폰 육성을 위한 '이동통신 시장 새로운 경쟁과 혁신 촉진방안'을 발표했다. 전파사용료 90% 감면, 데이터 안심옵션, 수익배분형(RS)…",
+          "press": "view.asiae.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 10:15",
+          "link": "https://n.news.naver.com/mnews/article/277/0005797979?sid=110",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "풀MVNO 수백억 투자 문턱 낮춘다, 정부가 꺼낸 'MVNE' [IT백과]",
+          "summary": "통신 인프라를 구축한 사업자가 이를 여러 알뜰폰 사업자에게 재제공할 수 있도록 제도화해, 풀 MVNO 육성의 가장 큰 걸림돌로 꼽혀온 설비투자 부담을 낮추겠다는 것이 핵심이다. 관건은 투자 유인을 만들 수...",
+          "press": "디지털데일리",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 05:00",
+          "link": "https://n.news.naver.com/mnews/article/138/0002236292?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "[더벨][i-point] 아이즈비전 \"과기부 알뜰폰 2.0 정책 수혜 기대\"",
+          "summary": "SKT·KT·LGU+ 3사 망을 모두 활용하는 국내 대표 알뜰폰(MVNO) 사업자 아이즈비전은 과학기술정보통신부가 지난 7월 31일 발표한 「이동통신시장 새로운 경쟁과 혁신 촉진방안(알뜰폰 2.0)」과 관련해, 정책…",
+          "press": "thebell.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 13:32",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608031249160240108915",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이즈비전, 과기정통부 '알뜰폰 2.0' 정책 수혜 기대… 질적 성장 사업...",
+          "summary": "아이즈비전은 과학기술정보통신부가 지난 7월 31일 발표한 '이동통신시장 새로운 경쟁과 혁신 촉진방안(알뜰폰 2.0)' 정책의 핵심 수혜를 기대한다고 3일 밝혔다. 이번 알뜰폰 2.0 정책은 단순 재판매 중심의 양적 …",
+          "press": "머니투데이",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 11:47",
+          "link": "https://n.news.naver.com/mnews/article/008/0005394743?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이즈비전, 과기정통부 ‘알뜰폰 2.0’ 정책 수혜 기대…성장 기반 부...",
+          "summary": "사업자 아이즈비전이 과학기술정보통신부의 ‘알뜰폰 2.0’ 정책 추진에 맞춰 수혜 기대감을 높이고 있다. 정부 정책이 단순 양적 확장에서 자체 설비 및 서비스 경쟁력을 갖춘 우수 사업자 중심의 ‘질적 성장’으로...",
+          "press": "etoday.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 11:30",
+          "link": "https://www.etoday.co.kr/news/view/2610354",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "SKT·KT망 소액결제 없앤 LG헬로모바일…알뜰폰 '고객 차별' 논란",
+          "summary": "한국기업평판연구소에 따르면 지난달 알뜰폰 브랜드 평판 순위에서 헬로모바일은 5위를 기록하며, 1위 '프리티 알뜰폰' 2위 'KT엠모바일 알뜰폰' 3위 'SK세븐모바일' 등을 뒤따르고 있는 상황이다. 이 외에도 같은.…",
+          "press": "newsway.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 17:56",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026080316550818144",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "밸류업 공시·지분 매입에도 주가 후퇴…동양이엔피 '사면초가'",
+          "summary": "이날 코스닥 시장에선 매수 사이드카가 발동하는 등 급등했지만 정작 수혜를 받지 못한 셈이다. PBR... 1987년 설립된 동양이엔피는 이른바 ‘스위칭 전원공급장치’(SMPS) 전문기업이자 삼성전자 협력업체로 잘 알…",
+          "press": "이데일리",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 16:19",
+          "link": "https://n.news.naver.com/mnews/article/018/0006343245?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "4-1 파워넷"
+        },
+        {
+          "title": "성호전자, 폭염에 여름가전 부품 주문 급증…파워·콘덴서 수요 20% 증가",
+          "summary": "성호전자(043260)가 기록적인 폭염으로 여름 가전 판매가 늘어나면서 전원공급장치(SMPS)와 콘덴서 수요도 큰... 성호전자의 관련 부품은 SK인텔릭스와 쿠쿠, 교원의 정수기 제품에 적용되고 있으며, 최근 전체 …",
+          "press": "view.asiae.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 13:41",
+          "link": "https://n.news.naver.com/mnews/article/277/0005798102?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "4-1 파워넷"
+        },
+        {
+          "title": "성호전자, 폭염에 여름가전 부품 수요 증가…파워·콘덴서 공급 확대",
+          "summary": "전례 없는 폭염으로 여름가전 관련 부품 수요가 확대되면서 전원공급장치(SMPS·파워)와 콘덴서 등을... 회사 측은 전체 정수기 시장에서 얼음정수기가 차지하는 비중이 최근 40% 수준까지 확대되면서 관련 부품 수요도…",
+          "press": "그린포스트코리아",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 12:11",
+          "link": "https://www.greened.kr/news/articleView.html?idxno=346644",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "4-1 파워넷"
+        },
+        {
+          "title": "온화한 리더십 뒤엔 불륜의 그림자... '인텔 신화' 쓴 노이스는 누구",
+          "summary": "하지만 노이스는 마이애미대학 대신 자신의 비범함을 알아봐 준 게일 교수가 있는 그린넬대학을... 새너제이 머큐리 뉴스에서 기자로 일한 마이클 말론이 쓴 책 '인텔 끝나지 않은 도전과 혁신'을...",
+          "press": "한국일보",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 14:01",
+          "link": "https://n.news.naver.com/mnews/article/469/0000945915?sid=105",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "광통신·광반도체주 오전 주가 장중 강세…대한광통신 11%대 상승, 빛과...",
+          "summary": "대한광통신이 두 자릿수 상승률을 기록한 가운데 빛과전자와 성호전자, 머큐리, 서울바이오시스 등도 비교적 큰 폭으로 올랐다. 이날 오젼 현재 대한광통신은 전 거래일보다 960원(11.25%) 오른 9,490원에...",
+          "press": "cbci.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 11:06",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=594054",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "192억달러 KKR 인프라 펀드, 데이터센터·전력 겨냥",
+          "summary": "다만 이번 펀드는 크립토 가격이나 채굴 기업 실적에 직접 영향을 주는 투자보다 전력 집약형 디지털 인프라로 민간자본이 이동하는 사례에 가깝다. KKR은 2026년 인프라 전망에서 데이터센터와 광섬유망...",
+          "press": "tokenpost.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 22:52",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/384385",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "멕시코 스위치 시장동향",
+          "summary": "한정한다)와 광섬유용·광섬유 다발용·케이블용 커넥터 8536.50 그 밖의 개폐기(Other switches) 시장동향... 주거 및 상업용 시장에서는 벽면 스위치, 콘센트, 조광기와 스마트 스위치 제품이 주로 유통…",
+          "press": "dream.kotra.or.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 15:27",
+          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243200",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[ICT광장] 직접수신율 3% 시대, 아파트 방송공동수신설비 의무화는 계속...",
+          "summary": "과학기술정보통신부 역시 2022년 12월 '정보통신방송설비 기술기준에 관한 규정' 등 관련법 3개를 개정하고, 2023년 6월 7일부터 시행함으로써 주거용 건물의 세대 단위로 광케이블이 인입하는 FTTH(Fiber …",
+          "press": "koit.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 10:34",
+          "link": "https://www.koit.co.kr/news/articleView.html?idxno=208291",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "대한광통신 주가, 급등세... 무슨 회사길래?",
+          "summary": "동사는 광섬유 생산부터 광케이블 제조까지 일관 생산체제를 구축하고 있으며, 초고속 인터넷망과 이동통신망, 데이터센터, FTTH(광가입자망) 등 다양한 광통신 인프라 구축에 필요한 제품을 공급하고 있다. 또한 국내..…",
+          "press": "ggilbo.com",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 09:58",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1172844",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[박정식의 국내 주식시황] 트럼프 이란 대규모 공습 취소에 국내시장 훈...",
+          "summary": "(광케이블/광섬유 등), 통신장비 테마 등 전력/AI 인프라 관련주 상승. AI 데이터센터와 고성능 컴퓨팅... ▷국제 금 가격 강세 등에 귀금속(금/은) 테마 상승. 7/31(금) 장 마감 후 시간외 거래에서는 세…",
+          "press": "newsquest.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 08:18",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=270906",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "4-1 파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "4-3 이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "4-4 리트코"
+        }
+      ]
+    }
+  ],
+  "total": 22
+}

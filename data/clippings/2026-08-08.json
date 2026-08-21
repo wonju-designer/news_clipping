@@ -1,0 +1,134 @@
+{
+  "date": "2026-08-08",
+  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-21 14:44 소급 정리",
+  "top5": [],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "갤럭시 폴드8 시리즈 정식 출시…민팃 \"중고폰 팔면 최대 5만원 더\"",
+          "summary": "신제품 출시에 맞춰 중고폰 유통업계도 교체 수요를 겨냥한 이벤트에 나섰다. ICT 리사이클 기업 민팃은 민팃 ATM과 민팃 홈 서비스로 중고폰을 판매하는 고객을 대상으로 평가금액 외 추가금액을 얹어주는 '민팃 올..…",
+          "press": "econovill.com",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 14:40",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=747477",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "계통 살리라면서 '통행세' 내라고?…배전망 ESS 사업, '망 이용료' 논란",
+          "summary": "배전망 이용료는 전력망이라는 인프라를 점유하고 사용하는 대가로 사업자가 한전에 지불하는 일종의... 미국(CAISO, ERCOT, PJM), 영국(NESO), 호주(NEM) 등은 ESS를 단순한 전력 소비처가 아닌 …",
+          "press": "electimes.com",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 07:00",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=371074",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "테슬라, 사이버트럭 전력변환장치 결함 인정…기존 모델 보증 8년 확대",
+          "summary": "PCS는 차량 내 충전기와 DC-DC 컨버터를 결합한 부품이다. 이 장치가 고장 나면 가정용 충전 전류가 48암페어에서 24암페어로 떨어진 뒤 결국 충전이 중단됐다. 이번 조치는 기존 차주의 수리비 부담과 맞물려 있…",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 09:16",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691239",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "4-1 파워넷"
+        },
+        {
+          "title": "EBS 세계의 명화 '다이하드1' \"존 맥티어난 감독, 브루스 윌리스, 앨런 ...",
+          "summary": "[사진출처=네이버영화 포토] 존 맥티어난 감독은 1951년 1월 8일 미국 뉴욕 주 알바니 출생. 오페라 가수의... 스트레인저>, <언브레이커블>, <아마겟돈>, <머큐리>, <자칼>, <제5원소>, <식스 센스>…",
+          "press": "lecturernews.com",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 07:54",
+          "link": "https://www.lecturernews.com/news/articleView.html?idxno=207995",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[유럽스타트업열전] '비바테크 이후' 다시 파리에서 스타트업을 생각하...",
+          "summary": "한 밀키트 서비스 이지쿡아시아(EasyCookAsia)로 출발했고, 이후 모모고로 브랜드를 확대했다. 현재는 독일 대형 유통망을 통해 제품을 판매하고 식품을 넘어 한국과 아시아의 다양한 소비재를 유럽시장에 소개하는.…",
+          "press": "bizhankook.com",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 09:24",
+          "link": "https://bizhankook.com/articles/french-startup-ecosystem-august.html",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "[유통토요판] '1시간으로 승부'···장보기 공식 바꾼 퀵커머스",
+          "summary": "퀵커머스 시장이 유통업계 새로운 격전지로 떠오르고 있다. 주문 후 1시간 이내료 식료품과 생필품을... 컬리나우는 신선식품과 밀키트를 비롯해 뷰티, 리빙 등 약 6000개 상품을 취급하고 있다. 컬리에 따르면 지난 …",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 07:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422952",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "'아이코스'에 도전장…日 JT, '플룸' 궐련형 전자담배 7조 투자",
+          "summary": "JT 식품 자회사 테이블마크(TableMark)는 지난달 냉동 우동 밀키트를 미국에서 출시하며 북미 시장 공략에 나섰다. 면과 재료, 국물 구성품을 한 세트로 담은 제품으로, 북미는 JT가 식품 부문 핵심 성장 시장…",
+          "press": "theguru.co.kr",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 06:32",
+          "link": "https://www.theguru.co.kr/news/article.html?no=105450",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "4-1 파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "4-2 머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "4-3 이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "4-4 리트코"
+        }
+      ]
+    }
+  ],
+  "total": 7
+}
