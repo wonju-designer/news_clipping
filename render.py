@@ -21,6 +21,7 @@ SHORT = {
     "자사 동향": "자사",
     "경쟁사 동향": "경쟁사",
     "자회사 동향 (머큐리)": "자회사",
+    "그룹 동향 (파워넷)": "그룹",
 }
 
 
@@ -97,12 +98,40 @@ def _digest_box(text: str) -> str:
     )
 
 
-def _section(cat: dict, articles: list, digest: str = "") -> str:
-    if not articles:
+def _subgroup_body(cat: dict, articles: list, digests: dict) -> str:
+    """회사별 소그룹: 소제목 + 회사별 요약 + 기사."""
+    out = []
+    for sg in cat.get("subgroups", []):
+        sg_arts = [a for a in articles if a.get("subgroup") == sg["id"]]
+        if not sg_arts:
+            continue
+        out.append(
+            f'<div style="font-size:13px;font-weight:600;color:{C["text_primary"]};'
+            f'margin:12px 0 8px;padding-top:4px;">{esc(sg["label"])} '
+            f'<span style="font-size:11px;color:{C["text_muted"]};font-weight:400;">· {len(sg_arts)}건</span></div>'
+        )
+        dg = (digests or {}).get(sg["id"], "")
+        if dg:
+            out.append(_digest_box(dg))
+        for i, art in enumerate(sg_arts):
+            out.append(_article_block(art, last=(i == len(sg_arts) - 1), badge=art.get("badge")))
+    if not out:
+        return (f'<div style="font-size:13px;color:{C["text_muted"]};padding:6px 0 10px;">'
+                f'해당 기간 수집된 기사가 없습니다.</div>')
+    return "".join(out)
+
+
+def _section(cat: dict, articles: list, digest="") -> str:
+    is_sub = bool(cat.get("subgroups"))
+    if is_sub:
+        body = _subgroup_body(cat, articles, digest if isinstance(digest, dict) else {})
+        digest_top = ""
+    elif not articles:
         body = (
             f'<div style="font-size:13px;color:{C["text_muted"]};padding:6px 0 10px;">'
             f'해당 기간 수집된 기사가 없습니다.</div>'
         )
+        digest_top = ""
     else:
         blocks = []
         for i, art in enumerate(articles):
@@ -110,6 +139,7 @@ def _section(cat: dict, articles: list, digest: str = "") -> str:
                 _article_block(art, last=(i == len(articles) - 1), badge=art.get("badge"))
             )
         body = "".join(blocks)
+        digest_top = digest if isinstance(digest, str) else ""
 
     # 헤더: 제목(좌) / 건수(우) — table로 정렬
     header = (
@@ -125,7 +155,7 @@ def _section(cat: dict, articles: list, digest: str = "") -> str:
     )
     return (
         f'<div style="padding:16px 24px;border-top:8px solid {C["surface_0"]};">'
-        f'{header}{_digest_box(digest)}{body}</div>'
+        f'{header}{_digest_box(digest_top)}{body}</div>'
     )
 
 
