@@ -32,6 +32,8 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           REPORT_TO: ${{ secrets.REPORT_TO }}
+          # 이메일 상단 '지난 소식 보기' 버튼 → GitHub Pages 대시보드 URL
+          DASHBOARD_URL: "https://wonju-designer.github.io/news_clipping/"
           # 진단 모드: 검색어별 수집 건수를 로그에 출력하려면 아래 줄 주석 해제
           # DEBUG: "1"
           # 품질 AI를 Claude로 전환하려면 아래 3줄 주석 해제 + Secret에 ANTHROPIC_API_KEY 등록
@@ -48,7 +50,7 @@ jobs:
         run: |
           git config user.name "news-clipping-bot"
           git config user.email "actions@github.com"
-          git add -f dashboard.html data/ 2>/dev/null || true
+          git add -f docs/ data/ 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "변경 사항 없음 — 커밋 생략"
           else
