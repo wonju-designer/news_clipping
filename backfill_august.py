@@ -1,154 +1,317 @@
 # -*- coding: utf-8 -*-
 """
-8월 월간 아카이브 백필 (일회성)
-- 네이버에서 8월 1일~어제 발행된 실제 기사를 수집
-- '매일 발송분'이 아니라 '한 달치를 한 번에 정리한 월간 아카이브'로 명확히 표시
-- 각 기사는 실제 발행일 그대로 노출
-- AI 요약 없이 원문 설명(desc)을 요약으로 사용 (NAVER 키만 있으면 실행 가능)
-
-실행: python backfill_august.py            (기본 8/1~어제)
-      START=2026-08-01 END=2026-08-20 python backfill_august.py
-결과: data/clippings/2026-08-monthly.json 생성 → dashboard.build()로 대시보드 갱신
+뉴스 클리핑 설정
+- 수집 카테고리/키워드, 제외 키워드(전역/카테고리별)
+- 카테고리별 노출 개수(display_max) — 이 개수만 AI가 중요도로 선별해 표시
+- 언론사 도메인 → 표기명 매핑 (사실 기반, 미매핑 시 도메인 노출)
+- 이메일 안전 색상값
+워크플로 상단 상수만 고치면 수집 대상/노출 개수를 조정할 수 있습니다.
 """
 
-import json
-import os
-from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
-import config
-import collect
-import dashboard
+KST = ZoneInfo("Asia/Seoul")
 
-KST = config.KST
+# 1순위(최상위): 알뜰폰·MVNO 관련
+TOP_PRIORITY = ["알뜰폰", "알뜰요금제", "MVNO"]
+# 2순위: 이동통신·MNO 관련 (그다음 나머지)
+SECOND_PRIORITY = ["이동통신", "MNO"]
+DEFAULT_PRIORITY = SECOND_PRIORITY
 
+# ────────────────────────────────────────────────
+# 수집 카테고리 (템플릿 4개 섹션과 1:1 대응)
+#   keywords       : 넓게 수집 (노이즈는 AI 선별로 걸러냄)
+#   display_max    : 리포트에 노출할 최대 건수 (AI가 중요도로 이 수만큼 선별)
+#   exclude        : 해당 카테고리에만 적용할 추가 제외어
+# ────────────────────────────────────────────────
+CATEGORIES = [
+    {
+        "id": "industry",
+        "num": "①",
+        "title": "산업 동향",
+        "subtitle": "알뜰폰·MVNO·이동통신·MNO",
+        "bar_color": "#BA7517",
+        "display_max": 7,
+        "digest_long": True,   # 섹션 요약을 5문장 분량으로
+        "keywords": [
+            "알뜰폰", "알뜰폰 시장", "알뜰폰 점유율", "알뜰폰 가입자", "번호이동",
+            "풀MVNO", "도매대가", "설비보유", "MVNO", "이동통신", "MNO",
+            "중고폰", "SKT", "KT", "유플러스", "LG유플러스", "엘지유플러스",
+            "에스케이텔레콤", "케이티", "갤럭시", "아이폰", "명의도용",
+        ],
+        # 노출/선별 우선순위 (모든 섹션 공통)
+        "priority_terms": DEFAULT_PRIORITY,
+        # 통신사 e스포츠단·모바일게임·경품성/무관 기사 오탐 제외 (이 카테고리 한정)
+        "exclude": [
+            "T1", "롤스터", "LCK", "롤드컵", "e스포츠", "이스포츠",
+            "리그오브레전드", "페이커", "발로란트", "배틀그라운드",
+            "스타크래프트", "신작 게임", "게임 출시", "게임 업데이트",
+            "기프트코드", "쿠폰 코드", "공략",
+            "증정", "경품", "사은품", "우정사업본부", "우정통신사업본부",
+            "교육부", "법원",
+            "선관위", "선거관리위원회", "선거", "투표", "개표", "공천", "출마",
+            "위즈", "소닉붐", "나이츠", "야구단", "농구단", "축구단", "배구단",
+            "구단", "스포츠단", "프로야구", "프로농구", "프로배구",
+            "KBO", "KBL", "홈런", "타자", "투수", "완봉", "선발승", "삼진",
+        ],
+    },
+    {
+        "id": "own",
+        "num": "②",
+        "title": "자사 동향",
+        "subtitle": "전체 수집",
+        "bar_color": "#185FA5",
+        "display_max": 6,
+        "keywords": ["아이즈비전", "아이즈모바일", "CirQle"],
+        # 본문에 정확한 자사명이 있어야 인정 → '아이즈'만 겹치는 무관 기사 배제
+        "require_any": ["아이즈비전", "아이즈모바일", "CirQle", "써클"],
+        "priority_terms": DEFAULT_PRIORITY,
+    },
+    {
+        "id": "competitor",
+        "num": "③",
+        "title": "경쟁사 동향",
+        "subtitle": "선별",
+        "bar_color": "#1D9E75",
+        "display_max": 7,
+        # 브랜드 기본형 — 아래 qualifiers를 붙여 "브랜드 알뜰폰/요금제"로 검색
+        "keywords": [
+            "프리티", "티플러스", "헬로모바일", "SK세븐모바일",
+            "KT M모바일", "모빙", "이야기모바일", "스테이지파이브", "유모바일",
+        ],
+        # 각 브랜드에 붙는 검색 수식어 → "브랜드 알뜰폰/알뜰요금제/요금제"로 직접 수집
+        "qualifiers": ["알뜰폰", "알뜰요금제", "요금제"],
+        # 실제로 브랜드명이 본문에 있는 기사만 경쟁사로 인정 → 일반 알뜰폰 시장
+        # 기사(특정 브랜드 무관)는 산업동향으로 넘어가게 함
+        "require_any": [
+            "프리티", "티플러스", "헬로모바일", "SK세븐모바일", "세븐모바일",
+            "KT M모바일", "M모바일", "모빙", "이야기모바일", "스테이지파이브", "유모바일",
+        ],
+        # 브랜드명이 있어도 아래 통신 맥락어가 하나도 없으면 제외 (프리티=pretty 등 오탐 차단)
+        "require_context": [
+            "알뜰폰", "알뜰요금제", "요금제", "통신", "이동통신", "MVNO",
+            "가입자", "번호이동", "유심", "eSIM", "데이터", "선불", "5G", "LTE",
+        ],
+        # 노출/선별 우선순위: 브랜드 + 알뜰폰·알뜰요금제
+        "priority_terms": ["알뜰폰", "알뜰요금제"],
+        # 게임·애니·연예·뷰티 + LG유플러스(MNO) 제외. 단 protect_terms(유모바일)면 예외 유지
+        "exclude": [
+            "프리티 리듬", "프리파라", "리듬게임", "e스포츠", "웹툰",
+            "애니메이션", "게임 스테이지", "스테이지 클리어", "신작 게임", "게임 출시",
+            "아이돌", "걸그룹", "보이그룹", "데뷔", "컴백", "뮤직비디오", "MV",
+            "화장품", "코스메틱", "뷰티", "메이크업", "패션",
+            "드라마", "영화", "예능", "OTT",
+            "LG유플러스", "엘지유플러스",
+        ],
+        "protect_terms": ["유모바일"],  # U+유모바일 기사는 LG유플러스 제외어에 걸려도 유지
+    },
+    {
+        "id": "group",
+        "num": "④",
+        "title": "그룹 동향",
+        "subtitle": "계열사",
+        "bar_color": "#534AB7",
+        "digest_long": False,
+        # 회사별 소그룹: 각 회사 아래 자사(corporate)+연관산업(industry)을 함께 노출
+        "subgroups": [
+            {
+                "id": "powernet", "label": "4-1 파워넷",
+                "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
+                "priority_own": ["파워넷"],
+                "priority_ind": ["SMPS", "전원공급장치", "PSU"],
+                "keywords": [
+                    "파워넷 SMPS", "파워넷 전원공급장치", "파워넷 아이즈비전",
+                    "파워넷 실적", "파워넷 코스닥",
+                ],
+                # 자사 기사: 실제 '파워넷' 언급 필수 (동명 무관 기업 배제)
+                "require_own": ["파워넷"],
+                "industry_keywords": [
+                    "SMPS 시장", "전원공급장치 시장", "PSU 시장",
+                    "서버 전원공급장치", "데이터센터 전원공급장치",
+                    "어댑터 전원장치", "DC-DC 컨버터",
+                ],
+                # 산업 기사: 전원장치 기기 관련어 필수 (발전·에너지·이차전지 배제)
+                "require_ind": [
+                    "SMPS", "전원공급장치", "파워서플라이",
+                    "전원장치", "전원모듈", "전원어댑터", "전원 어댑터",
+                    "DC-DC", "AC-DC", "전력변환",
+                ],
+                "exclude": [
+                    "게이밍 파워", "조립컴퓨터", "파워서플라이 추천",
+                    "석탄발전", "발전소", "원전", "재생에너지", "태양광", "풍력",
+                    "도매전력", "전력수급", "에너지믹스", "REC", "전기요금",
+                    "이차전지", "배터리셀", "케이엔에스",
+                    "RSU", "재계 보수", "총수", "오너 일가", "양도제한조건부주식",
+                    "보수 1위", "연봉 1위", "주식보상", "성과조건부주식",
+                    "주가차액보상권", "SARs",
+                    "HBM", "파운드리", "TSMC", "엔비디아", "AI 가속기",
+                    "고대역폭메모리", "첨단 패키징",
+                ],
+            },
+            {
+                "id": "mercury", "label": "4-2 머큐리 & 머큐리광통신",
+                "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
+                "priority_own": ["머큐리광통신", "머큐리", "광통신"],
+                "priority_ind": ["광케이블", "광섬유"],
+                "keywords": [
+                    "머큐리", "(주)머큐리", "100590",
+                    "머큐리광통신", "머큐리 광케이블", "머큐리 광통신",
+                    "머큐리 아이즈비전", "머큐리 방산", "머큐리 실적",
+                ],
+                "require_own": ["머큐리"],
+                "industry_keywords": [
+                    "광케이블 시장", "광섬유 가격", "AI 데이터센터 광케이블", "광통신 수요",
+                    "FTTH 광케이블", "데이터센터 연결 DCI", "WiFi 7 공유기",
+                ],
+                "require_ind": ["광케이블", "광섬유", "광통신", "FTTH", "ONT", "공유기", "AP"],
+                "exclude": [
+                    "프레디 머큐리", "퀸", "머큐리 영화", "수성",
+                    "머큐리시스템즈", "Mercury Systems", "피닉스 머큐리", "피닉스머큐리",
+                    "수은", "머큐리 자동차", "링컨 머큐리", "승마", "보험",
+                ],
+            },
+            {
+                "id": "encreative", "label": "4-3 이앤크리에이티브",
+                "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
+                "priority_own": ["이엔크리에이티브", "이앤크리에이티브", "국떡"],
+                "priority_ind": ["밀키트", "간편식", "HMR"],
+                "keywords": [
+                    "이엔크리에이티브", "이앤크리에이티브",
+                    "이엔크리에이티브 국떡", "국민학교 떡볶이",
+                ],
+                "require_own": ["이엔크리에이티브", "이앤크리에이티브", "국떡", "국민학교 떡볶이"],
+                "industry_keywords": [
+                    "가정간편식 HMR 시장", "밀키트 시장", "냉동식품 시장",
+                    "냉동식품 수출", "K-푸드 수출", "떡볶이 수출",
+                ],
+                "require_ind": ["밀키트", "가정간편식", "HMR", "냉동식품", "떡볶이 수출", "K-푸드"],
+                "exclude": [
+                    "아이스크리에이티브",
+                    "외식업", "창업", "자영업", "프랜차이즈 창업", "칼럼", "컨설팅",
+                    "맛집", "레시피", "다이어트",
+                ],
+            },
+            {
+                "id": "ritco", "label": "4-4 리트코",
+                "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
+                "priority_own": ["리트코"],
+                "priority_ind": ["미세먼지", "전기집진"],
+                "keywords": [
+                    "리트코", "리트코 미세먼지", "리트코 전기집진", "리트코 아이즈비전",
+                ],
+                "require_own": ["리트코"],
+                "industry_keywords": [
+                    "지하철 미세먼지 저감", "도로터널 미세먼지", "전기집진기 지하역사",
+                    "굴뚝 자동측정 TMS", "실내공기질 지하역사",
+                    "선박 배출가스 감시", "도로 결빙 경보 시스템",
+                ],
+                "require_ind": ["미세먼지", "전기집진", "공기질", "TMS", "배출가스", "결빙"],
+                "exclude": ["리트코인", "레트로"],
+            },
+        ],
+    },
+]
 
-def _month_range():
-    start_s = os.environ.get("START", "2026-08-01")
-    end_s = os.environ.get("END", "")
-    start = datetime.strptime(start_s, "%Y-%m-%d").replace(tzinfo=KST)
-    if end_s:
-        end = datetime.strptime(end_s, "%Y-%m-%d").replace(
-            hour=23, minute=59, second=59, tzinfo=KST)
-    else:
-        end = datetime.now(KST)  # 어제까지 자연 포함
-    return start, end
+# ────────────────────────────────────────────────
+# 전역 제외 키워드 (아이즈 오탐 방지 — 커뮤니티 모니터링 세트 승계)
+# 제목 또는 요약에 포함되면 해당 기사 제외
+# ────────────────────────────────────────────────
+EXCLUDE_KEYWORDS = [
+    "아이즈원", "IZ*ONE", "퍼스널아이즈", "라식", "라섹",
+    "스마트아이즈", "프라이빗아이즈", "아이즈코리아",
+    # 강력범죄 사건 (복합 표현으로 '경쟁 강도'·'규제 강도' 등 오탐 방지)
+    "살인", "강도살인", "무장강도", "강도 사건", "강도 검거",
+    "사기단", "사기 일당", "사기 혐의", "사기 검거",
+    "절도", "폭행", "성범죄", "마약",
+    # 음악·연예·경마 관련
+    "뮤직", "BTS", "방탄소년단", "정국", "머큐리컵", "경주마", "경마",
+    # 부동산 관련 ('개통'이 역·도로 개통 부동산 기사를 끌어오는 것 차단)
+    "부동산", "분양", "청약", "재건축", "재개발", "집값", "역세권", "전셋값", "매매가",
+]
 
+# ────────────────────────────────────────────────
+# Top5 우선순위 표현 — 이 표현이 든 기사를 핵심 뉴스로 우선 선정
+# ────────────────────────────────────────────────
+TOP5_PRIORITY = DEFAULT_PRIORITY
 
-def _in_range(pub, start, end):
-    return pub is not None and start <= pub <= end
+# ────────────────────────────────────────────────
+# 언론사 도메인 → 표기명 (originallink 도메인 기준)
+# 미매핑 도메인은 도메인 자체를 노출 (허위 표기 방지)
+# ────────────────────────────────────────────────
+PRESS_MAP = {
+    "yna.co.kr": "연합뉴스", "hankyung.com": "한국경제", "mk.co.kr": "매일경제",
+    "etnews.com": "전자신문", "ddaily.co.kr": "디지털데일리", "inews24.com": "아이뉴스24",
+    "mt.co.kr": "머니투데이", "sedaily.com": "서울경제", "chosun.com": "조선일보",
+    "donga.com": "동아일보", "joongang.co.kr": "중앙일보", "hani.co.kr": "한겨레",
+    "khan.co.kr": "경향신문", "edaily.co.kr": "이데일리", "fnnews.com": "파이낸셜뉴스",
+    "newsis.com": "뉴시스", "news1.kr": "뉴스1", "zdnet.co.kr": "지디넷코리아",
+    "bloter.net": "블로터", "theelec.kr": "디일렉", "thelec.kr": "디일렉",
+    "asiae.co.kr": "아시아경제", "heraldcorp.com": "헤럴드경제", "dt.co.kr": "디지털타임스",
+    "biz.chosun.com": "조선비즈", "moneys.co.kr": "머니S", "seoul.co.kr": "서울신문",
+    "kmib.co.kr": "국민일보", "hankookilbo.com": "한국일보", "segye.com": "세계일보",
+    "aitimes.com": "AI타임스", "it.chosun.com": "IT조선", "kbench.com": "케이벤치",
+    "enewstoday.co.kr": "이뉴스투데이", "greened.kr": "그린포스트코리아",
+    "apnews.kr": "에이피신문", "kihoilbo.co.kr": "기호일보",
+    "nate.com": "네이트뉴스", "ajunews.com": "아주경제", "wowtv.co.kr": "한국경제TV",
+    "yonhapnewstv.co.kr": "연합뉴스TV", "ytn.co.kr": "YTN", "sbs.co.kr": "SBS",
+    "imbc.com": "MBC", "kbs.co.kr": "KBS", "tf.co.kr": "더팩트",
+}
 
+# 5대 일간지 — 노출 시 최상단 우선
+FIVE_DAILIES = {"조선일보", "중앙일보", "동아일보", "한겨레", "경향신문"}
 
-def _collect_terms(terms, badge, start, end, seen, extra_exclude=(), require_any=(),
-                   require_context=()):
-    """키워드 목록으로 수집 → 기간·필터 통과분만 반환."""
-    out = []
-    for q in terms:
-        for item in collect.naver_search(q, 100):
-            art = collect._normalize(item, badge=badge)
-            if not art["pub"] or not _in_range(art["pub"], start, end):
-                continue
-            key = (art["title"], art["orig"])
-            if key in seen:
-                continue
-            text = art["title"] + " " + art["desc"]
-            low = text.lower()
-            if collect._excluded(text, extra_exclude):
-                continue
-            if require_any and not any(k.lower() in low for k in require_any):
-                continue
-            if require_context and not any(k.lower() in low for k in require_context):
-                continue
-            if art["is_sports"]:
-                continue
-            art["summary"] = art["desc"][:120] + ("…" if len(art["desc"]) > 120 else "")
-            seen.add(key)
-            out.append(art)
-    out.sort(key=lambda a: a["pub"], reverse=True)
-    return out
+# ────────────────────────────────────────────────
+# 주요 매체 우선순위 (표기명 기준)
+# 이 목록에 든 매체를 상위로 정렬 → '주요 일간지 소식부터' 노출
+# ────────────────────────────────────────────────
+MAJOR_PRESS = {
+    # 종합일간지
+    "연합뉴스", "조선일보", "중앙일보", "동아일보", "한겨레", "경향신문",
+    "한국일보", "국민일보", "서울신문", "세계일보",
+    # 경제지
+    "매일경제", "한국경제", "서울경제", "파이낸셜뉴스", "이데일리",
+    "머니투데이", "아시아경제", "헤럴드경제", "아주경제", "조선비즈",
+    # 통신/IT 전문지 (본 도메인 핵심)
+    "전자신문", "디지털데일리", "디지털타임스", "지디넷코리아", "블로터", "디일렉",
+    "아이뉴스24", "이뉴스투데이", "AI타임스", "IT조선",
+    # 통신사/방송
+    "뉴시스", "뉴스1", "YTN", "연합뉴스TV",
+}
 
+# 스포츠 신문 도메인 제외 (수집 단계에서 원천 차단)
+SPORTS_DOMAINS = {
+    "sports.chosun.com", "sports.donga.com", "sportsseoul.com",
+    "isplus.com", "sports.khan.co.kr", "osen.co.kr", "mydaily.co.kr",
+    "xportsnews.com", "spotvnews.co.kr", "sportalkorea.com",
+    "interfootball.co.kr", "mhnews.co.kr", "sportsq.co.kr",
+    "sportskhan.news", "star.mt.co.kr", "star.ohmynews.com",
+}
 
-def _art_json(a):
-    pub = a.get("pub")
-    return {
-        "title": a.get("title", ""),
-        "summary": a.get("summary", a.get("desc", "")),
-        "press": a.get("press", ""),
-        "date": f"{pub:%Y-%m-%d}" if pub else "",
-        "datetime": f"{pub:%Y-%m-%d %H:%M}" if pub else "",
-        "link": a.get("link", ""),
-        "badge": a.get("badge") or "",
-        "subgroup": a.get("subgroup") or "",
-        "subgroup_label": a.get("subgroup_label") or "",
-    }
+# ────────────────────────────────────────────────
+# 수집/선별 파라미터
+# ────────────────────────────────────────────────
+DISPLAY_PER_QUERY = 40       # 쿼리당 네이버 최대 수집 (max 100)
+CANDIDATE_CAP = 60           # 카테고리별 AI 선별 투입 후보 상한 (프롬프트 크기 제어)
+LOOKBACK_HOURS = 72          # 기본 수집 기간(시간): 최근 3일 (전 섹션 공통)
+# 카테고리별 기간 예외 (시간). 없으면 LOOKBACK_HOURS 사용. (현재 전 섹션 동일)
+LOOKBACK_HOURS_BY_CATEGORY = {}
+LOOKBACK_HOURS_WEEKDAY = 48  # (구) 참조 호환용
+LOOKBACK_HOURS_MONDAY = 48   # (구) 참조 호환용
+TOP_N = 5                    # 오늘의 핵심 개수
+DOC_MAX_PER_SECTION = 15     # 첨부 워드 문서에 담을 섹션별 최대 기사 수(이메일과 별개)
 
+# ────────────────────────────────────────────────
+# 이메일 안전 색상값 (템플릿 CSS 변수 치환용)
+# ────────────────────────────────────────────────
+COLORS = {
+    "surface_2": "#ffffff", "surface_1": "#f6f7f9", "surface_0": "#edeff2",
+    "border": "#e4e7eb", "text_primary": "#1a1d21", "text_secondary": "#4b5158",
+    "text_muted": "#8b9199", "text_accent": "#185fa5",
+    "header_bg": "#0C447C", "header_sub": "#85B7EB",
+}
 
-def run():
-    start, end = _month_range()
-    print(f"[백필] 기간: {start:%Y-%m-%d} ~ {end:%Y-%m-%d} (실제 발행일 기준)")
-
-    sections = []
-    grand_total = 0
-    for cat in config.CATEGORIES:
-        seen = set()
-        if cat.get("subgroups"):
-            arts = []
-            for sg in cat["subgroups"]:
-                sgx = sg.get("exclude", ())
-                own = _collect_terms(sg["keywords"], "자사", start, end, seen,
-                                     extra_exclude=sgx, require_any=sg.get("require_own", ()))
-                ind = _collect_terms(sg.get("industry_keywords", []), "산업", start, end, seen,
-                                     extra_exclude=sgx, require_any=sg.get("require_ind", ()))
-                for x in own + ind:
-                    x["subgroup"] = sg["id"]
-                    x["subgroup_label"] = sg["label"]
-                arts += own + ind
-        elif cat.get("industry_keywords"):
-            req = cat.get("require_any", ())
-            ex = cat.get("exclude", ())
-            own = _collect_terms(cat["keywords"], "자사", start, end, seen,
-                                 extra_exclude=ex, require_any=req)
-            ind = _collect_terms(cat["industry_keywords"], "산업", start, end, seen,
-                                 extra_exclude=ex, require_any=req)
-            arts = own + ind
-        else:
-            ex = cat.get("exclude", ())
-            req = cat.get("require_any", ())
-            quals = cat.get("qualifiers", ())
-            terms = collect._expand(cat["keywords"], quals) if quals else cat["keywords"]
-            arts = _collect_terms(terms, None, start, end, seen,
-                                  extra_exclude=ex, require_any=req,
-                                  require_context=cat.get("require_context", ()))
-
-        sec = {
-            "id": cat["id"], "num": cat["num"], "title": cat["title"],
-            "digest": "",  # 월간 아카이브는 동향 요약 없이 기사 나열
-            "articles": [_art_json(a) for a in arts],
-        }
-        if cat.get("subgroups"):
-            sec["subgroups"] = [{"id": s["id"], "label": s["label"]} for s in cat["subgroups"]]
-        sections.append(sec)
-        grand_total += len(arts)
-        print(f"  {cat['num']} {cat['title']}: {len(arts)}건")
-
-    payload = {
-        "date": f"{start:%Y-%m}",                       # 정렬용 (오늘 날짜보다 아래로)
-        "label": f"{start:%Y년 %-m월} 월간 아카이브 (실제 발행 기사 일괄 정리)",
-        "kind": "monthly",
-        "generated_at": f"{datetime.now(KST):%Y-%m-%d %H:%M} 정리",
-        "top5": [],
-        "sections": sections,
-        "total": grand_total,
-    }
-
-    os.makedirs(dashboard.CLIP_DIR, exist_ok=True)
-    path = os.path.join(dashboard.CLIP_DIR, f"{start:%Y-%m}-monthly.json")
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
-    print(f"[백필] {path} 저장 · 총 {grand_total}건")
-
-    dashboard.build()
-    print("[백필] 대시보드 갱신 완료")
-
-
-if __name__ == "__main__":
-    run()
+# 조직 표준 서체 Pretendard 우선, 미보유 클라이언트 대비 폴백
+FONT_STACK = (
+    "'Pretendard', -apple-system, BlinkMacSystemFont, "
+    "'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif"
+)
