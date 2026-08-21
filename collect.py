@@ -173,7 +173,21 @@ def collect() -> dict:
         pt = cat.get("priority_terms", ())
         cutoff = _lookback_cutoff(now, cat["id"])   # 카테고리별 수집 기간
         cat_seen = set()  # 섹션 내부 중복만 제거 (섹션 간 중복은 허용)
-        if cat["id"] == "subsidiary":
+        if cat.get("subgroups"):  # 회사별 소그룹 섹션 (그룹 동향)
+            items = []
+            for sg in cat["subgroups"]:
+                sgx = sg.get("exclude", ())
+                own = _gather(sg["keywords"], cat_seen, cutoff, badge="자사", extra_exclude=sgx)
+                ind = _gather(sg.get("industry_keywords", []), cat_seen, cutoff,
+                              badge="산업", extra_exclude=sgx)
+                for x in (own + ind):
+                    x["subgroup"] = sg["id"]
+                    x["subgroup_label"] = sg["label"]
+                items += (own + ind)
+            result[cat["id"]] = items[: config.CANDIDATE_CAP * 2]
+            print(f"  {cat['num']} {cat['title']}: {len(items)}건")
+            continue
+        if cat.get("industry_keywords"):  # 자사+산업 이중 뱃지 섹션
             own = _gather(cat["keywords"], cat_seen, cutoff, badge="자사", extra_exclude=ex,
                           require_any=req, protect_terms=prot)
             ind = _gather(cat.get("industry_keywords", []), cat_seen, cutoff, badge="산업",
