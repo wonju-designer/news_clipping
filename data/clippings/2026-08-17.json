@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -253,23 +253,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LGU+·토스모바일 '페이스페이' 요금제…가입자 56%가 2030",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
-          "press": "newstomato.com",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:02",
-          "link": "http://www.newstomato.com/ReadNews.aspx?no=1310398&inflow=N",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKB는 웃고 KT스카이라이프·LG헬로는 울고···유료방송3사 실적 '희비...",
           "summary": "방송은 VOD 매출 감소, 알뜰폰은 이동통신 시장 저가 요금제 경쟁이 실적 하락의 주요 원인으로 작용했다. 렌탈 부문은 성수기 가전시장 경쟁이 치열해지면서 전년 동기 대비 31.7% 감소한 308억원을 기록했다...…",
           "press": "sisajournal-e.com",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:02",
           "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423103",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+·토스모바일 '페이스페이' 요금제…가입자 56%가 2030",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
+          "press": "newstomato.com",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:02",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1310398&inflow=N",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -286,12 +286,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG U+, 알뜰폰에 토스 ‘페이스페이’ 결합…2030 가입자 절반 넘어",
-          "summary": "LG유플러스는 가격과 데이터 제공량을 중심으로 경쟁해온 알뜰폰 시장에서 결제, 유통 등 일상생활과 연계한 제휴 상품을 늘려 차별화한다는 계획이다. 박대용 LG유플러스 MVNO사업담당은 “알뜰폰 시장에서도...",
-          "press": "매일경제",
+          "title": "LG유플러스, 토스모바일과 ‘페이스페이’ 알뜰폰 요금제 출시",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
+          "press": "dailian.co.kr",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:01",
-          "link": "https://n.news.naver.com/mnews/article/009/0005721830?sid=105",
+          "link": "https://n.news.naver.com/mnews/article/119/0003122301?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -308,12 +308,155 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 토스모바일과 ‘페이스페이’ 알뜰폰 요금제 출시",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
-          "press": "dailian.co.kr",
+          "title": "LG U+, 알뜰폰에 토스 ‘페이스페이’ 결합…2030 가입자 절반 넘어",
+          "summary": "LG유플러스는 가격과 데이터 제공량을 중심으로 경쟁해온 알뜰폰 시장에서 결제, 유통 등 일상생활과 연계한 제휴 상품을 늘려 차별화한다는 계획이다. 박대용 LG유플러스 MVNO사업담당은 “알뜰폰 시장에서도...",
+          "press": "매일경제",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:01",
-          "link": "https://n.news.naver.com/mnews/article/119/0003122301?sid=105",
+          "link": "https://n.news.naver.com/mnews/article/009/0005721830?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스 '알닷', 토스모바일 손잡고 '페이스페이' 결합 알뜰폰 요금...",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장 내에서도 차별화된 고객 경험에 대한 수요가 커지고 있다\"며, \"여러 파트너사와의 협력을 기반으로 고객 일상에 실질적 가치를 더하는 상품을 지속 출시하겠다\"고...",
+          "press": "pointe.co.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83261",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, '알닷'서 토스모바일 요금제 프로모션 확대",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 서비스 수요가 확대되고 있다\"며 \"다양한 파트너사와 협력해 통신 서비스와 연계한 상품을 선보이겠다\"고 말했다. 한편...",
+          "press": "fetv.co.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.fetv.co.kr/news/articleView.html?idxno=308546",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 이동통신 소식_KT, LG유플러스(8.17)",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
+          "press": "weeklytoday.com",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=790483",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 토스모바일과 생활밀착형 알뜰폰 요금제 확대",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
+          "press": "ziksir.com",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=143309",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스 토스와 페이스페이 요금제",
+          "summary": "최근 알뜰폰 시장은 단순한 가격 할인 중심의 마케팅에서 벗어나 유통·결제 등 타 산업과의 결합 혜택을 제공하는 이종 산업 간 특화 요금제로 차별화를 꾀하고 있습니다.",
+          "press": "newsclaim.co.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072164",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스-토스모바일 '페이스페이' 요금제, 2030세대에 인기",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 차별화된 서비스에 대한 수요가 커지고 있다\"며 \"파트너사와 협력을 확대해 고객 일상에 실질적인 가치를 제공하는 상품과 혜택을 선보이겠다\"고 말했다.",
+          "press": "delighti.co.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120280",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2030에 인기 ‘페이스페이’ 프로모션 확대",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
+          "press": "etoday.co.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.etoday.co.kr/news/view/2615048",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스·토스모바일 '페이스페이' 요금제, 2030세대 취향 저격",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다며 다양한 파트너사와 협력을 넓혀 통신 서비스를 넘어 고객 일상에...",
+          "press": "thefairnews.co.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85166",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스-토스모바일 '페이스페이 결합 요금제', 2030 가입자가 56%",
+          "summary": "LG유플러스는 통신요금 자체의 가격 경쟁에 집중하기보다 이용자가 자주 사용하는 서비스와 통신을 결합한 제휴 상품을 알뜰폰 시장의 차별화 요소로 활용하고 있다. 앞서 알닷에서는 토스모바일과 CU의 제휴를...",
+          "press": "businessplus.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115518",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 알닷서 토스모바일 제휴 요금제 확대",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
+          "press": "newspim.com",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.newspim.com/news/view/20260816000053",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 토스모바일과 '페이스페이' 요금제…2030 비중 과반",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
+          "press": "cstimes.com",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=716946",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스 알닷, 토스모바일 ‘페이스페이’ 요금제 선봬",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
+          "press": "seoultimes.news",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.seoultimes.news/news/article.html?no=2000098851",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+·토스모바일 '페이스페이' 요금제, 가입자 절반이 2030",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477787",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -396,144 +539,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2030에 인기 ‘페이스페이’ 프로모션 확대",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
-          "press": "etoday.co.kr",
+          "title": "LG유플러스 알닷, 토스모바일 '페이스페이' 제휴 요금제 확대",
+          "summary": "LG유플러스는 알뜰폰 통합 플랫폼 '알닷'에서 토스모바일과 함께 생활밀착형 제휴 요금제 프로모션을... 출시 이후 해당 요금제 가입자의 56%는 20·30대로 나타났다. 알닷에서는 이와 함께 편의점 할인 혜택을...",
+          "press": "webeconomy.co.kr",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:00",
-          "link": "https://www.etoday.co.kr/news/view/2615048",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 알닷서 토스모바일 제휴 요금제 확대",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
-          "press": "newspim.com",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.newspim.com/news/view/20260816000053",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스·토스모바일 '페이스페이' 요금제, 2030세대 취향 저격",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다며 다양한 파트너사와 협력을 넓혀 통신 서비스를 넘어 고객 일상에...",
-          "press": "thefairnews.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85166",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스-토스모바일 '페이스페이 결합 요금제', 2030 가입자가 56%",
-          "summary": "LG유플러스는 통신요금 자체의 가격 경쟁에 집중하기보다 이용자가 자주 사용하는 서비스와 통신을 결합한 제휴 상품을 알뜰폰 시장의 차별화 요소로 활용하고 있다. 앞서 알닷에서는 토스모바일과 CU의 제휴를...",
-          "press": "businessplus.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115518",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 토스모바일과 '페이스페이' 요금제…2030 비중 과반",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
-          "press": "cstimes.com",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=716946",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스 알닷, 토스모바일 ‘페이스페이’ 요금제 선봬",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
-          "press": "seoultimes.news",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.seoultimes.news/news/article.html?no=2000098851",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스-토스모바일 '페이스페이' 요금제, 2030세대에 인기",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 차별화된 서비스에 대한 수요가 커지고 있다\"며 \"파트너사와 협력을 확대해 고객 일상에 실질적인 가치를 제공하는 상품과 혜택을 선보이겠다\"고 말했다.",
-          "press": "delighti.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120280",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+·토스모바일 '페이스페이' 요금제, 가입자 절반이 2030",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477787",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, '알닷'서 토스모바일 요금제 프로모션 확대",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 서비스 수요가 확대되고 있다\"며 \"다양한 파트너사와 협력해 통신 서비스와 연계한 상품을 선보이겠다\"고 말했다. 한편...",
-          "press": "fetv.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.fetv.co.kr/news/articleView.html?idxno=308546",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스 '알닷', 토스모바일 손잡고 '페이스페이' 결합 알뜰폰 요금...",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장 내에서도 차별화된 고객 경험에 대한 수요가 커지고 있다\"며, \"여러 파트너사와의 협력을 기반으로 고객 일상에 실질적 가치를 더하는 상품을 지속 출시하겠다\"고...",
-          "press": "pointe.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83261",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[위클리오늘] 이동통신 소식_KT, LG유플러스(8.17)",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
-          "press": "weeklytoday.com",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=790483",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 토스모바일과 생활밀착형 알뜰폰 요금제 확대",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
-          "press": "ziksir.com",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.ziksir.com/news/articleView.html?idxno=143309",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스 토스와 페이스페이 요금제",
-          "summary": "최근 알뜰폰 시장은 단순한 가격 할인 중심의 마케팅에서 벗어나 유통·결제 등 타 산업과의 결합 혜택을 제공하는 이종 산업 간 특화 요금제로 차별화를 꾀하고 있습니다.",
-          "press": "newsclaim.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072164",
+          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2267838",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -545,17 +556,6 @@
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:00",
           "link": "http://www.kdfnews.com/news/articleView.html?idxno=186616",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스 알닷, 토스모바일 '페이스페이' 제휴 요금제 확대",
-          "summary": "LG유플러스는 알뜰폰 통합 플랫폼 '알닷'에서 토스모바일과 함께 생활밀착형 제휴 요금제 프로모션을... 출시 이후 해당 요금제 가입자의 56%는 20·30대로 나타났다. 알닷에서는 이와 함께 편의점 할인 혜택을...",
-          "press": "webeconomy.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2267838",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -625,7 +625,7 @@
           "link": "http://www.civicnews.com/news/articleView.html?idxno=40263",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "AIT에너지, AI 냉각 체험센터 개관…액체냉각 사업 본격화",
@@ -636,7 +636,7 @@
           "link": "https://n.news.naver.com/mnews/article/030/0003457804?sid=105",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "뉴파워프라즈마, 국내 넘어 해외로…반도체 장비 성장 본격화",
@@ -647,7 +647,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477909",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "인텔의 '독한' 경영자, 그의 뒤엔 홀로코스트의 상처가 있었다",
@@ -658,7 +658,7 @@
           "link": "https://n.news.naver.com/mnews/article/469/0000948432?sid=105",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[투자를IT다] 2026년 8월 2주차 IT기업 주요 소식과 시장 전망",
@@ -669,7 +669,7 @@
           "link": "https://it.donga.com/109367/",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[중국증시 주간 포인트] 7월 中 생산·소비·투자 부진, 유니트리 상장...",
@@ -680,7 +680,7 @@
           "link": "https://www.newspim.com/news/view/20260817000284",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "값 뛸때 잘 팔았다…‘인듐 재고전략’ 빛난 고려아연",
@@ -691,7 +691,7 @@
           "link": "https://n.news.naver.com/mnews/article/011/0004652361?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "“AI시대 핵심소재 광섬유…韓, 고부가 제조 역량 키워야”",
@@ -702,7 +702,7 @@
           "link": "https://n.news.naver.com/mnews/article/011/0004652355?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[GMC] 중국 내수는 잊어라? 따로 크는 중국 기업 7곳",
@@ -713,7 +713,7 @@
           "link": "https://n.news.naver.com/mnews/article/025/0003544835?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "\"AI가 띄운 '광섬유 특수'…韓, 국가 차원 지원 생태계 구축해야\"",
@@ -724,7 +724,7 @@
           "link": "https://www.m-i.kr/news/articleView.html?idxno=1402919",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[진단] AI가 광섬유 몸값까지 올렸다…한국이 놓친 '데이터센터 혈관'",
@@ -735,7 +735,7 @@
           "link": "https://www.polinews.co.kr/news/articleView.html?idxno=740389",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "코오롱인더, 하반기 더 기대된다…mPPO·CPI 필름이 이끈다",
@@ -746,7 +746,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477958",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "'광통신 강국' 韓, AI 핵심 '프리폼' 역량은 빈껍데기",
@@ -757,7 +757,7 @@
           "link": "https://n.news.naver.com/mnews/article/030/0003457856?sid=100",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "\"AI 시대 핵심 소재 광섬유…한국, 고부가 기술 제조 역량 키워야\"",
@@ -768,7 +768,7 @@
           "link": "https://n.news.naver.com/mnews/article/055/0001381175?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "산업연구원 \"광섬유 고부가 소재 생산역량 시급\"",
@@ -779,7 +779,7 @@
           "link": "https://n.news.naver.com/mnews/article/374/0000527800?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "광섬유, AI 시대 맞이해 수요와 가격 모두 급등",
@@ -790,7 +790,7 @@
           "link": "https://kidd.co.kr/news/247037",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "광통신망 세계 2위의 역설…AI 핵심 '프리폼'은 해외 의존",
@@ -801,18 +801,7 @@
           "link": "https://n.news.naver.com/mnews/article/079/0004179293?sid=103",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "AI 타고 광섬유값 3배 뛰었는데…한국은 고부가 제품 경쟁력 ‘취약",
-          "summary": "탁은명 산업연구원 연구원은 \"현 구조가 지속될 경우 한국이 프리미엄 시장을 해외에 내어주고 범용 저가 경쟁에 고착될 우려가 크다\"며 \"해저케이블 등 국가 기간망의 핵심 소재를 해외에 의존하면 공급망 안보도...",
-          "press": "etoday.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 11:00",
-          "link": "https://www.etoday.co.kr/news/view/2614621",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "산업硏 \"광섬유, 범용 넘어 고부가 프리폼 제조역량 시급\"",
@@ -823,7 +812,18 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014130792?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "AI 타고 광섬유값 3배 뛰었는데…한국은 고부가 제품 경쟁력 ‘취약",
+          "summary": "탁은명 산업연구원 연구원은 \"현 구조가 지속될 경우 한국이 프리미엄 시장을 해외에 내어주고 범용 저가 경쟁에 고착될 우려가 크다\"며 \"해저케이블 등 국가 기간망의 핵심 소재를 해외에 의존하면 공급망 안보도...",
+          "press": "etoday.co.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 11:00",
+          "link": "https://www.etoday.co.kr/news/view/2614621",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "\"AI시대 핵심소재 광섬유…한국, 고부가 기술 제조역량 키워야\"",
@@ -834,7 +834,7 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016254364?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "월드컵 끝나도 5G 남았다…스포츠는 통신 B2B 새 먹거리",
@@ -845,7 +845,7 @@
           "link": "https://n.news.naver.com/mnews/article/092/0002434132?sid=105",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "'A주 황금가을', 中 기관들 AI·반도체주 랠리에 방점",
@@ -856,7 +856,7 @@
           "link": "https://www.newspim.com/news/view/20260817000013",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "백악관 자문이 엔비디아의 700조 금융망을 경고한 이유",
@@ -867,7 +867,7 @@
           "link": "https://www.g-enews.com/view.php?ud=20260817073735492fbbec65dfb_1",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "허성 코오롱인더스트리 운영효율화 통했다, 핵심 제품 가동률 상승에 스...",
@@ -878,7 +878,7 @@
           "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444593",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "국내 최대 메밀 산지인 제주, 재배 넘어 ‘조리법·제품’ 개발 나선다",
@@ -889,7 +889,7 @@
           "link": "https://n.news.naver.com/mnews/article/032/0003464724?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "‘돈쭐’ 응원에 크래미 살았다…북태평양 뚫은 한성기업의 ‘수산보국...",
@@ -900,7 +900,7 @@
           "link": "https://n.news.naver.com/mnews/article/081/0003671025?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "제주 메밀, 2028년까지 제품화",
@@ -911,7 +911,7 @@
           "link": "https://www.farmnmarket.com/news/article.html?no=27496",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "만두 하루 907t 생산…CJ, 美 최대 아시아 식품공장서 K푸드 영토 확장",
@@ -922,7 +922,7 @@
           "link": "https://n.news.naver.com/mnews/article/021/0002811808?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[ET시론] 검색하지 않는 소비자, 유통의 경쟁법칙이 바뀐다",
@@ -933,7 +933,7 @@
           "link": "https://n.news.naver.com/mnews/article/030/0003457915?sid=110",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "메밀, 조리법부터 레토르트까지 활용 다양화 추진",
@@ -944,7 +944,7 @@
           "link": "https://www.jejumaeil.net/news/articleView.html?idxno=403741",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "전국 최대 메밀 주산지 제주, 밀키트로 소비 확산 나선다",
@@ -955,7 +955,7 @@
           "link": "https://n.news.naver.com/mnews/article/469/0000948436?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "메밀 국내 최대 주산지라면서 단순 재배만 하던 제주···조리법·제품...",
@@ -966,7 +966,7 @@
           "link": "https://n.news.naver.com/mnews/article/032/0003464623?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "GS25 추석 기획전으로 본 명절 선물 시장 양극화",
@@ -977,7 +977,7 @@
           "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206628",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "제주 메밀 조리법부터 제품 개발까지…",
@@ -988,7 +988,7 @@
           "link": "http://www.samdailbo.com/news/articleView.html?idxno=269071",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "전국 생산 87% 제주 메밀, 1차 가공 탈피…'밀키트'로 부가가치 높여야",
@@ -999,7 +999,7 @@
           "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4101113",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "CJ, '식품·콘텐츠·뷰티' 3각 편대로 2028년 북미 매출 12조 연다",
@@ -1010,7 +1010,7 @@
           "link": "http://www.metroseoul.co.kr/article/20260817500132",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "건강 곡식 ‘메밀’, 전국 최대 주산지 제주서 간편식품 개발 박차",
@@ -1021,7 +1021,7 @@
           "link": "https://n.news.naver.com/mnews/article/005/0001867263?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"하루에 비비고 만두 86만개 빚어요\" CJ제일제당 미국 공장 가보니[MTN 픽...",
@@ -1032,7 +1032,7 @@
           "link": "https://news.mtn.co.kr/news-detail/2026081616020016475",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "“영업익 20배 뛰고 순익도 흑자”…덩치키운 컬리, IPO 다시 시동",
@@ -1043,7 +1043,7 @@
           "link": "https://n.news.naver.com/mnews/article/009/0005721860?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "제주 메밀, 일상식·간편식으로 변신…소비 확대 나선다",
@@ -1054,7 +1054,7 @@
           "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597491",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[현장] \"미국서 못 이기면 글로벌도 없다\"···CJ, 북미에 'K라이프스타...",
@@ -1065,7 +1065,7 @@
           "link": "https://www.smartbizn.com/news/articleView.html?idxno=151379",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[CJ 북미 대도약] 다시 찾은 이재현 \"2028년 美 매출 12조\"",
@@ -1076,7 +1076,7 @@
           "link": "https://n.news.naver.com/mnews/article/293/0000089138?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[CJ가 만든 K라이프스타일] 허민회 CJ 대표 \"20년 전 꿈꾼 비전 현실로\"",
@@ -1087,7 +1087,7 @@
           "link": "https://www.topdaily.kr/articles/111500",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "제주 메밀, ‘가루’에서 ‘밀키트’로… 소비시장 넓힌다",
@@ -1098,7 +1098,7 @@
           "link": "https://n.news.naver.com/mnews/article/081/0003670924?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "전국 메밀밭 87% 품은 제주… 원곡 팔던 메밀, 밀키트로 키운다",
@@ -1109,7 +1109,7 @@
           "link": "https://n.news.naver.com/mnews/article/014/0005562302?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "런던 일상 파고든 K-푸드…FTA 타고 라면·만두·핫도그까지[FTA 시대, 수...",
@@ -1120,7 +1120,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014130570?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "고물가에 '집콕' 연휴…'간편식' 시장 쑥쑥",
@@ -1131,18 +1131,7 @@
           "link": "https://n.news.naver.com/mnews/article/055/0001381100?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "[경제소식] 깐풍기·마라샹궈도 3980원…이마트, 초저가 델리 확대",
-          "summary": "최근 출생아 수가 회복세를 보이면서 유아동 시장에 대한 기대도 커지고 있다. 통계청에 따르면 올해 1분기... 프리미엄 가정간편식(HMR) 라인업을 확대한다. 이번에는 소고기 안심과 트러플을 활용한 호텔식...",
-          "press": "4th.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 06:00",
-          "link": "http://www.4th.kr/news/articleView.html?idxno=2116445",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"냄새 걱정 없이 편하게 즐긴다\" 생선구이까지 넓어진 HMR 시장",
@@ -1153,7 +1142,18 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014130549?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[경제소식] 깐풍기·마라샹궈도 3980원…이마트, 초저가 델리 확대",
+          "summary": "최근 출생아 수가 회복세를 보이면서 유아동 시장에 대한 기대도 커지고 있다. 통계청에 따르면 올해 1분기... 프리미엄 가정간편식(HMR) 라인업을 확대한다. 이번에는 소고기 안심과 트러플을 활용한 호텔식...",
+          "press": "4th.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 06:00",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2116445",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "전국 메밀 87% 재배하는 제주…밀키트 등 제품화 추진",
@@ -1164,25 +1164,25 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016254061?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }

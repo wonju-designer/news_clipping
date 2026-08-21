@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -99,23 +99,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "수익성 개선…롯데하이마트 2분기 영업익 9억·총매출액 7339억",
-          "summary": "자체 요금제와 중고 모바일 사업 확대에 힘입어 중고폰 매입 고객의 신제품 구매 연계율은 지난 3월 5%에서 7월 말 16%까지 상승했다. 구매 주기가 짧은 상품을 중심으로 유입된 고객이 대형가전과 서비스 구매로...",
-          "press": "asiatime.co.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 17:12",
-          "link": "https://www.asiatime.co.kr/article/20260804500203",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[2026 2분기 실적] 롯데하이마트, 매출 회복 전환…6월 매출 8% 증가",
           "summary": "회사는 ‘Hi-mart 요금제’ 출시 및 중고 모바일 사업 확대를 적극 추진하고 있으며, 중고폰 판매 고객의 신제품 연동 구매율은 7월 말 16%로 상승했고 월 매입량도 1000대를 넘어섰습니다. 2분기 영업이익은 …",
           "press": "inthenews.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 17:12",
           "link": "https://www.inthenews.co.kr/news/article.html?no=90161",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "수익성 개선…롯데하이마트 2분기 영업익 9억·총매출액 7339억",
+          "summary": "자체 요금제와 중고 모바일 사업 확대에 힘입어 중고폰 매입 고객의 신제품 구매 연계율은 지난 3월 5%에서 7월 말 16%까지 상승했다. 구매 주기가 짧은 상품을 중심으로 유입된 고객이 대형가전과 서비스 구매로...",
+          "press": "asiatime.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 17:12",
+          "link": "https://www.asiatime.co.kr/article/20260804500203",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -517,23 +517,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 갤럭시 Z8 시리즈 개통 시작…2040 고객 몰렸다",
-          "summary": "먼저 T안심보상with민팃 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만 원(갤럭시 Z 폴드7 256GB A급 기준)까지 보상을 제공한다. 여기…",
-          "press": "financialreview.co.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 10:38",
-          "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=43969",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"갤럭시 Z8 개통 시작\"…통신 3사, 서비스 경쟁으로 고객몰이 나선다",
           "summary": "단말기 지원금을 앞세우기보다 구독 서비스와 중고폰 보상, 카드 할인, 콘텐츠 이용 혜택을 묶어 실질적인... 공식 온라인스토어에서 사용할 수 있는 할인 쿠폰을 확대했고, 장기 무이자 할부와 중고폰 추가 보상...",
           "press": "seoultimes.news",
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:38",
           "link": "https://www.seoultimes.news/news/article.html?no=2000098458",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 갤럭시 Z8 시리즈 개통 시작…2040 고객 몰렸다",
+          "summary": "먼저 T안심보상with민팃 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만 원(갤럭시 Z 폴드7 256GB A급 기준)까지 보상을 제공한다. 여기…",
+          "press": "financialreview.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:38",
+          "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=43969",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -616,23 +616,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "이통3사 '갤럭시 Z 폴드8·플립8' 개통 시작… 고객 유치 경쟁",
-          "summary": "오는 9월 6일까지는 T안심보상 with민팃을 통해 최대 100만원의 중고폰 보상을 지원하며 'T PREMIUM 삼성카드' 및 'T&Life 신한카드' 등 제휴카드 할인을 통해 구매 부담을 대폭 낮췄다. 만 13세 …",
-          "press": "newscj.com",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 10:14",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3422267",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"플립보다 폴드\"…갤럭시 Z 폴드8, 대화면이 흥행 이끌었다",
           "summary": "이동통신3사도 단순한 공시지원금 경쟁에서 벗어나 온라인동영상서비스(OTT), 중고폰 보상, 장기 할부 등... 단말 구매 부담을 낮추기 위해 중고폰 보상도 강화했다. SK텔레콤은 9월 6일까지 기존 스마트폰의 모델과…",
           "press": "itdaily.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:14",
           "link": "https://www.itdaily.kr/news/articleView.html?idxno=240770",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사 '갤럭시 Z 폴드8·플립8' 개통 시작… 고객 유치 경쟁",
+          "summary": "오는 9월 6일까지는 T안심보상 with민팃을 통해 최대 100만원의 중고폰 보상을 지원하며 'T PREMIUM 삼성카드' 및 'T&Life 신한카드' 등 제휴카드 할인을 통해 구매 부담을 대폭 낮췄다. 만 13세 …",
+          "press": "newscj.com",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:14",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3422267",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -649,17 +649,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "갤럭시 Z 폴드8 개통 시작…통신3사, '폴드 대세' 속 혜택 경쟁",
-          "summary": "이와 함께 중고폰 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준) 보상과 제휴카드 할인 등 구매 지원... 회사는 프리미엄 스마트폰 가격 부담을 낮추기 위한 할인 쿠폰과 무이자 할부, 중고폰 추가 보상 프로…",
-          "press": "popcornnews.net",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 10:10",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=128583",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SK텔레콤, 넷플릭스와 협력해 사전예약 고객 혜택 강화",
           "summary": "8월 4일부터 9월 6일까지 T안심보상with민팃을 통해 중고폰 반납 시 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준)까지 보상이 제공된다. 'T PREMIUM 삼성카드' 할부 결제 시 최대 96만원, '…",
           "press": "newsquest.co.kr",
@@ -671,12 +660,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "통신 3사, '갤럭시Z8 시리즈' 개통 시작…\"대화면 폴드8 인기\"",
-          "summary": "이날부터 다음 달 6일까지 T안심보상with민팃 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만 원(갤럭시 Z 폴드7 256GB A급 기준)까지 …",
-          "press": "newsway.co.kr",
+          "title": "갤럭시 Z 폴드8 개통 시작…통신3사, '폴드 대세' 속 혜택 경쟁",
+          "summary": "이와 함께 중고폰 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준) 보상과 제휴카드 할인 등 구매 지원... 회사는 프리미엄 스마트폰 가격 부담을 낮추기 위한 할인 쿠폰과 무이자 할부, 중고폰 추가 보상 프로…",
+          "press": "popcornnews.net",
           "date": "2026-08-04",
-          "datetime": "2026-08-04 10:08",
-          "link": "https://www.newsway.co.kr/news/view?ud=2026080409363051041",
+          "datetime": "2026-08-04 10:10",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=128583",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -688,6 +677,17 @@
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:08",
           "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251885",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사, '갤럭시Z8 시리즈' 개통 시작…\"대화면 폴드8 인기\"",
+          "summary": "이날부터 다음 달 6일까지 T안심보상with민팃 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만 원(갤럭시 Z 폴드7 256GB A급 기준)까지 …",
+          "press": "newsway.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:08",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026080409363051041",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -757,7 +757,7 @@
           "link": "https://www.thelec.kr/news/articleView.html?idxno=60540",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "[공시] RF머트리얼즈·광동헬스바이오 '투자경고', 재영솔루텍·오이솔...",
@@ -768,7 +768,7 @@
           "link": "https://www.newstnt.com/news/articleView.html?idxno=712840",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대형 기지국 장비부터 부품·소재주까지 동반 상승… 통신장비 테마 온...",
@@ -779,7 +779,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474140",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "RF머트리얼즈, AI 네트워크 확대 수혜 기대… 화합물 반도체 경쟁력 부...",
@@ -790,25 +790,25 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474110",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -118,7 +118,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474526",
           "badge": "자사",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "젠슨 황 찜한 'CPO' 세계 1위… 성호전자 ADS테크, 美서 235억원 수주 '전...",
@@ -129,7 +129,7 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005395882?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "솔루엠, AI 데이터센터용 파워 사업 본격 확대…전성호 대표 “지속 성...",
@@ -140,7 +140,7 @@
           "link": "https://n.news.naver.com/mnews/article/030/0003454278?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "에이텀, EV 전장·AI 데이터센터 정조준…정관 변경으로 사업 재편 본격...",
@@ -151,7 +151,7 @@
           "link": "https://n.news.naver.com/mnews/article/277/0005798978?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "인텔·AMD 반등 이끈 AI… 엔비디아 독주 체제에 변화 바람",
@@ -162,7 +162,7 @@
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167402",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "초고속 광통신·RF 부품·위성통신 모멘텀 가속… 통신장비 관련주 '함박...",
@@ -173,7 +173,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474479",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[급등락주 짚어보기] 美 규제로 광통신 훈풍 탄 코스닥⋯빛과전자·오이...",
@@ -184,7 +184,7 @@
           "link": "https://www.etoday.co.kr/news/view/2611419",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "美, 中 광트랜시버 수입금지 추진…AI 데이터센터 공급망 선제 차단",
@@ -195,7 +195,7 @@
           "link": "https://n.news.naver.com/mnews/article/023/0003991474?sid=105",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "AI 데이터센터서 중국산 빼라는 미국…세계 1위 업체 흔든다",
@@ -206,7 +206,7 @@
           "link": "https://n.news.naver.com/mnews/article/123/0002387875?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "오이솔루션 주가 장중 상한가, 미국의 '중국산 부품 수입 금지법안'에 ...",
@@ -217,7 +217,7 @@
           "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443993",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대한광통신, 코스피·코스닥 상승 속 주가 강세…과거 美 AI 데이터센터...",
@@ -228,25 +228,25 @@
           "link": "https://www.cbci.co.kr/news/articleView.html?idxno=594533",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }

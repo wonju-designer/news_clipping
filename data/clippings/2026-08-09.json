@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -64,7 +64,7 @@
           "link": "http://www.hellodd.com/news/articleView.html?idxno=112756",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "공유기 속 '엣지 AI' 가동…LG유플러스, 지능형 홈 네트워크 검증 성공",
@@ -75,7 +75,7 @@
           "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82952",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "LG유플러스, 공유기서 AI 돌린다…인터넷 품질 스스로 관리",
@@ -86,7 +86,7 @@
           "link": "https://n.news.naver.com/mnews/article/119/0003119719?sid=105",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "농수산식품유통공사(aT), 싱가포르 'K-고기' 마케팅 전개 및 '수산식품바...",
@@ -97,7 +97,7 @@
           "link": "https://www.cstimes.com/news/articleView.html?idxno=716160",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "뉴델리서 'K-푸드페어' 성료",
@@ -108,7 +108,7 @@
           "link": "http://www.bokuennews.com/news/article.html?no=282253",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[푸드컬처N] '넥스트 K-푸드' 투트랙 전략… 유럽 대륙 뚫고 아시아 확장",
@@ -119,7 +119,7 @@
           "link": "https://www.nc.press/news/articleView.html?idxno=623092",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "순천시 승주읍, ㈜남쪽동네·노무사사무소 사랑의 밀키트 전달",
@@ -130,7 +130,7 @@
           "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282166",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "aT, K-씨푸드 수출 지원 수산식품기업바우처 간담회 성료",
@@ -141,25 +141,25 @@
           "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=902975",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }

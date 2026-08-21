@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -85,7 +85,7 @@
           "link": "https://www.the-today.com/news/articleView.html?idxno=88510",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "4대 과기원 창업원 출범…‘대박’난 KAIST 기업 어디 [빛이 나는 비즈]",
@@ -96,7 +96,7 @@
           "link": "https://n.news.naver.com/mnews/article/011/0004652040?sid=105",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "해외서 벌고 원가에 깎였다···CJ제일제당부터 빙그레까지 엇갈린 2분...",
@@ -107,7 +107,7 @@
           "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257308",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"방학이 안 왔으면 좋겠어요\"…中서 확산되는 '밀키트 아이'",
@@ -118,25 +118,25 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014129122?sid=104",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }

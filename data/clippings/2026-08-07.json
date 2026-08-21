@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -235,23 +235,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "\"전자책 무한 제공\"…LG헬로비전 헬로모바일, 2040 겨냥 '교보문고 요금...",
-          "summary": "LG헬로비전의 알뜰폰 사업 부문 헬로모바일은 교보문고와 손잡고, 매월 9900원 상당의 혜택을 제공하는 '교보문고 유심·휴대폰 요금제' 6종을 출시했다고 7일 밝혔다. 알뜰폰 핵심 소비층인 2040 세대를 중심으로 …",
-          "press": "financialpost.co.kr",
-          "date": "2026-08-07",
-          "datetime": "2026-08-07 13:40",
-          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269544",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "헬로모바일, '교보문고 요금제' 6종 출시",
           "summary": "김예현 LG헬로비전 모바일사업담당은 \"자기계발과 독서 라이프를 즐기는 알뜰폰 고객을 위해 교보문고와 제휴 요금제를 제공하게 됐다\"며 \"앞으로도 생활밀착 제휴를 지속 확대해 통신을 넘어 라이프스타일 전반에서...",
           "press": "datanet.co.kr",
           "date": "2026-08-07",
           "datetime": "2026-08-07 13:40",
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=213626",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"전자책 무한 제공\"…LG헬로비전 헬로모바일, 2040 겨냥 '교보문고 요금...",
+          "summary": "LG헬로비전의 알뜰폰 사업 부문 헬로모바일은 교보문고와 손잡고, 매월 9900원 상당의 혜택을 제공하는 '교보문고 유심·휴대폰 요금제' 6종을 출시했다고 7일 밝혔다. 알뜰폰 핵심 소비층인 2040 세대를 중심으로 …",
+          "press": "financialpost.co.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 13:40",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269544",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -455,23 +455,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG헬로비전 헬로모바일, 교보문고 제휴 혜택 담은 알뜰폰 요금제 출시",
-          "summary": "사진=LG헬로비전 LG헬로비전이 교보문고 전자책 구독과 도서 구매 혜택을 결합한 알뜰폰 요금제를 선보인다. LG헬로비전 헬로모바일은 교보문고와 제휴해 '교보문고 유심·휴대폰 요금제' 6종을 출시했다고 7일...",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-07",
-          "datetime": "2026-08-07 08:14",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475157",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG헬로비전 헬로모바일, 교보문고 손잡고 '도서 제휴 요금제' 출시",
           "summary": "헬로모바일은 알뜰폰 주요 이용층인 2040세대를 비롯해 독서와 자기계발에 관심이 높은 고객을 대상으로 차별화된 혜택을 제공한다는 계획이다. 가입 고객은 매월 교보문고 sam무제한 이용권과 온라인 전용...",
           "press": "popcornnews.net",
           "date": "2026-08-07",
           "datetime": "2026-08-07 08:14",
           "link": "http://www.popcornnews.net/news/articleView.html?idxno=128941",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG헬로비전 헬로모바일, 교보문고 제휴 혜택 담은 알뜰폰 요금제 출시",
+          "summary": "사진=LG헬로비전 LG헬로비전이 교보문고 전자책 구독과 도서 구매 혜택을 결합한 알뜰폰 요금제를 선보인다. LG헬로비전 헬로모바일은 교보문고와 제휴해 '교보문고 유심·휴대폰 요금제' 6종을 출시했다고 7일...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 08:14",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475157",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -493,7 +493,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475238",
           "badge": "자사",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "양극재·음극재 등 핵심 소재주 훨훨… 2차전지 대형주도 동반 상승",
@@ -504,7 +504,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475210",
           "badge": "자사",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "솔루엠, AI 데이터센터용 800Vdc급 전력 솔루션 개발…포트폴리오 다각...",
@@ -515,7 +515,7 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005318338?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "한국첨단소재, 광통신용 핵심 소재 공급 계약 전격 확대… 실적 모멘텀...",
@@ -526,7 +526,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475321",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "빛과전자·대한광통신 등 광통신 관련주 강세 이유",
@@ -537,7 +537,7 @@
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3658449",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "코스피, 장초반 6400선 회복…코스닥 810선·광통신·2차전지주 급등",
@@ -548,7 +548,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475206",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "고려아연 '방산 핵심소재' 게르마늄 조기양산",
@@ -559,7 +559,7 @@
           "link": "https://n.news.naver.com/mnews/article/009/0005718182?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "코파일럿+ 지원 '갤럭시북5 프로 360'... PC사랑과 컴퓨존 함께하는 8월...",
@@ -570,7 +570,7 @@
           "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60246",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "경제 전망 불확실한데…‘닥터 코퍼’ 신고가 찍은 이유는 [머니+]",
@@ -581,7 +581,7 @@
           "link": "https://www.ekn.kr/web/view.php?key=20260807029510538",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "aT, 대전서 '수산식품기업바우처 간담회' 개최…참여업체 150곳 수출전략...",
@@ -592,7 +592,7 @@
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3659029",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "aT, 수산식품기업바우처 간담회 개최",
@@ -603,7 +603,7 @@
           "link": "http://www.lawissue.co.kr/view.php?ud=202608071705285874f4ab64559d_12",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "aT, 'K-씨푸드' 체질 개선과 'K-미트' 싱가포르 안착",
@@ -614,7 +614,7 @@
           "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=413207",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "‘2026 국제아웃도어캠핑&레포츠페스티벌 고카프’, 오는 28일 수원메쎄...",
@@ -625,7 +625,7 @@
           "link": "https://idsn.co.kr/news/view/1065575974621952",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "K-푸드, 인도·남아시아 시장 공략",
@@ -636,7 +636,7 @@
           "link": "https://www.chukkyung.co.kr/news/articleView.html?idxno=82306",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "편의점 3사 '차별화 성장' 방향…글로벌·특화·협업 강화(下)",
@@ -647,25 +647,25 @@
           "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578809822409",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -209,23 +209,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG U+, 2분기 영업익 3445억원…분기 기준 역대 최대",
-          "summary": "이동통신(MNO) 가입 회선은 2244만2000여개로 7.2%, 알뜰폰(MVNO) 가입 회선은 902만5000여개로 0.4% 각각 증가했다. 스마트홈 부문 수익은 IPTV와 초고속인터넷 가입자 증가에 힘입어 4.3%…",
-          "press": "delighti.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:06",
-          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119894",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스, 2분기 역대 최대 실적…수익성 기반 AIDC 투자 확대(종합)",
           "summary": "MNO 가입회선은 2244만 2000여개, MVNO 가입회선은 902만 5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만 8000명으로, 전체 …",
           "press": "아주경제",
           "date": "2026-08-06",
           "datetime": "2026-08-06 15:06",
           "link": "https://www.ajunews.com/view/20260806145442087",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG U+, 2분기 영업익 3445억원…분기 기준 역대 최대",
+          "summary": "이동통신(MNO) 가입 회선은 2244만2000여개로 7.2%, 알뜰폰(MVNO) 가입 회선은 902만5000여개로 0.4% 각각 증가했다. 스마트홈 부문 수익은 IPTV와 초고속인터넷 가입자 증가에 힘입어 4.3%…",
+          "press": "delighti.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:06",
+          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119894",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1231,7 +1231,7 @@
           "link": "https://n.news.naver.com/mnews/article/029/0003041059?sid=105",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "머큐리, 롯데리아에 IoT 기반 주방자동소화장치 공급",
@@ -1242,7 +1242,7 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005396417?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "너무 뛰었나...한국증시 광통신·통신장비주 '장중 뚝'",
@@ -1253,7 +1253,7 @@
           "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=169429",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "중국산 광트랜시버 수입 규제…마벨·루멘텀 주목",
@@ -1264,7 +1264,7 @@
           "link": "https://www.naeil.com/news/read/597922?ref=naver",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "베트남 광섬유 케이블 시장동향",
@@ -1275,7 +1275,7 @@
           "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243249",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[르포] 펄펄 끓는 서울에서 살아남는 법",
@@ -1286,25 +1286,25 @@
           "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608061458178150090",
           "badge": "산업",
           "subgroup": "ritco",
-          "subgroup_label": "4-4 리트코"
+          "subgroup_label": "리트코"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }

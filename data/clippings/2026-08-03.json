@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -153,7 +153,7 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006343245?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "성호전자, 폭염에 여름가전 부품 주문 급증…파워·콘덴서 수요 20% 증가",
@@ -164,7 +164,7 @@
           "link": "https://n.news.naver.com/mnews/article/277/0005798102?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "성호전자, 폭염에 여름가전 부품 수요 증가…파워·콘덴서 공급 확대",
@@ -175,7 +175,7 @@
           "link": "https://www.greened.kr/news/articleView.html?idxno=346644",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "온화한 리더십 뒤엔 불륜의 그림자... '인텔 신화' 쓴 노이스는 누구",
@@ -186,7 +186,7 @@
           "link": "https://n.news.naver.com/mnews/article/469/0000945915?sid=105",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "광통신·광반도체주 오전 주가 장중 강세…대한광통신 11%대 상승, 빛과...",
@@ -197,7 +197,7 @@
           "link": "https://www.cbci.co.kr/news/articleView.html?idxno=594054",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "192억달러 KKR 인프라 펀드, 데이터센터·전력 겨냥",
@@ -208,7 +208,7 @@
           "link": "https://www.tokenpost.kr/news/cryptocurrency/384385",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "멕시코 스위치 시장동향",
@@ -219,7 +219,7 @@
           "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243200",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[ICT광장] 직접수신율 3% 시대, 아파트 방송공동수신설비 의무화는 계속...",
@@ -230,7 +230,7 @@
           "link": "https://www.koit.co.kr/news/articleView.html?idxno=208291",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대한광통신 주가, 급등세... 무슨 회사길래?",
@@ -241,7 +241,7 @@
           "link": "https://www.ggilbo.com/news/articleView.html?idxno=1172844",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[박정식의 국내 주식시황] 트럼프 이란 대규모 공습 취소에 국내시장 훈...",
@@ -252,25 +252,25 @@
           "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=270906",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }

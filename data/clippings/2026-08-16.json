@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -85,7 +85,7 @@
           "link": "https://www.m-i.kr/news/articleView.html?idxno=1402803",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "뛰어난 확장성 갖춘 초소형 미니 워크스테이션, Minisforum MS-A2 [연중기...",
@@ -96,7 +96,7 @@
           "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60340",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "새 판 짜기 돌입한 삼성SDI…불붙는 韓 ESS 3차 입찰 [위클리배터리]",
@@ -107,7 +107,7 @@
           "link": "https://n.news.naver.com/mnews/article/138/0002237973?sid=105",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "AI 인프라, 다음 격전지는 ‘광통신’",
@@ -118,7 +118,7 @@
           "link": "https://kidd.co.kr/news/247041",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "AI 데이터센터 붐 탄 美 제조업… 전력 장비로 활로 개척",
@@ -129,7 +129,7 @@
           "link": "https://www.g-enews.com/view.php?ud=2026081606511691802bd56fbc3c_1",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한끼 때우는 간편식?…\"내 입맛대로\" 달라진 트렌드",
@@ -140,7 +140,7 @@
           "link": "https://n.news.naver.com/mnews/article/055/0001381059?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "삼립, '김우동'서 막국수까지 대동면지도 강화",
@@ -151,7 +151,7 @@
           "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546141",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "SPC삼립, 김우동·막국수로 HMR 강화...‘대동면지도’ 통해 지역 면요리...",
@@ -162,7 +162,7 @@
           "link": "https://www.hinews.co.kr/view.php?ud=2026081615093931736cf2d78c68_48",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "SPC삼립 하이면, ‘김우동·막국수’로 여름 공략...‘대동면지도’ 라...",
@@ -173,7 +173,7 @@
           "link": "http://www.lawissue.co.kr/view.php?ud=2026081615063378166cf2d78c68_12",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[푸드컬처N] \"같은 시장은 없다\"… 동남아 7억 인구 겨냥 'K-푸드 핀셋' ...",
@@ -184,7 +184,7 @@
           "link": "https://www.nc.press/news/articleView.html?idxno=623820",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "해외서 돈 벌고 국내선 가격 인상…소비자만 허리 휜다",
@@ -195,7 +195,7 @@
           "link": "https://n.news.naver.com/mnews/article/215/0001262538?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "“비용은 분담, 성과는 따로?”…식품업계 경영진 보수 살펴보니",
@@ -206,7 +206,7 @@
           "link": "https://n.news.naver.com/mnews/article/123/0002388477?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "美 일상 파고든 'K-라이프스타일'···만두·빵 넘어 스킨케어까지",
@@ -217,7 +217,7 @@
           "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=404985",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[유통 View] 관세서 물류로…'FTA 2.0' 타고 K-푸드 70.5억 달러 역대최고",
@@ -228,7 +228,7 @@
           "link": "https://www.newscj.com/news/articleView.html?idxno=3425510",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "“가격 인상에 소비자는 힘든데” 오너 급여 올린 농심·오뚜기",
@@ -239,7 +239,7 @@
           "link": "https://n.news.naver.com/mnews/article/050/0000109713?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "“미국 어디서든 비비고를”…K푸드 현지화 속도 내는 CJ제일제당",
@@ -250,7 +250,7 @@
           "link": "https://n.news.naver.com/mnews/article/009/0005721573?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "식품업계 수익성 개선에도 가격인상…경영진 보수↑",
@@ -261,7 +261,7 @@
           "link": "https://n.news.naver.com/mnews/article/374/0000527749?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"1차가공 넘어 고부가가치로\"…제주 메밀, 상품화 박차",
@@ -272,7 +272,7 @@
           "link": "https://n.news.naver.com/mnews/article/079/0004179187?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "치킨·고수로 빚은 '비비고 만두', 美 수백만 식탁 홀렸다",
@@ -283,7 +283,7 @@
           "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/15/2026081500003.html",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[현장] '1등 K만두' 매일 160톤씩 생산, CJ제일제당 보몬트공장 '미국판...",
@@ -294,7 +294,7 @@
           "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444879",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"비비고 만두부터 K소스까지\"…CJ제일제당, 美 입맛 바꿨다",
@@ -305,7 +305,7 @@
           "link": "https://n.news.naver.com/mnews/article/215/0001262524?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[유통 View] K푸드 날았는데 가격표는 두 갈래…식품 2Q 성적표",
@@ -316,7 +316,7 @@
           "link": "https://www.newscj.com/news/articleView.html?idxno=3425499",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "관세 낮춘 후 물류·판로까지…K-푸드 수출 '패키지 지원'[FTA 시대, 수출...",
@@ -327,7 +327,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014129919?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "해외서 벌고 국내 가격은 올린 식품기업들…경영진 월급도 인상",
@@ -338,7 +338,7 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016253469?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "'3대째 닭한마리 운영' 할머니 울상…폭염·고물가에 \"복날 특수 없었다...",
@@ -349,25 +349,25 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009115992?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }

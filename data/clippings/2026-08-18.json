@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -307,7 +307,7 @@
           "link": "https://www.insight.co.kr/news/568724",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "[이슈] 1조원대 ESS 수주전 앞둔 배터리 3사…'EV 빈자리' 공략",
@@ -318,7 +318,7 @@
           "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=363937",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "조현민 이볼루션 대표, '충전' 넘어 '전생(電生)'을 그리다",
@@ -329,7 +329,7 @@
           "link": "https://www.electimes.com/news/articleView.html?idxno=371348",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "아르헨티나 냉장고 부품 시장동향",
@@ -340,7 +340,7 @@
           "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243389",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "환경가전 고급화 수혜… 성호전자, 고부가 부품 라인업 앞세워 실적 개...",
@@ -351,7 +351,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478278",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "통신3사, AIDC 투자 확대…SKT '초대형'·KT '엣지'·LGU+ 'DBO'",
@@ -362,7 +362,7 @@
           "link": "https://theviewers.co.kr/View.aspx?No=4189409",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "\"설계·시공에서 에너지로\"… 한화 건설부문, 1조 클럽 목전에서 사업 ...",
@@ -373,7 +373,7 @@
           "link": "https://www.greened.kr/news/articleView.html?idxno=347824",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "[ICT시사용어] D2C 액체냉각",
@@ -384,7 +384,7 @@
           "link": "https://n.news.naver.com/mnews/article/030/0003458041?sid=105",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "삼성SDI, EV 부진에도 흑자…북미 무게중심 ESS로",
@@ -395,7 +395,7 @@
           "link": "http://www.datanews.co.kr/news/article.html?no=146040",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "브런즈윅, AI 보트로 판매 둔화 돌파 모색",
@@ -406,7 +406,7 @@
           "link": "https://www.tokenpost.kr/news/cryptocurrency/392507",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체 AI발 수요 대비 6천여평 최대규모 공장 매입",
@@ -417,7 +417,7 @@
           "link": "https://n.news.naver.com/mnews/article/009/0005722540?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 들여 신규 팹 구축",
@@ -428,7 +428,7 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005322057?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[오늘의 주요공시] 한미반도체·미래에셋증권·HLB글로벌·HJ중공업 등",
@@ -439,7 +439,7 @@
           "link": "https://www.etoday.co.kr/news/view/2615636",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 투자해 8공장 구축…내년 2분기 양산",
@@ -450,7 +450,7 @@
           "link": "https://www.newspim.com/news/view/20260818000729",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "허종식 의원, \"한미반도체 대규모 투자, 진심으로 환영합니다\"",
@@ -461,7 +461,7 @@
           "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1329821",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 인천 주안 6230평 부지 매입…8공장 구축 목적",
@@ -472,7 +472,7 @@
           "link": "http://www.srtimes.kr/news/articleView.html?idxno=210265",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 투입해 대규모 신규 팹 구축",
@@ -483,7 +483,7 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005322000?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "'피크아웃 우려는 기우' 한미반도체, 머큐리 공장 과감하게 인수",
@@ -494,7 +494,7 @@
           "link": "https://n.news.naver.com/mnews/article/243/0000101825?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "영국이 띄운 ‘AI 성장구역’…3억파운드·3400개 일자리",
@@ -505,7 +505,7 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006353598?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, AI장비 '쇼티지'에 1300억 베팅…역대 최대 8공장 구축",
@@ -516,7 +516,7 @@
           "link": "https://n.news.naver.com/mnews/article/648/0000049922?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 인천 제8공장 부지 6230평 '1300억원' 매입",
@@ -527,7 +527,7 @@
           "link": "https://n.news.naver.com/mnews/article/030/0003458312?sid=105",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 들여 8공장 구축…AI장비 증산",
@@ -538,7 +538,7 @@
           "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857594",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 들여 인천에 차세대 반도체 장비 생산시설 구축",
@@ -549,7 +549,7 @@
           "link": "https://www.livebiz.today/news/articleView.html?idxno=204213",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 창사 최대 2만평 공장 짓는다 … 1300억 투입해 AI 장비 증산",
@@ -560,7 +560,7 @@
           "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/18/2026081800260.html",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, AI 장비 수요 급증 대응⋯8공장에 1300억 투자",
@@ -571,7 +571,7 @@
           "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546693",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 인천 주안 공장 매입…1천300억 투자해 8공장 건립 시동",
@@ -582,7 +582,7 @@
           "link": "https://n.news.naver.com/mnews/article/666/0000119575?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 들여 역대 최대 8공장 구축...HBM 장비 생산 확대",
@@ -593,7 +593,7 @@
           "link": "https://www.ppss.kr/news/articleView.html?idxno=305992",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 인천 주안에 1300억 투입 8공장 구축한다",
@@ -604,7 +604,7 @@
           "link": "https://www.tournews21.com/news/articleView.html?idxno=141264",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 창사 최대 규모 2만㎡ 공장 부지 매입... \"장비 공급 적기에...",
@@ -615,7 +615,7 @@
           "link": "https://n.news.naver.com/mnews/article/469/0000948625?sid=105",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "\"반도체 장비 부족\"…한미반도체, 신규 팹에 1300억 투입",
@@ -626,7 +626,7 @@
           "link": "https://n.news.naver.com/mnews/article/215/0001262723?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 인천에 최대 규모 신공장 확보…총 1300억 투자",
@@ -637,7 +637,7 @@
           "link": "https://www.ceoscoredaily.com/page/view/2026081815153741254",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 인천에 역대 최대 규모 8공장 구축… “AI 장비 쇼티지 대...",
@@ -648,7 +648,7 @@
           "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608181511088240370",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[공시 Pick] 한미반도체, 창사 최대 8공장 확보에 주가 강세",
@@ -659,7 +659,7 @@
           "link": "https://www.news2day.co.kr/article/20260818500161",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 투입해 8공장 구축 본격화",
@@ -670,7 +670,7 @@
           "link": "https://n.news.naver.com/mnews/article/011/0004652646?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 560억 투자해 2만㎡ 토지 매입…\"반도체 장비 쇼티지 대응...",
@@ -681,7 +681,7 @@
           "link": "http://www.segyebiz.com/newsView/20260818515249?OutUrl=naver",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 인천 6230평 부지 매입…역대 최대 규모 8공장 구축",
@@ -692,7 +692,7 @@
           "link": "https://n.news.naver.com/mnews/article/366/0001186871?sid=105",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "\"1300억 베팅\"…한미반도체, 역대 최대 규모 생산공장 신설",
@@ -703,7 +703,7 @@
           "link": "https://n.news.naver.com/mnews/article/293/0000089203?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억원 투입해 8공장 신설… AI 장비 쇼티지 선제 대응",
@@ -714,7 +714,7 @@
           "link": "https://n.news.naver.com/mnews/article/138/0002238115?sid=105",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 6230평 역대 최대 8공장 구축…1300억원 투자",
@@ -725,7 +725,7 @@
           "link": "https://www.kukinews.com/article/view/kuk202608180120",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체 1300억 들여 신규 공장…\"장비 공급 부족 대응\"",
@@ -736,7 +736,7 @@
           "link": "https://n.news.naver.com/mnews/article/374/0000527966?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "머큐리, 560억 규모 유형자산 양도 결정",
@@ -747,7 +747,7 @@
           "link": "https://n.news.naver.com/mnews/article/016/0002685156?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1천300억 투자 역대 최대규모 8공장 구축",
@@ -758,7 +758,7 @@
           "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430571",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, HBM 장비 생산 위해 6230평 부지 매입",
@@ -769,7 +769,7 @@
           "link": "https://www.asiatime.co.kr/article/20260818500316",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "머큐리, 560억 규모 유형자산 양도 결정",
@@ -780,7 +780,7 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006353498?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 머큐리 공장 인수해 8공장 구축...AI 장비 쇼티지 대응",
@@ -791,7 +791,7 @@
           "link": "http://www.newslock.co.kr/news/articleView.html?idxno=134476",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 인천에 창사 최대규모 2만㎡ 신공장 부지 매입",
@@ -802,7 +802,7 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016256392?sid=105",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, '560억' 8공장 부지 확보…HBM 공급 부족 대응",
@@ -813,7 +813,7 @@
           "link": "https://n.news.naver.com/mnews/article/293/0000089194?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "\"추가로 1300억 투입\" 한미반도체, 인천 주안 8공장 추진",
@@ -824,7 +824,7 @@
           "link": "https://n.news.naver.com/mnews/article/014/0005562860?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 들여 6천평 규모 공장 부지 매입…\"HBM 생산능력 확...",
@@ -835,7 +835,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478247",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억원 투입해 대규모 신규 팹 구축 추진",
@@ -846,7 +846,7 @@
           "link": "https://n.news.naver.com/mnews/article/092/0002434226?sid=105",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 투자해 8공장 구축…AI 장비 생산능력 확대",
@@ -857,18 +857,7 @@
           "link": "https://news.mtn.co.kr/news-detail/2026081813232031710",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "한미반도체, 560억원 규모 토지·건물 취득…신공장 8공장 확보",
-          "summary": "거래상대는 머큐리다. 한미반도체는 취득 목적에 대해 글로벌 반도체 기업들의 설비 투자 확대에 따른 장비 공급 부족(쇼티지)에 선제적으로 대응하기 위한 신공장인 8공장 확보라고 밝혔다. 취득 대상 토지는...",
-          "press": "cbci.co.kr",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 13:16",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=598970",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 6230평 공장 부지 매입…8공장 구축",
@@ -879,7 +868,18 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014132901?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, 560억원 규모 토지·건물 취득…신공장 8공장 확보",
+          "summary": "거래상대는 머큐리다. 한미반도체는 취득 목적에 대해 글로벌 반도체 기업들의 설비 투자 확대에 따른 장비 공급 부족(쇼티지)에 선제적으로 대응하기 위한 신공장인 8공장 확보라고 밝혔다. 취득 대상 토지는...",
+          "press": "cbci.co.kr",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 13:16",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=598970",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 투입해 '8공장' 구축…반도체 장비 공급난 정면 돌파",
@@ -890,7 +890,7 @@
           "link": "https://www.ajunews.com/view/20260818125313071",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 들여 역대 최대 8공장 구축…HBM 장비 생산 확대",
@@ -901,7 +901,7 @@
           "link": "https://n.news.naver.com/mnews/article/031/0001050384?sid=105",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 6230평 공장 부지 매입…1300억원 투자",
@@ -912,7 +912,7 @@
           "link": "https://n.news.naver.com/mnews/article/629/0000525202?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 역대 최대 규모 공장 부지 매입…\"반도체 수요 선제 대응\"",
@@ -923,7 +923,7 @@
           "link": "https://www.g-enews.com/view.php?ud=202608181155129206139bf6e4b2_1",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 들여 역대 최대 8공장 구축…AI 반도체 장비 증산",
@@ -934,7 +934,7 @@
           "link": "https://www.etoday.co.kr/news/view/2615455",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체 1300억 투자해 역대 최대 규모 8공장 짓는다, AI 반도체 장비...",
@@ -945,7 +945,7 @@
           "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444955",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 신규 공장 매입·내년 2분기 양산…\"수요 급증에 대응\"",
@@ -956,7 +956,7 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005401280?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 6230평 공장 부지 매입⋯ “창사 최대 규모“",
@@ -967,7 +967,7 @@
           "link": "https://www.viva100.com/article/20260818500612",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 1300억 투입해 8공장 구축…\"AI 장비 쇼티지 선제 대응\"",
@@ -978,7 +978,7 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009118778?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "‘물 들어올 때 노젓자’…한미반도체, 인천 주안에 8공장 짓고 내년 2분...",
@@ -989,7 +989,7 @@
           "link": "https://n.news.naver.com/mnews/article/016/0002685090?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 6230평 규모 공장 부지 매입···창사 이래 최대 투자",
@@ -1000,7 +1000,7 @@
           "link": "https://www.seoulfn.com/news/articleView.html?idxno=635844",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, 6230평 공장 매입…1300억 투입해 8공장 구축",
@@ -1011,7 +1011,7 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720725",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[공시] 한미반도체, 창사 최대 규모 560억원 토지·건물 취득",
@@ -1022,7 +1022,7 @@
           "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=390749",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "아이즈비전, 상반기 매출·영업이익 동반 성장",
@@ -1033,7 +1033,7 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005401101?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "머큐리, 광통신 성장 힘입어 상반기 실적 '흑자전환'",
@@ -1044,7 +1044,7 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005401079?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "아이즈비전, 상반기 연결 매출 1000억 돌파…영업익 22억 ‘성장세 지속...",
@@ -1055,7 +1055,7 @@
           "link": "https://www.etoday.co.kr/news/view/2615269",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "머큐리, 상반기 영업익 흑자전환…‘머큐리광통신’ 실적 견인",
@@ -1066,7 +1066,7 @@
           "link": "https://www.etoday.co.kr/news/view/2615260",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[AI MY 뉴스] 뉴욕 반도체주 프리뷰...美 금리·유가 급등에 반도체주 '...",
@@ -1077,7 +1077,7 @@
           "link": "https://www.newspim.com/news/view/20260818001291",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "산업硏,「AI 시대 주목받는 광섬유, 한국의 현주소와 과제」보고서 발표",
@@ -1088,7 +1088,7 @@
           "link": "http://www.ifs.or.kr/bbs/board.php?bo_table=research&wr_id=11364",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[주식마감] '남북경협주' 코데즈컴바인·좋은사람들 상한가... 삼성공조...",
@@ -1099,7 +1099,7 @@
           "link": "https://www.ggilbo.com/news/articleView.html?idxno=1176052",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "GPU는 쌓이는데 연결할 게 없어…AI 시대 귀해진 '광통신'",
@@ -1110,7 +1110,7 @@
           "link": "https://n.news.naver.com/mnews/article/031/0001050543?sid=105",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "8월 둘째 주 국내 ETF 시장, 반도체 레버리지 강세",
@@ -1121,7 +1121,7 @@
           "link": "http://www.newsmaker.or.kr/news/articleView.html?idxno=180888",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "美 증시, 소비 체력 확인한다…中 AI·日 엔저도 시험대 [글로벌 레이더...",
@@ -1132,7 +1132,7 @@
           "link": "https://www.ekn.kr/web/view.php?key=20260818022203770",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대한광통신, 2분기 영업익 흑자전환…광섬유 판가·북미 판매↑",
@@ -1143,7 +1143,7 @@
           "link": "https://n.news.naver.com/mnews/article/138/0002238142?sid=105",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "美 코히런트, 4~6월 호실적·인듐기판 상승에 7.8% 급등",
@@ -1154,7 +1154,7 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005322003?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[코스닥 외국인] HPSP 심텍 파마리서치 알테오젠 주성엔지니어링 '폭풍...",
@@ -1165,7 +1165,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478329",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "광섬유 수요 폭증하는데 프리미엄은 해외 의존…‘광망 강국’의 역설",
@@ -1176,7 +1176,7 @@
           "link": "https://www.thepowernews.co.kr/view.php?ud=202608181510224694de3f0aa1be_7",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "AI 투자 확산에 '광섬유' 수요 크게 늘었으나 韓 경쟁력은 '미비'",
@@ -1187,18 +1187,7 @@
           "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405005",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "“수산물 시세 잡는다”…AI로 가격 예측·수급 이상 체크",
-          "summary": "캐디·비서·학습도우미로…특화시장 노리는 K스마트글라스 - 핵심 요약: 국내 스마트글라스 중소업체들이... 보고서에 따르면 AI용 광케이블 수요는 지난해 77% 성장한 데 이어 2029년까지 연평균 26% 성장할 것으…",
-          "press": "서울경제",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 10:55",
-          "link": "https://n.news.naver.com/mnews/article/011/0004652568?sid=101",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "2000억달러 대미투자 협상 난항…관세 리스크 커지나",
@@ -1209,7 +1198,18 @@
           "link": "https://n.news.naver.com/mnews/article/011/0004652571?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "“수산물 시세 잡는다”…AI로 가격 예측·수급 이상 체크",
+          "summary": "캐디·비서·학습도우미로…특화시장 노리는 K스마트글라스 - 핵심 요약: 국내 스마트글라스 중소업체들이... 보고서에 따르면 AI용 광케이블 수요는 지난해 77% 성장한 데 이어 2029년까지 연평균 26% 성장할 것으…",
+          "press": "서울경제",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 10:55",
+          "link": "https://n.news.naver.com/mnews/article/011/0004652568?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "美·英 재정 확대 국채금리 급등…한국도 안심 못한다",
@@ -1220,7 +1220,7 @@
           "link": "https://n.news.naver.com/mnews/article/011/0004652570?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대한광통신, 올 2분기 영업익 9억 기록...흑자전환 성공",
@@ -1231,7 +1231,7 @@
           "link": "https://www.newspim.com/news/view/20260818000566",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대한광통신, 연속 오름세",
@@ -1242,7 +1242,7 @@
           "link": "https://www.cbci.co.kr/news/articleView.html?idxno=598917",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "AI 칩 제조사 640억 달러 쏟아붓자, 장비사가 가격 쥐었다",
@@ -1253,7 +1253,7 @@
           "link": "https://www.g-enews.com/view.php?ud=202608181004523768fbbec65dfb_1",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대한광통신, 2Q 영업익·순익 흑자전환…북미 매출 비중 46%",
@@ -1264,7 +1264,7 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006353326?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대한광통신, 2분기 영업익 10억…전년比 흑자 전환",
@@ -1275,7 +1275,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014132177?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[뉴욕증시포커스] 美 증시, 국채금리 급등에 일제히 하락…반도체주는...",
@@ -1286,7 +1286,7 @@
           "link": "https://www.goodkyung.com/news/articleView.html?idxno=290338",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "180만닉스 코앞…HPSP·파두·하나마이크론까지 불붙었다 [칩칩폭폭]",
@@ -1297,7 +1297,7 @@
           "link": "https://n.news.naver.com/mnews/article/123/0002388519?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[AI MY 뉴스] 18일 중국증시 '4000선 재돌파 목전, AI·반도체·로봇 상승...",
@@ -1308,7 +1308,7 @@
           "link": "https://www.newspim.com/news/view/20260818000068",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[긴급 진단] 미국 국가부채 40조 달러 돌파와 베어 스티프닝(Bear Steepeni...",
@@ -1319,7 +1319,7 @@
           "link": "https://www.g-enews.com/view.php?ud=202608180818247649906806b77b_1",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[프리마켓 포커스] 美 증시 하락에도 메모리株 훈풍… SK하닉·삼전 동반...",
@@ -1330,7 +1330,7 @@
           "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726327",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[오늘증시]코스피 7000선 다시 넘나…美증시 하락에도 반도체는 '질주'",
@@ -1341,7 +1341,7 @@
           "link": "https://www.namdonews.com/news/articleView.html?idxno=920248",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[美증시] 광트랜시버 코히런트 급등…'어닝서프' 뒤늦게 반영",
@@ -1352,7 +1352,7 @@
           "link": "https://www.mediapen.com/news/view/1116945",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대신證 “LS, 내러티브가 실적으로 증명⋯목표가 63만원”",
@@ -1363,7 +1363,7 @@
           "link": "https://www.etoday.co.kr/news/view/2615227",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[오늘의 증시]美증시 하락 속 반도체 강세…코스피, 7000선 안착 시험대",
@@ -1374,7 +1374,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014131740?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "앤트로픽 호실적·AI 투자 가속·中 메모리 배제 기류…메모리·저장장...",
@@ -1385,7 +1385,7 @@
           "link": "https://n.news.naver.com/mnews/article/215/0001262641?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[마켓 브리핑] 미·이란 MOU 사실상 종료…美30년물 19년만에 최고",
@@ -1396,7 +1396,7 @@
           "link": "https://n.news.naver.com/mnews/article/374/0000527861?sid=104",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "“삼전닉스 물타기 할 바엔…” 3000만원→3억 된다는 이 종목",
@@ -1407,7 +1407,7 @@
           "link": "https://n.news.naver.com/mnews/article/025/0003544964?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "알파벳 쓸어담는 월가 구루들[박신영의 개장전 요것만]",
@@ -1418,7 +1418,7 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005321739?sid=104",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[김대호 진단] 반도제 열전 (42) 마벨(Marvell)... 데이터센터 고속도로",
@@ -1429,7 +1429,7 @@
           "link": "https://www.g-enews.com/view.php?ud=202608170910022372906806b77b_1",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "더본코리아, 캐나다 썬레이그룹과 외식사업 협력…'탕수육 소스' 美 생...",
@@ -1440,7 +1440,7 @@
           "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850735",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[인터뷰…공감] ‘원스톱 쇼핑… 공동물류 해법 주도’ 황철성 경기남부...",
@@ -1451,7 +1451,7 @@
           "link": "https://www.kyeongin.com/article/1769236",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[위클리AI] 오픈AI, 챗GPT 광고 한국 포함 5개국으로 확대 외",
@@ -1462,7 +1462,7 @@
           "link": "https://it.donga.com/109375/",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "K푸드, 최대 시장 美공략 난항… 통관 거부 1년새 2배 늘었다",
@@ -1473,7 +1473,7 @@
           "link": "https://n.news.naver.com/mnews/article/014/0005563123?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "이재현 CJ 회장, 美 현장 점검 \"글로벌 K라이프스타일 리더로\"…북미 매...",
@@ -1484,7 +1484,7 @@
           "link": "https://www.thepublic.kr/news/articleView.html?idxno=315263",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 캐나다 외식매장 연다⋯美선 '홍콩반점 소스' 현지 생산",
@@ -1495,7 +1495,7 @@
           "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546714",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "팔도·hy 글로벌 식음료 브랜드 '아리(ARIH)', 일본·캐나다 진출",
@@ -1506,7 +1506,7 @@
           "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357559",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "친환경 골판지 포장기술 개발돼 주목",
@@ -1517,7 +1517,7 @@
           "link": "http://www.gndomin.com/news/articleView.html?idxno=485893",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[유통가 NOW] CJ제일제당 케이콘 비비고 부스·하이트진로 다저스 시구…...",
@@ -1528,7 +1528,7 @@
           "link": "https://www.ekn.kr/web/view.php?key=20260818020173796",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "제주 메밀, 간편식 시장 노린다",
@@ -1539,7 +1539,7 @@
           "link": "http://www.fsnews.co.kr/news/articleView.html?idxno=61922",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "흑자 흐름 굳힌 컬리…다시 떠오른 IPO 가능성",
@@ -1550,7 +1550,7 @@
           "link": "http://www.lkp.news/news/articleView.html?idxno=83016",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "컬리, 실적 성장세 '흑자 안착'···IPO 향해 \"몸집 키운다\"",
@@ -1561,7 +1561,7 @@
           "link": "http://www.finomy.com/news/articleView.html?idxno=259350",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "K-컬처 팬덤, 소비로 잇는다…CJ·뚜레쥬르·정관장, 美 KCON서 접점 확대",
@@ -1572,7 +1572,7 @@
           "link": "https://www.news2day.co.kr/article/20260818500216",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "고물가에 더 커진 ‘PB의 힘’…초저가부터 프리미엄까지 NB 영역 넘본다",
@@ -1583,7 +1583,7 @@
           "link": "https://www.etoday.co.kr/news/view/2615559",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[유통24시] CU, 폐주유소 리모델링 매장 '리:퓨얼' 선봬 外",
@@ -1594,7 +1594,7 @@
           "link": "https://news.dealsitetv.com/articles/174857",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 공략 본격화… 외식·소스·커피로 글로벌 영토 확장",
@@ -1605,7 +1605,7 @@
           "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357530",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "CJ, K라이프스타일 글로벌 확산 선언…2028년 북미 매출 12조 목표",
@@ -1616,18 +1616,7 @@
           "link": "http://www.globalepic.co.kr/view.php?ud=20260818143312279048439a4874_29",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "백종원, 북미서 직접 뛴다…더본코리아 '외식·소스·HMR' 글로벌 전략 ...",
-          "summary": "지난해 9월 TBK 소스 론칭 당시 내놓은 글로벌 전략이 외식 매장부터 생산·유통망, 가정간편식(HMR)까지... (B2C) 시장으로 넓힌다는 계획이다. 캐나다 내 판매 기반을 확보한 뒤 현지 유통채널과 연계한 제품…",
-          "press": "joongangenews.com",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 14:30",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=540535",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"유통망 확대\"...더본코리아, 캐나다 썬레이그룹과 MOU",
@@ -1638,7 +1627,18 @@
           "link": "https://www.youthdaily.co.kr/news/article.html?no=225266",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "백종원, 북미서 직접 뛴다…더본코리아 '외식·소스·HMR' 글로벌 전략 ...",
+          "summary": "지난해 9월 TBK 소스 론칭 당시 내놓은 글로벌 전략이 외식 매장부터 생산·유통망, 가정간편식(HMR)까지... (B2C) 시장으로 넓힌다는 계획이다. 캐나다 내 판매 기반을 확보한 뒤 현지 유통채널과 연계한 제품…",
+          "press": "joongangenews.com",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 14:30",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=540535",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "식품업계, K-푸드 글로벌 인기에 식품안전 경쟁력 강화",
@@ -1649,7 +1649,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014133052?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "올 들어 K푸드 FDA 통관 거부 급증.. 식품업계, 美 영토 확장 빨간불",
@@ -1660,7 +1660,7 @@
           "link": "https://n.news.naver.com/mnews/article/014/0005562892?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "BBQ, 추석 선물세트 3종 출시…HMR 성장세 명절 시장으로 확대",
@@ -1671,7 +1671,7 @@
           "link": "https://www.koreaittimes.com/news/articleView.html?idxno=156200",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 븍미 시장 접수…외식 브랜드 출점·소스 유통 확대",
@@ -1682,7 +1682,7 @@
           "link": "http://www.metroseoul.co.kr/article/20260818500257",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "장보는 곳 넘어 '로컬 콘텐츠'로…전통시장 살리는 공식 바뀌어",
@@ -1693,7 +1693,7 @@
           "link": "http://www.dailypop.kr/news/articleView.html?idxno=101600",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "이재현 승부수…CJ 북미 2028 매출 12조원",
@@ -1704,7 +1704,7 @@
           "link": "https://www.naeil.com/news/read/599095?ref=naver",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "백종원, 캐나다서 외식·소스 사업 확대…더본코리아 '북미 공략' 속도",
@@ -1715,7 +1715,7 @@
           "link": "https://www.m-i.kr/news/articleView.html?idxno=1403177",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "외식은 부담이지만 맛도 포기 못해…프리미엄 HMR 뜬다",
@@ -1726,7 +1726,7 @@
           "link": "https://www.m-i.kr/news/articleView.html?idxno=1403173",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 공략 속도…외식·소스 ‘현지화’ 나선다",
@@ -1737,18 +1737,7 @@
           "link": "https://www.socialvalue.kr/news/view/1065580500644328",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "더본코리아, 캐나다 썬레이그룹과 업무협약…북미 외식사업 확대",
-          "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진한다. 다만 현재 상당수 사업이 MOU 체결이나 협의... 현지 생산 확대에 따른 초기 비용과 북미 소비자 시장에서의 브랜드 인지도 확보 역시 넘어야 할 과제다…",
-          "press": "econonews.co.kr",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 11:30",
-          "link": "http://www.econonews.co.kr/news/articleView.html?idxno=442942",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 시장 판 넓힌다... 캐나다 호텔 협력부터 美 소스 현지...",
@@ -1759,7 +1748,18 @@
           "link": "https://www.insight.co.kr/news/568657",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "더본코리아, 캐나다 썬레이그룹과 업무협약…북미 외식사업 확대",
+          "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진한다. 다만 현재 상당수 사업이 MOU 체결이나 협의... 현지 생산 확대에 따른 초기 비용과 북미 소비자 시장에서의 브랜드 인지도 확보 역시 넘어야 할 과제다…",
+          "press": "econonews.co.kr",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 11:30",
+          "link": "http://www.econonews.co.kr/news/articleView.html?idxno=442942",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "한길에스디, 크레이빙허브와 협력해 K-HMR 수출 확대… 조선전골 버터솥...",
@@ -1770,18 +1770,7 @@
           "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064777",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "[특징주] 더본코리아, 북미 외식·유통 사업 본격 확대 소식에 21%대 급...",
-          "summary": "아울러 북미 소비자의 입맛과 소비 방식을 반영한 가정간편식(HMR)을 파트너사와 공동 개발하고, 협력 기업의 생산 및 유통망을 통해 북미 일반 소비자 시장까지 사업 범위를 폭넓게 넓힌다는 구상이다.",
-          "press": "widedaily.com",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 11:18",
-          "link": "https://www.widedaily.com/news/articleView.html?idxno=299573",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미서 '현지화' 승부수···매장 이어 생산·유통까지",
@@ -1792,7 +1781,18 @@
           "link": "https://www.smartbizn.com/news/articleView.html?idxno=151431",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[특징주] 더본코리아, 북미 외식·유통 사업 본격 확대 소식에 21%대 급...",
+          "summary": "아울러 북미 소비자의 입맛과 소비 방식을 반영한 가정간편식(HMR)을 파트너사와 공동 개발하고, 협력 기업의 생산 및 유통망을 통해 북미 일반 소비자 시장까지 사업 범위를 폭넓게 넓힌다는 구상이다.",
+          "press": "widedaily.com",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 11:18",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=299573",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "북미서 판 키우는 더본코리아…캐나다·미국 공략에 주가 ‘들썩’",
@@ -1803,7 +1803,7 @@
           "link": "https://www.kukinews.com/article/view/kuk202608180071",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 외식·소스 시장 공략 박차...캐나다 썬레이그룹과 M...",
@@ -1814,18 +1814,7 @@
           "link": "https://www.livebiz.today/news/articleView.html?idxno=204196",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "더본코리아, 북미 사업 구체화…캐나다 외식·미국 생산거점 확보",
-          "summary": "더본코리아는 해당 기업의 미국 생산시설을 북미 시장 확대를 위한 핵심 공급 거점으로 활용할 방침입니다.... 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중입니다. 더본코리아 관계자는 \"백종원 대표가 해…",
-          "press": "inthenews.co.kr",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 10:34",
-          "link": "https://www.inthenews.co.kr/news/article.html?no=90589",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 사업 실행 단계 돌입",
@@ -1836,7 +1825,18 @@
           "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=361842",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "더본코리아, 북미 사업 구체화…캐나다 외식·미국 생산거점 확보",
+          "summary": "더본코리아는 해당 기업의 미국 생산시설을 북미 시장 확대를 위한 핵심 공급 거점으로 활용할 방침입니다.... 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중입니다. 더본코리아 관계자는 \"백종원 대표가 해…",
+          "press": "inthenews.co.kr",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 10:34",
+          "link": "https://www.inthenews.co.kr/news/article.html?no=90589",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "NS홈쇼핑, '글로벌 시장개척단' 출범… 중소 협력사 중화권 수출 지원",
@@ -1847,7 +1847,7 @@
           "link": "http://www.newsdream.kr/news/articleView.html?idxno=116402",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "백종원, 북미 사업 영토 넓힌다…외식·소스 '투트랙' 공략",
@@ -1858,7 +1858,7 @@
           "link": "https://www.econovill.com/news/articleView.html?idxno=748187",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 사업 실행 단계 돌입…캐나다 썬레이그룹과 '맞손'",
@@ -1869,7 +1869,7 @@
           "link": "https://www.widedaily.com/news/articleView.html?idxno=299532",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "백종원, TBK 소스 글로벌 진출 선언 1년 만에 북미로 … 현지 생산·유통...",
@@ -1880,18 +1880,7 @@
           "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/18/2026081800040.html",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "백종원 '더본코리아', 북미사업 확대에 장 초반 25% 급등",
-          "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고, 협력 기업이 보유한 생산·유통망을 활용해 북미 일반 소비자 시장까지 사업 범위를 넓힌다는...",
-          "press": "뉴시스",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 10:11",
-          "link": "https://n.news.naver.com/mnews/article/003/0014132172?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[특징주] 더본코리아, 북미 공략 본격화에 16%대 강세",
@@ -1902,7 +1891,18 @@
           "link": "https://www.newspim.com/news/view/20260818000405",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "백종원 '더본코리아', 북미사업 확대에 장 초반 25% 급등",
+          "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고, 협력 기업이 보유한 생산·유통망을 활용해 북미 일반 소비자 시장까지 사업 범위를 넓힌다는...",
+          "press": "뉴시스",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 10:11",
+          "link": "https://n.news.naver.com/mnews/article/003/0014132172?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 캐나다 썬레이그룹과 MOU…외식·소스 시장 공략",
@@ -1913,7 +1913,7 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016255679?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[리얼푸드] 더본코리아, 美 현지 소스 생산…북미 소스사업 본격화",
@@ -1924,7 +1924,7 @@
           "link": "https://www.realfoods.co.kr/article/10843669?ref=naver",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[특징주] 더본코리아, 북미 사업 확대 기대감에 16% 강세",
@@ -1935,7 +1935,7 @@
           "link": "http://www.metroseoul.co.kr/article/20260818500098",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 사업 실행 단계 돌입…캐나다 썬레이그룹과 MOU 등 성...",
@@ -1946,7 +1946,7 @@
           "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315712",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "추석 선물도 '취향 중심'…호텔·외식 업계, 실속형·경험형 상품 다변...",
@@ -1957,7 +1957,7 @@
           "link": "https://www.onews.tv/news/articleView.html?idxno=285103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "혁신 날개 달고 젓갈도매상에서 글로벌 식품기업으로 비상",
@@ -1968,7 +1968,7 @@
           "link": "http://www.kbiznews.co.kr/news/articleView.html?idxno=114655",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 사업 확대 나선다… 캐나다 매장 출점·TBK 소스 유통",
@@ -1979,7 +1979,7 @@
           "link": "https://n.news.naver.com/mnews/article/366/0001186767?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본 백종원의 북미 '현장경영'…글로벌 사업영토 확장",
@@ -1990,7 +1990,7 @@
           "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052072",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "백종원 “북미 사업 실행 단계로”… 더본코리아, 캐나다 출점·美 소스...",
@@ -2001,7 +2001,7 @@
           "link": "https://n.news.naver.com/mnews/article/396/0000752644?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[특징주] 더본코리아, 백종원 북미 소스 사업 본격화.. 19%대 '급등'",
@@ -2012,7 +2012,7 @@
           "link": "https://www.g-enews.com/view.php?ud=2026081809193155044093b5d4e_1",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 캐나다 썬레이그룹과 MOU…북미사업 실행 단계 돌입",
@@ -2023,18 +2023,7 @@
           "link": "https://n.news.naver.com/mnews/article/031/0001050279?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "제너시스BBQ, 인기 간편식 담은 '2026 추석 선물세트' 3종 출시",
-          "summary": "제너시스BBQ 그룹은 추석 명절을 앞두고 자사 인기 가정간편식(HMR)으로 구성한 '2026 BBQ 추석 선물세트' 3종을... BBQ 관계자는 \"시장 반응이 검증된 인기 간편식을 엄선해 명절 이후에도 유용하게 활용…",
-          "press": "newsdream.kr",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 09:24",
-          "link": "http://www.newsdream.kr/news/articleView.html?idxno=116375",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "백종원 대표, 캐나다 기업과 손 잡았다…북미 사업 속도",
@@ -2045,7 +2034,18 @@
           "link": "https://n.news.naver.com/mnews/article/138/0002238061?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "제너시스BBQ, 인기 간편식 담은 '2026 추석 선물세트' 3종 출시",
+          "summary": "제너시스BBQ 그룹은 추석 명절을 앞두고 자사 인기 가정간편식(HMR)으로 구성한 '2026 BBQ 추석 선물세트' 3종을... BBQ 관계자는 \"시장 반응이 검증된 인기 간편식을 엄선해 명절 이후에도 유용하게 활용…",
+          "press": "newsdream.kr",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 09:24",
+          "link": "http://www.newsdream.kr/news/articleView.html?idxno=116375",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 공략 본격화…외식 브랜드부터 소스 유통까지",
@@ -2056,7 +2056,7 @@
           "link": "https://n.news.naver.com/mnews/article/629/0000525068?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 소스 사업 본격화 기대에 17%↑[특징주]",
@@ -2067,7 +2067,7 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006353256?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "백종원, 캐나다 썬레이그룹 MOU…TBK 소스 북미 현지 생산도",
@@ -2078,7 +2078,7 @@
           "link": "https://www.gokorea.kr/news/articleView.html?idxno=875392",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "캐나다 찍고 미국 가더니…백종원, 북미에서 '소스사업' 판 키운다",
@@ -2089,7 +2089,7 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005401096?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 사업 확대…캐나다 썬레이그룹과 MOU",
@@ -2100,7 +2100,7 @@
           "link": "https://n.news.naver.com/mnews/article/277/0005803925?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 캐나다 매장 늘리고 美서 소스 만든다",
@@ -2111,29 +2111,7 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006353229?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "더본코리아, 북미 소스사업 본격화…“글로벌 영업 성과”",
-          "summary": "더본코리아는 해당 기업의 미국 생산시설을 북미 시장 확대를 위한 공급 거점으로 활용할 계획이다.... 북미 소비자를 겨냥한 가정간편식(HMR)도 공동 개발한다. 더본코리아 관계자는 “백종원 대표가 해외 현장에서 직접…",
-          "press": "헤럴드경제",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 08:58",
-          "link": "https://n.news.naver.com/mnews/article/016/0002684844?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "\"직접 발로 뛰겠다\"던 백종원…TBK 소스, 북미 생산·유통망 구축으로",
-          "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동 개발도 추진한다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고 협력사가 보유한 생산·유통망을 통해 일반 소비자 시장에 진입한다는 계획이다. TBK 사업이 '소스 수출…",
-          "press": "newsprime.co.kr",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 08:58",
-          "link": "http://www.newsprime.co.kr/news/article.html?no=744095",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"상차림부터 간식까지\"… BBQ 실속 추석 선물 공개",
@@ -2144,18 +2122,29 @@
           "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072247",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "백종원, 캐나다서 글로벌 외식사업 본격화…TBK 소스 유통망 확대·현지...",
-          "summary": "외식 브랜드 출점에 그치지 않고 소스 현지 생산과 유통망 확보, 가정간편식(HMR) 공동개발까지 사업 영역을 넓히며 해외 시장 공략을 본격화하는 모습이다. 더본코리아는 백종원 대표가 지난 2일부터 진행 중인 북미..…",
-          "press": "megaeconomy.co.kr",
+          "title": "\"직접 발로 뛰겠다\"던 백종원…TBK 소스, 북미 생산·유통망 구축으로",
+          "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동 개발도 추진한다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고 협력사가 보유한 생산·유통망을 통해 일반 소비자 시장에 진입한다는 계획이다. TBK 사업이 '소스 수출…",
+          "press": "newsprime.co.kr",
           "date": "2026-08-18",
-          "datetime": "2026-08-18 08:56",
-          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596095854098",
+          "datetime": "2026-08-18 08:58",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=744095",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "더본코리아, 북미 소스사업 본격화…“글로벌 영업 성과”",
+          "summary": "더본코리아는 해당 기업의 미국 생산시설을 북미 시장 확대를 위한 공급 거점으로 활용할 계획이다.... 북미 소비자를 겨냥한 가정간편식(HMR)도 공동 개발한다. 더본코리아 관계자는 “백종원 대표가 해외 현장에서 직접…",
+          "press": "헤럴드경제",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 08:58",
+          "link": "https://n.news.naver.com/mnews/article/016/0002684844?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 썬레이그룹과 맞손…\"북미 사업 확대\"",
@@ -2166,7 +2155,18 @@
           "link": "https://n.news.naver.com/mnews/article/374/0000527872?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "백종원, 캐나다서 글로벌 외식사업 본격화…TBK 소스 유통망 확대·현지...",
+          "summary": "외식 브랜드 출점에 그치지 않고 소스 현지 생산과 유통망 확보, 가정간편식(HMR) 공동개발까지 사업 영역을 넓히며 해외 시장 공략을 본격화하는 모습이다. 더본코리아는 백종원 대표가 지난 2일부터 진행 중인 북미..…",
+          "press": "megaeconomy.co.kr",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 08:56",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596095854098",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 사업 실행 단계 돌입…캐나다 썬레이그룹과 '맞손'",
@@ -2177,7 +2177,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014131867?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[이슈 포커스] 흑자 행진에 IPO 속도 내는 마켓컬리…상장 가시밭길 만...",
@@ -2188,7 +2188,7 @@
           "link": "https://www.thepublic.kr/news/articleView.html?idxno=314992",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 공략 '매장+소스+현지생산'으로 넓힌다",
@@ -2199,7 +2199,7 @@
           "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=418241",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 캐나다 매장 늘리고 美서 소스 만든다",
@@ -2210,7 +2210,7 @@
           "link": "https://www.ajunews.com/view/20260818083204370",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미서 브랜드 출점·소스 유통 추진",
@@ -2221,7 +2221,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478090",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 출점 본격화…캐나다 호텔 80개 운영사와 맞손",
@@ -2232,7 +2232,7 @@
           "link": "https://www.theguru.co.kr/news/article.html?no=105891",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "백종원 TBK 소스, 美서 직접 생산한다…북미 공급 거점 구축 나서",
@@ -2243,7 +2243,7 @@
           "link": "https://www.newspim.com/news/view/20260818000026",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 시장 진출 본격화… 외식 브랜드 전환 및 현지 생산·...",
@@ -2254,7 +2254,7 @@
           "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1098794",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "간편식 브랜드평판 1위 쿠팡… 마켓컬리·이마트 제치고 정상",
@@ -2265,7 +2265,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478046",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[더벨][MDS코리아 IPO] 수출 제품군 확대…젤리·냉동 HMR 전면에 포진",
@@ -2276,7 +2276,7 @@
           "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608130822186960102232",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "전민형 aT 파리지사장 \"한류·FTA·수출지원 결합…영국 K-푸드 저변 확...",
@@ -2287,7 +2287,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014131720?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "식중독, 9월에 가장 많이 발생…조리 중 오염으로 유발되기도",
@@ -2298,7 +2298,7 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009117877?sid=105",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[시시각각(時時刻刻)] 한류를 넘어 K-푸드, 대구·경북의 맛을 세계로",
@@ -2309,25 +2309,25 @@
           "link": "https://www.yeongnam.com/web/view.php?key=20260817020073820",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -44,23 +44,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "신한금융 미래에셋증권 새마을금고 外(금융 레이더)",
-          "summary": "이번 행사는 고액 자산가 1000명을 초청해 시장 전망과 1:1 맞춤형 컨설팅을 제공하는 그룹 최초의 공동... '우리WON모바일' 청년드림요금제 이벤트= 우리은행(은행장 정진완)의 알뜰폰 서비스 '우리WON모바일'…",
-          "press": "newsclaim.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 17:28",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071656",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "유승용 KG파이낸셜 대표, 휴대폰 결제 기반 수익성 제고…종합금융사 전...",
           "summary": "주요 사업별 실적을 살펴보면, 시장 점유율 1위를 유지하고 있는 휴대폰 결제사업의 올해 2분기 누적... 아울러 올해 2분기 말 기준 MVNO(알뜰폰) 사업의 누적 가입자 수는 6만4500명으로, 고객 기반을 꾸준히…",
           "press": "fntimes.com",
           "date": "2026-08-10",
           "datetime": "2026-08-10 17:28",
           "link": "https://www.fntimes.com/html/view.php?ud=202608101308382639efc5ce4ae_18",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "신한금융 미래에셋증권 새마을금고 外(금융 레이더)",
+          "summary": "이번 행사는 고액 자산가 1000명을 초청해 시장 전망과 1:1 맞춤형 컨설팅을 제공하는 그룹 최초의 공동... '우리WON모바일' 청년드림요금제 이벤트= 우리은행(은행장 정진완)의 알뜰폰 서비스 '우리WON모바일'…",
+          "press": "newsclaim.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 17:28",
+          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071656",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -77,23 +77,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "알뜰폰 5G 도매대가 내린다더니…고가 요금제는 '쏙'",
-          "summary": "알뜰폰 사업자는 이동통신사의 요금제를 도매로 공급받아 소비자에게 다시 판매하는 만큼 도매대가가 내려가야 요금을 추가로 낮출 여력이 생긴다.더욱이 알뜰폰 시장의 대표 상품으로 꼽히는 LTE 11GB 요금제도 이번...",
-          "press": "news.mtn.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 16:28",
-          "link": "https://news.mtn.co.kr/news-detail/2026081014160469372",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[은행브리핑] 하나은행, 독립유공자 위한 공익신탁 MOU 외",
           "summary": "우리은행, '쓰고, 받고 최종혜택가 0원' 이벤트 실시 우리은행의 알뜰폰 서비스 '우리WON모바일'이 8월 한... 당초 계획과 실제 성과의 차이, 시장환경 변화에 대한 대응과정, 미진했던 부분과 그 원인까지 되짚어…",
           "press": "seoulfn.com",
           "date": "2026-08-10",
           "datetime": "2026-08-10 16:28",
           "link": "https://www.seoulfn.com/news/articleView.html?idxno=635316",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 5G 도매대가 내린다더니…고가 요금제는 '쏙'",
+          "summary": "알뜰폰 사업자는 이동통신사의 요금제를 도매로 공급받아 소비자에게 다시 판매하는 만큼 도매대가가 내려가야 요금을 추가로 낮출 여력이 생긴다.더욱이 알뜰폰 시장의 대표 상품으로 꼽히는 LTE 11GB 요금제도 이번...",
+          "press": "news.mtn.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 16:28",
+          "link": "https://news.mtn.co.kr/news-detail/2026081014160469372",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -173,7 +173,7 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405259",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "성호전자 주가, 급등세... 왜?",
@@ -184,7 +184,7 @@
           "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174444",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "테슬라, 사이버트럭 PCS 41% 고장에 보증 8년 확대",
@@ -195,7 +195,7 @@
           "link": "https://www.wikitree.co.kr/articles/1151357",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "60년 간 깨진 적 없다... 반도체 문외한이 만든 '무어의 법칙'",
@@ -206,7 +206,7 @@
           "link": "https://n.news.naver.com/mnews/article/469/0000947147?sid=105",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "고성능 RF 부품 수요 폭발… RF머트리얼즈, 통신 반도체 수혜 기대",
@@ -217,7 +217,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475867",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[특징주] 대한광통신, 美 중국산 광트랜시버 규제 추진에 23%대 급등",
@@ -228,7 +228,7 @@
           "link": "https://www.tokenpost.kr/news/economy/387320",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[특징주] 美 중국산 광트랜시버 규제 추진에 대한광통신 등 광통신株 강...",
@@ -239,7 +239,7 @@
           "link": "https://www.etoday.co.kr/news/view/2612680",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "글로벌 통신망·데이터센터 증설 열풍… 광통신 밸류체인 수급 몰렸다",
@@ -250,7 +250,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475823",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "닷컴버블 때 끝난 줄 알았는데…AI가 소환한 ‘인터넷의 제왕’ [동여의...",
@@ -261,7 +261,7 @@
           "link": "https://n.news.naver.com/mnews/article/009/0005719073?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "상반기 中 생성형 AI 분야 신설 기업 28% 증가",
@@ -272,7 +272,7 @@
           "link": "http://kr.people.com.cn/n3/2026/0810/c203280-20487161.html",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[GAM] 메모리 다음은 광통신?…'밈주식' AAOI의 실적 반란",
@@ -283,7 +283,7 @@
           "link": "https://www.newspim.com/news/view/20260810001183",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[특징주] 대한광통신, 美 공급망 재편 기대 지속…22% 급등 마감",
@@ -294,7 +294,7 @@
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719787",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "\"200억 적자 내던 '미운 오리'의 반란…코오롱인더 2분기 어닝 서프라이...",
@@ -305,7 +305,7 @@
           "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=271443",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대한광통신 16%대 급등…AI 데이터센터 광케이블 기대에 1만3400원",
@@ -316,7 +316,7 @@
           "link": "https://www.job-post.co.kr/news/articleView.html?idxno=223545",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[특징주] 대한광통신, \"美 중국산 광트랜시버 금지 추진\" 반사수혜 기대...",
@@ -327,7 +327,7 @@
           "link": "https://www.widedaily.com/news/articleView.html?idxno=299144",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대한광통신·광전자 동반 주가 급등…AI 데이터센터 '구리에서 빛으로'...",
@@ -338,7 +338,7 @@
           "link": "https://www.cbci.co.kr/news/articleView.html?idxno=596691",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "티엠씨, 코닝·암페놀 AI 데이터센터 프로젝트 협의 지속…광케이블 생...",
@@ -349,7 +349,7 @@
           "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269788",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "비츠로시스 \"비츠로일렉, 인니 위성통신사에 연 30억원 공급 계약\"",
@@ -360,7 +360,7 @@
           "link": "https://www.newspim.com/news/view/20260810000871",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[특징주] 대한광통신, 외국인·기관 동반 매수에 19%대 강세",
@@ -371,18 +371,7 @@
           "link": "https://www.tokenpost.kr/news/economy/387349",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "케냐, 선진국 도약을 위한 Post-2030 초장기 국가 개발전략 발표",
-          "summary": "광케이블망 확장, 콘자 테크놀로폴리스 1단계 완성 등 주요 인프라를 성공적으로 확충했다. 아울러... 교체 시 장기 과제를 폐기하는 정치적 위험성을 명확히 보여주었다고 지적했다. 이에 따라 보고서는 과거...",
-          "press": "dream.kotra.or.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 11:53",
-          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=243331",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대한광통신 주가, 급등세... 왜?",
@@ -393,7 +382,7 @@
           "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174398",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "AI 데이터센터, 구리선 대체하는 광 상호연결 시장 폭발 전망",
@@ -404,7 +393,7 @@
           "link": "https://www.g-enews.com/view.php?ud=202608100532224309fbbec65dfb_1",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[중국증시 주간 포인트] ②CPEO 2026 개최, 중국산 C919 최초 국제선, 전...",
@@ -415,7 +404,7 @@
           "link": "https://www.newspim.com/news/view/20260809000136",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "농수산식품유통공사(aT), 'K-푸드' 베트남 호치민 식음료박람회서 3538만...",
@@ -426,7 +415,7 @@
           "link": "https://www.cstimes.com/news/articleView.html?idxno=716303",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "AMD, 반도체에 AI 가중치 새기는 ‘탈라스’ 인수··· 추론·피지컬AI ...",
@@ -437,7 +426,7 @@
           "link": "https://it.donga.com/109332/",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "“신선과일부터 건강식품까지”…베트남시장 사로잡은 K-푸드",
@@ -448,7 +437,7 @@
           "link": "https://n.news.naver.com/mnews/article/662/0000101585?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "배민, 착한가격업소 활성화 속도...소상공인 지원 나서",
@@ -459,7 +448,7 @@
           "link": "http://www.finomy.com/news/articleView.html?idxno=258874",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "aT, '베트남서 3538만 달러 상담'... K-푸드 수출 확대",
@@ -470,7 +459,7 @@
           "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=440536",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "aT, '2026 베트남 호치민 식음료박람회' 한국관 운영 성료",
@@ -481,7 +470,7 @@
           "link": "https://daily.hankooki.com/news/articleView.html?idxno=1394398",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "떡국·떡볶이떡 제조업, '생계형 적합업종' 재지정…소상공인 \"한숨 돌...",
@@ -492,7 +481,7 @@
           "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1329250",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "폭염에 농축수산물값 상승…식탁서 간편식 찾는 소비자",
@@ -503,7 +492,7 @@
           "link": "https://www.polinews.co.kr/news/articleView.html?idxno=739678",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "매출 300억 식자재 유통사 매물로",
@@ -514,7 +503,7 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005319155?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "K-푸드, 베트남 식음료박람회서 3538만 달러 수출상담",
@@ -525,7 +514,7 @@
           "link": "https://www.viva100.com/article/20260810501066",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "한국관, 베트남 호치민 식음료박람회서 3538만달러 수출상담 성과",
@@ -536,7 +525,7 @@
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3660623",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"떡볶이 넘어 샤인머스켓까지\"…베트남 사로잡은 K-푸드",
@@ -547,7 +536,7 @@
           "link": "https://www.dongponews.net/news/articleView.html?idxno=59779",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "aT, 베트남 시장 공략…K-푸드 수출상담 3538만弗 달성",
@@ -558,7 +547,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014118307?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "'호치민 식음료박람회'서 3538만 달러 규모 K-푸드 수출상담",
@@ -569,7 +558,7 @@
           "link": "http://www.foodnews.co.kr/news/articleView.html?idxno=119707",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "aT, 베트남 식음료박람회서 3천538만 달러 수출상담 성과",
@@ -580,7 +569,7 @@
           "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4099965",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "완도군, 전복 가공식품으로 소비 확대…어가 판로 넓힌다",
@@ -591,7 +580,7 @@
           "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84564",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[브랜드 인사이트] 올리브영·다이소도 가세...유통가는 지금 '퀵커머스...",
@@ -602,7 +591,7 @@
           "link": "https://www.banronbodo.com/news/articleView.html?idxno=32777",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "BGF리테일 민승배, 다음 스텝은 ‘글로벌 K-편의점’ 왕좌 [CEO 포커스下...",
@@ -613,28 +602,28 @@
           "link": "https://www.fntimes.com/html/view.php?ud=202608061543149323b5b890e35c_18",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }
   ],
-  "total": 53
+  "total": 52
 }

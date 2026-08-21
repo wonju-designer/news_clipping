@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 15:28 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -394,7 +394,7 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005322477?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "수십년 경쟁한 韓·대만, AI 시대엔 '한 팀'…\"서로 없인 못 만들어\"",
@@ -405,7 +405,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014135790?sid=104",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "에이텀, 전기차·AI 전력 12개 사업군 반영",
@@ -416,7 +416,7 @@
           "link": "https://www.tokenpost.kr/news/market/393135",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "삼성SDI 장중 50만원 돌파 후 약세 전환…48만4,000원 거래",
@@ -427,18 +427,7 @@
           "link": "https://www.job-post.co.kr/news/articleView.html?idxno=224410",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
-        },
-        {
-          "title": "에이텀, EV 전장·AI 데이터센터 전력으로 사업 확장…정관 대폭 손질",
-          "summary": "전원공급장치(SMPS) ▲전력전자부품 등 12개 첨단 사업군으로 구체화했다. 특히 제어기술 및 소프트웨어(S/W)... 회사는 이를 바탕으로 조달청 나라장터 등록을 추진하고 공공 데이터센터와 엣지 데이터센터 시장에 …",
-          "press": "view.asiae.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 15:02",
-          "link": "https://n.news.naver.com/mnews/article/277/0005804737?sid=101",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "에이텀, 사업목적 추가…EV 전장·AI 전력 전문기업 도약",
@@ -449,7 +438,18 @@
           "link": "https://www.widedaily.com/news/articleView.html?idxno=299654",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, EV 전장·AI 데이터센터 전력으로 사업 확장…정관 대폭 손질",
+          "summary": "전원공급장치(SMPS) ▲전력전자부품 등 12개 첨단 사업군으로 구체화했다. 특히 제어기술 및 소프트웨어(S/W)... 회사는 이를 바탕으로 조달청 나라장터 등록을 추진하고 공공 데이터센터와 엣지 데이터센터 시장에 …",
+          "press": "view.asiae.co.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 15:02",
+          "link": "https://n.news.naver.com/mnews/article/277/0005804737?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
         },
         {
           "title": "에이텀, EV 전장·AI 데이터센터 사업 본격화…사업목적 전면 재편",
@@ -460,7 +460,7 @@
           "link": "https://dealsite.co.kr/articles/167469",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "에이텀, EV·AI 데이터센터 전력 사업 전환",
@@ -471,7 +471,7 @@
           "link": "https://www.newspim.com/news/view/20260819000788",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "에이텀, 사업목적 추가…EV 전장·AI 전력 전문기업 도약",
@@ -482,7 +482,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014135402?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "'체질 개선' 에이텀, 정관 바꾸고 EV·AI 전력 시장 전면전",
@@ -493,7 +493,7 @@
           "link": "http://www.fieldnews.kr/news/articleView.html?idxno=30832",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "에이텀, 임시주총서 정관 전면 개편…'EV 전장·AI 전력 전문기업' 도약",
@@ -504,7 +504,7 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005401853?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "에이텀, 임시주총서 정관 변경… “EV 전장·AI 전력 토털 플랫폼 도약”",
@@ -515,7 +515,7 @@
           "link": "https://n.news.naver.com/mnews/article/366/0001187095?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "에이텀, 임시주총서 정관 전면 개편…'EV 전장·AI 전력 전문기업'으로...",
@@ -526,7 +526,7 @@
           "link": "https://n.news.naver.com/mnews/article/014/0005563438?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "주가 날개 단 NHN, 비결은 미래 먹거리 '팩토리X 서울'",
@@ -537,7 +537,7 @@
           "link": "https://n.news.naver.com/mnews/article/417/0001155755?sid=105",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "\"바람만으론 버겁다\"…1조원 데이터센터에 ‘물길’ 낸 NHN[르포]",
@@ -548,7 +548,7 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006354000?sid=105",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "소음 확 준 데이터홀…B200 수천 장 품은 '수냉식 AI DC' 가보니",
@@ -559,7 +559,7 @@
           "link": "https://www.itdaily.kr/news/articleView.html?idxno=241066",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "[가봤더니] B200 7656장 돌아가는 팩토리X…NHN이 택한 ‘수랭’",
@@ -570,7 +570,7 @@
           "link": "https://dealsite.co.kr/articles/167412",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "[르포] \"수랭식으로 AIDC 전력 소비 13.9% 줄여\"⋯'NHN 팩토리X 서울' 가...",
@@ -581,7 +581,7 @@
           "link": "https://n.news.naver.com/mnews/article/031/0001050622?sid=105",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "[르포] B200 GPU 7656장…국가AI컴퓨팅자원 심장 'NHN 팩토리X 서울'을 가...",
@@ -592,7 +592,7 @@
           "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052482",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "서울 도심에 숨은 'AI 공장'…NHN팩토리X 서울 가보니",
@@ -603,7 +603,7 @@
           "link": "https://www.newsway.co.kr/news/view?ud=2026081816511645444",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "“공기로는 못 식힌다”…물길 따라 돌아가는 7656개 AI 두뇌",
@@ -614,7 +614,7 @@
           "link": "https://www.etoday.co.kr/news/view/2615611",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "[CEO와칭] 구자균 LS일렉트릭 회장, 기술혁신·현지화 20년…글로벌 전력...",
@@ -625,7 +625,7 @@
           "link": "http://www.metroseoul.co.kr/article/20260818500542",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "공장 확보한 한미반도체…재원 마련한 머큐리",
@@ -636,7 +636,7 @@
           "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1329958",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "코스피 폭락...반도체 · 광통신 · AI주 '출렁'",
@@ -647,7 +647,7 @@
           "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=170119",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한미반도체, AI 장비 선제적 대응...1천300억 투자",
@@ -658,7 +658,7 @@
           "link": "https://www.joongboo.com/news/articleView.html?idxno=363734206",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[더벨][i-point] 머큐리, 유형자산 560억 매각",
@@ -669,7 +669,7 @@
           "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608190959051000101589",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "인천 뿌리기업 한미반도체, 대규모 8공장 구축 나서",
@@ -680,7 +680,7 @@
           "link": "http://www.incheonin.com/news/articleView.html?idxno=120122",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "머큐리, 인천공장 560억에 매각…광통신 성장투자 재원 확보",
@@ -691,7 +691,7 @@
           "link": "https://n.news.naver.com/mnews/article/008/0005401732?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "머큐리, 인천공장 토지·건물 560억원에 매각…광통신 성장투자 재원 확...",
@@ -702,7 +702,7 @@
           "link": "https://n.news.naver.com/mnews/article/015/0005322285?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "8월 18일 주식시장 주요공시",
@@ -713,7 +713,7 @@
           "link": "https://www.catchnews.kr/news/articleView.html?idxno=127443",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "머큐리, 한미반도체에 인천공장 560억 매각…광케이블 신규투자 실탄 확...",
@@ -724,7 +724,7 @@
           "link": "https://www.etoday.co.kr/news/view/2615723",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "머큐리 시스템즈, 실적 실망에 시간외서 10% 급락",
@@ -735,7 +735,7 @@
           "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430648",
           "badge": "자사",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "미국산 반도체 프리미엄 전망에 메모리 팹 논의",
@@ -746,7 +746,7 @@
           "link": "https://www.tokenpost.kr/news/cryptocurrency/393363",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "377억달러 알파벳 보유, AI 자금 반도체로 재배치",
@@ -757,7 +757,7 @@
           "link": "https://www.tokenpost.kr/news/cryptocurrency/393350",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[주식마감] 휴머노이드 로봇 '아틀라스' 부품 공급 기대감에 화신정공 ...",
@@ -768,7 +768,7 @@
           "link": "https://www.ggilbo.com/news/articleView.html?idxno=1176339",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "AI 광통신 부품난, 2027년 중반까지 수요 초과 전망",
@@ -779,7 +779,7 @@
           "link": "https://www.tokenpost.kr/news/cryptocurrency/393290",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "KT, ISE EXPO 첫 참가…협력사 6곳 북미 시장 진출 돕는다",
@@ -790,7 +790,7 @@
           "link": "https://www.thepublic.kr/news/articleView.html?idxno=315414",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[자산운용 데일리] 변동성엔 ‘파킹’·연금엔 ‘혼합’…ETF 투자전략 ...",
@@ -801,7 +801,7 @@
           "link": "https://www.news2day.co.kr/article/20260819500336",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "\"바이어 발굴부터 후속 교신까지 지원\"…KT, 'ISE EXPO' 참가",
@@ -812,7 +812,7 @@
           "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271067",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "타임폴리오운용, 'TIME 미국나스닥100채권혼합50액티브 ETF' 수익률 1위",
@@ -823,7 +823,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478681",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "한화에어로는 버티는데 현대로템·한화시스템 '휘청'…방산주 희비 뚜렷",
@@ -834,7 +834,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478691",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "\"AI가 쏘아올린 전력망 특수…전선·ELECTRIC·아이앤디 'LS 삼총사'의 날...",
@@ -845,7 +845,7 @@
           "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272009",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "“AI가 키운 광섬유, 범용 머문 韓 고부가 프리폼 확보 시급”",
@@ -856,7 +856,7 @@
           "link": "http://amenews.kr/news/view.php?idx=67734",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "사상 최대 반기 실적 고려아연... 품목별 매출 1위, 아연 아닌 은(銀)",
@@ -867,7 +867,7 @@
           "link": "https://www.meconomynews.com/news/articleView.html?idxno=200542",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "AI 시대 필수 인프라 '광섬유' 수요 폭발… 韓 프리폼 핵심 소재 제조 역...",
@@ -878,7 +878,7 @@
           "link": "https://www.mtnews.net/news/articleView.html?idxno=25691",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[가온전선, 증명의 시간]① 10년간 영업익 11배·수주잔고 17배↑",
@@ -889,7 +889,7 @@
           "link": "https://n.news.naver.com/mnews/article/293/0000089246?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "기지국 전기만 아끼면 끝?...달라진 통신사 환경경영 기준",
@@ -900,7 +900,7 @@
           "link": "https://www.newspenguin.com/news/articleView.html?idxno=22046",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "AI 데이터센터 '연결' 병목…성호전자 주목",
@@ -911,7 +911,7 @@
           "link": "https://www.newstopkorea.com/news/articleView.html?idxno=47123",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[2026 전남광주미래산업박람회] 에니트, AI 지능형 광센서 기반 도로 상...",
@@ -922,7 +922,7 @@
           "link": "https://n.news.naver.com/mnews/article/030/0003458510?sid=102",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "북미 ICT 시장 문 두드리는 K-통신·AI…KT, 협력사 6곳과 ISE EXPO 출격",
@@ -933,7 +933,7 @@
           "link": "https://www.e-science.co.kr/news/articleView.html?idxno=133746",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "KT, 중소 협력사 해외 진출에 포석…'ISE EXPO' 첫 참가",
@@ -944,7 +944,7 @@
           "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5809",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "KT, 글로벌 인프라 전시회 'ISE 엑스포' 첫 참가…협력사 6곳 북미 진출...",
@@ -955,7 +955,7 @@
           "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206731",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "KT, 협력사 6곳과 북미시장 공략…ISE EXPO 첫 참가",
@@ -966,7 +966,7 @@
           "link": "https://www.koit.co.kr/news/articleView.html?idxno=208544",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[인터뷰] 김승철 NH아문디운용 본부장 \"단일 레버리지보다 메가트렌드\"",
@@ -977,7 +977,7 @@
           "link": "https://n.news.naver.com/mnews/article/293/0000089233?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "KT, 美 'ISE EXPO 2026' 첫 참가…통신·AI 협력사 6곳 북미 진출 지원",
@@ -988,7 +988,7 @@
           "link": "http://www.newsdream.kr/news/articleView.html?idxno=116470",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "TIME 미국나스닥100채권혼합50액티브, 해외투자 채권혼합형 ETF 수익률 1...",
@@ -999,7 +999,7 @@
           "link": "https://www.etoday.co.kr/news/view/2615742",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[미국 특징주] 광통신주 동반 급락 부른 패브리넷...호실적 불구 20% 폭락",
@@ -1010,7 +1010,7 @@
           "link": "https://www.newspim.com/news/view/20260819000052",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "중동 불안·국채금리 급등…반도체·AI株 직격탄-[美증시 특징주]",
@@ -1021,7 +1021,7 @@
           "link": "https://n.news.naver.com/mnews/article/215/0001262771?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "\"GPU 이어 '인듐인화물' 대란\"… AI 데이터센터 초고속 광통신 필수재 가...",
@@ -1032,7 +1032,7 @@
           "link": "https://www.g-enews.com/view.php?ud=2026081817313694650c8c1c064d_1",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "코닝 장 초반 20%대 급락, 광학주 동반 약세",
@@ -1043,7 +1043,7 @@
           "link": "https://www.tokenpost.kr/news/market/392709",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "대한광통신 움직임 체크",
@@ -1054,7 +1054,7 @@
           "link": "https://www.cbci.co.kr/news/articleView.html?idxno=599115",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "유통망 넓히고, 상온식품 키우고…美식탁 파고드는 CJ",
@@ -1065,7 +1065,7 @@
           "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260819010006362",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "동원F&B, '케바삭'으로 냉동치킨 시장 출사표",
@@ -1076,7 +1076,7 @@
           "link": "https://www.koreaittimes.com/news/articleView.html?idxno=156268",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "오뚜기 (함영준 회장), '갓뚜기' 이후 10년…이제는 자신의 성적표가 필...",
@@ -1087,7 +1087,7 @@
           "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=441820",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[CJ 북미 대도약]③ 슈완스 인수 7년…비비고 1위 이끈 보몬트 공장",
@@ -1098,7 +1098,7 @@
           "link": "https://n.news.naver.com/mnews/article/293/0000089272?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"상추 대신 식혜 드려요\"…채솟값·가공식품 줄인상에 장바구니 '비명'",
@@ -1109,7 +1109,7 @@
           "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4081533",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "CJ제일제당, 사료·축산 떼고 '식품·바이오' 집중…사업 재편 마침표",
@@ -1120,7 +1120,7 @@
           "link": "https://www.techm.kr/news/articleView.html?idxno=154429",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "후원물품 담은 가방이 자꾸 무거워지는 이유",
@@ -1131,7 +1131,7 @@
           "link": "https://n.news.naver.com/mnews/article/047/0002526018?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "BBQ 간편식부터 LA 사로잡은 비비고...유통가, 막바지 여름·추석 마케팅...",
@@ -1142,7 +1142,7 @@
           "link": "http://www.dailypop.kr/news/articleView.html?idxno=101682",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "김천시, 고향사랑기부제 답례품 라인업 대폭 강화… 답례품 4종 추가 선...",
@@ -1153,7 +1153,7 @@
           "link": "https://www.dkilbo.com/news/articleView.html?idxno=551667",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "설탕으로 플라스틱 만든다…CJ그룹 계열 바이오머티리얼즈 개발",
@@ -1164,7 +1164,7 @@
           "link": "https://www.itdaily.kr/news/articleView.html?idxno=241078",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "위고비가 바꾼 美 식품업계…\"식욕 자극 대신 '소용량·고단백' 승부수...",
@@ -1175,7 +1175,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014134801?sid=104",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "트렌드 맞춘 담북장 소스 개발, 새 시장 창출",
@@ -1186,7 +1186,7 @@
           "link": "http://www.kbiznews.co.kr/news/articleView.html?idxno=114663",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "동원F&B, '케바삭'으로 냉동 치킨 도전…진천서 생산",
@@ -1197,7 +1197,7 @@
           "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128399",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[더벨][CJ 글로벌 현장] 30년 투자 '뚝심' 결실…2028년 미주 매출 12조 ...",
@@ -1208,7 +1208,7 @@
           "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608160418246900107347",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[전지영 더봄] 세계 미식 여행, 식중독이라는 불청객을 조심하세요",
@@ -1219,7 +1219,7 @@
           "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256932",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[더벨][CJ 글로벌 현장] 美 생산기지로 간 K푸드, CJ제일제당 현지화 승...",
@@ -1230,7 +1230,7 @@
           "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608151041204280104191",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "식품부터 여행·가전까지...추석 앞두고 '취향·편의' 담은 신제품 잇따...",
@@ -1241,7 +1241,7 @@
           "link": "http://www.popcornnews.net/news/articleView.html?idxno=130102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 사업 확대에 연일 오름세…8%↑[특징주]",
@@ -1252,7 +1252,7 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006353912?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "거제 수해에 동네 슈퍼도 ‘직격탄’… “재고·설비 복구 직접지원 서...",
@@ -1263,7 +1263,7 @@
           "link": "https://www.viva100.com/article/20260819500183",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "동원F&B, 바삭함 앞세운 '케바삭' 출시…\"닭다리살 100%\"",
@@ -1274,7 +1274,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478474",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "더본코리아, 북미 시장 공략...캐나다 유통 확대·美 현지 생산 추진",
@@ -1285,7 +1285,7 @@
           "link": "https://www.ppss.kr/news/articleView.html?idxno=305901",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"북미 1위 K-뷰티·푸드 열풍 잇는다\" 코트라, 'KCON LA' 연계 B2B 상담회...",
@@ -1296,7 +1296,7 @@
           "link": "https://www.cstimes.com/news/articleView.html?idxno=717154",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "'K-푸드 호황' 무색한 동원F&B…글로벌 비중 여전히 '3%대'",
@@ -1307,7 +1307,7 @@
           "link": "https://n.news.naver.com/mnews/article/629/0000525423?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "대구공공시설관리공단, 터널 세척작업…테크노폴리스로 부분 통제",
@@ -1318,7 +1318,7 @@
           "link": "https://www.kbmaeil.com/article/20260819500427",
           "badge": "산업",
           "subgroup": "ritco",
-          "subgroup_label": "4-4 리트코"
+          "subgroup_label": "리트코"
         },
         {
           "title": "송파구, 아시아공원 300㎡ 규모 매력 정원 개장",
@@ -1329,25 +1329,25 @@
           "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284999",
           "badge": "산업",
           "subgroup": "ritco",
-          "subgroup_label": "4-4 리트코"
+          "subgroup_label": "리트코"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }
