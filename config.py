@@ -105,7 +105,7 @@ CATEGORIES = [
         "subgroups": [
             {
                 "id": "powernet", "label": "4-1 파워넷",
-                "email_own": 2, "email_ind": 1, "doc_own": 5, "doc_ind": 4,
+                "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
                 "priority_own": ["파워넷"],
                 "priority_ind": ["SMPS", "전원공급장치", "PSU"],
                 "keywords": [
@@ -129,11 +129,13 @@ CATEGORIES = [
                     "석탄발전", "발전소", "원전", "재생에너지", "태양광", "풍력",
                     "도매전력", "전력수급", "에너지믹스", "REC", "전기요금",
                     "이차전지", "배터리셀", "케이엔에스",
+                    "RSU", "재계 보수", "총수", "오너 일가", "양도제한조건부주식",
+                    "보수 1위", "연봉 1위",
                 ],
             },
             {
                 "id": "mercury", "label": "4-2 머큐리 & 머큐리광통신",
-                "email_own": 2, "email_ind": 1, "doc_own": 5, "doc_ind": 4,
+                "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
                 "priority_own": ["머큐리광통신", "머큐리", "광통신"],
                 "priority_ind": ["광케이블", "광섬유"],
                 "keywords": [
@@ -155,7 +157,7 @@ CATEGORIES = [
             },
             {
                 "id": "encreative", "label": "4-3 이앤크리에이티브",
-                "email_own": 2, "email_ind": 1, "doc_own": 5, "doc_ind": 4,
+                "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
                 "priority_own": ["이엔크리에이티브", "이앤크리에이티브", "국떡"],
                 "priority_ind": ["밀키트", "간편식", "HMR"],
                 "keywords": [
@@ -176,7 +178,7 @@ CATEGORIES = [
             },
             {
                 "id": "ritco", "label": "4-4 리트코",
-                "email_own": 2, "email_ind": 1, "doc_own": 5, "doc_ind": 4,
+                "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
                 "priority_own": ["리트코"],
                 "priority_ind": ["미세먼지", "전기집진"],
                 "keywords": [
