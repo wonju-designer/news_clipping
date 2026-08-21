@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:55 소급 정리",
+  "generated_at": "2026-08-21 16:12 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -116,17 +116,6 @@
           "date": "2026-08-13",
           "datetime": "2026-08-13 16:18",
           "link": "https://n.news.naver.com/mnews/article/029/0003042323?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민은행, 환전 고객에 해외 eSIM 데이터 1GB 제공",
-          "summary": "특히 해외에서는 지도와 교통정보 검색, 모바일 결제, 메신저 사용 등 스마트폰 데이터 이용이 필수적인 만큼 일정량의 데이터를 무료로 제공해 여행 초기 통신비 부담을 줄이는 데 도움이 될 것으로 기대된다....",
-          "press": "todayeconomic.com",
-          "date": "2026-08-13",
-          "datetime": "2026-08-13 16:18",
-          "link": "https://www.todayeconomic.com/news/article.html?no=31717",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -270,17 +259,6 @@
           "date": "2026-08-13",
           "datetime": "2026-08-13 11:18",
           "link": "https://n.news.naver.com/mnews/article/014/0005561080?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[단독] 인천시, 운행 안전위한 전세버스 통신비 지원,... 시민 안전망 강...",
-          "summary": "인천광역시(시장 박찬대)가 전세버스 운행정보의 실시간 전송을 위한 통신비 지원사업을 추진하면서... 차량 1대당 월 통신비 1만5,000원의 절반인 7,500원을 지원하고 나머지는 사업자가 부담한다. 지원 규모는 경…",
-          "press": "discoverynews.kr",
-          "date": "2026-08-13",
-          "datetime": "2026-08-13 11:06",
-          "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1098516",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1220,5 +1198,5 @@
       ]
     }
   ],
-  "total": 106
+  "total": 104
 }

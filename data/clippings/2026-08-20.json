@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:17 소급 정리",
+  "generated_at": "2026-08-21 16:12 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -17,6 +17,28 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 21:38",
           "link": "https://n.news.naver.com/mnews/article/011/0004653658?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[8월21일자] 비즈니스포스트 아침의 주요기사",
+          "summary": "● LIGD&A 방사청 뇌물 혐의에 2년 입찰제한 가능성, 신익현 국내 수주 공백에 실적 상승세 제동 걸리나... LG유플러스 '자회사 볼트업 적자'에도 충전 인프라 확장 가속, 홍범식 통신·AI 결합으로 이용자 확…",
+          "press": "businesspost.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 20:56",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445251",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[안광섭 AI 진테제] 독파모 2차 평가가 남긴 것",
+          "summary": "그 기준으로 통신 가입자와 에이닷을 가진 SK텔레콤, 그룹 계열사와 단말을 가진 LG, 포털을 확보한... 모레는 엔비디아 쿠다(CUDA)를 대체하는 소프트웨어로 KT와 AMD의 전략 투자를 받았고, 2024년 말 …",
+          "press": "지디넷코리아",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 20:46",
+          "link": "https://n.news.naver.com/mnews/article/092/0002434606?sid=110",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -55,12 +77,45 @@
           "subgroup_label": ""
         },
         {
+          "title": "[미리보는 이데일리 신문]AI 데이터센터 붐에 '블루칼라' 모시기 전쟁",
+          "summary": "위기 -통신3사 차세대 먹거리… 최대 걸림돌은 전력·인력 △교육개혁 지금이 적기다 -“회계학과·로스쿨 나와 자격증 따도 백수될라”… 고민 많은 대학생들 -AI시대, 학과간 벽 허물어 융합인재 키워야 △몸값 뛰는...",
+          "press": "이데일리",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 20:24",
+          "link": "https://n.news.naver.com/mnews/article/018/0006355258?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "유캐스트 등 3사 코스닥 상장예심 통과…니어스랩은 신규상장",
+          "summary": "유캐스트는 2011년 설립된 통신 및 방송 장비 제조업이다. LTE 및 5G 통신장비를 주력으로 두고있다. 이 기업은 작년 연결기준 59억3천400만원의 매출액과 18억2천600만원의 영업손실을 기록했다. 유진투자증…",
+          "press": "연합뉴스",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 19:43",
+          "link": "https://n.news.naver.com/mnews/article/001/0016262512?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "3G 시대 막 내리는 SKT… LTE·5G로 고객 이끈다",
           "summary": "20일 업계에 따르면 SK텔레콤은 3G 단말, HD 보이스 미지원 롱텀에볼루션(LTE) 단말 신규 가입, 번호 이동, 기기 변경을 중단하기로 했다. 3G 가입자·트래픽의 지속적인 감소, 3G 단말 및 장비 노후화, …",
           "press": "파이낸셜뉴스",
           "date": "2026-08-20",
           "datetime": "2026-08-20 18:40",
           "link": "https://n.news.naver.com/mnews/article/014/0005564317?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[게임뉴스] 마브렉스 및 위메이드 소식 외",
+          "summary": "통신 3사 고객이라면 누구나 참여 가능하다. 원스토리는 판타지와 로맨스 단행본을 중심으로 할인 프로모션을 운영한다. 오는 28일까지 '판타지 단행딜' 이벤트에서는 인기 단행본 51종을 최대 30% 할인가에 만나볼 수…",
+          "press": "gamevu.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 18:16",
+          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60136",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -77,12 +132,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "라이너·리벨리온, 소버린 AI 풀스택 솔루션 맞손",
-          "summary": "두 회사는 과학기술정보통신부가 주도한 독자 파운데이션 모델 개발 사업(SKT 컨소시엄)에서 협업해왔다. 이번 협약으로 AI 풀스택 솔루션의 사업화 단계로 협력을 넓힌다. 외산 GPU 의존도를 낮추고 국산 NPU와 A…",
-          "press": "디지털데일리",
+          "title": "유료방송 민관협의체 출범...유료방송 산업 위기 극복 활성화 방안 나오...",
+          "summary": "정보통신정책연구원(KISDI)이 참석한 가운데 ‘유료방송 활성화 민관협의체’ 첫 회의를 열고 산업 전반의 구조적 위기와 정책 개선 방향을 논의했다. 이번 협의체에는 KT·SK브로드밴드·LG유플러스 등 IPTV 3사를…",
+          "press": "m-economynews.com",
           "date": "2026-08-20",
-          "datetime": "2026-08-20 17:51",
-          "link": "https://n.news.naver.com/mnews/article/138/0002238470?sid=105",
+          "datetime": "2026-08-20 17:52",
+          "link": "https://www.m-economynews.com/news/article.html?no=69976",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[CAPEX 기업진단] LG유플러스, AIDC 베팅에도 곳간 '두둑'한 비결",
+          "summary": "-편집자 주- 통신 3사가 인공지능(AI) 데이터센터(AIDC) 투자에 속도를 내고 있다. 특히 LG유플러스는 파주 200MW급 AIDC를 중심으로 설비투자(CAPEX)를 확대하면서, 재무건전성 방어까지 무게를 두고…",
+          "press": "finomy.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 17:50",
+          "link": "http://www.finomy.com/news/articleView.html?idxno=259595",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -121,6 +187,28 @@
           "subgroup_label": ""
         },
         {
+          "title": "중·저신용자 대출 인센티브 30%보다 더 높인다",
+          "summary": "시중은행이 신용평점 하위 50%인 중저신용자에게 대출할 경우 가계대출 총량 산정에서 빼주는 비율을 현행... 일정한 소득이 없어도 통신비 납부 이력이나 지역화폐 거래 내역 등을 활용해 대출 가능 여부를 판단한다...…",
+          "press": "서울신문",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 17:28",
+          "link": "https://n.news.naver.com/mnews/article/081/0003672079?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "정상호 롯데카드 대표, 리스크 관리 성과…영업정지 딛고 체질 개선 속...",
+          "summary": "롯데카드는 지난 7월 SK텔레콤·KT·LG유플러스 등 통신 3사의 ‘AI 기반 보이스피싱 탐지 솔루션(SURPASS)’을 이상거래탐지시스템(FDS)에 연계해 보이스피싱 의심 거래를 탐지·차단하고 있다. 이익 규모가 …",
+          "press": "fntimes.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 17:26",
+          "link": "https://www.fntimes.com/html/view.php?ud=2026081811072944399efc5ce4ae_18",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "SKT, 3G 신규 가입 중단…23년 만에 서비스 종료 수순",
           "summary": "SKT는 3G 단말과 HD Voice 미지원 LTE 단말로의 신규 가입, 번호 이동, 기기 변경(유심기변 포함)을 이날부터 중단하고, 해당 고객의 LTE·5G 전환을 지원한다고 밝혔다. 회사 측은 ▲3G 가입자·트래…",
           "press": "getnews.co.kr",
@@ -138,6 +226,17 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 17:14",
           "link": "https://www.newstnt.com/news/articleView.html?idxno=714660",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK Telecom begins 3G network wind-down",
+          "summary": "SK Telecom said it will monitor how many users switch to LTE or 5G and review network conditions... SK Telecom and KT ha…",
+          "press": "koreajoongangdaily.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 17:14",
+          "link": "https://n.news.naver.com/mnews/article/640/0000093079?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -209,6 +308,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "[DD퇴근길] “도메인 내놔” VS “적법 계약”…싸이월드 부활, 법정으로...",
+          "summary": "※기사원문 : 싸이월드 재오픈 갈등, 법정 싸움으로 번지나 (채성오 기자) SKT, 3G 서비스 접는다…2027년... 3G 주파수를 반납하면 그만큼 LTE·5G에 재배치할 수 있어 통신망 효율이 올라갑니다. 단순히…",
+          "press": "디지털데일리",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 17:00",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238457?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[런던에서 읽는 생성형 AI시대의 경제] 〈8〉 왜 삼성은 아이폰을 만들...",
           "summary": "2세대 이동통신 휴대전화의 성공으로 세계 시장을 질주했고, 《비즈니스위크》는 2003년 'The Samsung Way'에 이어 2004년 'Samsung Design'을 커버스토리로 다뤘다. 두 번째 기사는 삼성을 …",
           "press": "조선일보",
@@ -237,17 +347,6 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 16:34",
           "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316182",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "독파모 2차 평가, SKT·LG AI연구원 사용자 평가서 최고점",
-          "summary": "과기부, 2차 평가 세부 순위 공개…모티프는 벤치마크 1위 과학기술정보통신부 MI. 국가대표 인공지능(AI) 모델을 선발하는 독자 AI 파운데이션 모델(독파모) 2차 단계평가 결과, SK텔레콤과 LG AI 연구원이 …",
-          "press": "metroseoul.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 16:34",
-          "link": "http://www.metroseoul.co.kr/article/20260820500558",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -297,17 +396,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "독파모 2차 평가 기준 공개… LG·SKT 각 2개 항목 1위",
-          "summary": "과학기술정보통신부가 독자 인공지능(AI) 파운데이션 모델(독파모) 프로젝트 2차 단계평가 세부 기준과 항목별 최고점 결과를 공개했다. 5개 평가 항목 가운데 LG AI연구원과 SK텔레콤이 각각 2개 항목에서 1위를.…",
-          "press": "IT조선",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 16:22",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168538",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "종료 수순 밟은 3G 서비스…SKT 신규가입 마무리",
           "summary": "SK텔레콤과 KT망을 이용하는 알뜰폰 3G 가입자는 13만4763명입니다. KT는 \"이용자 불편 최소화 방안을 다각도로 검토 중이며, 3G 신규 가입 중단을 준비하고 있다\"고 밝혔습니다.",
           "press": "newstomato.com",
@@ -319,12 +407,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "스마트폰 ‘픽셀’ 순항 구글 탈중국?… 내년 베트남·인도로 생산기지...",
-          "summary": "컴퓨팅 사업 규모가 워낙 크기 때문에 메모리 가격 급등도 큰 부담이 되지 않을 것”이라고 했다. 이어 “애플이 아이폰 가격을 인상할 경우, 미국, 일본, 유럽에서 시장 점유율을 일부 가져갈 수 있을 것”이라고 덧붙였…",
-          "press": "조선비즈",
+          "title": "방미통위, 유료방송 제도개선 본격화…민관협의체 가동",
+          "summary": "방미통위는 서울에서 유료방송사업자와 정보통신정책연구원(KISDI) 등이 참여한 '유료방송 활성화 민관협의체' 첫 회의를 개최했다고 20일 밝혔다. 협의체에는 KT·SK브로드밴드·LG유플러스 등 IPTV 3사를 비롯해…",
+          "press": "itdaily.kr",
           "date": "2026-08-20",
-          "datetime": "2026-08-20 16:19",
-          "link": "https://n.news.naver.com/mnews/article/366/0001187377?sid=105",
+          "datetime": "2026-08-20 16:20",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241117",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'통신·포털·전자' 산업간 경계 허문 AI...업종보다 중요해진 ‘밸류체...",
+          "summary": "통신3사가 기존 네트워크와 기업 고객 기반을 활용해 AI 인프라와 서비스로 사업 범위를 넓히는 모습이다. 플랫폼 업계도 AI 사업 범위를 넓히고 있다. 네이버는 자체 AI 모델과 클라우드, 대규모 GPU 인프라를 연…",
+          "press": "mediapen.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 16:18",
+          "link": "https://www.mediapen.com/news/view/1117697",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -352,12 +451,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "금융권 보안 사고 속... 농협손보, '업계 최초' 제로트러스트 켠다",
-          "summary": "이번 시범사업 기간은 올해 11월까지로, 우리은행·SKT 등도 함께 참여한다. 농협손보는 이 가운데 네트워크를 세부 단위로 잘게 쪼개 침입이 발생해도 공격이 다른 영역으로 번지지 못하도록 원천 차단하는 데이터 중심.…",
-          "press": "pressman.kr",
+          "title": "“말하는 AI 넘어 대화하는 AI로”…네오사피엔스, 내년 흑자 정조준[IP...",
+          "summary": "국내 통신 3사와 지상파 방송사, 홈쇼핑사 등 다수 기업이 서비스를 이용하고 있으며 기업용 API 매출은 출시 1년 만에 8배 가까이 늘었다. 그는 “B2B 고객들이 이미 저희 풀 안에 있어 API나 대화형 AI까지…",
+          "press": "이데일리",
           "date": "2026-08-20",
-          "datetime": "2026-08-20 16:14",
-          "link": "https://www.pressman.kr/news/articleView.html?idxno=103260",
+          "datetime": "2026-08-20 16:12",
+          "link": "https://n.news.naver.com/mnews/article/018/0006355077?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -374,17 +473,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "과기정통부 독파모 2차 평가 세부점수 공개, 모티프 글로벌평가·SKT 국...",
-          "summary": "과학기술정보통신부가 독자 인공지능(AI) 파운데이션 모델 프로젝트(독파모) 2차 단계평가의 세부 결과를 내놨다. 과기정통부는 20일 평가 투명성을 둘러싼 논란을 고려해 2차 평가 항목별 1위 기업과 점수를 추가로..…",
-          "press": "businesspost.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 16:10",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445206",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 3G 서비스 신규 가입 중단…LTE/5G 전환 고객 지원",
           "summary": "이 프로그램을 이용하지 않고 서비스를 해지하거나 타 통신사로 이동하는 고객에게는 4만원의 해지 지원금을 제공하고 전환·해지·번호이동 과정에서 발생하는 위약금도 면제해준다. 서비스 전환은 전국 T월드...",
           "press": "itbiznews.com",
@@ -396,12 +484,34 @@
           "subgroup_label": ""
         },
         {
-          "title": "'검수완박' 직전 수리된 사직서, 16년 차 검사는 왜 떠났나",
-          "summary": "그런데 보완수사로 더 들어가 보면, 본인 명의로는 한 달에 향정신성 의약품을 28정밖에 처방받지 못하기 때문에 명의도용을 한 경우 또는 이 약을 제3자에게 유통시켰을 가능성이 숨겨져 있다. 경찰이 '명의도용'으로 끝…",
-          "press": "ohmynews.com",
+          "title": "[프랜차이즈 Pick] 통신 제휴부터 팬덤 협업까지 여름 수요 대응",
+          "summary": "판매 실적 등을 통해 여름 막바지 소비자와의 접점을 넓히고 있다. 20일 업계에 따르면 다이닝브랜즈그룹의 아웃백 스테이크하우스가 LG유플러스와 손잡고 멤버십 고객 대상 8월 프로그램을 31일까지 진행한다. VVIP·…",
+          "press": "lcnews.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 16:06",
+          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206838",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "방미통위, '유료방송 활성화' 민관협의체 출범…규제·콘텐츠 대가 논의",
+          "summary": "(사진=픽사베이) 방송미디어통신위원회가 성장 정체와 수익성 악화를 겪는 유료방송 산업의 활성화... 협의체에는 KT·SK브로드밴드·LG유플러스 등 IPTV 3사와 LG헬로비전·CMB·KT HCN·금강방송, KT스카이…",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 15:58",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694370",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "원스토어, 여름 막바지 프로모션 실시…게임 포인트백·스토리 할인 '풍...",
+          "summary": "통신 3사 가입자라면 누구나 참여할 수 있다. 스토리 전문 플랫폼 원스토리에서는 판타지 및 로맨스 단행본 중심의 할인 행사를 운영한다. 오는 28일까지 진행되는 '판타지 단행딜'을 통해 인기 단행본 51종을 최대 3…",
+          "press": "thedailypost.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 15:46",
-          "link": "https://n.news.naver.com/mnews/article/047/0002526176?sid=102",
+          "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115079",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -429,6 +539,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "‘플랜 B’로 부활 노리는 K-배터리…AI ESS 속도전",
+          "summary": "국내 배터리3사가 인공지능(AI) 열풍으로 급증한 데이터센터의 전력 수요를 잡기 위해 생산라인 전환에... 이와 관련, 리 사장은 랜싱 공장에서 로이터통신과 인터뷰를 하고 \"예상보다 급성장을 이룬 분야가 바로 ESS…",
+          "press": "디지털타임스",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 15:42",
+          "link": "https://n.news.naver.com/mnews/article/029/0003043367?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[알쓸신잡] \"3G 작별 채비\" SKT, 신규 가입 막는다…기존 고객 지원책은...",
           "summary": "해당 고객은 신규 가입과 번호 이동, 기기 변경(유심 기변 포함)이 제한된다. SK텔레콤은 기존 3G 이용자가 LTE나 5G로 전환할 수 있도록 다양한 지원책을 가동한다. 기존 결합 할인과 장기 고객 혜택은 전환 이…",
           "press": "dailypop.kr",
@@ -451,12 +572,34 @@
           "subgroup_label": ""
         },
         {
+          "title": "방미통위, 유료방송 민관협의체 출범…요금·약관·콘텐츠 사용료 논의",
+          "summary": "협의체에는 정부 측에서 방송미디어통신위원회와 정보통신정책연구원이 참여했으며, 업계에서는 KT·SK브로드밴드·LG유플러스 등 IPTV 3사를 비롯해 LG헬로비전·씨엠비·KT HCN·금강방송 등 종합유선방송사업자(SO)…",
+          "press": "dailian.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 15:32",
+          "link": "https://n.news.naver.com/mnews/article/119/0003123560?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "국민 비서 ‘모두의 AI’…병원부터 쇼핑몰까지 다 이용할 수 있게 만든...",
           "summary": "월간 사용자 1000만명 규모의 '에이닷'과 자체 AI 모델 'A.X K2', 약 2250만개 이동통신 회선을 앞세웠다. 여기에 신한카드와 하나카드, 티맵모빌리티, 굿닥 등을 끌어들여 금융과 모빌리티, 의료 등으로 …",
           "press": "ekn.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 15:26",
           "link": "https://www.ekn.kr/web/view.php?key=20260820021294660",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "서울YMCA \"KT·LGU+ 해킹 증거 훼손 엄정 수사…위약금 면제해야\"",
+          "summary": "신규 가입자를 모집하고 있다\"며 \"이대로라면 증거를 없애는 것이 기업에 유리하다는 잘못된 신호를 산업계에 줄 수 있다\"고 주장했다. 국회 출석한 김영섭 KT 회장 / 알티케이뉴스 DB KT가 국가 안보와 치안 등에 …",
+          "press": "rightknow.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 15:22",
+          "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34554",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -484,12 +627,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "독파모 2차평가 성적표 일부 공개…모티프·SKT·LG 항목별 1위",
-          "summary": "과학기술정보통신부가 '독자 AI 파운데이션 모델(독파모)' 프로젝트 2차 단계평가의 항목별 1위 기업과 점수를 추가 공개했다. 글로벌 벤치마크에서는 모티프테크놀로지스, 국내 벤치마크에서는 SK텔레콤, 전문가...",
-          "press": "파이낸셜뉴스",
+          "title": "'한 달에 이 정도는 있어야'…서울 4060세대가 답한 '최소 생활비'는 이...",
+          "summary": "이번에 제시된 생활비 기준은 실제 가계의 소비·지출액을 합산한 금액과는 성격이 다르다. 조사 참여자가... 통신비와 보험료, 각종 구독료처럼 정기적으로 나가는 비용은 한 번 정해두면 오랫동안 그대로 유지되는...",
+          "press": "wikitree.co.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 15:16",
-          "link": "https://n.news.naver.com/mnews/article/014/0005564157?sid=105",
+          "link": "https://www.wikitree.co.kr/articles/1153655",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -501,28 +644,6 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 15:14",
           "link": "https://hbnpress.com/news/view/1065593206515783",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "라이너, 리벨리온과 MOU…\"국산 반도체-AI 에이전트 결합\"",
-          "summary": "라이너와 리벨리온은 과학기술정보통신부가 주도한 독자 파운데이션 모델 개발 사업(SKT 컨소시엄)에서 협력 관계를 이어왔다. 이번 협력 확대로 라이너의 AI 에이전트 기술력과 리벨리온의 NPU AI 반도체 인프라를..…",
-          "press": "AI타임스",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 15:14",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214162",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "삼성 DX 적자 장기화 조짐···노태문 '수익성 반전' 시험대",
-          "summary": "4분기에는 폴더블 출시효과가 사라지는데다 애플의 아이폰 출시 효과가 더해지면서 점유율과 함께 실적도 감소한다. 이 때문에 관련 업계 관계자들 사이에서는 만약 삼성전자 DX부문이 내년 1분기까지 흑자 전환을...",
-          "press": "seoulfn.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 15:12",
-          "link": "https://www.seoulfn.com/news/articleView.html?idxno=636071",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -561,17 +682,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "'독파모' 2차 평가 항목별 최고점은 모티프·SKT·LG",
-          "summary": "과학기술정보통신부가 ‘독자 AI 파운데이션 모델(독파모)’ 프로젝트 2차 단계평가의 세부 기준과 결과를 20일 공개했다. 평가 결과 AAII 벤치마크는 모티프테크놀로지스, NIA 벤치마크와 AI 전문 사용자 평가는.…",
-          "press": "dailian.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 15:08",
-          "link": "https://n.news.naver.com/mnews/article/119/0003123551?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "대만, 中위협 고조에 내년 국방비 18% 인상 추진…50조원 육박",
           "summary": "주요 통신기반 시설 파괴를 대비해 처음으로 이동통신 인터넷망 속도를 낮추는 훈련도 실시했다. 이에 대해 천시 중국 국방부 대변인은 한광 훈련이 \"항상 과시적이고 낭비적인 연극에 불과했다\"며 대만 집권당인...",
           "press": "뉴스1",
@@ -589,6 +699,17 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 15:06",
           "link": "https://n.news.naver.com/mnews/article/029/0003043356?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "고정소비 할인부터 구독까지 한장에...우리카드, '카드의정석2 데일리'...",
+          "summary": "아울러 직장인과 가족 단위 고객의 생활 양식을 겨냥해 음식점과 주점을 비롯해 배달 애플리케이션, 대형 마트와 온라인 쇼핑몰, 택시 및 주유소, 가계 통신비 등 4대 필수 소비 구역에서 5% 우대 할인을 추가 제공한다…",
+          "press": "updownnews.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 15:04",
+          "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=318453",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -649,12 +770,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "금융위, 660억 보이스피싱 피해 차단",
-          "summary": "4일부터 금융회사·수사기관뿐 아니라 이동통신사와 의심 정보를 신속히 공유할 수 있는 통신사기 피해환급법 개정안이 시행됐다. 시행 이후 통신사는 보이스피싱 활용 의심 전화번호 100여건을 ASAP에 공유했고 관련...",
-          "press": "서울경제",
+          "title": "유시춘 전 EBS 이사장 ‘법카 사적 유용’ 무죄 확정…검찰 항소 포기",
+          "summary": "방송통신위원회(현 방송미디어통신위원회)에 이첩하면서 수사가 시작됐다. 이후 검찰은 권익위 발표 한... 이에 공영방송 3사의 야권 이사들은 유 전 이사장에 대한 수사가 윤석열 정권의 공영방송 탄압 및 방송장악...",
+          "press": "경향신문",
           "date": "2026-08-20",
-          "datetime": "2026-08-20 14:45",
-          "link": "https://n.news.naver.com/mnews/article/011/0004653484?sid=101",
+          "datetime": "2026-08-20 14:43",
+          "link": "https://n.news.naver.com/mnews/article/032/0003465349?sid=102",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -704,12 +825,56 @@
           "subgroup_label": ""
         },
         {
+          "title": "원스토어 결제액 30% 포인트 환급 '썸머 피날레' 발표",
+          "summary": "통신 3사 이용자라면 누구나 참여할 수 있다. 스토리 콘텐츠 전용 플랫폼 원스토리에서도 할인 행사를 이어간다. 오는 28일까지 펼쳐지는 '판타지 단행딜' 행사에서는 인기 단행본 51종을 최대 30% 할인한다. 로맨스…",
+          "press": "khgames.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 14:28",
+          "link": "https://www.khgames.co.kr/news/articleView.html?idxno=307499",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "과기정통부, AMD·국산 NPU 3사와 개방형 AI 인프라 간담회 개최",
+          "summary": "과학기술정보통신부가 AMD를 비롯해 국내 AI 반도체 업계와 개방형 AI(인공지능) 컴퓨팅 인프라 구축 방안을 논의했다. 과학기술정보통신부는 20일 서울 광화문 HJ비즈니스센터에서 배경훈 부총리 겸 과기정통부 장관.…",
+          "press": "econovill.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 14:24",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=748472",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "23년 만에 역사 속으로... SKT, 3G 신규 가입 중단",
           "summary": "3G 서비스를 해지하거나 다른 통신사로 이동하는 고객에게는 해지 지원금 4만 원을 제공하고, 전환·해지·번호이동 과정에서 발생하는 위약금을 면제한다. 윤재웅 SKT 프로덕트&브랜드본부장은 \"3G를 오랫동안...",
           "press": "한국일보",
           "date": "2026-08-20",
           "datetime": "2026-08-20 14:23",
           "link": "https://n.news.naver.com/mnews/article/469/0000949069?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "로그 지운 KT·서버 폐기 LGU+...서울YMCA \"위약금 면제·영업정지해야\"",
+          "summary": "개인정보위 조사 결과 KT의 이동통신 핵심 네트워크·시스템 접근통제 관리가 미흡해 이용자 1만6647명의 휴대전화번호와 IMSI(가입자식별번호), IMEI(단말기식별번호) 등이 유출됐다. 소액결제 인증에 사용되는..…",
+          "press": "wolyo.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 14:08",
+          "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=316641",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "외식업계 '통신사 VIP' 쟁탈전···아웃백·설빙, 할인으로 고객 끌어온...",
+          "summary": "국내 통신 3사의 가입자는 7000만 명을 넘어선 것으로 추산된다. LG유플러스 역시 VIP 이상 등급의 대규모 고객 기반을 보유하고 있어 외식 브랜드 입장에서는 자체 앱 설치나 별도의 회원 가입을 유도하지 않고도 …",
+          "press": "enetnews.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 14:00",
+          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=53552",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -727,7 +892,7 @@
         },
         {
           "title": "추억의 3G, 역사 속으로...SKT, 23년 만에 신규 가입 중단, 남은 사용자...",
-          "summary": "넘어 인공지능과 위성통신 등을 결합한 차세대 네트워크를 목표로 한다. 23년간 이동통신 한 축을 담당했던 3G가 역사 속으로 사라지는 사이, 통신 시장은 또 한 번의 세대교체를 앞두고 있다. SKT,3G,차세대 이동…",
+          "summary": "SK텔레콤은 3G 가입자와 트래픽이 꾸준히 감소하는 데다 3G 단말과 장비가 노후했고, 통신 환경도 LTE·5G... 3G가 역사 속으로 사라지는 사이, 통신 시장은 또 한 번의 세대교체를 앞두고 있다. SKT,3G…",
           "press": "newsworker.co.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 13:54",
@@ -759,12 +924,34 @@
           "subgroup_label": ""
         },
         {
+          "title": "설탕시장 ‘큰손’ 롯데 앞에 두고…제당 3사 ‘담합 플레이’ [공정위...",
+          "summary": "설탕과 밀가루 가격부터 금융·통신·유통까지 우리 일상 곳곳에는 기업 간 경쟁이 있다. 이 과정에서... 그런데 의결서를 읽다 보면 설탕시장을 왜곡시킨 CJ제일제당과 삼양사, 대한제당 등 제당 3사만큼 자주 나오는..…",
+          "press": "kukinews.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 13:42",
+          "link": "https://www.kukinews.com/article/view/kuk202608200105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "SKT, 3G 신규 가입 오늘부터 중단…LTE·5G 전환 지원",
           "summary": "SK텔레콤은 오늘(20일)부터 3G 단말과 3G망으로 음성통화를 제공하는 HD 보이스 미지원 LTE 단말을 대상으로 신규 가입과 번호이동, 기기 변경(유심기변 포함)을 중단한다고 밝혔다. SK텔레콤은 3G 가입자와 …",
           "press": "news.tvchosun.com",
           "date": "2026-08-20",
           "datetime": "2026-08-20 13:39",
           "link": "https://n.news.naver.com/mnews/article/448/0000634613?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK텔레콤 KT보다 먼저 '3G 종료' 본격화, 신규 가입 중단하고 디지털 취...",
+          "summary": "두 기업은 올해 7월 과기정통부 장관과 통신 3사 대표 간담회에서도 3G 서비스 종료를 건의한 바 있다. SK텔레콤은 우선 신규 가입을 중단하고 과기정통부에 서비스 종료 승인을 신청한다는 방침이다. 이용자 보호를..…",
+          "press": "huffingtonpost.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 13:36",
+          "link": "https://www.huffingtonpost.kr/article/259708",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -787,6 +974,17 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 13:29",
           "link": "https://www.polinews.co.kr/news/articleView.html?idxno=740712",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "세일즈포스 태블로, \"데이터 분석 넘어 실행으로\"…에이전틱 분석 본격...",
+          "summary": "기업별로는 삼성전자 등록자가 가장 많았고 LG유플러스, 삼성SDS, 현대자동차, LG전자, KT, LG CNS 등 주요... 비교와 실적 분석 등에 필요한 정보를 확인할 수 있도록 한 것이 특징이다. LG CNS는 …",
+          "press": "koit.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 13:28",
+          "link": "https://www.koit.co.kr/news/articleView.html?idxno=208577",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -935,6 +1133,28 @@
           "subgroup_label": ""
         },
         {
+          "title": "네이버 불참한 ‘모두의 AI’, 카카오·통신사는 왜 절박한가",
+          "summary": "전 국민 누구나 AI 서비스를 이용할 수 있도록 정부가 추진하는 '모두의 AI' 프로젝트에 국내 통신 3사와 카카오 등 플랫폼 기업이 대거 뛰어들었다. 이들 기업이 참여한 배경에는 그동안 AI에 투자해온 만큼 대규모…",
+          "press": "dailian.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 11:49",
+          "link": "https://n.news.naver.com/mnews/article/119/0003123444?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[산업소식] 현대차, 전주월드컵경기장서 '현대 N 파트너 데이' 개최",
+          "summary": "위협 신호를 탐지·수집·분석하고 전시에는 전자공격으로 적 방공망과 무선 지휘통신 체계를 교란하는... 한미그룹은 한미사이언스와 한미약품, 온라인팜 등 3사가 공동 운영하는 직장어린이집 리틀랩 원아들이...",
+          "press": "4th.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 11:46",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2116617",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "SKT, 3G 신규 가입 중단…23년 만에 서비스 종료 수순",
           "summary": "SKT는 20일부터 3G 단말과 HD Voice를 지원하지 않는 LTE 단말의 신규 가입, 번호 이동, 기기 변경을 중단한다고 밝혔다. HD Voice 미지원 LTE 단말은 음성통화를 3G망으로 처리해 향후 3G 종…",
           "press": "ziksir.com",
@@ -946,23 +1166,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 3G 서비스 종료 추진…오늘부터 신규 가입 중단",
-          "summary": "이에 따라 3G 단말과 HD Voice를 지원하지 않는 LTE 단말을 이용한 신규 가입과 번호이동, 기기변경이 이날부터 중단된다. HD Voice 미지원 LTE 단말은 음성통화에 3G망을 이용하기 때문에 3G 서비스…",
-          "press": "kdfnews.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 11:34",
-          "link": "http://www.kdfnews.com/news/articleView.html?idxno=186806",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, ‘3G 신규 가입’ 23년 만에 중단…단말 교체·요금 할인 지원",
           "summary": "에스케이텔레콤은 20일부터 3세대 통신 단말과 3세대 통신망으로 음성 통화가 이뤄지는 엘티이(LTE) 단말을 대상으로 신규 가입과 번호 이동, 기기 변경(유심 기변 포함)을 중단한다고 밝혔다. 회사는 3세대 통신 가…",
           "press": "한겨레",
           "date": "2026-08-20",
           "datetime": "2026-08-20 11:34",
           "link": "https://n.news.naver.com/mnews/article/028/0002819332?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 종료 추진…오늘부터 신규 가입 중단",
+          "summary": "이에 따라 3G 단말과 HD Voice를 지원하지 않는 LTE 단말을 이용한 신규 가입과 번호이동, 기기변경이 이날부터 중단된다. HD Voice 미지원 LTE 단말은 음성통화에 3G망을 이용하기 때문에 3G 서비스…",
+          "press": "kdfnews.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 11:34",
+          "link": "http://www.kdfnews.com/news/articleView.html?idxno=186806",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1023,23 +1243,23 @@
           "subgroup_label": ""
         },
         {
+          "title": "日, 2017년 이후 첫 대형 도크 신설… 조선업 재건 본격화",
+          "summary": "(일본)=이경 통신원 dorami@ajunews.com 일본 나무라조선소에서 건조한 선박. [사진=나무라 조선소 홈페이지]... 나무라조선소와 일본 최대 조선사인 이마바리조선, 가와사키중공업 등 3사는 2035년께 …",
+          "press": "아주경제",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 11:18",
+          "link": "https://www.ajunews.com/view/20260820104244454",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "3G 역사 속으로...SKT \"신규 가입 중단\"",
           "summary": "3G 단말과 HD 보이스(Voice)를 지원하지 않는 롱텀에볼루션(LTE) 단말의 신규 가입·번호이동·기기변경(유심기변 포함)이 중단된다. KT 역시 가입 중단 여부를 현재 검토중이라고 밝혔다. SKT 관계자는 \"3…",
           "press": "아주경제",
           "date": "2026-08-20",
           "datetime": "2026-08-20 11:16",
           "link": "https://www.ajunews.com/view/20260820104952461",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "삼성디스플레이 상반기 플렉서블 OLED 출하량 34.5% 증가, BOE 스마트폰 ...",
-          "summary": "애플 아이폰 판매 호조와 선행 재고 확보가 출하량 증가를 견인한 것으로 분석된다. 중국 CSOT는 점유율 13.4%로 3위를 유지했다. 상반기 출하량은 약 1억5천만 개로 8.9% 증가했다. 생산능력 확대에 따른 a…",
-          "press": "businesspost.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 11:16",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445171",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1073,6 +1293,17 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 10:58",
           "link": "https://news.mtn.co.kr/news-detail/2026082009073623809",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 View] 3G 세대교체·AI 동맹·공간 DX… 미래 먹거리 승부수",
+          "summary": "국내 이동통신 3사가 각각 3G 서비스 종료, AI 스타트업 협업, AI 기반 건물 관리 솔루션 출시 등 미래 성장을 위한 차별화된 전략을 취했다. 20일 업계에 따르면 SK텔레콤은 2003년 서비스를 시작해 23년…",
+          "press": "newscj.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 10:56",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3426477",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1188,23 +1419,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "[위클리오늘] 이동통신 소식_LG유플러스, SK텔레콤(8.20)",
-          "summary": "SK텔레콤은 이날부터 3G 단말과 HD Voice를 지원하지 않는 LTE 단말의 신규 가입과 번호이동, 기기변경을 중단하고 기존 이용자의 LTE·5G 전환을 지원한다. 고객은 단말 교체와 구매 지원, 요금 할인 등 …",
-          "press": "weeklytoday.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 10:28",
-          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=790922",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 3G 신규 가입 서비스 중단한다...2G 이어 역사 속으로",
           "summary": "중단되는 서비스는 ▲3G 단말 ▲HD Voice 미지원 LTE 단말로의 신규 가입, 번호 이동, 기기 변경(유심기변 포함) 등이다. SKT는 추후 과학기술정보통신부에 종료 승인을 신청하고 단계적으로 서비스 종료를 추…",
           "press": "insightkorea.co.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 10:28",
           "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=252790",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 이동통신 소식_LG유플러스, SK텔레콤(8.20)",
+          "summary": "SK텔레콤은 이날부터 3G 단말과 HD Voice를 지원하지 않는 LTE 단말의 신규 가입과 번호이동, 기기변경을 중단하고 기존 이용자의 LTE·5G 전환을 지원한다. 고객은 단말 교체와 구매 지원, 요금 할인 등 …",
+          "press": "weeklytoday.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 10:28",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=790922",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1227,6 +1458,17 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 10:24",
           "link": "https://www.eroun.net/news/articleView.html?idxno=87935",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "3G 퇴장 본격화…SKT 2027년 종료, KT도 결단 임박(종합)",
+          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 가운데 하나를 선택할 수 있다. 스마트기기 회선은 ▲최대 19만원의 단말 구매 지원금 및 24개월간 월 최대 6000원 요금 할인 ▲24개월간 가입 요금제 월정액…",
+          "press": "디지털데일리",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 10:24",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238363?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1375,6 +1617,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "[CEO와칭] 'AI 인프라' 대신 5000만 일상…정신아, 카카오 승부처 바꾼다",
+          "summary": "정 대표는 지난 6일 2분기 실적발표 콘퍼런스콜에서 AI 데이터센터와 GPU 클라우드 등 AI 가치사슬 전반의... SK텔레콤과 KT, 이스트소프트 등 총 6개 컨소시엄이 경쟁에 뛰어든 만큼 카카오의 서비스 경쟁력을…",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:58",
+          "link": "http://www.metroseoul.co.kr/article/20260820500075",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "SKT, 23년 만에 3G 종료 수순…신규 가입부터 막는다",
           "summary": "SKT망 알뜰폰 이용자의 지원 방안은 각 알뜰폰 사업자가 별도로 마련할 예정이다. SKT는 가입자 감소와 단말·장비 노후화, LTE·5G 중심으로 바뀐 통신 환경을 3G 종료 추진 배경으로 들었다. 회사는 종료 전까…",
           "press": "sateconomy.co.kr",
@@ -1430,6 +1683,28 @@
           "subgroup_label": ""
         },
         {
+          "title": "SKT, 3G 서비스 신규 가입 중단⋯ 점진적 서비스 종료 추진",
+          "summary": "SKT는 고령 고객의 요금 부담을 낮추기 위해, 3G 가입 고객(만 65세 이상)이 LTE·5G로 전환하는 경우 기존 ‘뉴실버요금제(월 9900원)’에 가입하도록 했다. 가입 이후 다른 요금제로 변경하지 않으면 해당…",
+          "press": "viva100.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:52",
+          "link": "https://www.viva100.com/article/20260820500314",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 신규 가입 중단…23년 만에 서비스 종료 수순",
+          "summary": "이에 따라 이날부터 3G 단말과 HD Voice를 지원하지 않는 LTE 단말에 대한 신규 가입, 번호이동, 기기변경(유심기변 포함)이 중단된다. HD Voice를 지원하지 않는 LTE 단말은 3G망을 통해 음성통화를…",
+          "press": "delighti.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:50",
+          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120451",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[TOP's Pick] [통신] SK텔레콤, 3G 서비스 신규 가입 중단 外",
           "summary": "해당 단말의 신규 가입과 번호이동, 기기변경, 유심기변이 제한됨. SKT는 3G 가입자와 트래픽 감소, 단말·장비 노후화, 차세대 네트워크 중심의 통신환경 변화 등을 종료 추진 배경으로 제시했음. 향후...",
           "press": "topdaily.kr",
@@ -1452,12 +1727,78 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 3G 신규 가입 중단…23년 만에 서비스 종료 수순",
-          "summary": "이에 따라 이날부터 3G 단말과 HD Voice를 지원하지 않는 LTE 단말에 대한 신규 가입, 번호이동, 기기변경(유심기변 포함)이 중단된다. HD Voice를 지원하지 않는 LTE 단말은 3G망을 통해 음성통화를…",
-          "press": "delighti.co.kr",
+          "title": "'LG유플러스도 저격' 서울YMCA \"위약금 면제 등 강력 제재 추가 필요\"",
+          "summary": "이 단체는 KT가 지난해 겪은 가입자 정보 유출사고와 관련해서도 강력한 제재가 필요하다는 논리를 폈다. 단체는 \"KT의 취약점 방치로 1만6000여명의 개인정보가 유출되고, 이로 인해 368명의 이용자에게 약 2억4…",
+          "press": "daily.hankooki.com",
           "date": "2026-08-20",
           "datetime": "2026-08-20 09:50",
-          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120451",
+          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1397434",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G '신규 중단' 23년 만에 종료 수순...KT는?",
+          "summary": "▲단말 무료 교체와 24개월 월 요금 최대 1만2000원 할인 ▲단말 구매 지원금(최대 38만원)과 24개월 월 요금 최대 1만2000원 할인 ▲24개월간 가입 요금제 월정액 최대 70% 할인(최대 70만원, 선택약…",
+          "press": "techm.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:48",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154444",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "3G 서비스 시대 마무리하는 SK텔레콤, 신규 가입 중단",
+          "summary": "SKT는 고령 고객 요금 부담을 낮추기 위해 만 65세 이상 3G 가입 고객이 LTE·5G로 전환하면 기존 뉴실버요금제(월 9900원)에 가입할 수 있게 했다. 서비스 전환 지원 프로그램 혜택을 받지 않거나 다른 이…",
+          "press": "sidae.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:48",
+          "link": "https://n.news.naver.com/mnews/article/417/0001155844?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK텔레콤, 3G 신규 가입 중단",
+          "summary": "SKT는 기존 고객이 LTE·5G 전환을 지원하고, 향후 과학기술정보통신부에 종료 승인을 신청할 계획이다. SK텔레콤은 기존 3G 가입자의 LTE·5G 전환을 위한 지원 프로그램을 운영한다. 서비스 전환을 원하는 고…",
+          "press": "newsinside.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:48",
+          "link": "https://www.newsinside.kr/news/articleView.html?idxno=4934564",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 23년 만에 3G 서비스 종료 추진…20일부터 신규 가입 중단",
+          "summary": "할인 △24개월간 요금제 월정액 최대 70% 할인 중 하나를 선택할 수 있다. 만 65세 이상 3G 가입자가 LTE·5G로 전환할 경우에는 기존 월 9900원의 뉴실버요금제에 가입할 수 있도록 했다. 서비스를 해지하…",
+          "press": "서울경제",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:42",
+          "link": "https://n.news.naver.com/mnews/article/011/0004653341?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 신규 가입 중단…서비스 종료 추진",
+          "summary": "전환 이후 다른 요금제로 변경하지 않는다면 해당 요금제를 계속 이용할 수 있다. SKT는 3G 가입자들이 서비스 종료와 지원 내용을 놓치지 않도록 문자메시지(MMS), T월드 홈페이지와 앱, 우편·이메일 요금 안내서…",
+          "press": "ezyeconomy.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:40",
+          "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=238877",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 신규 가입 중단…“점진적 서비스 종료 추진”",
+          "summary": "SKT는 고령 고객의 요금 부담을 낮추기 위해, 3G 가입 고객(만 65세 이상)이 LTE·5G로 전환하는 경우 기존 ‘뉴실버요금제(월 9900원)’에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으…",
+          "press": "ceoscoredaily.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:40",
+          "link": "https://www.ceoscoredaily.com/page/view/2026082009390562235",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1474,12 +1815,397 @@
           "subgroup_label": ""
         },
         {
+          "title": "SKT, 23년 만에 3G 서비스 중단…LTE·5G 전환 지원",
+          "summary": "SKT는 3G 가입 고객 중 고령 고객(만 65세 이상)이 LTE·5G로 전환하는 경우 기존 '뉴실버요금제(월 9900원)'에 가입할 수 있도록 했습니다. 가입 이후 다른 요금제로 변경하지 않으면 해당 요금제를 계속…",
+          "press": "inthenews.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:36",
+          "link": "https://www.inthenews.co.kr/news/article.html?no=90695",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 순차 종료 추진…신규 가입 중단",
+          "summary": "24개월간 요금제 월정액 최대 70% 할인(최대 70만원) 가운데 하나를 고를 수 있다. 선택 프로그램과... 윤재웅 SKT 프로덕트&브랜드본부장은 \"3G를 오랫동안 이용해 온 고객의 상황을 세심하게 살피며 전환을 …",
+          "press": "news.tf.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:32",
+          "link": "https://n.news.naver.com/mnews/article/629/0000525846?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 신규 가입 중단",
+          "summary": "SKT는 \"3G 가입자·트래픽의 지속적인 감소, 3G 단말 및 장비 노후화, 차세대 네트워크 중심으로의 통신 환경 변화 등에 따라 종료를 추진하게 됐다\"고 설명했다. SKT는 신규 가입 중단에 따라 3G 서비스 가입…",
+          "press": "한국경제TV",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:32",
+          "link": "https://n.news.naver.com/mnews/article/215/0001262931?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 신규가입 중단…2027년 말 서비스 종료 추진",
+          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 가운데 하나를 선택할 수 있다. 스마트기기 회선의 경우 ▲최대 19만원의 단말 구매 지원금 및 24개월간 월 최대 6000원 요금 할인 ▲24개월간 가입 요금제 …",
+          "press": "디지털데일리",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:27",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238335?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 점진적 종료..신규 가입 중단",
+          "summary": "이번 조치에 따라 SKT는 3G 단말 및 HD Voice를 지원하지 않는 일부 LTE 단말의 신규... 가입 요금제 월정액을 최대 70%까지(최대 70만 원 한도) 할인받는 방식이다. 어떤...",
+          "press": "breaknews.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:26",
+          "link": "http://www.breaknews.com/1230122",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK텔레콤, 3G 신규 가입 중단…LTE·5G 전환 지원",
+          "summary": "24개월간 요금제 월정액 최대 70% 할인 가운데 하나를 선택할 수 있다. 만 65세 이상 가입자가 LTE·5G로... 윤재웅 SKT 프로덕트&브랜드본부장은 \"3G를 오랫동안 이용해 온 고객 한 분 한 분의 상황을 …",
+          "press": "slist.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:26",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=760000",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 오늘부터 3G 신규 가입 중단...\"통신환경 변화에 따른 조치\"",
+          "summary": "SKT는 3G 단말과 HD Voice 미지원 LTE 단말로의 신규 가입, 번호 이동, 기기 변경을 이날부터 중단한다. 3G... 만 65세 이상 고령 가입자는 기존 '뉴실버요금제'(월 9900원)로 전환할 수 있으며…",
+          "press": "newspim.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:26",
+          "link": "https://www.newspim.com/news/view/20260820000157",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 가입 중단… 23년 만에 퇴장 수순",
+          "summary": "SKT는 고령 고객의 요금 부담을 낮추기 위해, 3G 가입 고객(만 65세 이상)이 LTE·5G로 전환하는 경우 기존 ‘뉴실버요금제(월 9900원)’에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으…",
+          "press": "dailian.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:25",
+          "link": "https://n.news.naver.com/mnews/article/119/0003123320?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'굿바이 3G' SKT, 23년 만에 서비스 종료 수순···LTE·5G 전환 지원",
+          "summary": "24개월간 요금제 월정액 최대 70% 할인 가운데 하나를 선택할 수 있다. 전환 고객에게는 리필 쿠폰 4장도 제공한다. 만 65세 이상 3G 고객은 LTE·5G로 전환할 경우 월 9900원의 기존 뉴실버요금제를 계속…",
+          "press": "smartbizn.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:22",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=151617",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 단계적 종료 수순…오늘부터 신규 가입 중단",
+          "summary": "24개월간 요금제 월정액을 최대 70%(최대 70만 원)까지 깎아주는 방식이다. 어떤 방식을 택하든 리필 쿠폰... 만 65세 이상 3G 가입자가 LTE·5G로 넘어갈 경우에는 월 9,900원짜리 기존 '뉴실버요금제…",
+          "press": "nextdaily.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:22",
+          "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252305",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"SKT, 23년 만에 3G 서비스 종료\"…이날부터 신규 가입 중단",
+          "summary": "할인 △24개월간 요금제 월정액 최대 70% 할인 중 하나를 선택할 수 있다. 만 65세 이상 3G 가입자가 LTE·5G로 전환할 경우에는 기존 월 9900원의 뉴실버요금제에 가입할 수 있다. 전환 지원 프로그램을 …",
+          "press": "daejonilbo.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:21",
+          "link": "https://n.news.naver.com/mnews/article/656/0000184495?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 신규 가입 오늘부터 중단… 서비스 종료 추진",
+          "summary": "할인 ▲24개월간 요금제 월정액 최대 70% 할인 중 하나를 선택할 수 있다. 만 65세 이상 3G 가입자가 LTE·5G로... 윤재웅 SKT 프로덕트&브랜드본부장은 “3G를 오랫동안 이용해 오신 고객 한 분 한 분…",
+          "press": "조선일보",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:21",
+          "link": "https://n.news.naver.com/mnews/article/023/0003993949?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 '신규 가입 중단'...23년 만에 종료 추진",
+          "summary": "SKT가 2003년부터 시작한 3G 서비스 종료를 위해 신규 가입을 중단하고, 서비스 전환 지원 프로그램을... 또 24개월간 가입 요금제 월정액의 최대 70%, 총 최대 70만원을 할인받는 방안도 선택할 수 있다.…",
+          "press": "moneystorm.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:20",
+          "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5835",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 신규 가입 중단…고객 LTE·5G 전환 지원",
+          "summary": "SKT는 고령 고객의 요금 부담을 낮추기 위해, 3G 가입 고객(만 65세 이상)이 LTE·5G로 전환하는 경우 기존 ‘뉴실버요금제(월 9900원)’에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으…",
+          "press": "etoday.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:20",
+          "link": "https://www.etoday.co.kr/news/view/2616240",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 신규 가입 중단 발표",
+          "summary": "▲[사진=SKT] SK텔레콤은 ▲3G 단말 ▲HD Voice 미지원 LTE 단말로의 신규 가입, 번호 이동, 기기 변경(유심기변... 가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다.…",
+          "press": "megaeconomy.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:18",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572171612574",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 23년만에 3G 서비스 종료 수순…\"LTE·5G 전환 지원\"",
+          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다. 또, 선택하는 프로그램에... 기존 '뉴실버요금제(월 9900원)'에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으…",
+          "press": "newsway.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:18",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026082008491714076",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"굿바이 3G\" SKT, 3G 서비스 신규 가입 중단…LTE·5G 전환 지원",
+          "summary": "SKT는 만 65세 이상 3G 가입 고객이 LTE·5G로 전환하는 경우 기존 '뉴실버요금제(월 9,900원)'에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으면 해당 요금제를 계속 이용할 수 있다.…",
+          "press": "itdaily.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:16",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241090",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 점진적 종료 추진…신규 가입 중단 결정",
+          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다. 선택하는 프로그램에 관계없이... 서비스 전환 지원을 원하는 고객은 전국 T월드 매장, SKT 고객센터, 공식 온라인몰 'T 다이렉트…",
+          "press": "newsquest.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:16",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272057",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK하이닉스·SKT, 차세대 AI 인프라 'CPO' 네이처 일렉트로닉스에 게재·...",
+          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다. 또 선택하는 프로그램에... 기존 '뉴실버요금제(월 9900원)'에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으면…",
+          "press": "wsobi.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:16",
+          "link": "http://www.wsobi.com/news/articleView.html?idxno=316715",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 신규 가입 중단...서비스 종료 추진",
+          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다. 또 SK텔레콤은 고령 고객의 요금 부담을 낮추기 위해, 3G 가입 고객(만 65세 이상)이 LTE·5G로 전환하면 기존 '뉴실버요금제…",
+          "press": "디일렉",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:14",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=61151",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'3G 서비스, 역사 속으로'….SKT 23년만에 신규가입 중단",
+          "summary": "SKT는 ▲3G 단말 ▲HD Voice 미지원 LTE 단말로의 신규 가입, 번호 이동, 기기 변경(유심기변 포함)을 오늘... 1만2천 원 할인 ③ 24개월간 가입 요금제 월정액 최대 70% 할인(최대 70만 원) …",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:14",
+          "link": "https://n.news.naver.com/mnews/article/374/0000528338?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 신규가입 중단…'통신망 세대교체' 본격화",
+          "summary": "가입 요금제 월정액 최대 70% 할인 가운데 하나를 선택할 수 있다. 전환 프로그램 이용 고객에게는 리필 쿠폰 4장도 추가 제공한다. 만 65세 이상 3G 가입자가 LTE·5G로 전환할 경우에는 기존 뉴실버요금제인 …",
+          "press": "koit.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:12",
+          "link": "https://www.koit.co.kr/news/articleView.html?idxno=208561",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 신규 가입 중단…서비스 종료 절차 착수",
+          "summary": "만 65세 이상 3G 가입 고객이 LTE·5G로 전환할 경우 기존 '뉴실버요금제'에 가입할 수 있도록 한다. 전환 지원을 받지 않고 서비스를 해지하거나 다른 통신사로 이동하는 고객에게는 4만원의 해지지원금을 제공하고…",
+          "press": "srtimes.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:12",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=210423",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'독파모' 탈락 KT, '모두의 AI'가 기회 될까",
+          "summary": "관건은 KT가 통신 가입자 기반과 네트워크라는 기존 자산을 AI 서비스 경쟁력으로 전환할 수 있느냐다. 다만 모두의 AI 승부처는 소비자용 앱 운용 경험에만 달려있지는 않다. 과기정통부에 따르면 모두의 AI...",
+          "press": "hansbiz.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:10",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=857904",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 신규 가입 중단…LTE·5G 전환 지원",
+          "summary": "세 번째는 단말을 별도로 교체하지 않고 24개월간 가입 요금제 월정액을 최대 70% 할인받는 방식으로, 할인... 단말 구매 지원금은 최대 19만원, 월 요금 할인은 최대 6천원이며, 요금제 월정액 할인 방식은 24…",
+          "press": "youthdaily.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:08",
+          "link": "https://www.youthdaily.co.kr/news/article.html?no=225378",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 신규 가입 오늘부터 중단…서비스 종료 추진",
+          "summary": "앞서 SKT와 KT는 지난달 23일 배경훈 부총리 겸 과학기술정보통신부(과기정통부)와 만나 3G 서비스 종료를... 가입 요금제 월정액 최대 70% 할인(최대 70만원) 등 세 가지 프로그램 가운데 하나를 선택할 수…",
+          "press": "아주경제",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 08:56",
+          "link": "https://www.ajunews.com/view/20260820084652959",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 2027년말 3G 서비스 종료…이날부터 신규 가입 중단",
+          "summary": "SKT와 KT는 이미 과학기술정보통신부에 3G 서비스 중단 의사를 밝혀왔다. 미국 버라이즌·T모바일·AT&T... 기존 '뉴실버요금제(월 9900원)'에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않…",
+          "press": "머니투데이",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 08:51",
+          "link": "https://n.news.naver.com/mnews/article/008/0005402246?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[이광재 칼럼] 디지털 월세의 시대, 일할 권리에 임대료가 붙었다",
+          "summary": "그리고 통신비와 몇 개의 콘텐츠 구독까지. 하나하나는 몇만 원이지만 합쳐 놓으면 웬만한 방 한 칸 월세다.... 이것이 거시의 풍경이라면, 디지털 월세는 그 풍경이 개인의 가계부로 내려온 미시의 현실이다. 봉건제의.…",
+          "press": "지디넷코리아",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 08:41",
+          "link": "https://n.news.naver.com/mnews/article/092/0002434462?sid=110",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'모두의 AI' 6파전…카카오 '카톡'·SKT '풀스택'·KT 'AI 연합'",
+          "summary": "정부가 추진하는 '모두의 AI' 프로젝트 공모에 카카오, SKT, KT 등 6개 사업자가 제안서를 내며 전 국민 대상... X K2', AI 데이터센터를 기반으로 서비스를 구축하고 약 2250만명의 이동통신 가입자 …",
+          "press": "cstimes.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 08:08",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=717278",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[Who Is ?] 최신원 SK네트웍스 명예회장",
           "summary": "이후 SK네트웍스는 중고폰 거래 자회사 민팃 지분 90%를 매각하고 인공지능(AI) 중심 성장 전략에 집중키로... 민팃은 전국 대형마트, 공공기관, 통신대리점 등에 설치한 '민팃 ATM'을 기반으로 중고폰 회수·검…",
           "press": "businesspost.co.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 07:00",
           "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443955",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[Who Is ?] 조좌진 하나투어 대표집행임원",
+          "summary": "김영섭 KT 대표의 발언을 듣고 있다. <연합뉴스> △롯데카드 대규모 고객 정보 유출 사고로 '문책경고... 이번 논란으로 인해 사내 불만이 고조되면서 노조 가입자 수가 급증한 것으로 전해졌다. △라이브 특가 가격 …",
+          "press": "businesspost.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 07:00",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444915",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] 통신3사·카드사, '통신비 할인' 부가세 소송 3500억원대로 확대",
+          "summary": "신용카드사들이 제휴카드 통신비 할인에 대한 부가가치세 환급금을 돌려달라며 낸 소송에서 이동통신 3사에 청구한 금액이 약 870억원 증가한 3543억원으로 늘었다. 카드사들은 자신들이 부담한 할인액에서 발생한...",
+          "press": "news.mtn.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 06:04",
+          "link": "https://news.mtn.co.kr/news-detail/2026081914005326945",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "메트로신문 8월 20일 한줄뉴스",
+          "summary": "반대로 반도체의 영향력을 걷어내면 실적 개선 폭은 크게 낮아진다. ▲'코리아 디스카운트'의 주된... 19일 정보통신기술(ICT) 업계에 따르면, 공모 접수 결과 카카오·KT·SK텔레콤·이스트소프트·엠케이디·제논 등…",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 06:02",
+          "link": "http://www.metroseoul.co.kr/article/20260819500489",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AI 데이터센터 뛰어드는 건설사들…전력 확보가 관건",
+          "summary": "A의 실적을 포함해 국내 건설사 가운데 데이터센터 시공 경험이 가장 많은 곳으로 꼽힌다. GS건설은 △에포크 안양 센터 △DGB 혁신센터 △FED 커뮤니케이션 센터 등의 데이터센터를 시공했다. 자이C&A 역시 LG유…",
+          "press": "kukinews.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 06:02",
+          "link": "https://www.kukinews.com/article/view/kuk202608190173",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AI 투자 엇갈린 이통3사…속도차 뚜렷",
+          "summary": "19일 이동통신 3사가 공시한 반기보고서에 따르면 올해 상반기 매출액 대비 연구개발비 비중은 SK텔레콤이 2.13%로 가장 높았다. KT는 1.03%, LG유플러스는 0.95%였다. 전년 동기와 비교하면 SK텔레콤은…",
+          "press": "IT조선",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 06:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168438",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 고객 최우선 경영 나서… 다양한 체험 프로그램 제공",
+          "summary": "KT가 고객 혜택의 무게중심을 문화·여행·레저 등 일상 속 체험으로 넓힌다. 이른바 ‘고객 최우선 경영’의 일환으로, 장기 고객에게 차별화된 경험을 제공해 가입자 만족도와 브랜드 충성도를 함께 높이겠다는...",
+          "press": "조선일보",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 00:36",
+          "link": "https://n.news.naver.com/mnews/article/023/0003993853?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1515,18 +2241,7 @@
           "link": "https://www.electimes.com/news/articleView.html?idxno=371409",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
-        },
-        {
-          "title": "'AI 시대' 전력저장 뜬다…'ESS' K-배터리 돌파구",
-          "summary": "국내 배터리업계가 전 세계 전기차 배터리 시장에서 중국에 밀리자, 에너지저장장치(ESS)를 돌파구로... 무정전전원장치(UPS)용 배터리를 공급하는 등 그룹 내 전력 인프라를 바탕으로 초기 적용 경험을 쌓을 수 있을…",
-          "press": "newsprime.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 15:18",
-          "link": "http://www.newsprime.co.kr/news/article.html?no=744487",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "전기차 캐즘에 ESS 뜨자···K 배터리, 공장 쓰임새 바꾼다",
@@ -1537,7 +2252,18 @@
           "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423183",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "'AI 시대' 전력저장 뜬다…'ESS' K-배터리 돌파구",
+          "summary": "국내 배터리업계가 전 세계 전기차 배터리 시장에서 중국에 밀리자, 에너지저장장치(ESS)를 돌파구로... 무정전전원장치(UPS)용 배터리를 공급하는 등 그룹 내 전력 인프라를 바탕으로 초기 적용 경험을 쌓을 수 있을…",
+          "press": "newsprime.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 15:18",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=744487",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
         },
         {
           "title": "[특징주] 레메디, LG전자 손잡고 배터리 검사시장 진입에 급등…핵심 X-...",
@@ -1548,7 +2274,7 @@
           "link": "https://www.cstimes.com/news/articleView.html?idxno=717431",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "CATL “ESS 매출 비중 50%까지 확대될 것…AI붐 꺾여도 끄떡 없어” [인터...",
@@ -1559,7 +2285,7 @@
           "link": "https://n.news.naver.com/mnews/article/011/0004653460?sid=104",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "레메디, LG전자 배터리 검사장비 핵심부품 양산 공급...현장 생산라인 ...",
@@ -1570,7 +2296,7 @@
           "link": "https://www.joongangenews.com/news/articleView.html?idxno=541407",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "[삼성SDI 대전환①] 7분기만의 흑자, '전기차 밖'에 답 있었다",
@@ -1581,7 +2307,7 @@
           "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726407",
           "badge": "산업",
           "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
+          "subgroup_label": "파워넷"
         },
         {
           "title": "8000마일 광섬유, AI 병목 장거리망으로 번졌다",
@@ -1592,7 +2318,7 @@
           "link": "https://www.tokenpost.kr/news/cryptocurrency/394419",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[글로벌 핫스톡] 광트랜시버 공급난…코히런트 성장 ‘탄력’",
@@ -1603,7 +2329,7 @@
           "link": "https://n.news.naver.com/mnews/article/011/0004653616?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "돈 버는 엔비디아, 굴리는 법도 달랐다…‘경쟁사’에 베팅",
@@ -1614,7 +2340,7 @@
           "link": "https://n.news.naver.com/mnews/article/050/0000109923?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "삼성디스플, 美 코닝 투자로 23조 ‘잭팟’",
@@ -1625,7 +2351,7 @@
           "link": "https://n.news.naver.com/mnews/article/011/0004653526?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "스케일업 대역폭 수요 9배, 레이저 공급 병목",
@@ -1636,7 +2362,7 @@
           "link": "https://www.tokenpost.kr/news/cryptocurrency/394144",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "엘시그니처, 전원·배터리 없이 AI데이터센터 과열 감시",
@@ -1647,7 +2373,7 @@
           "link": "https://www.electimes.com/news/articleView.html?idxno=371341",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "LG U+, AI 기반 건물 관리 솔루션 ‘AI빌딩넷’ 출시",
@@ -1658,7 +2384,7 @@
           "link": "https://www.g-enews.com/view.php?ud=2026082015374464643d7a510102_1",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "中, 대만에 게르마늄·석영 수출 제동…반도체·항공우주 타격",
@@ -1669,7 +2395,7 @@
           "link": "https://n.news.naver.com/mnews/article/014/0005564170?sid=104",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "SK하이닉스, AI 대역폭 벽 겨냥 CPO 로드맵 공개",
@@ -1680,7 +2406,7 @@
           "link": "https://www.tokenpost.kr/news/cryptocurrency/394108",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[산업분석] 메모리 반도체 삼성전자·SK하이닉스, 일평균 수출 214%↑·LT...",
@@ -1691,7 +2417,7 @@
           "link": "https://www.topstarnews.net/news/articleView.html?idxno=16168583",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "광통신 증설, ADST 장비 발주로 번졌다",
@@ -1702,7 +2428,7 @@
           "link": "https://www.newstopkorea.com/news/articleView.html?idxno=47167",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "“매일 밤 1000만배럴 수송” 이란 따돌린 美 ‘호르무즈 비밀 작전’",
@@ -1713,7 +2439,7 @@
           "link": "https://n.news.naver.com/mnews/article/025/0003545633?sid=104",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "성호전자 자회사 에이디에스테크, 美 상장사서 235억원 규모 CPO 장비 수...",
@@ -1724,7 +2450,7 @@
           "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024035",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[테크 차이나] AI 광통신이 불러낸 '인듐' 귀환…핵심 소재 인화인듐, 공...",
@@ -1735,7 +2461,7 @@
           "link": "https://n.news.naver.com/mnews/article/030/0003458940?sid=104",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[Biz-inside,China] 반도체에서 컴퓨팅 파워까지...中, ‘지역별 맞춤형’...",
@@ -1746,7 +2472,7 @@
           "link": "https://n.news.naver.com/mnews/article/025/0003545608?sid=104",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "가온브로드밴드, 경기도교육청 와이파이7 구축 수주…공공 무선망 공략...",
@@ -1757,7 +2483,7 @@
           "link": "https://www.socialvalue.kr/news/view/1065579258437870",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "센서뷰 \"AIDC·양자컴퓨팅 등 수익성 중심 경영 추진\"",
@@ -1768,7 +2494,7 @@
           "link": "https://n.news.naver.com/mnews/article/003/0014137452?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "케이엔에스 子 은성FA, 미 AI 데이터센터향 버스덕트 자동화 설비 수주",
@@ -1779,7 +2505,7 @@
           "link": "https://n.news.naver.com/mnews/article/018/0006354746?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "엔비디아 GPU부터 구글 TPU까지…AI 학습 가속기 패권 경쟁 격화",
@@ -1790,7 +2516,7 @@
           "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405775",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "케이엔에스, 미국 데이터센터 자동화 설비 수주",
@@ -1801,7 +2527,7 @@
           "link": "https://www.newspim.com/news/view/20260820000299",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "케이엔에스, 美 구글·메타·오픈AI 데이터센터향 '핵심 버스덕트' 자동...",
@@ -1812,7 +2538,7 @@
           "link": "http://www.newsprime.co.kr/news/article.html?no=744416",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "SKT, 3G 신규가입 중단…'통신망 세대교체' 본격화",
@@ -1823,7 +2549,7 @@
           "link": "https://www.koit.co.kr/news/articleView.html?idxno=208561",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[모닝 리포트] 고영, AI 데이터센터 검사 수요 타고 '사상 최대' 실적 도...",
@@ -1834,7 +2560,7 @@
           "link": "https://www.newspim.com/news/view/20260820000111",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[모닝 리포트] \"오이솔루션, 실적 턴어라운드 임박\"",
@@ -1845,7 +2571,7 @@
           "link": "https://www.newspim.com/news/view/20260820000072",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "하나증권 \"오이솔루션, 2분기 사실상 흑자전환…실적개선 전망\"",
@@ -1856,7 +2582,7 @@
           "link": "https://n.news.naver.com/mnews/article/001/0016260102?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[프리마켓 포커스] 美 반도체 약세에도 국내 증시 강세… SK하닉 7%대 급...",
@@ -1867,7 +2593,7 @@
           "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726476",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "고영, 글로벌 1위 3D 광학기술 '주목'…\"AI 데이터센터에 광통신·소캠까...",
@@ -1878,7 +2604,7 @@
           "link": "http://www.newsprime.co.kr/news/article.html?no=744386",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "KT, 차세대 먹거리 AIDC 사업 가속도...매출 매년 40%씩 쑥쑥 자라 통신...",
@@ -1889,7 +2615,7 @@
           "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=761696",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "안보 위기 속 반도체 핵심 시설 지하화…AI주 수혜",
@@ -1900,7 +2626,7 @@
           "link": "https://www.g-enews.com/view.php?ud=2026082005570064062bd56fbc3c_1",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "UN AI 허브 국내 후보지 경쟁 ‘후끈’… 고양 등 경기만 5파전",
@@ -1911,7 +2637,7 @@
           "link": "https://n.news.naver.com/mnews/article/081/0003671814?sid=102",
           "badge": "산업",
           "subgroup": "mercury",
-          "subgroup_label": "4-2 머큐리 & 머큐리광통신"
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "홍콩 사로잡은 K-푸드…수출상담 2900만달러",
@@ -1922,7 +2648,7 @@
           "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102043",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "미국 치맥축제서 K-푸드 매력…소스·스낵·웰니스 선봬",
@@ -1933,7 +2659,7 @@
           "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102044",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[이슈포커스] 폭염에 홍수까지…'기후플레이션'에 널뛰는 장바구니 물가",
@@ -1944,7 +2670,7 @@
           "link": "http://www.sisacast.kr/news/articleView.html?idxno=99000",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "K-푸드, 홍콩을 사로잡다…'이너뷰티'부터 1분 김치까지",
@@ -1955,7 +2681,7 @@
           "link": "https://www.dongponews.net/news/articleView.html?idxno=59974",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "농협, K-인삼 미국 넘어 세계 대표 K-푸드로 키운다",
@@ -1966,7 +2692,7 @@
           "link": "https://www.fntimes.com/html/view.php?ud=202608201959166743dd55077bc2_18",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"농협 유치해야 전북 농생명산업 혁신\"",
@@ -1977,7 +2703,7 @@
           "link": "https://sjbnews.com/news/news.php?number=885716",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "전북연구원 \"농협중앙회·경제·금융지주 전북 이전해야\"",
@@ -1988,7 +2714,7 @@
           "link": "https://n.news.naver.com/mnews/article/629/0000526222?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[Special Report] \"이제 공항서 '바나나맛우유' 먹고 '라면' 끓인다\"… K...",
@@ -1999,7 +2725,7 @@
           "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275194",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"'농협 빅3' 전북으로 함께 전격 이전해야\"",
@@ -2010,7 +2736,7 @@
           "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1049895",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "농협중앙회, 전북 이전으로 농생명 혁신체계 완성",
@@ -2021,7 +2747,7 @@
           "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=445509",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "대한항공C&D서비스, 춘천에 올미쌀 1600㎏ 기부",
@@ -2032,7 +2758,7 @@
           "link": "https://www.kukinews.com/article/view/kuk202608200202",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[현대에 생겨난 한식 요리는? ⑦] 국민 고기 돼지 삼겹살",
@@ -2043,7 +2769,7 @@
           "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=450900",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "K-푸드 중국 수출길에 소·돼지·닭고기 라면 합류",
@@ -2054,7 +2780,7 @@
           "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=326604",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "K-푸드, AI와 가치사슬에서 답을 찾다",
@@ -2065,7 +2791,7 @@
           "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=326608",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "‘짜파구리·초코비 무단도용 막는다’… 지재위, K-콘텐츠·푸드 IP 보...",
@@ -2076,7 +2802,7 @@
           "link": "https://www.kukinews.com/article/view/kuk202608200169",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "깨끗한나라, 美 생활용품 시장 공략 확대... 화장지부터 여성용품까지",
@@ -2087,7 +2813,7 @@
           "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=206407",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "건강하게 먹고 싶은데 식비가 부담된다면?…장바구니부터 바꿔야 할 10가...",
@@ -2098,7 +2824,7 @@
           "link": "https://n.news.naver.com/mnews/article/145/0000024070?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "신화원축산, 도·소매 맞춤 유통시스템과 위생 제조관리 체계 강화",
@@ -2109,7 +2835,7 @@
           "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=53573",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "깨끗한나라, 북미 생활용품 시장 공략 본격화…\"美 화장지 수출 3년 새 ...",
@@ -2120,7 +2846,7 @@
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479089",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "한·중 식품안전 협력 결실",
@@ -2131,7 +2857,7 @@
           "link": "https://www.farmnmarket.com/news/article.html?no=27535",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "고기 든 라면, 中 수출길 활짝…양국간 식품안전 협력 결실",
@@ -2142,7 +2868,7 @@
           "link": "https://n.news.naver.com/mnews/article/421/0009124248?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "대한항공C&D서비스 등, 춘천 올미쌀 1600kg 기부",
@@ -2153,7 +2879,7 @@
           "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053253",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "환율 안정세…살아나는 내수주 펀더멘탈",
@@ -2164,7 +2890,7 @@
           "link": "http://www.newstomato.com/ReadNews.aspx?no=1310801&inflow=N",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "전북연구원, 농협중앙회 전북 이전 제안…국가 농생명산업 혁신 완성 추...",
@@ -2175,7 +2901,7 @@
           "link": "https://www.gukjenews.com/news/articleView.html?idxno=3669821",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "세계 시장을 향한 K-푸드 한우의 도전",
@@ -2186,7 +2912,7 @@
           "link": "http://www.jeollailbo.com/news/articleView.html?idxno=808715",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "대한항공C&D·삼구INC·유니에스, 춘천 이웃 위해 뜻 모았다",
@@ -2197,7 +2923,7 @@
           "link": "https://n.news.naver.com/mnews/article/002/0002452850?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "대한항공C&D서비스, 춘천 이웃에 올미쌀 1,600㎏ 기부",
@@ -2208,7 +2934,7 @@
           "link": "https://n.news.naver.com/mnews/article/087/0001212503?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "전남 해양수산 스타기업 바다명가, 태국 시장 수출…전남산 K-푸드 글로...",
@@ -2219,7 +2945,7 @@
           "link": "https://n.news.naver.com/mnews/article/030/0003459036?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "고기 함유된 라면도 중국 수출길 열린다",
@@ -2230,7 +2956,7 @@
           "link": "https://n.news.naver.com/mnews/article/374/0000528454?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"수출입 물류서비스의 숨은 강자, 인도를 개척하다\"",
@@ -2241,7 +2967,7 @@
           "link": "https://www.klnews.co.kr/news/articleView.html?idxno=322413",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "K-푸드 중국 공략 '가속'… 등록·통관 장벽 한꺼번에 낮춘다",
@@ -2252,40 +2978,7 @@
           "link": "https://www.newswhoplus.com/news/articleView.html?idxno=67498",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "식품진흥원, K-푸드 할랄시장 진출 지원 나선다",
-          "summary": "높이고, K-푸드의 안정적인 시장 진출을 지원하기 위해 마련됐다. 행사에는 국가식품클러스터 입주기업 등 식품기업 관계자들이 참석해 글로벌 할랄시장 동향과 국가별 인증·규제 대응, 수출 지원사업 등을 공유했다. 특히.…",
-          "press": "jeollailbo.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 14:36",
-          "link": "http://www.jeollailbo.com/news/articleView.html?idxno=808701",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "고기 라면, 중국 수출길 열린다…식약처, 중국 장벽 허물어",
-          "summary": "높이는 것은 물론 고기 성분 함유 라면의 중국 수출을 가능하게 하는 등 기업이 체감할 수 있는 다양한 성과를 담고 있다\"며 \"앞으로도 주요 교역국과의 협력을 확대해 K-푸드 수출 기반을 지속적으로 강화하겠다\"고 했다…",
-          "press": "newspim.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 14:31",
-          "link": "https://www.newspim.com/news/view/20260820000855",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "한·중 식품안전 협력 결실…K-푸드 중국 수출길 더 넓어진다",
-          "summary": "물론, 고기 성분 함유 라면의 중국 수출을 가능하게 하는 등 기업이 체감할 수 있는 다양한 성과를 담고 있다”며 “앞으로도 주요 교역국과의 협력을 확대해 K-푸드 수출 기반을 지속적으로 강화하겠다”고 밝혔다.",
-          "press": "news.tvchosun.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 14:21",
-          "link": "https://n.news.naver.com/mnews/article/448/0000634641?sid=102",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "“한국 어딜가나 인형뽑기 가게” 무섭게 크는 무인점포, 매출 2배나 늘...",
@@ -2296,7 +2989,7 @@
           "link": "https://n.news.naver.com/mnews/article/016/0002686216?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[유통가 NOW] 블루엘리펀트, 대상그룹, 크림, 빽다방, 신세계백화점, 플...",
@@ -2307,7 +3000,7 @@
           "link": "https://www.ekn.kr/web/view.php?key=20260820026284492",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "삼성카드 “무인점포 사장 절반, 40대 이하…7명 중 1명 ‘다점포’”",
@@ -2318,7 +3011,7 @@
           "link": "https://n.news.naver.com/mnews/article/016/0002686116?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "배민, 음식배달 넘어 '1시간 커머스'로...패션·뷰티·장보기까지 외연...",
@@ -2329,7 +3022,7 @@
           "link": "http://www.popcornnews.net/news/articleView.html?idxno=130151",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[K-푸드 글로벌 점령 지도] 국내 식품 8개사 상반기 해외매출 8조 육박…...",
@@ -2340,7 +3033,7 @@
           "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608190933104280448",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[국민의 기업] 검역장벽 넘은 K축산물, 유럽·싱가포르 식탁 오른다",
@@ -2351,28 +3044,28 @@
           "link": "https://n.news.naver.com/mnews/article/025/0003545533?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
+          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
         {
           "id": "powernet",
-          "label": "4-1 파워넷"
+          "label": "파워넷"
         },
         {
           "id": "mercury",
-          "label": "4-2 머큐리 & 머큐리광통신"
+          "label": "머큐리 & 머큐리광통신"
         },
         {
           "id": "encreative",
-          "label": "4-3 이앤크리에이티브"
+          "label": "이앤크리에이티브"
         },
         {
           "id": "ritco",
-          "label": "4-4 리트코"
+          "label": "리트코"
         }
       ]
     }
   ],
-  "total": 211
+  "total": 274
 }

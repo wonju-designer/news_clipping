@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:55 소급 정리",
+  "generated_at": "2026-08-21 16:12 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -110,23 +110,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "[은행브리핑] 하나은행, 독립유공자 위한 공익신탁 MOU 외",
-          "summary": "우리은행, '쓰고, 받고 최종혜택가 0원' 이벤트 실시 우리은행의 알뜰폰 서비스 '우리WON모바일'이 8월 한... 당초 계획과 실제 성과의 차이, 시장환경 변화에 대한 대응과정, 미진했던 부분과 그 원인까지 되짚어…",
-          "press": "seoulfn.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 16:28",
-          "link": "https://www.seoulfn.com/news/articleView.html?idxno=635316",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "알뜰폰 5G 도매대가 내린다더니…고가 요금제는 '쏙'",
           "summary": "알뜰폰 사업자는 이동통신사의 요금제를 도매로 공급받아 소비자에게 다시 판매하는 만큼 도매대가가 내려가야 요금을 추가로 낮출 여력이 생긴다.더욱이 알뜰폰 시장의 대표 상품으로 꼽히는 LTE 11GB 요금제도 이번...",
           "press": "news.mtn.co.kr",
           "date": "2026-08-10",
           "datetime": "2026-08-10 16:28",
           "link": "https://news.mtn.co.kr/news-detail/2026081014160469372",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[은행브리핑] 하나은행, 독립유공자 위한 공익신탁 MOU 외",
+          "summary": "우리은행, '쓰고, 받고 최종혜택가 0원' 이벤트 실시 우리은행의 알뜰폰 서비스 '우리WON모바일'이 8월 한... 당초 계획과 실제 성과의 차이, 시장환경 변화에 대한 대응과정, 미진했던 부분과 그 원인까지 되짚어…",
+          "press": "seoulfn.com",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 16:28",
+          "link": "https://www.seoulfn.com/news/articleView.html?idxno=635316",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -363,17 +363,6 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "닷컴버블 때 끝난 줄 알았는데…AI가 소환한 ‘인터넷의 제왕’ [동여의...",
-          "summary": "인터넷 이용자가 늘자 통신사들은 광케이블을 깔고 라우터와 스위치를 대거 사들였습니다. 어느 포털과... 하지만 AI가 처리하는 연산량이 계속 늘어난다면 이를 감당할 반도체와 데이터센터, 네트워크 장비도 더...",
-          "press": "매일경제",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 17:30",
-          "link": "https://n.news.naver.com/mnews/article/009/0005719073?sid=101",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "상반기 中 생성형 AI 분야 신설 기업 28% 증가",
           "summary": "중국 시장감독관리총국이 발표한 자료에 따르면 상반기 중국에 신설된 ‘8대 신흥산업+9대 미래산업’... 그중 우주선 및 운반로켓 제조업의 신설 기업은 185.7% 증가했고, 광섬유·광케이블 제조업은 129.4% 늘었…",
           "press": "kr.people.com.cn",
@@ -468,17 +457,6 @@
           "date": "2026-08-10",
           "datetime": "2026-08-10 13:37",
           "link": "https://www.newspim.com/news/view/20260810000871",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[특징주] 대한광통신, 외국인·기관 동반 매수에 19%대 강세",
-          "summary": "광케이블 수요 증가 전망도 투자심리를 자극한 요인으로 꼽힌다. 특히 북미 통신 인프라 투자와 AI 데이터센터 관련 광섬유 수요가 맞물리면서 외국인 수급이 꾸준히 유입되는 종목으로 시장의 주목을 받아왔다. 이번...",
-          "press": "tokenpost.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 12:08",
-          "link": "https://www.tokenpost.kr/news/economy/387349",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -735,5 +713,5 @@
       ]
     }
   ],
-  "total": 62
+  "total": 60
 }
