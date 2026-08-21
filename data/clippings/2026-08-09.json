@@ -1,0 +1,245 @@
+{
+  "date": "2026-08-09",
+  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-21 16:31 소급 정리",
+  "top5": [],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "\"10년의 믿음에 차린 한상, SKT 정재헌이 직접 맞았다\"",
+          "summary": "통신 요금 인하 경쟁이 한계에 다다른 상황에서, 고객이 직접 참여하고 체감할 수 있는 콘텐츠형 혜택이 오히려 반응을 이끌어낸 셈이다. SKT는 서울을 포함해 전국 5개 도시에서 '테이블 데이'를 이어가고 있다. 초청…",
+          "press": "econovill.com",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 15:44",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=747500",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "IPTV 없는 LG헬로비전, 독자 성장 '빨간불'",
+          "summary": "이중 LG헬로비전의 케이블TV 가입자 점유율은 9%대 수준이다. 사실상 유료 방송으로는 사업 확장이... 또 다른 사업인 알뜰폰의 경우도 상황은 마찬가지다. 가격 경쟁이 갈수록 치열해지는 상황에서 동일한 망을...",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 15:38",
+          "link": "http://www.metroseoul.co.kr/article/20260809500181",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'최적요금제'의 역설…통신비 줄여도 총지출은 늘 수도",
+          "summary": "복잡해진 통신요금 구조 속에서 이용자의 합리적인 선택을 돕고 가계통신비 부담을 낮추겠다는 취지다. 고시안에 따르면 전년도 이동통신서비스 매출액 1조원 이상 사업자는 계약 체결 다음 달부터 6개월마다...",
+          "press": "디지털데일리",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 15:24",
+          "link": "https://n.news.naver.com/mnews/article/138/0002237121?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[르포]'예판 잭팟' 갤럭시 Z 폴드8 출시 첫 주말 '성지'…실구매가 최대...",
+          "summary": "소비자들은 요금제와 부가서비스를 포함한 구매 조건을 꼼꼼히 비교하는 모습을 보였다. 지난 8일 찾은 서울 광진구 강변 테크노마트 휴대전화 판매점에서는 고객들이 갤럭시 Z 폴드8 시리즈 가격을 문의하거나...",
+          "press": "m-i.kr",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 13:00",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1400251",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "단통법 폐지 1년…통신3사, 지원금보다 ‘락인’ 강화 경쟁",
+          "summary": "자급제 단말 이용률도 지난해 32.6%로 단말기 3대 중 1대가량은 통신사를 거치지 않고 유통됐다. ◆ 지원금보다 다음 교체까지…장기 고객 확보 경쟁 최근 갤럭시Z8 시리즈에서도 이 같은 흐름이 나타난다. SK텔레콤…",
+          "press": "mediapen.com",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 09:56",
+          "link": "https://www.mediapen.com/news/view/1115132",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "40도 폭염에 '히트플레이션' 현실화…시금치 한 달 새 152% 폭등",
+          "summary": "증권가 분석에 따르면, 국제유가 상승 시차 반영과 지난해 통신비 인하 효과에 따른 기저효과가 맞물린 상황에서 폭염발 공급 충격까지 더해질 경우 2%대에서 안정되던 소비자물가 상승률이 8월 중 다시 3%대로 반등할..…",
+          "press": "ngonews.kr",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 09:20",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=234989",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "책·쇼핑·해외여행 내세워 정체기 돌파… 알뜰폰은 결합중",
+          "summary": "KT엠모바일은 자사 애플리케이션을 통해 쿠팡에서 쇼핑하면 결제 금액의 1.8%를 캐시로 돌려주는 이벤트를 진행 중이다. 고객은 적립된 캐시로 월 최대 2만원까지 통신비를 할인받을 수 있다. 알뜰폰 업계는 과거에도..…",
+          "press": "IT조선",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 09:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167550",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'아이폰 천하' 日서 폴드8 돌풍…일부 모델 품절·배송 지연",
+          "summary": "'아이폰 천하' 일본에서 삼성전자의 신형 폴더블폰 '갤럭시 Z 폴드8'이 초반부터 돌풍을 일으키고 있다. 사전예약 단계에서 일부 모델이 빠르게 품절되며 배송 지연까지 발생한 가운데 일본 주요 이동통신 4사 모두...",
+          "press": "아이뉴스24",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 07:01",
+          "link": "https://n.news.naver.com/mnews/article/031/0001048223?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "책·쇼핑·해외여행 내세워 정체기 돌파… 알뜰폰은 결합중",
+          "summary": "LG헬로비전 알뜰폰 브랜드 헬로모바일은 7월 8일 매월 9900원 상당의 교보e북 이용권과 도서 구매 혜택을 제공하는 '교보문고 유심·휴대폰 요금제' 6종을 출시했다. 가입 고객은 24개월 동안 교보문고 전자책 구독…",
+          "press": "IT조선",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 09:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167550",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "[차이나급보] 중국의 우주 AI 데이터 센터 프로젝트는 시작되었다",
+          "summary": "IOWN 1.0은 이미 상용 서비스가 시작돼 APN(All-Photonics Network)을 통해 데이터센터를 연결하고 있으며, 2026년 IOWN 2.0이 컴퓨팅 영역으로 확장되어 DCI(디지털 코히어런트 인터커…",
+          "press": "hellodd.com",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 18:06",
+          "link": "http://www.hellodd.com/news/articleView.html?idxno=112756",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LG유플러스, 공유기서 AI 돌린다…인터넷 품질 스스로 관리",
+          "summary": "LG유플러스는 와이파이 8(Wi‑Fi 8) 플랫폼을 활용한 홈 네트워크 자동 복구(Self-Healing) 기술을 실증했다고 9일 밝혔다. LG유플러스는 클라우드 서버가 아닌 가정용 공유기에서 AI가 네트워크 상태를…",
+          "press": "dailian.co.kr",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 09:00",
+          "link": "https://n.news.naver.com/mnews/article/119/0003119719?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "공유기 속 '엣지 AI' 가동…LG유플러스, 지능형 홈 네트워크 검증 성공",
+          "summary": "8(Wi-Fi 8) 플랫폼을 활용해 네트워크 스스로 상태를 원상 복구하는 자가 치유(Self-Healing) 기술 실증에 성공했다고 7일 밝혔다. LG유플러스는 중앙 클라우드 서버에 의존하지 않고 가정에 설치된 공유…",
+          "press": "pointe.co.kr",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 09:00",
+          "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82952",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "농수산식품유통공사(aT), 싱가포르 'K-고기' 마케팅 전개 및 '수산식품바...",
+          "summary": "HMR·밀키트 분과로 나누어 시장 동향을 공유하고 판로 확대 전략을 다뤘다. 또한 분과 세션을 통해 △유럽연합(EU) 포장 및 포장폐기물 규정(PPWR, Packaging and Packaging Waste Regu…",
+          "press": "cstimes.com",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 21:22",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=716160",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "뉴델리서 'K-푸드페어' 성료",
+          "summary": "인도 K-푸드페어 B2B 수출상담회 전경 인도 14억 소비시장을 공략하기 위한 'K-푸드페어'가 성황리에 마쳤다.... 오픈키친존에서는 떡볶이, 김밥 등의 K-분식 품목을 선보였고, K-누들 스테이션에서는 '한강라면…",
+          "press": "bokuennews.com",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 18:40",
+          "link": "http://www.bokuennews.com/news/article.html?no=282253",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[푸드컬처N] '넥스트 K-푸드' 투트랙 전략… 유럽 대륙 뚫고 아시아 확장",
+          "summary": "카자흐스탄 수도 아스타나 행사장에서는 떡볶이와 김치볶음밥이 현지 소비자를 맞이했다. K-푸드 수출 품목이 라면, 김치 위주 구조를 탈피해 냉동 간편식과 쌀가공식품 영역까지 폭넓게 뻗어나가는 추세다....",
+          "press": "nc.press",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 14:30",
+          "link": "https://www.nc.press/news/articleView.html?idxno=623092",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "순천시 승주읍, ㈜남쪽동네·노무사사무소 사랑의 밀키트 전달",
+          "summary": "㈜남쪽동네와 노무사사무소 미르가 신전경로당에 '한 끼 밀키트'를 전달, 기념촬영을 하고 있다. 전남광주 순천시(시장 손훈모) 승주읍은 최근 농업회사법인 ㈜남쪽동네와 노무사사무소 미르가 신전경로당에 '한 끼 밀키트..…",
+          "press": "jeonmae.co.kr",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 12:42",
+          "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282166",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "aT, K-씨푸드 수출 지원 수산식품기업바우처 간담회 성료",
+          "summary": "이어 열린 수산식품 수출 혁신 간담회에서는 품목별 좌담회를 통해 시장 동향과 판로 확대 전략을 공유했다. 김·해조류 가공식품과 선어·활어 및 냉동 수산물, 수산가공식품 및 HMR·밀키트 분야로 나눠 현장 정보를...",
+          "press": "chungnamilbo.co.kr",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 09:22",
+          "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=902975",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 17
+}

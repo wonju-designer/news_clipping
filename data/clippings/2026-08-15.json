@@ -1,0 +1,178 @@
+{
+  "date": "2026-08-15",
+  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-21 16:31 소급 정리",
+  "top5": [],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "카카오페이손보, 휴대폰보험 '첫 달 100원' 이벤트 연장",
+          "summary": "이번 이벤트는 갤럭시 신제품뿐만 아니라 아이폰을 포함한 전 기종을 대상으로 하며 통신사와 관계없이 자급제 단말기와 알뜰폰 이용자도 동일한 혜택을 받을 수 있다. 갤럭시 신제품 출시 뒤 휴대폰보험 가입자의...",
+          "press": "bizwnews.com",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 17:32",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=143318",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[긁기 전에] '생활비 할인' 자취생 지갑 지켜줄 카드는?",
+          "summary": "전기요금과 도시가스요금, SKT·KT·LG유플러스 통신요금이 대상이며 1회 이용금액 5만원까지 할인이 적용된다. 공과금 할인한도는 전월 실적 30만~50만원이면 월 3000원, 50만~100만원은 7000원, 100…",
+          "press": "newsworks.co.kr",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 12:00",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850364",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG 2분기 영업익 92.5% 급증…하반기엔 로봇사업까지",
+          "summary": "다른 계열사들의 실적도 개선됐다. LG유플러스의 영업이익은 지난해보다 13.1% 증가했고 LG생활건강은 87.5% 늘었다. LG CNS는 다소 다른 모습을 보였다. AI와 클라우드, 데이터센터를 중심으로 외형 성장을…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 10:44",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477676",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"통신비 낮춰준다더니 개통부터 막혀\"…안면인증에 불편 커진 노년층",
+          "summary": "월 1만원대 요금제 이용자에게는 음성 30분과 문자 50건을 추가 제공한다. SK텔레콤·KT·LG유플러스는 관련 혜택을 시행하고 있다. 업계 관계자는 \"캄보디아 보이스피싱 조직 적발 과정에서 대포폰이 상당수 발견된 …",
+          "press": "IT조선",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 07:30",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168171",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "‘감성 사진용’ 중고 아이폰 판매 뒤 잠적…경찰 수사 착수",
+          "summary": "[김OO/중고폰 피해자/음성변조 : \"오래된 아이폰이라고 해서 감성적으로 사진 나오게 찍는 게 유행이어서…. 2월부터 안 보내주셔서.\"] 한국소비자원도 해당 업체에 대해 소비자 피해 주의를 당부했습니다. 지난 6월까…",
+          "press": "news.kbs.co.kr",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 06:49",
+          "link": "https://n.news.naver.com/mnews/article/056/0012238404?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“피자 반값·아이스크림 30% 할인”…통신사 멤버십, 외식비 부담 낮춘...",
+          "summary": "KT도 외식·식음료 할인에 힘을 싣고 있다. KT는 8월 ‘KT 멤버십 페스타’를 통해 배스킨라빈스 레디팩 30... 고가 요금제나 장기 가입자만을 대상으로 한 혜택보다 피자·치킨·커피처럼 이용 빈도가 높은 품목의.…",
+          "press": "세계일보",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 06:15",
+          "link": "https://n.news.naver.com/mnews/article/022/0004151101?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "실적·AI 기대에 '주주 친화'…젠슨 황 만난 LG 주가 재평가[종목현미경...",
+          "summary": "LG(003550)가 시장 기대치를 웃도는 2분기 실적을 발표하면서 증권가가 잇달아 목표주가를 높이고 있다.... 담당한다\"며 \"LG유플러스(032640)는 AI 데이터센터(AIDC), LG에너지솔루션은 데이터센터 …",
+          "press": "뉴스1",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 06:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009115337?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "[AI 부채의 함정(상)] 美 빅테크, AI 인프라 자본독식…LVMH 등 비기술 우...",
+          "summary": "광케이블과 네트워크 구축에 천문학적인 돈을 쏟아부었다. 인터넷 사용량은 폭발적으로 늘어날 것이고 먼저 통신망을 깔아놓은 기업이 막대한 수익을 거둘 것이라는 믿음이 시장을 지배했다. 은행과 채권시장은...",
+          "press": "the-today.com",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 10:00",
+          "link": "https://www.the-today.com/news/articleView.html?idxno=88510",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "4대 과기원 창업원 출범…‘대박’난 KAIST 기업 어디 [빛이 나는 비즈]",
+          "summary": "e-Tube 기술은 구리선 대비 전송 거리를 10배 확대하는 동시에 광케이블 대비 전력 소모와 비용을 각각 3분의... 또 해외시장 정보를 공유하고 판로 개척과 공동 사업 모델 구축 등을 추진해 글로벌 태양전지 필름…",
+          "press": "서울경제",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 09:01",
+          "link": "https://n.news.naver.com/mnews/article/011/0004652040?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "해외서 벌고 원가에 깎였다···CJ제일제당부터 빙그레까지 엇갈린 2분...",
+          "summary": "국내 소비가 좀처럼 살아나지 않는 가운데 해외 시장을 개척한 기업들은 수출과 현지법인을 앞세워... 풀무원은 13일부터 간식·김치·냉동볶음밥·소스·계란가공품·만두·면 밀키트 등 7개 제품군 30개 품목 가격을...",
+          "press": "womaneconomy.co.kr",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 09:12",
+          "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257308",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"방학이 안 왔으면 좋겠어요\"…中서 확산되는 '밀키트 아이'",
+          "summary": "뜻하는 '밀키트 아이(Pre-made children)'라는 신조어가 등장했다. 13일(현지시간) 홍콩 사우스차이나모닝포스트... 이에 교육 시장에서도 '고교 졸업생 대상 대학 입학 전 여름 프로그램' 등의 사교육 …",
+          "press": "뉴시스",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 03:01",
+          "link": "https://n.news.naver.com/mnews/article/003/0014129122?sid=104",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 11
+}

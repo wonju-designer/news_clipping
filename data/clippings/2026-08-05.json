@@ -1,0 +1,442 @@
+{
+  "date": "2026-08-05",
+  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-21 16:31 소급 정리",
+  "top5": [],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "[통신 브리핑] SK텔레콤·KT·LG유플러스",
+          "summary": "AI 데이터센터(DC) 사업은 SKT 사업 영역 중 가장 빠르게 성장하고 있다. 2분기 AI DC 매출은 전년 동기 대비... [사진 = LG유플러스 제공] ◇ LG유플러스, 알뜰폰 전용 혜택 프로그램 '알닷클럽' …",
+          "press": "niceeconomy.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 17:32",
+          "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90430",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 2분기 영업익 67.3% 급증…AI 데이터센터 92.5% 성장 견인",
+          "summary": "알뜰폰(MVNO)을 제외한 가입자당평균매출(ARPU) 역시 2만9098원으로 전 분기(2만9103원)와 비슷한 수준을 유지했다. 다만 휴대전화 가입자는 전 분기 대비 1만2000명 늘어난 2197만명을 기록하며 2개…",
+          "press": "the-pr.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 17:30",
+          "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62167",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[기획] 알뜰폰 '안심옵션' 적용…실효성은 '글쎄'",
+          "summary": "자본력을 갖춘 통신 3사의 자회사와 금융계열 알뜰폰사업자가 시장을 장악할 가능성을 제기하며, 중소 사업자 전용 도매대가 우대나 통신 자회사 합산 점유율을 최대 50%로 제한하는 등 실질적인 지원책이 마련되지...",
+          "press": "kfenews.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 17:26",
+          "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661935",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "2년 만에 '1조 클럽' 복귀한 SKT…'AI데이터센터' 캐시카우로 우뚝",
+          "summary": "대표 무선 수익성 지표인 가입자당평균매출(ARPU) 역시 2분기 2만9098원(알뜰폰 제외)으로, 지난해와 유사한 수준에 그쳤다. 최민하 삼성증권 연구원은 \"단순 DC 사업자가 아닌 AIDC 개발 주체로 사업모델을 …",
+          "press": "asiatoday.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 17:06",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260805010001684",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[기자수첩] ‘알뜰폰 2.0’으로의 도약 추진하는 정부, 공회전으로 끝나...",
+          "summary": "이번 방안에는 △데이터 안심옵션(QoS) 적용한 신규 요금제 도매 제공 △5G 요금제 15종 도매대가 인하 △자체설비를 보유한 서비스형(부분 MVNO) 및 독립형(풀 MVNO) 알뜰폰 사업자 육성 위한 제도화 방안 …",
+          "press": "viva100.com",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 16:26",
+          "link": "https://www.viva100.com/article/20260802500657",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 캐릭터 IP로 오프라인 경험 넓힌다…미니브×민트라온 팝업스토어 ...",
+          "summary": "현장에서는 갤럭시 Z 폴드8 울트라·폴드8·플립8도 함께 전시해 디자인과 주요 기능을 직접 경험할 수... 통신시장의 경쟁은 요금제와 단말기에서 콘텐츠와 브랜드 경험으로 빠르게 확대되고 있다. 캐릭터 IP와 팬덤..…",
+          "press": "e-science.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 16:16",
+          "link": "https://www.e-science.co.kr/news/articleView.html?idxno=133025",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "폴드8 신기록에 실속까지…\"폴더블, 팔린 대수보다 두 배 번다\"",
+          "summary": "사전 판매 기간 삼성닷컴에서 자급제 모델을 산 고객 2명 중 1명이 구독클럽에 가입한 것으로 집계됐다. IT팁스터 아이스유니버스는 애플이 올해 가을 신제품 발표 행사에서 폴더블폰 '아이폰 울트라'를 공개할...",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 16:00",
+          "link": "http://www.metroseoul.co.kr/article/20260805500445",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“아이브 캐릭터 ‘미니브’ 홍대 떴다”…KT, 굿즈 팝업스토어 개장",
+          "summary": "MD는 팬덤이나 브랜드 고객을 겨냥해 제작한 기획 상품을 뜻하며, 최근 통신사들도 단말·요금제 혜택과... 홍대 애드샵 플러스에는 최근 출시된 갤럭시 Z 폴드8 울트라·폴드8·플립8도 함께 전시된다. 고객은 새...",
+          "press": "sentv.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 15:02",
+          "link": "https://www.sentv.co.kr/article/view/sentv202608050133",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "4개월째 번호이동 순감…'알뜰폰 2.0' 통할까",
+          "summary": "또한 통신사 간 가성비 요금제 출시 경쟁이 치열해 점유율 확대가 쉽지 않은 구조다. 하창직 한국알뜰폰통신사업자협회 사무국장은 \"망 도매대가 산정의 경우 알뜰폰 사업자의 수익성에 중요한 영향을 미치는 만큼...",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 13:54",
+          "link": "http://www.metroseoul.co.kr/article/20260805500293",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[경제소식] DB손보 '프로미119 안전리더캠프' 성료",
+          "summary": "NH올원뱅크는 '고향사랑기부제', '국립공원 시설예약', '알뜰폰 요금제', '자원봉사' 등 생활 서비스를... 행사 대상 카드는 'LG U+ 스마트플랜 Plus 신한카드', 'KT 가족만족 할부 신한카드', 'SK…",
+          "press": "4th.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 12:28",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2115839",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT 영업이익 67.3% 증가… 유심 정보 유출 여파 벗었다",
+          "summary": "그러나 KT의 불법 펨토세 해킹 사고 및 갤럭시 S26 출시 마케팅 등을 통해 1분기 순증 20만8000명을 기록했으며 이후에도 이용자 수를 회복하고 있다. SKT는 7월 5G·LTE 통합 요금제를 출시하며 전반적인…",
+          "press": "m.skyedaily.com",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 12:20",
+          "link": "https://m.skyedaily.com/news_view.html?ID=309226",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 이동통신 소식_LG유플러스, KT, SK텔레콤(8.5)",
+          "summary": "현재 알닷은 누적 회원 60만 명을 돌파한 알뜰폰 통합 플랫폼으로, 1000개 이상의 요금제 비교와 셀프... 팝업 현장에서는 최근 출시된 갤럭시 Z 폴드8 울트라, 갤럭시 Z 폴드8, 갤럭시 Z 플립8도 함께 전시…",
+          "press": "weeklytoday.com",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 11:54",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=788970",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 알뜰폰 고객케어 '알닷클럽' 첫선",
+          "summary": "알닷을 비롯한 알뜰폰 활성화 전략에 힘입어, LG유플러스망 알뜰폰의 가입자 점유율은 지난해 11월 기준 44.86%로 이통 3사 중 1위를 기록한 바 있다. 박대용 LG유플러스 MVNO사업담당은 \"알닷클럽은 고객에게…",
+          "press": "dizzotv.com",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 11:34",
+          "link": "https://www.dizzotv.com/site/data/html_dir/2026/08/05/2026080580054.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[SV 금융 단신] NH농협은행, 지자체 연계 ‘고향사랑기부’ 간편화 外",
+          "summary": "대상으로 갤럭시 Z 폴더블 8 시리즈 캐시백 행사를 진행한다. ◇ NH농협은행, 올원뱅크서 고향사랑기부... NH올원뱅크는 고향사랑기부제 외에도 국립공원 시설 예약, 알뜰폰 요금제, 자원봉사 등 생활 서비스를...",
+          "press": "socialvalue.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 11:12",
+          "link": "https://www.socialvalue.kr/news/view/1065578920676261",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "롯데하이마트, 매출 회복 신호…IT·모바일 앞세워 하반기 승부",
+          "summary": "자체 '하이마트 요금제'와 중고 모바일 사업 확대 효과로 중고폰 매입 고객의 신상품 구매 연계율은 지난 3월 5%에서 7월 말 16%까지 높아졌고, 월 매입량도 1000대를 넘어섰다. 롯데하이마트는 하반기에도 IT·…",
+          "press": "biztribune.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 10:38",
+          "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=356978",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "7월 물가 2%대... 정부 \"석유 최고가격제, 상승률 0.3%p 낮춰\"",
+          "summary": "이어 \"역대 최대 할인지원 등 민생물가 안정 대책 추진, 최고가격 인하 등 정책 노력에 힘입어 농축수산물... 그러면서 \"특히 중동전쟁 불확실성과 함께 작년 통신비 일시 할인에 따른 기저효과, 폭염 등 이상기후 영향…",
+          "press": "insight.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 10:24",
+          "link": "https://www.insight.co.kr/news/566449",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신] KT 갤럭시 Z8 개통 / KT·연세의료원 의료 AI 협력",
+          "summary": "◼︎ KT, 갤럭시 Z8 시리즈 사전 개통 시작 KT는 전국 매장과 온라인몰 KT 다이렉트샵에서 삼성전자 '갤럭시 Z... KT는 새 단말기 출시에 맞춰 온라인동영상서비스와 기기 할인 혜택을 결합한 '초이스 더블' …",
+          "press": "webeconomy.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 09:46",
+          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2256537",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "해킹 비용 털어낸 SKT, 2분기 영업익 67% ↑…AI 데이터센터 매출 92.5% 급...",
+          "summary": "알뜰폰을 제외한 가입자당평균매출(ARPU)은 2만9098원으로 전년 동기보다 0.1% 증가했다. 전 분기 2만9103원과 비교하면 사실상 제자리걸음 수준이다. 휴대전화 가입자는 2197만명으로 전년 동기 대비 1만4…",
+          "press": "뉴시스",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 09:38",
+          "link": "https://n.news.naver.com/mnews/article/003/0014108933?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "가입자 잃은 KT, 하반기 회복 시동…보상 종료·신작 효과 주목",
+          "summary": "저가 요금제로 이동하면서 무선 서비스 매출은 전년 대비 1.6% 감소한 1조6800억원을 기록하며 전 분기... 삼성전자의 신형 폴더블폰 '갤럭시 Z8 시리즈'는 현재 사전예약이 진행 중이다. 애플 역시 오는 9월 …",
+          "press": "thebigdata.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 09:02",
+          "link": "http://www.thebigdata.co.kr/view.php?ud=2026080415313120840a47484cf8_23",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "비수기 뚫고 번호이동 60만 건… 갤Z8·아이폰 출격에 경쟁 격화 예고",
+          "summary": "◆엇갈린 이통 3사 성적표… SKT 순증 1위, KT는 이탈 가속화 지난달 통신사별 성적표는 엇갈렸다. SK텔레콤과... ◆알뜰폰, '데이터 안심옵션' 도매 제공으로 대응 및 반격 나서 이통3사의 프로모션과 요금제 …",
+          "press": "ftoday.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 08:28",
+          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363048",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[아주증시포커스] 단일종목 레버리지 규제 '풍선효과'? 모처럼 훈풍 불...",
+          "summary": "- 8월과 9월은 각각 작년 SKT 통신요금 인하 기저효과와 추석 영향으로 소비자물가 상승률이 3.4%와 3.1%로 올라설 전망. - 4분기 들어 원유 도입 가격 하락과 운송비 안정화로 소비자물가 상승률이 2.5% …",
+          "press": "아주경제",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 07:42",
+          "link": "https://www.ajunews.com/view/20260804170647014",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'단통법 폐지 1년' 성장 멈춘 알뜰폰, 생존 활로 '모색'[NW리포트]",
+          "summary": "일부 5G 요금제의 도매대가도 인하한다. 중소 알뜰폰 사업자의 전파사용료 감면율도 기존 50%에서 90%로 확대해 업계의 비용 부담을 줄일 계획이다. 또 단말과 가입 절차도 개선한다. 중고폰 안심거래 인증제를 활성화…",
+          "press": "newsway.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 07:26",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026080417203287741",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "물가 2%대 내렸는데…근원물가 31개월 최고, 한은 '8월 연속 인상' 기로",
+          "summary": "이어 \"8~9월 물가 상승률은 작년 통신요금 인하의 기저효과, 추석 영향으로 각각 3.4%, 3.1%까지 올라설 전망이나, 4분기 들어 원유 도입 가격 하락 등에 따라 2.5% 수준까지 내려올 것\"이라고 예상했다. …",
+          "press": "뉴스1",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 06:05",
+          "link": "https://n.news.naver.com/mnews/article/421/0009097368?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, 갤럭시 자급제 전용 요금제 출시…최대 60만원 혜택 제공",
+          "summary": "이번 요금제의 핵심은 자급제 갤럭시 스마트폰을 등록한 구매자에게 요금제에 따라 매월 최대 2만5000 삼성월렛 포인트를 24개월간 제공한다는 점이다. 구매자는 총 60만원 상당의 혜택을 단말 구매 시점뿐 아니라 이용…",
+          "press": "bizwnews.com",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 04:34",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=142403",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": "",
+      "articles": [
+        {
+          "title": "글로벌 EV 완성차 투자 재개 기대… 2차전지 밸류체인 일제히 '환호성'",
+          "summary": "파워넷, 한빛레이저, 레몬, 새빗켐, 메가터치, 솔브레인, 인텍플러스, TCC스틸, 에이프로, 한솔케미칼 등 핵심... 단순한 유동성 장세를 넘어 향후 본격화될 주요 셀업체들의 CAPEX(설비투자) 집행 재개 시 실…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 10:58",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474526",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "젠슨 황 찜한 'CPO' 세계 1위… 성호전자 ADS테크, 美서 235억원 수주 '전...",
+          "summary": "액티브 얼라인먼트는 광섬유, 렌즈, 레이저를 고도로 정렬하는 핵심 공정으로, ADS테크가 글로벌 시장... 성호전자는 콘덴서 및 전원공급장치(PSU) 전문기업으로, 세계 1위 액티브 얼라인먼트 기술력을 보유한 광통신…",
+          "press": "머니투데이",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 10:44",
+          "link": "https://n.news.naver.com/mnews/article/008/0005395882?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "솔루엠, AI 데이터센터용 파워 사업 본격 확대…전성호 대표 “지속 성...",
+          "summary": "생성형 AI 확산으로 데이터센터의 전력 수요가 급증하는 가운데, 솔루엠은 800Vdc급 고전압 직류(HVDC) DC-DC 컨버터를 개발하고 있으며, 글로벌 하이퍼스케일 데이터센터 사업자용 공급망 진입을 추진 중이다.…",
+          "press": "전자신문",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 09:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003454278?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, EV 전장·AI 데이터센터 정조준…정관 변경으로 사업 재편 본격...",
+          "summary": "이번 정관 변경안에는 전기차와 친환경 모빌리티용 전장부품을 비롯해 차량용 전원공급장치, 온보드차저(OBC), 통합충전제어장치(ICCU), 직류변환장치(DC-DC 컨버터), 서버 및 데이터센터용 전원공급장치와 전력변환…",
+          "press": "view.asiae.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 08:31",
+          "link": "https://n.news.naver.com/mnews/article/277/0005798978?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "인텔·AMD 반등 이끈 AI… 엔비디아 독주 체제에 변화 바람",
+          "summary": "AMD, 데이터센터 부문 전년대비 두배 성장 AMD가 4일(현지시각) 발표한 2026회계연도 2분기 실적에 따르면... 머큐리 리서치의 자료에 따르면 2026년 1분기 기준 AMD의 데이터센터 CPU 시장 점유율은 …",
+          "press": "IT조선",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 17:40",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167402",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "초고속 광통신·RF 부품·위성통신 모멘텀 가속… 통신장비 관련주 '함박...",
+          "summary": "통신용 반도체 및 광모듈 관련 기업인 자람테크놀로지, 우리로, 빛샘전자, 머큐리, 기가레인, RFHIC 등도 강한 상승 곡선을 그리고 있다. AI 데이터센터 내부 통신 트래픽 급증 및 글로벌 통신망 투자 재개 기대감…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 09:40",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474479",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[급등락주 짚어보기] 美 규제로 광통신 훈풍 탄 코스닥⋯빛과전자·오이...",
+          "summary": "유티아이(2665원)의 주가가 가격제한폭까지 치솟았다. 유티아이는 이날 약 30억원 규모의 운영자금을... 광통신은 빛을 이용해 데이터를 전송하는 통신 기술로, 광섬유와 광케이블을 통해 대용량 데이터를 고속...",
+          "press": "etoday.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 17:12",
+          "link": "https://www.etoday.co.kr/news/view/2611419",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "美, 中 광트랜시버 수입금지 추진…AI 데이터센터 공급망 선제 차단",
+          "summary": "광 트랜시버는 서버와 GPU에서 나오는 전기 신호를 빛 신호로 바꿔 광섬유로 보내고, 들어온 빛 신호를 다시... 부품 가격 상승과 공급 부족을 겪을 수 있다는 전망이 나온다. 규제가 시행되면 미·중 AI 공급망 분…",
+          "press": "조선일보",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 15:29",
+          "link": "https://n.news.naver.com/mnews/article/023/0003991474?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "AI 데이터센터서 중국산 빼라는 미국…세계 1위 업체 흔든다",
+          "summary": "광트랜시버는 전기 신호와 광신호를 서로 변환해 데이터가 광섬유 케이블을 통해 이동하도록 하는... 대체 공급업체의 생산 능력이 제한된 만큼 광트랜시버 가격과 데이터센터 구축 비용이 상승할 수 있다. 미 백악관과...",
+          "press": "joseilbo.com",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 13:33",
+          "link": "https://n.news.naver.com/mnews/article/123/0002387875?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "오이솔루션 주가 장중 상한가, 미국의 '중국산 부품 수입 금지법안'에 ...",
+          "summary": "이는 가격제한폭 상단이다. 5일 오전 장중 오이솔루션 주가가 상한가를 기록했다. 같은 시각... 광통신은 광섬유와 광케이블을 이용해 데이터를 전송하는 기술로, 기존 구리 기반 데이터 전송 방식의 물리적 한계인 열..…",
+          "press": "businesspost.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 11:50",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443993",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "대한광통신, 코스피·코스닥 상승 속 주가 강세…과거 美 AI 데이터센터...",
+          "summary": "로이터통신은 미국과 이란의 합의 기대가 커지자 브렌트유와 서부텍사스산원유 가격이 약 4% 떨어졌다고... 대한광통신은 광섬유 모재에서 광섬유와 광케이블 완제품까지 생산할 수 있는 일관생산 체제를 갖춘...",
+          "press": "cbci.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 00:40",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=594533",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 35
+}
