@@ -1,50 +1,78 @@
-name: 뉴스 클리핑 (아이즈비전)
+# -*- coding: utf-8 -*-
+"""
+뉴스 클리핑 파이프라인 오케스트레이터
+수집 → 노출 추림 → Groq 요약 → Gemini Top5 → 렌더 → Gmail 발송
+로컬 프리뷰: python main.py --preview  (발송 없이 report_preview.html 생성)
+"""
 
-on:
-  schedule:
-    # 매일 08:00 KST = 23:00 UTC 전일 (매일)
-    - cron: "0 23 * * *"
-  workflow_dispatch:        # 수동 실행(테스트)용
+import sys
+from datetime import datetime
 
-jobs:
-  clipping:
-    runs-on: ubuntu-latest
-    steps:
-      - name: 코드 체크아웃
-        uses: actions/checkout@v4
+import config
+import collect as collector
+import analyze
+import render
+import docx_report
+import archive
+import dashboard
+import send as sender
 
-      - name: Python 설정
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
 
-      - name: 의존성 설치
-        run: pip install -r requirements.txt
+def run(preview: bool = False):
+    now = datetime.now(config.KST)
+    print(f"[시작] {now:%Y-%m-%d %H:%M} 뉴스 클리핑")
 
-      - name: 뉴스 클리핑 실행
-        env:
-          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
-          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GMAIL_USER: ${{ secrets.GMAIL_USER }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          REPORT_TO: ${{ secrets.REPORT_TO }}
-          # 진단 모드: 검색어별 수집 건수를 로그에 출력하려면 아래 줄 주석 해제
-          # DEBUG: "1"
-          # 품질 AI를 Claude로 전환하려면 아래 3줄 주석 해제 + Secret에 ANTHROPIC_API_KEY 등록
-          # QUALITY_AI: claude
-          # ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          # CLAUDE_MODEL: claude-sonnet-5   # 저비용은 claude-haiku-4-5-20251001
-          # 모델명 교체가 필요하면 아래 주석 해제 후 값 지정 (기본값이 최신이라 보통 불필요)
-          # GROQ_MODEL: openai/gpt-oss-120b     # 대안: openai/gpt-oss-20b
-          # GEMINI_MODEL: gemini-2.5-flash      # 대안: gemini-3.5-flash
-        run: python main.py
+    collected = collector.collect()
+    raw_total = sum(len(v) for v in collected.values())
 
-      - name: 프리뷰 아티팩트 업로드
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: report_preview
-          path: report_preview.html
-          if-no-files-found: ignore
+    # 문서(첨부)용으로 섹션별 넓게 선별 → 이메일은 그 상위만 사용
+    print(f"[선별] AI 중요도 판단 (품질 AI: {analyze.QUALITY_AI})")
+    doc_display = analyze.select_display(collected, doc=True)
+    doc_flat = analyze.flatten(doc_display)
+
+    analyze.summarize(doc_flat)                       # Groq 기사별 요약(문서 전체)
+    digests = analyze.section_digests(doc_display)    # Groq 섹션별 동향 요약
+    top = analyze.select_top5(doc_flat)               # 품질 AI Top5
+
+    # 이메일용: 문서 선별 결과에서 섹션별 상위만 잘라냄
+    email_display = analyze.email_subset(doc_display)
+    email_total = sum(len(v) for v in email_display.values())
+    doc_total = len(doc_flat)
+    print(f"[정리] 수집 {raw_total}건 → 이메일 {email_total}건 / 문서 {doc_total}건")
+
+    html_body = render.build_html(email_display, top, email_total, digests)
+
+    with open("report_preview.html", "w", encoding="utf-8") as f:
+        f.write(html_body)
+    print("[렌더 완료] report_preview.html")
+
+    # 첨부용 워드 문서 생성 (더 많은 기사 수록)
+    docx_path = f"아이즈비전_뉴스클리핑_{now:%Y%m%d}.docx"
+    try:
+        docx_report.build_docx(doc_display, top, digests, docx_path, doc_total)
+        print(f"[문서 생성] {docx_path}")
+    except Exception as e:
+        print(f"[문서 생성 실패] {e}")
+        docx_path = None
+
+    # 대시보드용 데이터 저장 + 자체완결형 대시보드 HTML 갱신
+    try:
+        archive.save(doc_display, top, digests)
+        dashboard.build()
+    except Exception as e:
+        print(f"[대시보드 생성 실패] {e}")
+
+    if preview:
+        print("[프리뷰 모드] 발송 생략")
+        return
+
+    if email_total == 0:
+        print("[종료] 노출 기사 0건 — 발송 생략")
+        return
+
+    sender.send(html_body, docx_path)
+    print("[완료]")
+
+
+if __name__ == "__main__":
+    run(preview="--preview" in sys.argv)
