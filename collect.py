@@ -122,7 +122,8 @@ def collect() -> dict:
 
     result = {}
 
-    def _gather(keywords, seen, cutoff, badge=None, extra_exclude=(), require_any=(), protect_terms=()):
+    def _gather(keywords, seen, cutoff, badge=None, extra_exclude=(), require_any=(),
+                protect_terms=(), require_context=()):
         bucket = []
         for kw in keywords:
             raw_n = 0
@@ -147,6 +148,9 @@ def collect() -> dict:
                         continue
                 # 필수 조건어: 하나라도 없으면 제외
                 if require_any and not any(t.lower() in low for t in require_any):
+                    continue
+                # 맥락 조건어(예: 통신 관련): 하나도 없으면 제외 (브랜드 동음이의 차단)
+                if require_context and not any(t.lower() in low for t in require_context):
                     continue
                 seen.add(art["orig"])
                 bucket.append(art)
@@ -198,7 +202,8 @@ def collect() -> dict:
         else:
             queries = _expand(cat["keywords"], quals)
             items = _gather(queries, cat_seen, cutoff, extra_exclude=ex,
-                            require_any=req, protect_terms=prot)
+                            require_any=req, protect_terms=prot,
+                            require_context=cat.get("require_context", ()))
             # 후보 컷 전에 티어(알뜰폰 최상위) 순으로 정렬 → 상한에서 잘려나가지 않게
             if pt:
                 top = config.TOP_PRIORITY
