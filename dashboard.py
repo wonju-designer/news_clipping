@@ -80,6 +80,15 @@ TEMPLATE = r"""<!DOCTYPE html>
   .sec{padding:14px 18px;border-top:1px solid var(--border);}
   .sec .sh{font-size:14px;font-weight:600;color:var(--navy);margin-bottom:8px;}
   .sec .subh{font-size:13px;font-weight:600;color:var(--t1);margin:12px 0 6px;}
+  details.sg{border:1px solid var(--border);border-radius:8px;margin:8px 0;overflow:hidden;background:#fbfcfd;}
+  details.sg>summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;
+    padding:11px 14px;font-size:14px;font-weight:600;color:var(--navy);user-select:none;}
+  details.sg>summary::-webkit-details-marker{display:none;}
+  details.sg>summary::after{content:"▾";font-size:12px;color:var(--t3);margin-left:8px;transition:transform .15s;}
+  details.sg[open]>summary::after{transform:rotate(180deg);}
+  details.sg>summary:hover{background:#f2f5f9;}
+  details.sg .sgcnt{font-size:12px;color:var(--t3);font-weight:400;margin-left:auto;margin-right:6px;}
+  details.sg .sgbody{padding:4px 14px 12px;border-top:1px solid var(--border);}
   .sec .dg{background:#f6f7f9;border-left:3px solid var(--accent);border-radius:6px;padding:9px 11px;
     font-size:12.5px;color:var(--t2);line-height:1.6;margin-bottom:10px;}
   .art{padding:8px 0;border-bottom:1px solid #f0f2f4;}
@@ -165,14 +174,18 @@ function renderDay(){
     if(!s.articles.length) return;
     h += `<div class="sec"><div class="sh">${s.num} ${esc(s.title)} · ${s.articles.length}건</div>`;
     if(s.subgroups && s.subgroups.length){
-      // 회사별 소그룹
+      // 회사별 소그룹 — 아코디언(기본 접힘). 번호 접두어가 남아있으면 제거
       s.subgroups.forEach(sg=>{
         const list = s.articles.filter(a=>a.subgroup===sg.id);
         if(!list.length) return;
-        h += `<div class="subh">${esc(sg.label)} <span class="hit">${list.length}건</span></div>`;
+        const label = esc((sg.label||"").replace(/^\d+-\d+\s*/, ""));
         const dg = (s.digest && typeof s.digest==="object") ? (s.digest[sg.id]||"") : "";
-        if(dg) h += `<div class="dg">${esc(dg)}</div>`;
-        h += list.map(artHTML).join("");
+        h += `<details class="sg"><summary><span class="sgname">${label}</span>`+
+             `<span class="sgcnt">${list.length}건</span></summary>`+
+             `<div class="sgbody">`+
+             (dg?`<div class="dg">${esc(dg)}</div>`:"")+
+             list.map(artHTML).join("")+
+             `</div></details>`;
       });
     } else {
       if(s.digest && typeof s.digest==="string") h += `<div class="dg">${esc(s.digest)}</div>`;
