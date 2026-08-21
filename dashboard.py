@@ -14,7 +14,10 @@ from datetime import datetime
 import config
 
 CLIP_DIR = os.path.join("data", "clippings")
-OUT = "dashboard.html"
+# GitHub Pages 공개용: docs/index.html 로 생성 (루트 URL로 바로 열림)
+# 원본 JSON(data/)은 공개하지 않고 자체완결형 HTML만 노출
+PUBLISH_DIR = os.environ.get("PUBLISH_DIR", "docs")
+OUT = os.path.join(PUBLISH_DIR, "index.html")
 
 
 def _load_all() -> list:
@@ -209,6 +212,7 @@ render();
 def build() -> str:
     days = _load_all()
     html = TEMPLATE.replace("__DATA__", json.dumps(days, ensure_ascii=False))
+    os.makedirs(PUBLISH_DIR, exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"[대시보드] {OUT} 생성 ({len(days)}일치)")
