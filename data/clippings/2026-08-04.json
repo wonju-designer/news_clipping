@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:46 소급 정리",
+  "generated_at": "2026-08-21 15:55 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -17,6 +17,17 @@
           "date": "2026-08-04",
           "datetime": "2026-08-04 22:22",
           "link": "https://www.apnews.kr/news/articleView.html?idxno=3050271",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“누가 아재폰이라 했나요?” 한 달은 기다려야…‘여권폰’으로 입소...",
+          "summary": "별도 앱 없이 QR코드만으로 데이터를 무선 전송할 수 있고, 삼성의 퀵 셰어(Quick Share)도 아이폰의 에어드롭과 연동돼 사진과 파일을 쉽게 주고받을 수 있다. 사전예약 고객에게는 △구글 AI 프로 6개월 △…",
+          "press": "서울경제",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 21:50",
+          "link": "https://n.news.naver.com/mnews/article/011/0004648555?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -44,12 +55,56 @@
           "subgroup_label": ""
         },
         {
+          "title": "대세는 폴더블폰… 대박난 삼성 ‘갤Z8’, 이젠 애플과 승부",
+          "summary": "한편 이날부터 갤럭시Z 8시리즈 사전판매를 끝내고 사전판매 구매고객들을 대상으로 개통을 시작한 이동통신3사(SK텔레콤·KT·LG유플러스)는 정식 발매 전 고객 유치에 나섰다. SK텔레콤은 넷플릭스 요금제 가입 및..…",
+          "press": "세계일보",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 20:02",
+          "link": "https://n.news.naver.com/mnews/article/022/0004148420?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"성장 부담 덜었다\" 매파 변신한 한은…8월 금통위·수정전망에 쏠린 눈",
+          "summary": "과열과 가계부채 폭증을 지적, \"기준금리를 2.75%로 인상한 데 이어 앞으로도 금리 인상 기조를 이어갈 필요가 있다고 판단하고 있다\"며 긴축 기조를 공고히 한 바 있다. ◆ 8월 통신비 역기저·근원물가 부담…금통위…",
+          "press": "newsprime.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 18:16",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=742690",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "SKT, 갤럭시 Z8 시리즈 개통 시작…\"사전예약자 65%가 2040\"",
           "summary": "오는 9월 6일까지 'T안심보상with민팃' 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만원까지 보상을 제공한다. 또 8월 한 달간 'T PRE…",
           "press": "thepublic.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 18:10",
           "link": "https://www.thepublic.kr/news/articleView.html?idxno=313785",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 갤럭시 Z8 시리즈 사전개통 시작…\"절반 이상이 폴드8 선택\"",
+          "summary": "아울러 KT는 갤럭시 Z8 시리즈 구매 고객 중 초이스 요금제(초이스·초이스 더블) 가입 고객을 대상으로 총 888명을 추첨해 △5성급 호텔 2박 숙박권(8명) △신세계상품권 20만원(80명) △배달의민족 5만원권(…",
+          "press": "thepublic.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 18:10",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=313799",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 넷플릭스와 콘텐츠 혜택 강화…8월까지 프로모션 운영",
+          "summary": "폴드8, 갤럭시 Z 플립8의 사전예약을 마치고 4일부터 개통을 시작한다고 밝혔다. 이와 함께 8월까지 구매 고객을 위한 차별화된 혜택을 이어간다. 우선 오는 31일까지 새로 출시한 폴더블 단말로 넷플릭스 요금제에..…",
+          "press": "srtimes.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 18:06",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=209033",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -66,12 +121,67 @@
           "subgroup_label": ""
         },
         {
+          "title": "'폴드8'로 몰린 폴더블 수요…이통 3사, 20~40대 신규 유입에 주목",
+          "summary": "이동통신 3사는 갤럭시 Z 폴드8, 폴드8 울트라, 플립8의 사전 예약을 마무리하고 4일부터 개통을 시작한다고... 구매 고객을 대상으로 한 이벤트를 비롯해 단말 보험, OTT 결합 요금제 등 다양한 혜택을 앞세워 …",
+          "press": "industrynews.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 17:48",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84050",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[통신] LG유플러스 보안기업 인수 / SK텔레콤 폴더블 개통 / LG유플러스 ...",
           "summary": "중고폰 반납 보상과 제휴카드 할인, 가족 대상 부가서비스 등 구매 지원 혜택도 제공한다. ◼︎ LG유플러스... LG유플러스는 할인쿠폰과 무이자 할부, 중고폰 추가 보상 등 구매 지원 프로그램을 확대할 계획이다.",
           "press": "webeconomy.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 17:36",
           "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2256187",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "1분에 140대 … 갤럭시 Z8 사전판매 돌풍",
+          "summary": "스마트폰 갤럭시 Z8 시리즈가 국내 사전판매 일주일 동안 140만대가 넘는 판매량을 올렸다. 이는 역대... 이날부터 사전예약 개통을 시작한 이통 3사는 특화 요금제와 각종 프로모션을 통해 가입자 유치에 나섰다...…",
+          "press": "매일경제",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 17:31",
+          "link": "https://n.news.naver.com/mnews/article/009/0005716552?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "러닝부터 교실까지…SKT, 통신 밖 고객 일상 파고든다",
+          "summary": "회사는 지난 3월 스페인 바르셀로나에서 열린 MWC 26 기자간담회에서 'AI 네이티브' 전략을 발표하며 고객의 생활 패턴과 수요를 AI로 분석해 요금제와 멤버십, 서비스를 개인화하겠다고 밝혔다. 앞서 갤럭시 S26…",
+          "press": "news2day.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 17:28",
+          "link": "https://www.news2day.co.kr/article/20260804500221",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 갤럭시 Z 폴드8 시리즈 사전 개통 시작...선호도 1위는 콘텐츠 활용...",
+          "summary": "KT는 콘텐츠 활용성이 강화된 새로운 갤럭시 Z 시리즈 출시에 맞춰 OTT와 동영상 스트리밍, 디바이스 혜택을 결합한 '초이스 더블' 요금제를 내놨다. 기존 초이스 더블 요금제에 ▲유튜브 프리미엄 라이트와 넷플릭스.…",
+          "press": "livebiz.today",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 17:22",
+          "link": "https://www.livebiz.today/news/articleView.html?idxno=203841",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "과거 향수 자극하는 SKT 광고, '슈퍼그랑죠' 이어 하반기에는 '스피드01...",
+          "summary": "해당 광고는 사람들이 잃어버린 스마트폰들이 스마트폰의 최적 서식지인 'SKT 아일랜드'로 떠난 이후 회사의 '베스트 요금제'를 갖춘 갤럭시 Z 폴드8으로 진화해 다시 집으로 돌아온다는 내용으로, 앞선 광고의 메시지를…",
+          "press": "todaykorea.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 17:20",
+          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=404549",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -132,6 +242,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "이통3사 갤Z8 시리즈 개통 시작…\"폴드8 인기 가장 높아\"",
+          "summary": "뉴스토마토 = 이지은 기자 | 이동통신3사가 갤럭시Z8 시리즈 사전 개통을 시작했습니다. 폴드 울트라와... KT는 폴드의 넓어진 화면 비율과 콘텐츠 활용성을 고려해 OTT와 디바이스 혜택을 결합한 초이스 더블 요금…",
+          "press": "newstomato.com",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 16:58",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1309202&inflow=N",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "\"'갤럭시 Z 폴드'부터 '플립8'까지\"…KT-LG U+, 사전개통 돌입",
           "summary": "할인 쿠폰·무이자 할부 등 구매 지원 혜택에 대한 관심도 높아졌다. 또한 ▲온라인 전용 할인 쿠폰 ▲무이자 할부 ▲중고폰 추가 보상 등 다양한 구매 지원 프로그램이 고객의 단말 구매 부담을 줄이는 데 기여했다.",
           "press": "financialpost.co.kr",
@@ -171,6 +292,17 @@
           "date": "2026-08-04",
           "datetime": "2026-08-04 16:06",
           "link": "https://n.news.naver.com/mnews/article/003/0014108017?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'알뜰폰'에 밀린 이통3사, 하반기 요금제로 반격",
+          "summary": "자급제 단말을 사용하는 2030세대를 겨냥한 브랜드로 기존 이동통신 서비스와 알뜰폰 사이의 수요를... 삼성전자는 8세대 폴더블폰과 웨어러블 신제품 판매를 시작했으며 애플도 통상 9월 아이폰 신제품을...",
+          "press": "hansbiz.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 16:02",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=854466",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -220,6 +352,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT M&S, 갤럭시 Z8 시리즈 개통 시작…체험존 지속 운영",
+          "summary": "제품 경험부터 개통, 요금제 설계 등 원스톱 서비스 제공  kt m&s(대표 박성열)는 삼성전자의 새로운 갤럭시 Z8 시리즈 사전예약 고객을 대상으로 전국 260여 개의 직영 매장 KT플라자에서 개통을 시작한다고 4…",
+          "press": "srtimes.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 15:46",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=209050",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "“‘폴드8’ 무슨 색상 살까” 40대도 고민…뚜껑 여니 ‘대세’ 있었다",
           "summary": "통신업계에서는 중고폰 보상 프로그램 등 다양한 혜택 전개로 고객 유치 전략을 펴고 있다. 이통사들은 다양한 맞춤형 혜택과 구매 지원 프로그램 지속 등으로 고객 만족을 높여나갈 방침이다.",
           "press": "세계일보",
@@ -237,6 +380,17 @@
           "date": "2026-08-04",
           "datetime": "2026-08-04 15:40",
           "link": "http://www.kdfnews.com/news/articleView.html?idxno=186067",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "옆커폰, '갤럭시 Z8' 출시 맞아 전국 매장 기반 맞춤형 휴대폰 상담 강화",
+          "summary": "등 갤럭시 Z8 시리즈를 비롯한 다양한 스마트폰과 통신 요금제에 대한 맞춤형 상담을 제공하고 있다. 특히 고객이 거주 지역을 '구' 단위는 물론 '동' 단위까지 상세히 입력하면, 인근 매장을 즉시 확인해 방문 상담을…",
+          "press": "newstnt.com",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 15:36",
+          "link": "https://www.newstnt.com/news/articleView.html?idxno=712780",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -264,12 +418,67 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT, 갤럭시 Z8 사전개통…예약 절반 이상이 '폴드8'",
+          "summary": "손정엽 KT Customer부문 디바이스사업본부장 상무는 \"갤럭시 Z 폴드8 울트라·폴드8·플립8 사전 개통을 시작으로 KT만의 초이스 더블 요금제와 단말 케어, 다양한 구매 혜택을 통해 차별화된 디바이스 이용 경험…",
+          "press": "kfenews.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 15:18",
+          "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661839",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'애플 아케이드'의 모든 것…베스트 추천작 5종",
+          "summary": "애플 아케이드는 애플 원 전 요금제에 포함된 게임 구독 서비스로, 아이폰·아이패드·맥·애플TV·애플 비전 프로에서 200개 이상의 게임을 이용할 수 있다. 이 게임은 광고와 인앱결제가 없으며 일반 앱스토어 게임과 달…",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 15:12",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689750",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 갤Z폴드8 시리즈 오늘부터 개통…폴드8, 예약 절반 이상 차지",
+          "summary": "KT는 갤럭시 Z 폴드8 울트라·폴드8·플립8 구매자 중 초이스 요금제(초이스·초이스 더블) 가입자를 대상으로 추첨을 통해 총 888명에게 5성급 호텔 2박 숙박권(8명), 신세계상품권 20만원(80명), 배달의민족…",
+          "press": "worktoday.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 14:50",
+          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87531",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'힙한 폴더블폰' 통했다…갤Z 폴드8 대화면에 꽂힌 2040",
+          "summary": "1%)와 '갤럭시Z 플립8'(15.5%)이 뒤를 이었다. 이동통신 3사는 초기 흥행세를 이어가고 고사양 단말 가격 부담을 완화하기 위해 차별화 혜택을 내세웠다. SK텔레콤은 8월 31일까지 넷플릭스 요금제 가입 고객…",
+          "press": "economist.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 14:41",
+          "link": "https://n.news.naver.com/mnews/article/243/0000101239?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "LG유플러스, 갤Z폴드8 시리즈 개통 시작 … 예약 고객 3명 중 2명 '폴드8...",
           "summary": "LG유플러스는 온라인 전용 할인, 무이자 할부, 중고폰 추가보상 등의 프로그램이 단말 구매 부담을 낮추는 데 도움이 됐다고 분석했다. LG유플러스는 앞으로도 고객이 신형 단말의 가치를 체감할 수 있도록 맞춤형...",
           "press": "worktoday.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 14:40",
           "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87530",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 갤럭시 Z 폴드8 흥행...일반폰 이용자 유입 확대",
+          "summary": "라벤더가, 갤럭시 Z 플립8은 핑크와 그라파이트, 크림이 높은 관심을 받았다. SK텔레콤은 신제품 개통 이후에도 넷플릭스와 연계한 프로모션을 이어간다. 오는 31일까지 신형 폴더블 단말로 넷플릭스 요금제에...",
+          "press": "hbnpress.com",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 14:20",
+          "link": "https://hbnpress.com/news/view/1065590284850598",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -319,6 +528,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "갤럭시 Z 폴드8, 국내 사전판매 144만대…폴더블 시장 삼파전",
+          "summary": "사전판매 기간 삼성닷컴에서 자급제 모델을 구매한 고객 2명 중 1명이 구독클럽에 가입했다. 글로벌... 애플은 올가을 첫 폴더블 아이폰을 출시할 것으로 예상된다. 카운터포인트는 애플이 출시 첫해부터 25~28%의..…",
+          "press": "kpinews.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 13:43",
+          "link": "https://www.kpinews.kr/newsView/1065579635909875",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "민팃, '갤럭시 Z8' 출시 맞춰 중고폰 추가 보상 이벤트 펼쳐",
           "summary": "ICT 리사이클 기업 민팃이 '갤럭시 Z8' 시리즈 출시 시기에 맞춰 중고폰 거래 활성화를 위한 보상 프로모션을 진행한다. 민팃은 '민팃 ATM'과 '민팃 홈'을 통해 중고폰을 판매하는 고객을 대상으로 평가금액에 추…",
           "press": "cnbizm.com",
@@ -336,6 +556,17 @@
           "date": "2026-08-04",
           "datetime": "2026-08-04 13:32",
           "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93245",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 갤럭시 Z8 시리즈 사전개통 시작…'초이스 더블' 요금제도 새 단장",
+          "summary": "오는 7일 정식 출시를 앞두고 온라인동영상서비스(OTT)와 디바이스 혜택을 결합한 요금제를 선보이고 단말 케어와 소상공인 지원 혜택도 확대했다. KT에 따르면 지난달 28일부터 지난 3일까지 진행된 갤럭시 Z 폴드8…",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 13:26",
+          "link": "https://n.news.naver.com/mnews/article/014/0005556973?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -363,6 +594,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "\"이렇게까지 지원해주는데... 제발\" 오창석 청년재단 이사장, 기승전 '홈...",
+          "summary": "말씀하셨다시피 취업 준비하는 것도 어려운데 취업을 하고 나서 내 가계 생활을 어떻게 해야 될지도 조금... 예를 들어서 월세라든지, 통신비라든지, 교통비라든지 이런 고정 지출을 제외한 실질적으로 내가 한 달에 쓸 수…",
+          "press": "YTN",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 11:47",
+          "link": "https://n.news.naver.com/mnews/article/052/0002388774?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "민팃, 갤럭시 Z8 출시 맞춰 중고폰 추가 보상 이벤트",
           "summary": "/ 민팃 ICT 리사이클 기업 민팃이 갤럭시 Z8 시리즈 출시와 함께 중고폰 보상 프로모션을 실시하며 중고폰 거래 확대에 나선다. 고객 혜택을 강화하는 동시에 ICT 자원 순환 생태계 활성화에도 힘을 싣겠다는 전략이…",
           "press": "metroseoul.co.kr",
@@ -374,12 +616,45 @@
           "subgroup_label": ""
         },
         {
+          "title": "“아이폰 갈아탈래”…갤럭시 폴더블, 역대 최다 144만대",
+          "summary": "삼성닷컴 자급제 모델 구매 고객 2명 중 1명이 구독클럽에 가입했다. 256GB 구매 고객에게 512GB로... 특히 '갤럭시 Z 플립8' 자급제 모델은 2년형 구독클럽 가입 시 최대 50% 잔존가 보장에 어학 학습…",
+          "press": "ekn.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 11:38",
+          "link": "https://www.ekn.kr/web/view.php?key=20260804029469282",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리 IT뷰] 구글어스 AI 편집기능 철회와 애플의 시리 AI 유료화 추진",
+          "summary": "상위 요금제를 통해 추가적인 연산 자원을 제공하는 방안이 논의되고 있습니다. 애플의 이러한 행보는... 새롭게 개편된 AI 기반의 시리는 현재 제한적인 베타 테스트 단계에 진입했으며, 다가오는 가을 신형 아이폰의..…",
+          "press": "gamevu.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 11:36",
+          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59789",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "LG유플러스 ‘갤럭시 Z 폴드8 울트라 · 폴드8 · 플립8’ 개통 시작",
           "summary": "LG유플러스는 온라인 전용 할인 쿠폰과 무이자 할부, 중고폰 추가 보상 등 다양한 구매 지원 프로그램이 고객의 단말 구매 부담을 줄이는 데 기여한 것으로 분석했다. 회사 관계자는 “앞으로도 고객이 최신...",
           "press": "매일경제",
           "date": "2026-08-04",
           "datetime": "2026-08-04 11:35",
           "link": "https://n.news.naver.com/mnews/article/009/0005716356?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 갤럭시 Z 8 시리즈 오늘 사전개통…예약 절반 이상이 ‘폴드8’",
+          "summary": "KT는 갤럭시 Z 폴드8 울트라·폴드8·플립8 구매 고객 중 초이스 요금제(초이스·초이스 더블) 가입 고객을 대상으로 추첨을 통해 총 888명에게 △5성급 호텔 2박 숙박권(8명) △신세계상품권 20만원(80명) △…",
+          "press": "매일경제",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 11:34",
+          "link": "https://n.news.naver.com/mnews/article/009/0005716353?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -407,6 +682,39 @@
           "subgroup_label": ""
         },
         {
+          "title": "갤럭시Z ‘사전예약 144만대’ 신기록 세웠다",
+          "summary": "이달 31일까지 갤럭시 Z 폴더블 단말로 넷플릭스 요금제 가입 및 계정 연결을 완료할 경우, 고객 모두에게 1만원 상당의 네이버페이 포인트를 지급한다. 또 ‘폭싹 속았수다’ 배경인 제주도 3박 4일 VIP 여행 패키…",
+          "press": "헤럴드경제",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 11:31",
+          "link": "https://n.news.naver.com/mnews/article/016/0002679263?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 갤럭시 Z8 사전개통…AI 스마트폰 시대 맞춰 요금제·서비스 확대",
+          "summary": "손정엽 KT Customer부문 디바이스사업본부장은 갤럭시 Z8 시리즈 사전개통과 함께 초이스 더블 요금제, 단말 케어, 다양한 구매 혜택을 결합해 차별화된 디바이스 이용 경험을 제공하고 고객 만족도를 높여 나가겠다…",
+          "press": "e-science.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 11:28",
+          "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132908",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "15만명 늘린 SKT·23만명 잃은 KT…갤Z8이 반전 카드 될까",
+          "summary": "SK텔레콤은 폴드8의 4대3 화면 비율에 맞춰 넷플릭스 연계 요금제 및 프로모션을 기획했다. 플래그십 전용 T 멤버십인 '클럽 갤럭시 폴더블8'과 2년 후 기기 변경 시 OK캐쉬백을 지급하는 'New 갤럭시 AI 구…",
+          "press": "ebn.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 11:26",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719012",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "SKT, 갤럭시 Z 폴드8로 2040 잡았다⋯넷플릭스 혜택 통했다",
           "summary": "SKT는 8월 4일부터 9월 6일까지 T안심보상 with 민팃 프로그램을 통해 신형 폴더블을 구매하고 기존 중고폰을 반납하는 고객에게 모델과 상태에 따라 최대 100만원을 보상한다. 제휴카드 할인도 제공한다. T P…",
           "press": "autodaily.co.kr",
@@ -429,12 +737,34 @@
           "subgroup_label": ""
         },
         {
-          "title": "민팃, 갤럭시 Z8 출시에 중고폰 추가 보상",
-          "summary": "민팃이 갤럭시 Z8 시리즈 출시에 맞춰 중고폰 판매 고객에게 최대 5만원을 추가로 지급하는 '민팃 올 보상' 이벤트를 진행한다. 민팃은 다음 달 6일까지 민팃 ATM과 민팃 홈 서비스를 통해 중고폰을 판매한 고객에게…",
-          "press": "아이뉴스24",
+          "title": "옆커폰, 갤럭시 Z8 출시 맞춰 전국 매장 밀착 상담 서비스 운영",
+          "summary": "삼성전자 스마트폰 갤럭시 Z8 시리즈가 출시되면서 휴대폰 구매 조건을 비교하려는 소비자가 늘고 있는... 단순히 단말기 가격을 안내하는 수준을 넘어 이용 통신사, 요금제 설계, 번호이동 및 기기변경 등 가입 유형에.…",
+          "press": "businesskorea.co.kr",
           "date": "2026-08-04",
-          "datetime": "2026-08-04 10:58",
-          "link": "https://n.news.naver.com/mnews/article/031/0001047022?sid=101",
+          "datetime": "2026-08-04 11:10",
+          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274094",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, '갤Z8·AI'로 반등 시동…애플 폴더블과 진검승부",
+          "summary": "구매 혜택과 맞물려 자급제 구매자 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입했다. '에이전틱 AI' 중심의... 애플은 올가을 화면 주름과 내구성을 개선한 첫 폴더블 아이폰(가칭 아이폰 울트라)을 선보일…",
+          "press": "ebn.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 11:10",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719016",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "갤럭시 Z8 사전판매 144만대 '역대 최다'..폴드8 100만대 돌파",
+          "summary": "사전 판매 기간 삼성닷컴에서 자급제 제품을 산 고객 가운데 절반은 '뉴(New) 갤럭시 AI 구독클럽'에... 신제품은 별도 애플리케이션을 설치하지 않아도 QR코드를 통해 아이폰의 사진과 영상, 비밀번호, 통화 기록…",
+          "press": "4th.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 11:00",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2115760",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -446,6 +776,17 @@
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:58",
           "link": "https://n.news.naver.com/mnews/article/366/0001184178?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "민팃, 갤럭시 Z8 출시에 중고폰 추가 보상",
+          "summary": "민팃이 갤럭시 Z8 시리즈 출시에 맞춰 중고폰 판매 고객에게 최대 5만원을 추가로 지급하는 '민팃 올 보상' 이벤트를 진행한다. 민팃은 다음 달 6일까지 민팃 ATM과 민팃 홈 서비스를 통해 중고폰을 판매한 고객에게…",
+          "press": "아이뉴스24",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:58",
+          "link": "https://n.news.naver.com/mnews/article/031/0001047022?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -473,23 +814,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "통신3사, 갤럭시 Z 폴드8 시리즈 사전개통 시작",
-          "summary": "SK텔레콤은 넷플릭스 요금제 가입 고객에게 네이버페이 포인트를 지급하고 중고폰 반납 시 최대 100만원을 보상한다. KT는 넷플릭스와 유튜브 프리미엄, 디바이스 혜택을 결합한 '초이스 더블' 요금제를 확대하고 단말.…",
-          "press": "smartbizn.com",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 10:52",
-          "link": "https://www.smartbizn.com/news/articleView.html?idxno=150262",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "'갤럭시 Z8 시리즈' 개통 시작…사전판매 144만대 신기록, 폴더블 대중화...",
           "summary": "이에 맞춰 SK텔레콤·KT·LG유플러스는 OTT와 구독, 카드 할인, 중고폰 보상 등을 앞세운 고객 유치 경쟁에... 중고폰 보상 프로그램과 제휴카드 할인, 가족폰 나눠쓰기 서비스도 운영한다. KT는 OTT와 디바이…",
           "press": "youthdaily.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:52",
           "link": "https://www.youthdaily.co.kr/news/article.html?no=224434",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사, 갤럭시 Z 폴드8 시리즈 사전개통 시작",
+          "summary": "SK텔레콤은 넷플릭스 요금제 가입 고객에게 네이버페이 포인트를 지급하고 중고폰 반납 시 최대 100만원을 보상한다. KT는 넷플릭스와 유튜브 프리미엄, 디바이스 혜택을 결합한 '초이스 더블' 요금제를 확대하고 단말.…",
+          "press": "smartbizn.com",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:52",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=150262",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -583,23 +924,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 갤럭시 Z 폴드8 시리즈 개통 시작 … 2030 유입 늘며 폴더블 대세화",
-          "summary": "4일부터 9월 6일까지 'T안심보상with민팃' 프로그램을 통해 신규 단말을 사면서 기존 중고폰을 반납하면 모델과 상태에 따라 최대 100만원까지 보상받을 수 있다. 카드사 제휴 혜택도 다양하다. 'T PREMIUM…",
-          "press": "worktoday.co.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 10:18",
-          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87514",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "통신 3사, 갤럭시 Z 시리즈 사전예약 마무리…\"개통 실시\"",
           "summary": "LG유플러스는 온라인 전용 할인 쿠폰과 무이자 할부, 중고폰 추가 보상 등 다양한 구매 지원 프로그램이 고객의 단말 구매 부담을 줄이는 데 기여한 것으로 분석했다. LG유플러스는 앞으로도 고객이 최신 디바이스의...",
           "press": "megaeconomy.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:18",
           "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575602518424",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 갤럭시 Z 폴드8 시리즈 개통 시작 … 2030 유입 늘며 폴더블 대세화",
+          "summary": "4일부터 9월 6일까지 'T안심보상with민팃' 프로그램을 통해 신규 단말을 사면서 기존 중고폰을 반납하면 모델과 상태에 따라 최대 100만원까지 보상받을 수 있다. 카드사 제휴 혜택도 다양하다. 'T PREMIUM…",
+          "press": "worktoday.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:18",
+          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87514",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -616,23 +957,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "통신3사, 갤럭시 Z 폴드·플립8 개통 개시…폴더블 역대급 기록 쓸까",
-          "summary": "8월4일부터 9월6일까지 ‘T안심보상with민팃’ 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준)까지 …",
-          "press": "inthenews.co.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 10:14",
-          "link": "https://www.inthenews.co.kr/news/article.html?no=90121",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"플립보다 폴드\"…갤럭시 Z 폴드8, 대화면이 흥행 이끌었다",
           "summary": "이동통신3사도 단순한 공시지원금 경쟁에서 벗어나 온라인동영상서비스(OTT), 중고폰 보상, 장기 할부 등... 단말 구매 부담을 낮추기 위해 중고폰 보상도 강화했다. SK텔레콤은 9월 6일까지 기존 스마트폰의 모델과…",
           "press": "itdaily.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:14",
           "link": "https://www.itdaily.kr/news/articleView.html?idxno=240770",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사, 갤럭시 Z 폴드·플립8 개통 개시…폴더블 역대급 기록 쓸까",
+          "summary": "8월4일부터 9월6일까지 ‘T안심보상with민팃’ 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준)까지 …",
+          "press": "inthenews.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:14",
+          "link": "https://www.inthenews.co.kr/news/article.html?no=90121",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -649,23 +990,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "통신3사, 갤럭시Z8 사전개통..폴드8에 예약 몰려",
-          "summary": "LG유플러스는 온라인 전용 할인 쿠폰과 무이자 할부, 중고폰 추가 보상 등의 구매 지원 프로그램이 고사양 단말의 구매 부담을 줄인 것으로 분석했다. 갤럭시 Z 폴드8 울트라·폴드8·플립8의 256GB 모델 출고가는 …",
-          "press": "4th.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 10:10",
-          "link": "http://www.4th.kr/news/articleView.html?idxno=2115752",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SK텔레콤, 넷플릭스와 협력해 사전예약 고객 혜택 강화",
           "summary": "8월 4일부터 9월 6일까지 T안심보상with민팃을 통해 중고폰 반납 시 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준)까지 보상이 제공된다. 'T PREMIUM 삼성카드' 할부 결제 시 최대 96만원, '…",
           "press": "newsquest.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:10",
           "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=271034",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사, 갤럭시Z8 사전개통..폴드8에 예약 몰려",
+          "summary": "LG유플러스는 온라인 전용 할인 쿠폰과 무이자 할부, 중고폰 추가 보상 등의 구매 지원 프로그램이 고사양 단말의 구매 부담을 줄인 것으로 분석했다. 갤럭시 Z 폴드8 울트라·폴드8·플립8의 256GB 모델 출고가는 …",
+          "press": "4th.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:10",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2115752",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -693,12 +1034,56 @@
           "subgroup_label": ""
         },
         {
+          "title": "[기업들] SK인텔릭스 '웰니스 로봇'부터 KGM 글로벌 모빌리티 동맹까지...",
+          "summary": "LG유플러스 망을 사용하는 이번 요금제는 통신비 할인과 결제 쿠폰 혜택을 다년 간 제공하도록 설계됐다.... 토스모바일은 생활 밀착형 결제와 통신 서비스를 연계해 고객의 실질적인 가계 고정비 절감을 유도한다는...",
+          "press": "dailypop.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 09:10",
+          "link": "http://www.dailypop.kr/news/articleView.html?idxno=101200",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "칩플레이션에 판매 전략 바뀐다…삼성·애플, '구독·리스'로 수익 방어",
+          "summary": "실제로 애플은 아이폰과 맥 판매 호조에 힘입어 역대 최대 6월 분기(회계연도 3분기) 실적을 기록했음에도... ◆삼성, 국내 자급제 타깃 구독 클럽… 빠른 교체 수요 흡수 삼성전자 역시 국내 시장에서 자급제 단말 구…",
+          "press": "ftoday.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 08:46",
+          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=362991",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "7월 물가 2.8%, 석 달 만에 2%대…석유·농축수산물 상승 둔화",
+          "summary": "가계 지출 비중이 높은 품목들로 구성된 생활물가는 2.5% 상승해, 5월(3.3%)과 6월(3.4%)에 비해 둔화됐습니다.... 다만 지난해 8월 시행된 50% 통신비 할인 등에 따른 기저효과로 8월 물가는 일시적으…",
+          "press": "news.kbs.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 08:00",
+          "link": "https://n.news.naver.com/mnews/article/056/0012230743?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "데이터 안심옵션 넣고 도매대가 인하…알뜰폰 반격 카드 될까",
           "summary": "◆종량형 QoS 정책은 미정…풀 MVNO도 변수 데이터 안심옵션의 적용 범위와 비용도 변수다. 이통사가 설계한 수익배분형 요금제에는 안심옵션이 확대되지만 알뜰폰 사업자가 직접 설계하는 종량형 요금제(RM)에 대한..…",
           "press": "digitaltoday.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 06:26",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689285",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "월 100GB라면서 선물은 2GB만…통신사 '무늬만 공유데이터'",
+          "summary": "안정상 중앙대학교 커뮤니케이션대학원 겸임교수는 \"가계통신비 부담 완화를 위해서는 매월 사용하고 남은 잔여 데이터에 대해서는 내 마음대로 선물하거나 이월해 사용할 수 있는 선택권을 부여해야 한다\"고...",
+          "press": "IT조선",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 06:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167181",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -813,5 +1198,5 @@
       ]
     }
   ],
-  "total": 69
+  "total": 104
 }

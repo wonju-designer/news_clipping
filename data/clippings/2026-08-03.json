@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:46 소급 정리",
+  "generated_at": "2026-08-21 15:55 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -11,12 +11,111 @@
       "digest": "",
       "articles": [
         {
+          "title": "개인정보 유출 후폭풍… 통신 3사 희비 가른 7개월",
+          "summary": "이에 따라 저가 요금제를 유지했던 가입자의 요금제 변경 여부와 추가 번호이동 가능성이 하반기 시장의... 삼성전자 폴더블 신제품에 이어 애플 아이폰 신작 출시를 앞두고 번호이동 경쟁이 다시 치열해질 것이라는...",
+          "press": "newscj.com",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 23:48",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3422224",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 올해 번호이동 15.7만명 순증…KT는 23.3만명 순감",
+          "summary": "알뜰폰 사업자도 2만5588명 순증했다. 특히 1월 KT에서 SK텔레콤으로 이동한 가입자는 22만명을 넘은 것으로 집계됐다. SK텔레콤이 올해 기록한 누적 순증의 대부분이 KT 위약금 면제 기간에 발생한 셈이다. 1…",
+          "press": "디일렉",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 18:30",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=60491",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성 환급 효과… 비수기 뚫은 번호이동 시장",
+          "summary": "반면 KT는 3586명, 알뜰폰(MVNO)은 1895명 순감했다. 7월 전체 번호 이동은 지난 6월 64만 1932건을 기록했던 것에 비해 소폭 감소했지만, 예년보다 높은 수준을 유지하며 시장 열기가 이어졌다는 평가…",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 18:20",
+          "link": "https://n.news.naver.com/mnews/article/014/0005556646?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT·KT망 소액결제 없앤 LG헬로모바일…알뜰폰 '고객 차별' 논란",
+          "summary": "LG헬로비전의 알뜰폰 브랜드 헬로모바일이 SK텔레콤과 KT망을 이용하는 고객들의 휴대전화 소액결제 서비스 제공을 종료했다. 일각에서는 이번 행보를 알뜰폰 시장 내 경쟁력을 끌어올리고, 우위를 차지하기 위한...",
+          "press": "newsway.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 17:56",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026080316550818144",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "애플, AI 시리 유료화하나",
+          "summary": "차세대 시리도 일정 사용량을 초과하면 상위 iCloud+ 요금제 가입을 통해 추가 기능이나 더 많은 AI 사용량을... 간단한 요청은 아이폰 등 기기에서 직접 처리하지만, 복잡한 작업은 애플 서버와 클라우드 인프라를…",
+          "press": "todayeconomic.com",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 17:26",
+          "link": "https://www.todayeconomic.com/news/article.html?no=31588",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "단통법 폐지 1년…\"지원금 경쟁 대신 '고가폰·고가요금제' 구조만 강화...",
+          "summary": "뉴스토마토 = 이지은 기자 | 단말기유통법(단통법)이 폐지된 지 1년이 지났지만, 단말기 구매비용과 가계통신비 절감 효과는 제한적이었다는 평가가 나왔습니다. 이동통신사 간 전면적인 지원금 경쟁은 일어나지 않은...",
+          "press": "newstomato.com",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 16:56",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1309073&inflow=N",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'단통법 폐지 1년' 휴대폰 번호이동 2.5% 증가 그쳐",
+          "summary": "그마저도 통신사 침해사고에 따른 일회성 이동이 대부분을 차지해 지원금 경쟁 촉진으로 가계통신비를 낮추겠다는 입법 취지가 무색해졌다. 실질적 시장 경쟁 활성화를 위해서는 단말기 자급제 등 제도적 보완이...",
+          "press": "전자신문",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 16:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003453763?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "번호이동 2개월 연속 60만건 돌파…SKT 가입자 순증 1위",
+          "summary": "알뜰폰도 1895명의 고객이 유출됐다. 개인정보 유출 사고 여파로 KT를 이탈한 고객을 SKT와 LG유플러스가 상당 부분 흡수한 것으로 풀이된다. 업계에서는 이달부터 번호이동 시장이 요동칠 가능성이 클 것으로 본다.…",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 13:50",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689277",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[더벨][i-point] 아이즈비전 \"과기부 알뜰폰 2.0 정책 수혜 기대\"",
           "summary": "가격 측면에서 과기정통부는 이통3사 신규 요금제의 도매제공 확대, 5G 도매대가 인하(약 15종 1~3%p) 등을 통해 업계 전체적으로 연간 약 250억원 규모의 비용 절감 효과를 기대한다고 밝혔다. 이는 알뜰폰 사…",
           "press": "thebell.co.kr",
           "date": "2026-08-03",
           "datetime": "2026-08-03 13:32",
           "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608031249160240108915",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[ASIA BIZ] '아이폰 왕국' 日, 폴더블 갤럭시에 들썩…통신 4사 첫 총출동",
+          "summary": "애플이 압도적 우위를 점한 일본 시장에서 통신 4사를 한 자리에 불러 모은 제품은 뜻밖에도 아이폰이... 외부에서도 동영상을 자주 보게 되면 데이터 사용량이 늘고, 자연스럽게 무제한 요금제를 선택할 가능성도...",
+          "press": "아주경제",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 12:02",
+          "link": "https://www.ajunews.com/view/20260802123200134",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -44,6 +143,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "'삼성 20% 환급 막차' 탄 소비자들…지난달 번호이동 64만명",
+          "summary": "SKT·LGU+ 웃고 KT·알뜰폰 울었다…중순 이후엔 '숨고르기' 이동통신사별 성적표는 엇갈렸다. 지난달 SK텔레콤과 LG유플러스는 각각 3887명, 1594명의 고객이 순유입됐다. 반면 KT와 알뜰폰(MVNO)은 …",
+          "press": "뉴시스",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 11:14",
+          "link": "https://n.news.naver.com/mnews/article/003/0014104512?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "7월 번호이동 63만건…갤럭시Z8 출시 앞두고 숨 고르기",
           "summary": "정부는 도매대가 인하와 전파사용료 감면을 통해 요금 인하 여력을 확보하는 한편, 자체 설비를 갖춘 부분 MVNO와 독립형 알뜰폰(풀MVNO)이 시장에 진입할 수 있도록 제도 기반을 마련하기로 했다.",
           "press": "디지털데일리",
@@ -66,12 +176,45 @@
           "subgroup_label": ""
         },
         {
+          "title": "갤폴드8 앞두고 7월 번호이동 숨 고르기…SKT·LGU+ 순증",
+          "summary": "알뜰폰(MVNO)은 6월에 이어 지난달에도 순감세를 이어갔지만 이탈 폭은 크게 줄었다. 3일... 반면 KT 가입자는 3586명, 알뜰폰(MVNO) 1895명 순감했다. 사업자별 번호이동 실적을 보면 SK텔레콤으로 …",
+          "press": "뉴스1",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 09:57",
+          "link": "https://n.news.naver.com/mnews/article/421/0009093380?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "메트로신문 8월 3일자 한줄뉴스",
+          "summary": "▲ 이동통신 3사가 여름 휴가철을 맞아 8월 한 달간 고객 혜택을 대폭 확대한다. 가계 통신비 부담을 완화하기 위한 요금제 신규 가입 프로모션도 실시한다. /유혜온 기자",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 07:00",
+          "link": "http://www.metroseoul.co.kr/article/20260802500198",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "풀MVNO 수백억 투자 문턱 낮춘다, 정부가 꺼낸 'MVNE' [IT백과]",
           "summary": "통신 인프라를 구축한 사업자가 이를 여러 알뜰폰 사업자에게 재제공할 수 있도록 제도화해, 풀 MVNO 육성의 가장 큰 걸림돌로 꼽혀온 설비투자 부담을 낮추겠다는 것이 핵심이다. 관건은 투자 유인을 만들 수...",
           "press": "디지털데일리",
           "date": "2026-08-03",
           "datetime": "2026-08-03 05:00",
           "link": "https://n.news.naver.com/mnews/article/138/0002236292?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "결합할인 얇고 넓게… 이통3사 혜택 개편",
+          "summary": "인터넷 커뮤니티에서는 \"알뜰폰보다 비싸도 부모·자녀를 생각해 SKT를 썼는데 장점이 사라졌다\" \"혜택에 따라 통신사를 갈아타는 '메뚜기족'으로 살겠다\" 등의 반응이 보인다. SKT는 1~2인가구가 늘어나는 인구구조의…",
+          "press": "머니투데이",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 04:11",
+          "link": "https://n.news.naver.com/mnews/article/008/0005394527?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -275,5 +418,5 @@
       ]
     }
   ],
-  "total": 20
+  "total": 33
 }

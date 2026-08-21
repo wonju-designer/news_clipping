@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:46 소급 정리",
+  "generated_at": "2026-08-21 15:55 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -11,12 +11,78 @@
       "digest": "",
       "articles": [
         {
+          "title": "\"30대에 집도 샀는데\"...월 690만원 맞벌이, 남는 건 20만원뿐 [머니설계...",
+          "summary": "하지만 어렵게 집을 구했다고 가계의 모든 걱정이 끝나는 것은 아니다. 집은 자산으로 남지만 주택담보대출... 주택담보대출 원리금처럼 당장 줄이기 어려운 비용과 보험료·통신비·자동차 비용처럼 조정 가능한 항목...",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 15:00",
+          "link": "https://n.news.naver.com/mnews/article/014/0005558836?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성, 7년 만 신기록…'폴더블 대중화' 성큼",
+          "summary": "삼성닷컴 자급제 사전 구매 고객 2명 중 1명이 'New 갤럭시 AI 구독클럽'에 가입. 더블 스토리지 혜택과 최대 50% 잔존가 보장 프로그램이 높은 호응을 얻은 것으로 집계. 스마트 스위치·퀵 셰어·삼성 월렛 등…",
+          "press": "news.bizwatch.co.kr",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 15:00",
+          "link": "https://n.news.naver.com/mnews/article/648/0000049644?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "갤럭시 폴드8 시리즈 정식 출시…민팃 \"중고폰 팔면 최대 5만원 더\"",
           "summary": "신제품 출시에 맞춰 중고폰 유통업계도 교체 수요를 겨냥한 이벤트에 나섰다. ICT 리사이클 기업 민팃은 민팃 ATM과 민팃 홈 서비스로 중고폰을 판매하는 고객을 대상으로 평가금액 외 추가금액을 얹어주는 '민팃 올..…",
           "press": "econovill.com",
           "date": "2026-08-08",
           "datetime": "2026-08-08 14:40",
           "link": "https://www.econovill.com/news/articleView.html?idxno=747477",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신리뷰] KT, AI 기반 실시간 스팸차단 서비스…전 고객 확대 적용(8월...",
+          "summary": "KT알뜰폰 포함 전 고객을 대상으로 AI 스팸차단 기능을 확대 적용했다. 스팸차단 서비스는 KT 고객이라면... ◇SKT, 순천향대와 'AI 그림일기'로 교육 현장 AX 이끌고 미래 인재 육성 나선다 SK텔레콤(SK…",
+          "press": "theguru.co.kr",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 07:56",
+          "link": "https://www.theguru.co.kr/news/article.html?no=105549",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[와이파이] 8월 2주, 알뜰폰 OTT·외식 혜택…LGU+ 외 2가지 통신 서비스",
+          "summary": "LG유플러스는 알뜰폰 이용자를 위한 전용 혜택을 선보이고 KT는 외국인 이용자를 대상으로 인터넷 할인 프로그램을 도입한다. LG헬로비전은 교보문고와 손잡고 도서 혜택을 결합한 요금제를 마련했다. ◇LGU+, 알뜰폰.…",
+          "press": "shinailbo.co.kr",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 07:00",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049136",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[PLAY IT] ‘루이? 위!’ 불어 번역 시켜보니…번역은 ‘글쎄’",
+          "summary": "갤럭시 생태계와의 연동은 삼성의 강점이지만, 현재로서는 두 세대에 걸쳐 제품을 다듬은 메타가 하드웨어... SK텔레콤의 ‘베스트 109’, ‘베스트 Pro’, ‘베스트 Max’ 요금제 가입자는 선택 혜택으로 스마트기…",
+          "press": "디지털데일리",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 06:01",
+          "link": "https://n.news.naver.com/mnews/article/138/0002237083?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스마트폰 배터리 유난히 빨리 닳는 분, 5가지 해결 방법",
+          "summary": "갤럭시 스마트폰의 ‘배터리 보호’ 기능을 활용해 충전 제한을 80~90%로 설정하거나 ‘수면 중 배터리 보호’를 켜두면 배터리 노화를 방지할 수 있습니다. 5G 요금제를 쓰더라도 네트워크 설정을 ‘LTE 우선모드’로…",
+          "press": "조선일보",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 05:31",
+          "link": "https://n.news.naver.com/mnews/article/023/0003991931?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -119,5 +185,5 @@
       ]
     }
   ],
-  "total": 6
+  "total": 12
 }

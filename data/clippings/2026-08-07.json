@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:46 소급 정리",
+  "generated_at": "2026-08-21 15:55 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -11,12 +11,67 @@
       "digest": "",
       "articles": [
         {
+          "title": "통신 3사, AIDC로 실적 개선…남은 과제는 ‘수익성’",
+          "summary": "◇ SKT “일회성 아냐\"…AIDC 성장 본궤도 SK텔레콤은 2분기 연결 기준 매출 4조3591억원, 영업이익... 국내 5G 가입률이 80%를 넘어서면서 신규 가입자 확보를 통한 성장은 둔화했고, 알뜰폰(MVNO)…",
+          "press": "ekn.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 19:28",
+          "link": "https://www.ekn.kr/web/view.php?key=20260807026050597",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "대박난 '갤럭시 Z8' 시리즈 국내 공식 출격",
+          "summary": "자급제 사전 구매 고객 2명 중 1명이 'New 갤럭시 AI 구독클럽'에 가입하고 QR 코드 기반 스마트 스위치와 삼성 월렛 등의 편의 기능이 호평받은 점도 흥행을 견인했다. 갤럭시 Z 폴드8 시리즈의 다양한 커스터…",
+          "press": "00news.co.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 17:18",
+          "link": "http://www.00news.co.kr/news/articleView.html?idxno=105726",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "갤럭시 워치9·울트라2, 이통3사 지원금 비교해보니",
+          "summary": "이동통신 3사가 7일부터 삼성전자 갤럭시 워치9·울트라2 셀룰러 모델을 판매, 스마트 기기 요금제(월 1만원 초반) 가입자에게 기기 값의 최대 절반을 지원한다. 만약 핸드폰 중·고가 요금제를 사용하고, 워치도...",
+          "press": "지디넷코리아",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 17:16",
+          "link": "https://n.news.naver.com/mnews/article/092/0002433363?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리 시그널] 스타링크 2분기 실적 '파란불', 갤럭시 Z8 공식 출시",
+          "summary": "다이렉트 요금 할인, 휴대폰 할인 쿠폰, 카드 무이자 할부 및 캐시백 등을 제공하며, 갤럭시 Z8 시리즈에 적정한 요금제로 '초이스 더블 유튜브 프리미엄+넷플릭스' 요금제를 함께 제안했다. LG유플러스는 최대...",
+          "press": "itdaily.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 16:46",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=240867",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "애플, 日서 아이폰 가격 올리자 중고폰 주문량 2배 껑충… 리퍼폰 패널...",
           "summary": "중고폰 시장 확대는 일본만의 현상이 아니다. 국내에서도 개인 중고폰 거래는 꾸준히 늘고 있다. 정보통신정책연구원(KISDI)에 따르면 국내 개인 중고폰 거래 규모는 2023년 620만대에서 2025년 681만대로 증…",
           "press": "조선비즈",
           "date": "2026-08-07",
           "datetime": "2026-08-07 15:33",
           "link": "https://n.news.naver.com/mnews/article/366/0001184948?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG헬로비전 지역 연계사업 줄이고 방송·인터넷 본업 '선택과 집중', 송...",
+          "summary": "송 대표는 그동안 케이블TV와 알뜰폰 등 기존 사업의 성장 정체를 보완하기 위해 지역 커머스와 디지털교육... LG유플러스 기가인터넷망을 활용한 초고속·기가인터넷 상품을 기반으로 기존 방송 가입자를 인터넷...",
+          "press": "businesspost.co.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 15:22",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444218",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -33,6 +88,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "144만대 신기록 세운 삼성 폴더블…'울트라' 추가로 프리미엄 라인업 넓...",
+          "summary": "실제 삼성닷컴에서 갤럭시 Z 폴드8 울트라·폴드8·플립8 자급제 모델을 사전 구매한 고객 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입한 것으로 나타났다. 데이터 이동 편의성을 높인 스마트 스위치, iOS와…",
+          "press": "dailypop.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 13:46",
+          "link": "http://www.dailypop.kr/news/articleView.html?idxno=101355",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[통신 풍향계] KT '무더위 쉼터' 운영-'AI 실시간 스팸차단' 확대-'AIDC 인...",
           "summary": "셀로 중고폰 판매 신청 91% 증가, 프라이빗에이아이와 KT의 판교 AI 연구센터 출범 등의 소식이 전해졌다.... ◆미디어로그, '셀로' 중고폰 판매 신청 91% 증가 미디어로그 셀로의 중고폰 판매 신청이 91% …",
           "press": "newsworks.co.kr",
@@ -44,12 +110,34 @@
           "subgroup_label": ""
         },
         {
+          "title": "토뱅·카뱅 ‘플랫폼 전쟁’… 대출규제 탓 비이자 부문 강화",
+          "summary": "인터넷전문은행들이 가계대출 규제 장기화에 대응해 성장 전략을 바꾸고 있다. 주택담보대출 중심의 외형... 통신비 절감과 자산관리 서비스를 하나의 앱에서 제공해 고객 체류시간과 이용 빈도를 높이고, 비금융 제휴...",
+          "press": "munhwa.com",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 11:53",
+          "link": "https://n.news.naver.com/mnews/article/021/0002809926?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "LG유플러스, 2분기 최대 영업익 달성…AIDC 등 '플러스' 사업 비중 확대",
           "summary": "전체 가입 회선이 전년 동기 대비 5.2% 성장한 3146만7000여개로, MNO와 알뜰폰인 MVNO를 각각 7.2%, 0.4% 늘렸다. 지난 5월 가입 및 이용을 단순화하는 '심플리 2.0'을 통해 편의성을 높이고…",
           "press": "electimes.com",
           "date": "2026-08-07",
           "datetime": "2026-08-07 11:44",
           "link": "https://www.electimes.com/news/articleView.html?idxno=371099",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[재계는 지금] LG 엑사원, 세계 최고 수준 기술력 입증 外",
+          "summary": "◆KT, ‘무더위 쉼터’ 운영 KT가 서울·부산·대전 등 전국 KT 매장 410곳을 무더위 쉼터로 운영하고 있다.... 헬로모바일은 이번 제휴로 알뜰폰 이용자들의 일상 속 체감혜택을 한층 높인다는 계획이다. 가입..…",
+          "press": "dealsite.co.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 11:42",
+          "link": "https://dealsite.co.kr/articles/166780",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -154,12 +242,67 @@
           "subgroup_label": ""
         },
         {
+          "title": "삼성전자 '갤럭시 Z8 시리즈' 7일 국내 출시",
+          "summary": "삼성닷컴에서 자급제 모델을 사전 구매한 고객 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입했다. '갤럭시 워치 울트라2'와 '갤럭시 워치9'의 사전 판매량도 전작의 같은 기간보다 각각 두 자릿수 증가했다. …",
+          "press": "datasom.co.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 09:14",
+          "link": "https://www.datasom.co.kr/news/articleView.html?idxno=209409",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, AI 스팸차단 전 고객으로 확대…스팸 차단 건수 3.5% 증가",
+          "summary": "KT는 단계적 운영을 통해 서비스 안정성을 확보한 뒤 지난달 29일부터 기존 '(안심)스팸차단 서비스(이하 스팸차단 서비스)'에 KT알뜰폰을 포함한 전 고객을 대상으로 AI 스팸차단 기능을 확대 적용했다. 스팸차단.…",
+          "press": "thepublic.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 08:52",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=314072",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, '갤럭시 Z8·워치9' 7일 국내 공식 출시",
+          "summary": "이 밖에도 삼성닷컴에서 자급제 모델을 사전 구매한 고객 2명 중 1명이 'New 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐다. '갤럭시 워치 울트라2·워치9'도 사전 판매에서 전작 대비 각각 두 자릿수 성장을 기…",
+          "press": "thepublic.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 08:52",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=314018",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "애플, 美 아이폰 보상판매 확대…교체 수요 띄우기[모닝폰]",
           "summary": "얀 스트리약 카운터포인트 리서치 부디렉터는 최근 보고서에서 “전세계 중고폰 시장에서 보상판매 가격과 평균판매단가의 의미가 점점 커지고 있다”며 “특히 프리미엄 모델의 보상판매가격은 꾸준한...",
           "press": "이데일리",
           "date": "2026-08-07",
           "datetime": "2026-08-07 08:34",
           "link": "https://n.news.naver.com/mnews/article/018/0006346601?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "‘AI 기업’ 변신 선언한 통신사들… 성장 정체 돌파구 찾았다",
+          "summary": "SKT·LG유플 2분기 실적 급성장 가입자·요금제 중심 한계 벗어나 전사적 AX 통해 성장동력 확보 SKT 영업익... 알뜰폰 시장 확대와 중저가 요금제 확산, 초고속인터넷·인터넷TV(IPTV) 시장의 성숙도 성장 …",
+          "press": "세계일보",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 06:02",
+          "link": "https://n.news.naver.com/mnews/article/022/0004149083?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "단통법 폐지 1년… 지원금은 그대로, 단말기 값만 올라",
+          "summary": "정부와 국회가 가계통신비를 낮추겠다며 폐지한 이동통신단말장치 유통구조 개선에 관한 법률(단통법)이 시행 1년을 맞았지만 시장은 크게 달라지지 않았다. 통신사들은 여전히 고가 요금제 중심의 지원금 정책을...",
+          "press": "IT조선",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 06:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167445",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -235,23 +378,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "헬로모바일, '교보문고 요금제' 6종 출시",
-          "summary": "김예현 LG헬로비전 모바일사업담당은 \"자기계발과 독서 라이프를 즐기는 알뜰폰 고객을 위해 교보문고와 제휴 요금제를 제공하게 됐다\"며 \"앞으로도 생활밀착 제휴를 지속 확대해 통신을 넘어 라이프스타일 전반에서...",
-          "press": "datanet.co.kr",
-          "date": "2026-08-07",
-          "datetime": "2026-08-07 13:40",
-          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=213626",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"전자책 무한 제공\"…LG헬로비전 헬로모바일, 2040 겨냥 '교보문고 요금...",
           "summary": "LG헬로비전의 알뜰폰 사업 부문 헬로모바일은 교보문고와 손잡고, 매월 9900원 상당의 혜택을 제공하는 '교보문고 유심·휴대폰 요금제' 6종을 출시했다고 7일 밝혔다. 알뜰폰 핵심 소비층인 2040 세대를 중심으로 …",
           "press": "financialpost.co.kr",
           "date": "2026-08-07",
           "datetime": "2026-08-07 13:40",
           "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269544",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "헬로모바일, '교보문고 요금제' 6종 출시",
+          "summary": "김예현 LG헬로비전 모바일사업담당은 \"자기계발과 독서 라이프를 즐기는 알뜰폰 고객을 위해 교보문고와 제휴 요금제를 제공하게 됐다\"며 \"앞으로도 생활밀착 제휴를 지속 확대해 통신을 넘어 라이프스타일 전반에서...",
+          "press": "datanet.co.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 13:40",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=213626",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -659,5 +802,5 @@
       ]
     }
   ],
-  "total": 55
+  "total": 68
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:46 소급 정리",
+  "generated_at": "2026-08-21 15:55 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -11,12 +11,45 @@
       "digest": "",
       "articles": [
         {
+          "title": "[통신 브리핑] SK텔레콤·KT·LG유플러스",
+          "summary": "AI 데이터센터(DC) 사업은 SKT 사업 영역 중 가장 빠르게 성장하고 있다. 2분기 AI DC 매출은 전년 동기 대비... [사진 = LG유플러스 제공] ◇ LG유플러스, 알뜰폰 전용 혜택 프로그램 '알닷클럽' …",
+          "press": "niceeconomy.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 17:32",
+          "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90430",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 2분기 영업익 67.3% 급증…AI 데이터센터 92.5% 성장 견인",
+          "summary": "알뜰폰(MVNO)을 제외한 가입자당평균매출(ARPU) 역시 2만9098원으로 전 분기(2만9103원)와 비슷한 수준을 유지했다. 다만 휴대전화 가입자는 전 분기 대비 1만2000명 늘어난 2197만명을 기록하며 2개…",
+          "press": "the-pr.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 17:30",
+          "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62167",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[기획] 알뜰폰 '안심옵션' 적용…실효성은 '글쎄'",
           "summary": "자본력을 갖춘 통신 3사의 자회사와 금융계열 알뜰폰사업자가 시장을 장악할 가능성을 제기하며, 중소 사업자 전용 도매대가 우대나 통신 자회사 합산 점유율을 최대 50%로 제한하는 등 실질적인 지원책이 마련되지...",
           "press": "kfenews.co.kr",
           "date": "2026-08-05",
           "datetime": "2026-08-05 17:26",
           "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661935",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "2년 만에 '1조 클럽' 복귀한 SKT…'AI데이터센터' 캐시카우로 우뚝",
+          "summary": "대표 무선 수익성 지표인 가입자당평균매출(ARPU) 역시 2분기 2만9098원(알뜰폰 제외)으로, 지난해와 유사한 수준에 그쳤다. 최민하 삼성증권 연구원은 \"단순 DC 사업자가 아닌 AIDC 개발 주체로 사업모델을 …",
+          "press": "asiatoday.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 17:06",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260805010001684",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -33,12 +66,78 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT, 캐릭터 IP로 오프라인 경험 넓힌다…미니브×민트라온 팝업스토어 ...",
+          "summary": "현장에서는 갤럭시 Z 폴드8 울트라·폴드8·플립8도 함께 전시해 디자인과 주요 기능을 직접 경험할 수... 통신시장의 경쟁은 요금제와 단말기에서 콘텐츠와 브랜드 경험으로 빠르게 확대되고 있다. 캐릭터 IP와 팬덤..…",
+          "press": "e-science.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 16:16",
+          "link": "https://www.e-science.co.kr/news/articleView.html?idxno=133025",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "폴드8 신기록에 실속까지…\"폴더블, 팔린 대수보다 두 배 번다\"",
+          "summary": "사전 판매 기간 삼성닷컴에서 자급제 모델을 산 고객 2명 중 1명이 구독클럽에 가입한 것으로 집계됐다. IT팁스터 아이스유니버스는 애플이 올해 가을 신제품 발표 행사에서 폴더블폰 '아이폰 울트라'를 공개할...",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 16:00",
+          "link": "http://www.metroseoul.co.kr/article/20260805500445",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“아이브 캐릭터 ‘미니브’ 홍대 떴다”…KT, 굿즈 팝업스토어 개장",
+          "summary": "MD는 팬덤이나 브랜드 고객을 겨냥해 제작한 기획 상품을 뜻하며, 최근 통신사들도 단말·요금제 혜택과... 홍대 애드샵 플러스에는 최근 출시된 갤럭시 Z 폴드8 울트라·폴드8·플립8도 함께 전시된다. 고객은 새...",
+          "press": "sentv.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 15:02",
+          "link": "https://www.sentv.co.kr/article/view/sentv202608050133",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "4개월째 번호이동 순감…'알뜰폰 2.0' 통할까",
           "summary": "또한 통신사 간 가성비 요금제 출시 경쟁이 치열해 점유율 확대가 쉽지 않은 구조다. 하창직 한국알뜰폰통신사업자협회 사무국장은 \"망 도매대가 산정의 경우 알뜰폰 사업자의 수익성에 중요한 영향을 미치는 만큼...",
           "press": "metroseoul.co.kr",
           "date": "2026-08-05",
           "datetime": "2026-08-05 13:54",
           "link": "http://www.metroseoul.co.kr/article/20260805500293",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[경제소식] DB손보 '프로미119 안전리더캠프' 성료",
+          "summary": "NH올원뱅크는 '고향사랑기부제', '국립공원 시설예약', '알뜰폰 요금제', '자원봉사' 등 생활 서비스를... 행사 대상 카드는 'LG U+ 스마트플랜 Plus 신한카드', 'KT 가족만족 할부 신한카드', 'SK…",
+          "press": "4th.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 12:28",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2115839",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT 영업이익 67.3% 증가… 유심 정보 유출 여파 벗었다",
+          "summary": "그러나 KT의 불법 펨토세 해킹 사고 및 갤럭시 S26 출시 마케팅 등을 통해 1분기 순증 20만8000명을 기록했으며 이후에도 이용자 수를 회복하고 있다. SKT는 7월 5G·LTE 통합 요금제를 출시하며 전반적인…",
+          "press": "m.skyedaily.com",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 12:20",
+          "link": "https://m.skyedaily.com/news_view.html?ID=309226",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 이동통신 소식_LG유플러스, KT, SK텔레콤(8.5)",
+          "summary": "현재 알닷은 누적 회원 60만 명을 돌파한 알뜰폰 통합 플랫폼으로, 1000개 이상의 요금제 비교와 셀프... 팝업 현장에서는 최근 출시된 갤럭시 Z 폴드8 울트라, 갤럭시 Z 폴드8, 갤럭시 Z 플립8도 함께 전시…",
+          "press": "weeklytoday.com",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 11:54",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=788970",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -55,12 +154,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "[프롭테크 뉴스브리핑] 빅밸류, 515만 데이터 AI에 개방…GEO 전략 본격화",
-          "summary": "올해 심사에서는 에스케이텔레콤, 공무원연금공단, 씨제이이엔엠 등 국내 대표 대기업과 공공기관도 잇따라 인증을 획득했다. 이번 인증의 토대는 창사 이래 이어온 무사고 운영 이력이다. 이제이엠컴퍼니는...",
-          "press": "asiatime.co.kr",
+          "title": "[SV 금융 단신] NH농협은행, 지자체 연계 ‘고향사랑기부’ 간편화 外",
+          "summary": "대상으로 갤럭시 Z 폴더블 8 시리즈 캐시백 행사를 진행한다. ◇ NH농협은행, 올원뱅크서 고향사랑기부... NH올원뱅크는 고향사랑기부제 외에도 국립공원 시설 예약, 알뜰폰 요금제, 자원봉사 등 생활 서비스를...",
+          "press": "socialvalue.kr",
           "date": "2026-08-05",
-          "datetime": "2026-08-05 10:52",
-          "link": "https://www.asiatime.co.kr/article/20260805500042",
+          "datetime": "2026-08-05 11:12",
+          "link": "https://www.socialvalue.kr/news/view/1065578920676261",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -77,12 +176,67 @@
           "subgroup_label": ""
         },
         {
+          "title": "[통신] KT 갤럭시 Z8 개통 / KT·연세의료원 의료 AI 협력",
+          "summary": "◼︎ KT, 갤럭시 Z8 시리즈 사전 개통 시작 KT는 전국 매장과 온라인몰 KT 다이렉트샵에서 삼성전자 '갤럭시 Z... KT는 새 단말기 출시에 맞춰 온라인동영상서비스와 기기 할인 혜택을 결합한 '초이스 더블' …",
+          "press": "webeconomy.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 09:46",
+          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2256537",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "해킹 비용 털어낸 SKT, 2분기 영업익 67% ↑…AI 데이터센터 매출 92.5% 급...",
+          "summary": "알뜰폰을 제외한 가입자당평균매출(ARPU)은 2만9098원으로 전년 동기보다 0.1% 증가했다. 전 분기 2만9103원과 비교하면 사실상 제자리걸음 수준이다. 휴대전화 가입자는 2197만명으로 전년 동기 대비 1만4…",
+          "press": "뉴시스",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 09:38",
+          "link": "https://n.news.naver.com/mnews/article/003/0014108933?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "가입자 잃은 KT, 하반기 회복 시동…보상 종료·신작 효과 주목",
+          "summary": "저가 요금제로 이동하면서 무선 서비스 매출은 전년 대비 1.6% 감소한 1조6800억원을 기록하며 전 분기... 삼성전자의 신형 폴더블폰 '갤럭시 Z8 시리즈'는 현재 사전예약이 진행 중이다. 애플 역시 오는 9월 …",
+          "press": "thebigdata.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 09:02",
+          "link": "http://www.thebigdata.co.kr/view.php?ud=2026080415313120840a47484cf8_23",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "비수기 뚫고 번호이동 60만 건… 갤Z8·아이폰 출격에 경쟁 격화 예고",
+          "summary": "◆엇갈린 이통 3사 성적표… SKT 순증 1위, KT는 이탈 가속화 지난달 통신사별 성적표는 엇갈렸다. SK텔레콤과... ◆알뜰폰, '데이터 안심옵션' 도매 제공으로 대응 및 반격 나서 이통3사의 프로모션과 요금제 …",
+          "press": "ftoday.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 08:28",
+          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363048",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "'단통법 폐지 1년' 성장 멈춘 알뜰폰, 생존 활로 '모색'[NW리포트]",
           "summary": "일부 5G 요금제의 도매대가도 인하한다. 중소 알뜰폰 사업자의 전파사용료 감면율도 기존 50%에서 90%로 확대해 업계의 비용 부담을 줄일 계획이다. 또 단말과 가입 절차도 개선한다. 중고폰 안심거래 인증제를 활성화…",
           "press": "newsway.co.kr",
           "date": "2026-08-05",
           "datetime": "2026-08-05 07:26",
           "link": "https://www.newsway.co.kr/news/view?ud=2026080417203287741",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, 갤럭시 자급제 전용 요금제 출시…최대 60만원 혜택 제공",
+          "summary": "이번 요금제의 핵심은 자급제 갤럭시 스마트폰을 등록한 구매자에게 요금제에 따라 매월 최대 2만5000 삼성월렛 포인트를 24개월간 제공한다는 점이다. 구매자는 총 60만원 상당의 혜택을 단말 구매 시점뿐 아니라 이용…",
+          "press": "bizwnews.com",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 04:34",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=142403",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -251,5 +405,5 @@
       ]
     }
   ],
-  "total": 18
+  "total": 32
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:46 소급 정리",
+  "generated_at": "2026-08-21 15:55 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -28,6 +28,83 @@
           "date": "2026-08-06",
           "datetime": "2026-08-06 20:00",
           "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363160",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 실시간 스팸 차단 기능 전체 가입자로 적용",
+          "summary": "KT가 실시간 스팸 차단 기능을 알뜰폰 포함 전체 가입자에게 적용했다고 6일 밝혔다. 해당 기능은 변형 키워드와 신종 스팸 문자를 실시간으로 분석·차단한다. 지난 1월 일부 가입자 대상 시범 가동을 거쳐 지난달...",
+          "press": "polinews.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 19:00",
+          "link": "https://www.polinews.co.kr/news/articleView.html?idxno=739336",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, AI 실시간 스팸차단 전 고객 확대…변형 스팸도 잡는다",
+          "summary": "KT가 AI 기반 실시간 스팸차단 서비스를 KT와 KT알뜰폰 전 고객으로 확대했다. KT는 ‘AI 기반 실시간 스팸차단 서비스’를 전 고객 대상으로 확대 적용했다고 6일 밝혔다. 최근 스팸은 패턴의 주기가 점점 짧아…",
+          "press": "dailian.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 18:54",
+          "link": "https://n.news.naver.com/mnews/article/119/0003119195?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "부모님에게만 연 1천만원…'자식된 도리'에 잃어버린 인영씨의 꿈 [재테...",
+          "summary": "지출구조 = 먼저 인영씨의 가계부를 살펴보자. 인영씨는 320만원을 월급으로 받고 있다. 연간 상여금은 800만원이다. 소비성지출로는 통신비 명목(휴대전화+인터넷+OTT 등)으로 9만원, 식비 40만원, 용돈 30만…",
+          "press": "thescoop.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 18:44",
+          "link": "https://n.news.naver.com/mnews/article/665/0000007895?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "사전판매 대박난 갤Z8… 흥행 이어간다",
+          "summary": "삼성닷컴에서 자급제 모델을 사전구매한 고객 가운데 절반은 '뉴 갤럭시 인공지능(AI) 구독클럽'에 가입한 것으로 나타났다. 스마트 스위치와 퀵 셰어를 통해 iOS 기기와의 데이터 이전·공유 편의성을 높이고...",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 18:11",
+          "link": "https://n.news.naver.com/mnews/article/014/0005558306?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 'AI 기반 실시간 스팸차단 서비스' 전 고객 확대 적용",
+          "summary": "[KT]  KT가 신종 및 변형 스팸 문자에 대응하기 위해 개발한 'AI 기반 실시간 스팸차단 서비스'를 알뜰폰 사용자를 포함한 전 고객 대상으로 확대 적용했다고 6일 밝혔다. 최근 스팸 문자는 특수문자를 섞거나 패…",
+          "press": "ziksir.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 17:28",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=142371",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[비즈&] 삼성 갤럭시 Z 폴드8·플립8 내일 공식 출시 外",
+          "summary": "▶ KT, AI 실시간 스팸차단 서비스 전 고객 확대 KT가 AI 기반 실시간 스팸 차단 서비스를 KT 알뜰폰 이용자를 포함한 모든 고객으로 확대 적용했습니다. 이 서비스는 KT가 자체 개발한 것으로, 신규 변종 스…",
+          "press": "연합뉴스TV",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 17:28",
+          "link": "https://n.news.naver.com/mnews/article/422/0000893120?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, AI 스팸차단 전 고객 확대... 변형 스팸까지 실시간 탐지",
+          "summary": "KT는 자체 개발한 'AI 기반 실시간 스팸차단' 기능을 기존 스팸차단 서비스에 적용해 KT와 KT알뜰폰 이용자를 포함한 전 고객에게 제공한다고 6일 밝혔다. AI 스팸차단은 AI가 신규·변형 스팸의 패턴을 실시간으…",
+          "press": "thefirstmedia.net",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 17:26",
+          "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205518",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -66,12 +143,56 @@
           "subgroup_label": ""
         },
         {
+          "title": "[재계는 지금] 삼성전자, 갤럭시Z 폴드8 울트라·폴드8·플립8 국내 공식...",
+          "summary": "◆KT, AI 기반 실시간 스팸차단 서비스 전 고객 무료 확대 적용 KT가 자체 개발한 'AI 기반 실시간 스팸차단 서비스'를 알뜰폰 포함 전 고객을 대상으로 무료 확대 적용했다. 지난 1월 개발된 이 서비스는 80…",
+          "press": "dealsite.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 16:38",
+          "link": "https://dealsite.co.kr/articles/166683",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"사전판매 144만대 흥행 잇는다\"… 삼성전자, 갤럭시 Z8 국내 공식 출시",
+          "summary": "삼성닷컴에서 갤럭시 Z 신제품 자급제 모델을 사전 구매한 고객 2명 중 1명이 'New 갤럭시 AI 구독클럽'에 가입했다. 웨어러블 신제품도 공식 판매에 들어간다. 갤럭시 워치 울트라2와 워치9은 사전판매에서 전작의…",
+          "press": "biztribune.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 16:32",
+          "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357067",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "LGU+, 2분기 영업익 역대 최대…\"신규 AIDC 수익성 개선\"",
           "summary": "이동통신(MNO) 가입회선은 2244만2000여개, 알뜰폰(MVNO) 가입회선은 902만 5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 스마트홈 부문 수익은 IPTV와 초고속 인터넷 가입자가 증가하…",
           "press": "newsprime.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 16:30",
           "link": "http://www.newsprime.co.kr/news/article.html?no=742974",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, AIDC 현장경영·AI 스팸차단 확대 '투트랙'…AI 인프라·고객보호 강...",
+          "summary": "KT는 박윤영 대표가 6일 서울 양천구 kt cloud 목동2 데이터센터를 방문해 AIDC와 클라우드 인프라 운영 현황을 점검하는 한편, AI 기반 실시간 스팸차단 서비스를 KT 및 KT 알뜰폰 전 고객으로 확대 적…",
+          "press": "newstnt.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 16:26",
+          "link": "https://www.newstnt.com/news/articleView.html?idxno=713132",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"사전 판매 144만대 흥행 잇는다\"...삼성, '갤Z8 시리즈·워치' 7일 출시",
+          "summary": "자급제 모델 사전 구매 고객 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입했다. 이 외에도 별도 앱 설치 없는 QR 코드 데이터 전송(스마트 스위치), iOS와의 공유 편의성(퀵 셰어), 교통카드·신분증 등…",
+          "press": "ftoday.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 16:14",
+          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363178",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -99,6 +220,39 @@
           "subgroup_label": ""
         },
         {
+          "title": "\"AI로 신종 스팸도 철통방어\"...KT, AI 스팸차단 서비스 전 고객 확대",
+          "summary": "KT 알뜰폰 고객을 포함해 KT 고객이라면 누구나 무료로 이용할 수 있다. AI 스팸차단은 24시간 운영되며, 도입 이후 지난 7월 29일부터 8월 3일까지 오차단율 0.003%, 관련 고객 문의(VOC) 0건을 기…",
+          "press": "AI타임스",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:56",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213619",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "갤럭시 Z8 시리즈 7일 공식 출시… 주문하면 9월에 받을 수도",
+          "summary": "고가 제품의 구매 부담을 낮추기 위해 도입한 '뉴 갤럭시 인공지능(AI) 구독클럽'도 흥행에 힘을 보탰다. 1년 뒤 기기를 반납하면 512GB 모델 기준 최대 50%의 잔존가를 보장하는 프로그램으로, 삼성닷컴에서 자…",
+          "press": "디지털타임스",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:55",
+          "link": "https://n.news.naver.com/mnews/article/029/0003041093?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT 박윤영, 취임 후 첫 AIDC 점검…'인프라부터 고객보호까지' AX 속도",
+          "summary": "KT는 자체 개발한 'AI 기반 실시간 스팸차단 서비스'를 지난 7월 29일부터 KT알뜰폰을 포함한 전 고객에게 무료로 제공하고 있다. 이 서비스는 특수문자나 변형된 표현을 활용해 기존 차단망을 우회하는 신규 스팸을…",
+          "press": "biztribune.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:54",
+          "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357070",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "모바일 잡더니 AIDC 완판까지…조용히 강했던 LG유플러스",
           "summary": "이동통신(MNO)이 2244만2000여개, 알뜰폰(MVNO)이 902만5000여개다. 5G 가입자는 954만 8000명으로, 5G 보급률은 84.9%를 나타냈다. 스마트홈 부문 수익은 인터넷(IP)TV와 초고속 인터…",
           "press": "매일경제",
@@ -110,12 +264,45 @@
           "subgroup_label": ""
         },
         {
+          "title": "통신사 'AI 맞춤 요금제' 고가 유도 일색, 10월 시행 '최적요금제 고지제...",
+          "summary": "이동통신 3사의 AI 맞춤형 요금제 추천이 소비자 통신비 절감보다는 상위 요금제를 유도하는 데 치우치면서, 오는 10월 시행될 '최적 요금제 고지 제도'의 가계통신비 절감 취지가 퇴색될 수 있다는 우려가 나온다. <…",
+          "press": "businesspost.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:50",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444112",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신] LGU+ 공공 계정관리 진출 / KT 전 고객 AI 스팸차단",
+          "summary": "◼︎ KT, 인공지능 스팸차단 알뜰폰 포함 전 고객 확대 KT는 새로운 유형의 스팸 문자를 실시간으로 탐지하는 인공지능 기반 스팸차단 기능을 알뜰폰을 포함한 전 고객에게 무료로 확대 적용했다고 6일 밝혔다. 특수문자…",
+          "press": "webeconomy.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:50",
+          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2258609",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "LG유플러스, AI DC·비용 효율화 효과...분기 영업익 역대 최대",
           "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개, 알뜰폰(MVNO) 가입회선은 902만5000여개로 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 전년 동기보다 6.9% 증가했다…",
           "press": "digitaltoday.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 15:44",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690624",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[빅데이터로 읽는 이슈] \"역시 삼성\" 갤럭시 Z 폴드8 사전판매 기록 경신...",
+          "summary": "또 \"갤럭시Z8 사전예약자 절반 이상 '폴드8' 찜했다\"는 기사의 경우 \"진짜 잘나오긴 했다\", \"일본 아이폰 유저들도 폴드8이 진짜 혁신이라면서 움직이기 시작했다\", \"예쁘긴 하다\"는 호평이 쏟아졌다. 삼성전자는.…",
+          "press": "newsquest.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:40",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=271253",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -138,6 +325,17 @@
           "date": "2026-08-06",
           "datetime": "2026-08-06 15:38",
           "link": "https://www.venturesquare.net/1104224/",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 폴더블 스마트폰 '갤럭시 Z 8시리즈' 7일 국내 출시",
+          "summary": "삼성닷컴에서 자급제 모델을 사전 구매한 고객 2명 중 1명은 ‘뉴 갤럭시 인공지능 구독클럽’에 가입했다. 갤럭시 워치 울트라2와 워치9의 사전판매량도 전작 같은 기간보다 각각 두 자릿수 증가했다. 갤럭시 워치...",
+          "press": "socialvalue.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:36",
+          "link": "https://www.socialvalue.kr/news/view/1065590167986838",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -209,23 +407,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2분기 역대 최대 실적…수익성 기반 AIDC 투자 확대(종합)",
-          "summary": "MNO 가입회선은 2244만 2000여개, MVNO 가입회선은 902만 5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만 8000명으로, 전체 …",
-          "press": "아주경제",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:06",
-          "link": "https://www.ajunews.com/view/20260806145442087",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG U+, 2분기 영업익 3445억원…분기 기준 역대 최대",
           "summary": "이동통신(MNO) 가입 회선은 2244만2000여개로 7.2%, 알뜰폰(MVNO) 가입 회선은 902만5000여개로 0.4% 각각 증가했다. 스마트홈 부문 수익은 IPTV와 초고속인터넷 가입자 증가에 힘입어 4.3%…",
           "press": "delighti.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 15:06",
           "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119894",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2분기 역대 최대 실적…수익성 기반 AIDC 투자 확대(종합)",
+          "summary": "MNO 가입회선은 2244만 2000여개, MVNO 가입회선은 902만 5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만 8000명으로, 전체 …",
+          "press": "아주경제",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:06",
+          "link": "https://www.ajunews.com/view/20260806145442087",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -248,6 +446,50 @@
           "date": "2026-08-06",
           "datetime": "2026-08-06 15:00",
           "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=725780",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, AI 기반 실시간 스팸차단 서비스 전 고객으로 확대",
+          "summary": "(사진=KT) KT는 인공지능(AI) 기반 실시간 스팸차단 서비스를 KT와 KT알뜰폰을 포함한 전 고객으로 확대 적용했다고 6일 밝혔다. 최근 스팸은 특수문자를 활용하거나 키워드를 변형하는 등 수법이 갈수록 정교해지…",
+          "press": "delighti.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 14:56",
+          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119888",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 7일 ‘갤럭시 Z 8세대 시리즈 & 갤럭시 워치’ 국내 공식 출시",
+          "summary": "또 삼성닷컴에서 ‘갤럭시 Z 폴드8 울트라·폴드8·플립8’ 자급제 모델을 사전 구매한 고객 2명 가운데 1명이 ‘New 갤럭시 AI 구독클럽’에 가입한 것으로 집계됐다. ‘갤럭시 워치 울트라2·워치9’은 사전 판매에…",
+          "press": "swtvnews.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 14:54",
+          "link": "https://swtvnews.com/news/newsview.php?ncode=1065574517397470",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, '멤버십·보안·캐릭터' 강화로 고객 신뢰 잡는다",
+          "summary": "알뜰폰(MVNO, 이동전화재판매)도 포함이다. AI 스팸차단은 24시간 운영한다. KT가 파악한 7월29일부터 8월3일까지 스팸차단 서비스 오차단율은 0.003%다. 전체 스팸차단 건수는 3.5% 증가했다. KT는 …",
+          "press": "techm.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 14:52",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154051",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'사전 판매 144만대' 삼성전자 갤럭시 Z8 시리즈 7일 국내 출시",
+          "summary": "색상별로는 폴드8 울트라의 그라파이트와 바이올렛 쉐도우, 폴드8의 크림과 그라파이트, 플립8의 핑크와 크림 컬러 선호도가 높았으며 삼성닷컴에서 자급제 모델을 사전 구매한 고객 2명 중 1명이 'New 갤럭시 AI..…",
+          "press": "sidae.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 14:50",
+          "link": "https://n.news.naver.com/mnews/article/417/0001154557?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -297,12 +539,56 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT, AI 실시간 스팸차단 전 고객 확대 적용",
+          "summary": "KT와 알뜰폰 이용자를 포함한 모든 고객에게 서비스가 무료로 제공된다. KT는 신규·변형 스팸에 대응하기 위해 AI 기반 탐지 기술을 적용한 서비스를 개발한 바 있다. KT에 따르면 AI 스팸차단 사비스는 지난 1월…",
+          "press": "sportschosun.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 14:25",
+          "link": "https://n.news.naver.com/mnews/article/076/0004433638?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, AI 스팸차단 전 고객 적용…신종·변형 스팸까지 걸러낸다",
+          "summary": "KT가 자체 개발한 인공지능(AI) 기반 스팸 차단 기능을 KT 및 KT 알뜰폰 이용자 전체로 확대 적용했다. 기존 키워드 방식으로 걸러내기 어려웠던 변형 스팸까지 실시간으로 분석해 차단하는 것이 특징이다. KT는 …",
+          "press": "consumernews.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 14:24",
+          "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=760938",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자 갤럭시 Z 폴드8·플립8 사전 판매 144만대",
+          "summary": "삼성닷컴에서 자급제 모델을 사전 구매한 고객 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐습니다. 별도 앱 설치 없이 QR 코드로 데이터 전송이 가능한 '스마트 스위치', iOS와 갤럭시 간…",
+          "press": "newsclaim.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 14:24",
+          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071345",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "LGU+, 2분기 영업이익 전년比 13%↑…'분기 최대'",
           "summary": "MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만8000명으로, 전체 핸드셋…",
           "press": "getnews.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 14:22",
           "link": "https://www.getnews.co.kr/news/articleView.html?idxno=877233",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신사, 비암호화 와이파이 개인정보 유출도 책임",
+          "summary": "해킹으로 알뜰폰 이용자를 포함한 2324만4649명의 휴대전화번호와 가입자식별번호, 유심 인증키 등 25종의 정보가 유출된 것으로 조사하고 과징금 1347억9100만원을 부과했다. KT에서도 불법 초소형 기지국을 이…",
+          "press": "4th.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 14:16",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2115919",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -341,12 +627,45 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT, 알뜰폰 포함 전 고객에 'AI 실시간 스팸차단' 무료 확대",
+          "summary": "단계적 운영으로 서비스 안정성을 확보한 KT는 지난달 29일부터 알뜰폰 사용자를 포함한 전 고객에게 이 기능을 무료로 확대 적용했다. 24시간 내내 가동되는 이 서비스는 도입 이후 오차단율 0.003%, 관련 고객 …",
+          "press": "cstimes.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 13:28",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=715964",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "\"AIDC·비용 효율화\" LGU+, 2Q 영업익 3445억원...전년比 13.1% 증가",
           "summary": "MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만8000명으로, 전체 핸드셋…",
           "press": "asiaa.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 13:10",
           "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257883",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 갤럭시Z 시리즈 공식 출시",
+          "summary": "삼성닷컴에서 자급제 모델을 사전 구매한 고객 가운데 절반은 '뉴 갤럭시 AI 구독클럽'에 가입했다. 갤럭시워치 울트라2와 워치9의 사전판매량은 같은 기간 전작 보다 각각 두 자릿수 증가했다. 워치 울트라2 사전...",
+          "press": "디일렉",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 13:06",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=60606",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성 갤럭시 Z 폴드8·플립8 7일 공식 출시…사전판매 144만대 신기록",
+          "summary": "자급제 모델 사전구매 고객의 절반은 ‘뉴 갤럭시 AI 구독클럽’에 가입했다. 삼성전자는 단말기 판매에 구독 서비스를 결합해 초기 구매 부담을 낮추고 장기간 갤럭시 생태계에 머무는 고객을 확대한다는 전략이다....",
+          "press": "todayeconomic.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 13:04",
+          "link": "https://www.todayeconomic.com/news/article.html?no=31634",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -385,6 +704,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "갤럭시 Z 8시리즈 공식 출시 D-1…자급제 절반 'AI 구독'",
+          "summary": "이 가운데 삼성닷컴에서 자급제 모델을 사전 구매한 고객 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입한 것으로 나타났다. 6일 삼성전자에 따르면 지난달 28일부터 이달 3일까지 진행된 사전판매에서 갤럭시 Z…",
+          "press": "itdaily.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 12:26",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=240837",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "AI가 바꾼 기업 경쟁의 공식… 브랜드 노출·보안 신뢰가 새 승부처",
           "summary": "과거에는 매출과 시장점유율, 매장 수가 브랜드 영향력을 보여주는 핵심 지표였다. 이제는 AI가 어떤... 새로운 유형의 스팸을 실시간으로 탐지하는 AI 스팸차단 기능을 KT와 KT알뜰폰 전 고객에게 무료로 확대했다.…",
           "press": "pressman.kr",
@@ -396,12 +726,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "공정위, SK텔레콤·KT·LG유플러스 불공정 약관 시정",
-          "summary": "3개 통신사는 에스케이텔레콤㈜, ㈜케이티, ㈜엘지유플러스로 최근 연이은 개인정보 유출 사고로 인해 다량의 개인정보를 보유한 사업자들의 정보보호 체계에 대한 국민적 관심과 우려가 높아진 가운데, 특히 통신...",
-          "press": "intn.co.kr",
+          "title": "KT, 모든 고객들에게 AI 기반 실시간 스팸차단 서비스 확대 적용",
+          "summary": "KT는 서비스 안정성을 확보하고 7월 29일부터 기존 '(안심)스팸차단 서비스'에 KT알뜰폰을 포함한 모든 KT 고객들을 대상으로 AI 스팸차단 기능을 확대 적용했다. AI 스팸차단은 주말과 야간을 포함해 하루 24…",
+          "press": "womentimes.co.kr",
           "date": "2026-08-06",
-          "datetime": "2026-08-06 12:08",
-          "link": "http://www.intn.co.kr/news/articleView.html?idxno=2052380",
+          "datetime": "2026-08-06 12:14",
+          "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105037",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자 '8세대 갤럭시Z' 7일 공식 출시...'칩플레이션' 정면승부",
+          "summary": "자급제 전용) 4종이다. 삼성전자는 8월 폴더블폰 구매자에게 ▲워치 울트라2·워치9 10% 할인 쿠폰 ▲케이스 및 액세서리 30% 할인 쿠폰 ▲구글 인공지능(AI) 프로 6개월 구독권 ▲윌라 3개월 구독권 ▲갤럭시.…",
+          "press": "techm.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 12:12",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154050",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -429,12 +770,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "통신 3사, 개인정보 침해 면책 등 자진 시정…공정위 \"이용자 권리 강화...",
-          "summary": "대상은 에스케이텔레콤과 케이티, 엘지유플러스 등 3개사입니다. 불공정 약관으로 판단한 유형은 △개인정보 침해사고에 대한 면책 조항(3개사) △회원의 아이디 및 비밀번호 관련 책임 전가 조항(1개사) △서비스 제공..…",
-          "press": "newstomato.com",
+          "title": "프랑스 스마트폰 시장동향",
+          "summary": "삼성(Samsung)은 갤럭시 AI(Galaxy AI), 애플(Apple)은 애플 인텔리전스(Apple Intelligence)를 앞세워 생성형 AI... 통신사는 단말기 할부, 보상판매, 요금제 결합 상품 등을 통…",
+          "press": "dream.kotra.or.kr",
           "date": "2026-08-06",
-          "datetime": "2026-08-06 12:02",
-          "link": "http://www.newstomato.com/ReadNews.aspx?no=1309423&inflow=N",
+          "datetime": "2026-08-06 11:59",
+          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243136",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -484,6 +825,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT, AI 스팸차단 알뜰폰 고객에게도 제공",
+          "summary": "KT가 인공지능(AI)을 활용해 신규·변형 스팸을 실시간으로 탐지하고 차단하는 서비스를 KT 알뜰폰을 포함한 전 고객에게 확대 적용했다. 6일 KT는 ‘AI 기반 실시간 스팸차단 서비스’(사진)를 전 고객 대상으로 …",
+          "press": "헤럴드경제",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:38",
+          "link": "https://n.news.naver.com/mnews/article/016/0002680401?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "LG유플러스, 2분기 영업익 '역대 최대'…AIDC 호조·비용 효율화 결실",
           "summary": "이동통신(MNO) 가입회선은 2244만2000여 개(7.2%↑), 알뜰폰(MVNO) 가입회선은 902만5000여 개로 집계됐다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 늘어 전체 핸드셋 가입자 중 5G …",
           "press": "newsian.co.kr",
@@ -517,12 +869,45 @@
           "subgroup_label": ""
         },
         {
+          "title": "\"변형 스팸까지 잡는다\"…KT, AI 스팸차단 서비스 전 고객에 적용",
+          "summary": "KT는 '인공지능(AI) 기반 실시간 스팸 차단 서비스'를 KT알뜰폰을 포함한 전 고객으로 확대 적용했다고 6일 밝혔다. AI 스팸차단은 신규·변형 스팸을 실시간으로 탐지·차단하는 서비스다. 최근 특수문자를 활용하는…",
+          "press": "news.tvchosun.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:28",
+          "link": "https://n.news.naver.com/mnews/article/448/0000631794?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, '갤럭시 Z 폴드8' 시리즈·신형 워치 7일 국내 출시",
+          "summary": "자급제 사전 구매 고객 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입한 것으로 나타났다. 이번 8세대 폴더블 라인업은 폼팩터별로 사용성을 세분화했다. '갤럭시 Z 폴드8 울트라'는 203.1mm 대화면을 기…",
+          "press": "newsdream.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:24",
+          "link": "http://www.newsdream.kr/news/articleView.html?idxno=115805",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[2Q실적] LG유플러스 영업이익 13.1% 증가한 3445억원 '역대 최대' 기록",
           "summary": "MNO 가입회선은 2244만 2000여개, MVNO 가입회선은 902만 5000여개다. 5G 핸드셋 가입자는 954만 8000명으로 전체 핸드셋 가입자 중 5G 보급률은 84.9%로 집계됐다. 기업인프라 부문의 경우…",
           "press": "financialpost.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:22",
           "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269373",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AI가 바꾸는 업무 현장…기업 혁신 속도 높인다",
+          "summary": "KT는 AI 기반 실시간 스팸차단 서비스를 KT와 KT 알뜰폰을 포함한 전 고객으로 확대 적용했다. AI가 신규·변형 스팸을 실시간으로 탐지·차단하는 방식으로, 지난 1월 시범 운영을 거쳐 서비스 안정성을 확보했다.…",
+          "press": "kdfnews.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:22",
+          "link": "http://www.kdfnews.com/news/articleView.html?idxno=186173",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -539,12 +924,34 @@
           "subgroup_label": ""
         },
         {
+          "title": "삼성전자, 사전판매 144만대 신기록 '갤럭시 Z8 시리즈' 7일부터 국내 출...",
+          "summary": "삼성닷컴에서 자급제 모델은 2명 중 1명이 'New 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐다. 별도 앱 설치 없이 QR 코드만으로 간편하게 데이터 전송이 가능한 스마트 스위치와 퀵 셰어 서비스, 삼성 월렛을 …",
+          "press": "beyondpost.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:20",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=202608061053193356be44c0aacd_30",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "미디어로그 셀로, 갤럭시 Z 폴드8·플립8 사전 예약에 중고폰 판매 91% 증...",
           "summary": "LG유플러스 자회사 미디어로그의 중고폰 판매 플랫폼 '셀로(sello)'가 갤럭시 Z 폴드8·플립8 사전예약 시작 후 1주간의 중고폰 판매 신청 데이터를 분석한 결과, 판매 신청이 사전예약 시작 직전 1주 대비 91…",
           "press": "betanews.net",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:18",
           "link": "https://www.betanews.net/article/view/beta202608060020",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 폴드8·플립8 7일 출시…사전 예약 144만 대",
+          "summary": "색상별 선호도는 그라파이트, 크림, 바이올렛 쉐도우, 핑크 순으로 높았고 삼성닷컴 자급제 사전 구매자 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입한 것으로 나타났으며, '스마트 스위치·퀵 셰어·삼성 월렛'…",
+          "press": "cstimes.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:18",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=715947",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -572,12 +979,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2분기 영업이익 3445억 달성...AIDC 매출 29% 상승",
-          "summary": "자체 회선(MNO)은 2244만2000여개, 알뜰폰(MVNO) 회선은 902만5000여개로 각각 7.2%, 0.4% 증가했다. 5G 핸드셋 가입자는 954만8000명으로 전년 대비 6.9% 늘었고, 전체 핸드셋 가입…",
-          "press": "dizzotv.com",
+          "title": "갤럭시Z8 국내 공식 출시…사전판매 흥행 잇는다",
+          "summary": "AI 구독클럽 가입자도 늘어 삼성닷컴에서 자급제 모델을 사전구매한 고객 가운데 절반은 '뉴 갤럭시 인공지능(AI) 구독클럽'에 가입한 것으로 나타났다. 스마트 스위치와 퀵 셰어를 통해 iOS 기기와의 데이터 이전..…",
+          "press": "파이낸셜뉴스",
           "date": "2026-08-06",
-          "datetime": "2026-08-06 11:08",
-          "link": "https://www.dizzotv.com/site/data/html_dir/2026/08/06/2026080680065.html",
+          "datetime": "2026-08-06 11:14",
+          "link": "https://n.news.naver.com/mnews/article/014/0005558052?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -594,23 +1001,34 @@
           "subgroup_label": ""
         },
         {
+          "title": "LG유플러스, 2분기 영업이익 3445억 달성...AIDC 매출 29% 상승",
+          "summary": "자체 회선(MNO)은 2244만2000여개, 알뜰폰(MVNO) 회선은 902만5000여개로 각각 7.2%, 0.4% 증가했다. 5G 핸드셋 가입자는 954만8000명으로 전년 대비 6.9% 늘었고, 전체 핸드셋 가입…",
+          "press": "dizzotv.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:08",
+          "link": "https://www.dizzotv.com/site/data/html_dir/2026/08/06/2026080680065.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성 갤럭시 Z 폴드8·플립8 내일 공식 출시",
+          "summary": "자급제 모델 사전 구매자의 절반은 '뉴 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐습니다. 삼성전자는 별도 앱 설치 없이 데이터를 옮길 수 있는 '스마트 스위치', 안드로이드와 iOS 간 파일 공유를 지원하는 '퀵…",
+          "press": "mbnmoney.mbn.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:08",
+          "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005895336",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "\"AIDC 돈 되네\"…LGU+, 2분기 분기 최대 실적 경신(종합)",
           "summary": "MNO 가입회선은 2244만 2000여 개, MVNO 가입회선은 902만 5000여 개로 각각 7.2%, 0.4% 증가했다. 5G 핸드셋 가입자는 954만 8000명으로 늘었고 보급률은 84.9%를 기록했다. 스마트…",
           "press": "뉴스1",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:07",
           "link": "https://n.news.naver.com/mnews/article/421/0009100256?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 2분기 영업이익 역대 최대…\"AIDC 등 신사업 성장\"",
-          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개, 알뜰폰사업자(MVNO) 가입회선은 902만5000여개로 각각 7.2%, 0.4% 증가했다. 5G 휴대폰 가입자는 954만8000명으로 6.9% 늘었고, 전체 …",
-          "press": "socialvalue.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 11:06",
-          "link": "https://www.socialvalue.kr/news/view/1065577447953003",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -627,6 +1045,28 @@
           "subgroup_label": ""
         },
         {
+          "title": "LG유플러스, 2분기 영업이익 역대 최대…\"AIDC 등 신사업 성장\"",
+          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개, 알뜰폰사업자(MVNO) 가입회선은 902만5000여개로 각각 7.2%, 0.4% 증가했다. 5G 휴대폰 가입자는 954만8000명으로 6.9% 늘었고, 전체 …",
+          "press": "socialvalue.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:06",
+          "link": "https://www.socialvalue.kr/news/view/1065577447953003",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, AI 실시간 스팸차단 기능 전체 고객에게 확대 적용한다",
+          "summary": "KT는 단계별 운영을 거쳐 서비스의 안정성을 확보했으며 7월 29일부터 기존 '(안심)스팸차단 서비스'에 KT알뜰폰 고객을 포함한 전체 고객에게 AI 스팸차단 기능을 적용했다. AI 스팸차단은 평일은 물론 주말과 야…",
+          "press": "newsmap.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:06",
+          "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=2037",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "갤럭시 새폴더블폰 효과…중고폰 시장도 활기",
           "summary": "가운데 중고폰 시장도 활기를 띤 것으로 확인됐다. LG유플러스 자회사 미디어로그의 중고폰 판매 플랫폼 ‘셀로(sello)’는 갤럭시 Z 폴드 8·플립 8 사전판매 시작 후 1주간의 중고폰 판매 신청 데이터를 분석했더…",
           "press": "kookje.co.kr",
@@ -638,23 +1078,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2분기 영업이익 3445억원...\"역대 분기 최대 실적\"",
-          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개로 7.2% 증가했고, 알뜰폰(MVNO) 가입회선은 902만5000여개로 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 증가했다. 전체 핸…",
-          "press": "seouleconews.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 11:02",
-          "link": "http://www.seouleconews.com/news/articleView.html?idxno=92884",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LGU+, AIDC·스마트홈 성장에 2분기 영업익 역대 최대",
           "summary": "이동통신사업자(MNO) 가입 회선은 2244만2000여개, 알뜰폰(MVNO) 가입 회선은 902만5000여개로 전년동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 늘었…",
           "press": "sentv.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:02",
           "link": "https://www.sentv.co.kr/article/view/sentv202608060075",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2분기 영업이익 3445억원...\"역대 분기 최대 실적\"",
+          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개로 7.2% 증가했고, 알뜰폰(MVNO) 가입회선은 902만5000여개로 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 증가했다. 전체 핸…",
+          "press": "seouleconews.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:02",
+          "link": "http://www.seouleconews.com/news/articleView.html?idxno=92884",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -682,6 +1122,28 @@
           "subgroup_label": ""
         },
         {
+          "title": "갤럭시 알뜰폰 '1만5800원' 내건 우리은행 … '체감가격' 포장에 가려진...",
+          "summary": "뉴데일리 신희강 기자 = 우리은행이 갤럭시 자급제 고객을 겨냥한 알뜰폰 요금제에 '최종 혜택가 월 1만 5800원'을 전면에 내걸었지만 실제 소비자가 납부하는 통신요금은 월 4만원대인 것으로 확인됐다. 포인트와...",
+          "press": "biz.newdaily.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:58",
+          "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/06/2026080600087.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성 폴더블 \"사전판매 144만대 \"역대 최대…1030 여성 구매 2배 증가",
+          "summary": "삼성닷컴에서 자급제 모델을 예약한 고객 가운데 절반은 단말기 구독 프로그램인 'New 갤럭시 AI 구독클럽'에 가입했다. 삼성전자는 데이터 이전 기능인 스마트 스위치와 기기 간 파일 공유 서비스 퀵 셰어, 삼성 월렛…",
+          "press": "moneystorm.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:56",
+          "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5538",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "LG유플러스, 2분기 영업익 3445억 역대 최대…AIDC가 실적 견인",
           "summary": "MNO 가입회선은 2244만 2000여 개, MVNO 가입회선은 902만 5000여 개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만 8000명으로, 전…",
           "press": "etoday.co.kr",
@@ -699,6 +1161,17 @@
           "date": "2026-08-06",
           "datetime": "2026-08-06 10:52",
           "link": "https://www.econovill.com/news/articleView.html?idxno=747287",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성 갤럭시Z8·워치9 국내 출시 D-1…사전예약 돌풍 잇나",
+          "summary": "삼성닷컴에서 자급제 모델을 사전 구매한 고객 두 명 중 한 명은 단말기 구독 서비스인 '뉴 갤럭시 AI 구독클럽'에 가입했다. 폴더블 3종, 생산성·콘텐츠·휴대성 따라 세분화 삼성전자는 폴더블폰 제품군을 △폴드8..…",
+          "press": "블로터",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:52",
+          "link": "https://n.news.naver.com/mnews/article/293/0000088688?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -770,6 +1243,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "LG유플러스, 2분기 영업이익 3445억원..역대 최대 분기 기록 달성",
+          "summary": "MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 6.9% 늘어난 954만8000명이다. 전체 핸드셋 가입자 대비 5G 보급률은…",
+          "press": "kpenews.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:38",
+          "link": "https://kpenews.com/View.aspx?No=4176460",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "LGU+, 2분기 영업익 '역대 최대'…AI 데이터센터가 효자(종합)",
           "summary": "이동통신사업자(MNO) 가입회선은 2244만2000개, 알뜰폰(MVNO) 가입회선은 902만5000개로 각각 7.2%, 0.4% 증가했다. 5G 핸드셋 가입자는 954만8000명으로 전년 대비 6.9% 늘었다. 전체…",
           "press": "widedaily.com",
@@ -781,12 +1265,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2분기 영업이익 3445억원..역대 최대 분기 기록 달성",
-          "summary": "MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 6.9% 늘어난 954만8000명이다. 전체 핸드셋 가입자 대비 5G 보급률은…",
-          "press": "kpenews.com",
+          "title": "\"스마트폰 계약 내용 다르다면?…개통 피해 쉽게 신고하세요\"",
+          "summary": "삼성스토어 홍대에서 고객들이 삼성전자 갤럭시 Z 시리즈를 살펴보고 있는 모습. [사진: 삼성전자] 최신... 신고 대상은 판매점이 약속한 지원금을 지급하지 않은 사례를 비롯해 원치 않는 요금제나 부가서비스 가입, 상…",
+          "press": "digitaltoday.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 10:38",
-          "link": "https://kpenews.com/View.aspx?No=4176460",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690443",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -803,12 +1287,34 @@
           "subgroup_label": ""
         },
         {
-          "title": "LGU+, 2분기 영업익 3445억원 '역대 최대'…\"기업 인프라가 견인\"",
-          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개, 알뜰폰(MVNO) 가입회선은 902만5000여개로 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 전년 동기보다 6.9% 증가했다…",
-          "press": "digitaltoday.co.kr",
+          "title": "LG U+, 2분기 영업이익 3445억 원…역대 최대 분기 실적",
+          "summary": "MNO(Mobile Network Operator) 가입회선은 2244만 2천여 개, 가상이동통신망사업자(Mobile Virtual Network Operator, MVNO) 가입회선은 902만 5천여 개로 전년 동…",
+          "press": "nocutnews.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 10:36",
-          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690457",
+          "link": "https://n.news.naver.com/mnews/article/079/0004176065?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 갤럭시 Z8·워치 9 국내 공식 출시…사전 판매 70%가 ‘갤Z 폴...",
+          "summary": "이 밖에도 삼성닷컴에서 ‘갤럭시 Z 폴드8 울트라·폴드8·플립8’ 자급제 모델을 사전 구매한 고객 2명 중 1명이 ‘뉴 갤럭시 AI 구독클럽’에 가입한 것으로 집계됐다. ‘갤럭시 워치 울트라2·워치9’은 사전...",
+          "press": "ceoscoredaily.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:36",
+          "link": "https://www.ceoscoredaily.com/page/view/2026080610102697635",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, '갤럭시 Z 폴드8' 신모델 출시…사전 예약 판매 144만대 돌파",
+          "summary": "자급제 모델을 구매한 이들 중 절반은 '뉴 갤럭시 AI 구독클럽'에 가입해, 제품 사용과 더불어 추가적인 혜택을 누리고 있다. 이는 스마트 스위치, 퀵 셰어, 삼성 월렛 등 갤럭시 생태계의 편의성이 소비자에게 매력을…",
+          "press": "gokorea.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:22",
+          "link": "https://www.gokorea.kr/news/articleView.html?idxno=874272",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -825,12 +1331,232 @@
           "subgroup_label": ""
         },
         {
+          "title": "1030 여성 몰린다더니…'여권폰' 갤Z폴드8, 유럽서도 '돌풍'",
+          "summary": "삼성닷컴에서 자급제 모델을 예약한 고객 2명 중 1명은 '뉴 갤럭시 AI 구독클럽'에도 가입했다. 신제품은 한국을 비롯해 미국, 영국, 인도, 일본 등 주요 100여개국에 순차 출시된다. 유럽·한국 모두 새 폼팩터를…",
+          "press": "한국경제",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:12",
+          "link": "https://n.news.naver.com/mnews/article/015/0005317954?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성 '갤럭시 Z8' 7일 국내 출격…사전판매 144만대 신기록",
+          "summary": "삼성닷컴에서 자급제 모델을 예약한 고객 중 절반은 단말기 반납 시 잔존가 보장 등의 혜택을 제공하는 '뉴 갤럭시 AI 구독클럽'에 가입했다. 선호 색상은 폴드8 울트라에서 그라파이트와 바이올렛 쉐도우...",
+          "press": "4th.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:08",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2115885",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자 '폴드·플립8'과 '워치9·울트라2'…7일 국내 출시",
+          "summary": "또 삼성닷컴에서 자급제 모델을 사전 구매한 고객 2명 중 1명이 'New 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐다. 워치 울트라2, 워치9은 사전 판매에서 전작 사전 판매 동일 기간 대비 각각 두 자릿수 성장…",
+          "press": "newsworks.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:06",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=849539",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성 '갤럭시 Z 폴드8' 앞세운 Z8시리즈, 7일 국내 공식 출시",
+          "summary": "또 자급제 모델 사전 구매자의 절반은 '뉴 갤럭시 AI 구독클럽'에 가입했다. 256GB(기가바이트) 모델 구매 시 512GB로 업그레이드해 주는 '더블 스토리지' 혜택과 1년 뒤 기기를 반납하면 512GB 모델 기…",
+          "press": "shinailbo.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:04",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048524",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"폴더블 사상 최대 기록\"…베일 벗은 '갤럭시 Z8·워치9' 출격",
+          "summary": "자급제 사전 구매 고객 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입하며 서비스 생태계 이용 의사도 높게 나타났다. 색상별 선호도를 살펴보면 폴드8 울트라는 그라파이트와 바이올렛 쉐도우, 폴드8은 크림과..…",
+          "press": "news.ifm.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:04",
+          "link": "https://news.ifm.kr/news/articleView.html?idxno=476586",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "갤럭시 Z 폴드8·플립8 효과…중고폰 판매 신청 91% 급증",
           "summary": "신제품 구매를 앞두고 기존 단말을 판매해 구매 비용을 마련하려는 소비자가 늘면서 중고폰 거래 수요가 크게 증가한 것으로 나타났다. LG유플러스 자회사 미디어로그의 중고폰 판매 플랫폼 ‘셀로(sello)’가 갤럭시 Z…",
           "press": "이데일리",
           "date": "2026-08-06",
           "datetime": "2026-08-06 10:01",
           "link": "https://n.news.naver.com/mnews/article/018/0006345651?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, '갤Z8' 144만대 역대급 흥행…7일 국내 공식 출시",
+          "summary": "삼성닷컴 사전 구매 고객의 절반이 1030세대였고 여성 고객도 전작 대비 2배 이상 늘어난 가운데, 자급제 구매자의 절반은 '뉴 갤럭시 AI 구독클럽'에 가입한 것으로 나타났다. 함께 출시된 갤럭시 워치 울트라2와 …",
+          "press": "sentv.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:00",
+          "link": "https://www.sentv.co.kr/article/view/sentv202608060045",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'갤럭시 Z 폴드8' 시리즈 국내 출시…사전판매 144만대 흥행 잇는다",
+          "summary": "자급제 모델 구매 고객의 절반은 'New 갤럭시 AI 구독클럽'에 가입했으며, 스마트 스위치, 퀵 셰어, 삼성 월렛 등 갤럭시 생태계 서비스도 구매 요인으로 꼽혔다. 신제품은 소비자 사용 목적에 따라 라인업을 세분화…",
+          "press": "dongponews.net",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:56",
+          "link": "https://www.dongponews.net/news/articleView.html?idxno=59697",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8' 및 '갤럭시 워치 울트...",
+          "summary": "삼성닷컴에서 '갤럭시 Z 폴드8 울트라·폴드8·플립8' 자급제 모델을 사전 구매한 고객 절반이 'New 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐다. 특히 ▲별도 앱 설치 없이 QR 코드만으로 간편하게 데이터 전…",
+          "press": "womentimes.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:56",
+          "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105030",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 갤럭시 Z폴드·플립8 공식 출시…워치도 사전판매 두자릿수↑",
+          "summary": "한편 향후 기기 반납을 조건으로 출고가의 최대 50%를 보장해 신제품 구매 부담을 낮춰주는 중고 보상 서비스 ‘뉴 갤럭시 AI 구독클럽’ 가입자는 갤럭시 Z8 자급제 모델 사전 구매자의 절반 수준으로 집계됐다....",
+          "press": "서울경제",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:53",
+          "link": "https://n.news.naver.com/mnews/article/011/0004649072?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성, 폴드8·플립8 공식 출시…흥행 기록 새로 썼다",
+          "summary": "삼성닷컴에서 자급제 모델을 사전구매한 고객 2명 중 1명은 '뉴 갤럭시 AI 구독클럽'에 가입했다. 삼성전자는 스마트 스위치와 퀵 셰어, 삼성 월렛 등 갤럭시 생태계의 편의성도 판매 확대에 영향을 미친 것으로...",
+          "press": "hansbiz.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:52",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=854949",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "갤럭시 Z8·워치9 시리즈 7일 국내 출시…사전판매 144만대 '역대 최다'",
+          "summary": "자급제 모델 사전 구매 고객 2명 중 1명은 '뉴 갤럭시 AI 구독클럽'에 가입한 것으로 나타났다. 삼성전자는 스마트 스위치, 퀵 셰어, 삼성 월렛 등 갤럭시 생태계 서비스도 신제품의 인기 요인으로 꼽았다. 갤럭시.…",
+          "press": "dizzotv.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:52",
+          "link": "https://www.dizzotv.com/site/data/html_dir/2026/08/06/2026080680026.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "갤럭시 Z8·워치9 내일 공식 출시…폴더블 사전판매 144만대 흥행",
+          "summary": "삼성닷컴에서 자급제 모델을 사전구매한 고객 가운데 절반은 'New(뉴) 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐다. 스마트 스위치와 퀵 셰어를 통해 iOS 기기와의 데이터 이전·공유 편의성을 높이고, 삼성월렛의…",
+          "press": "widedaily.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:48",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=298927",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "갤럭시Z 시리즈 144만대 사전판매 '역대 최대'…내일 국내 출시",
+          "summary": "자급제 모델 사전 구매자 2명 중 1명은 '뉴 갤럭시 AI 구독클럽'에도 가입했다. 새로운 갤럭시 Z 시리즈는 사용 목적에 따라 제품군을 세분화한 것이 특징이다. '갤럭시 Z 폴드8 울트라'는 대화면과 고성능을 앞세…",
+          "press": "nocutnews.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:48",
+          "link": "https://n.news.naver.com/mnews/article/079/0004176019?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 갤럭시 Z 폴드8·플립8·워치9 국내 출시…사전판매 144만대 신...",
+          "summary": "자급제 구매 고객 2명 중 1명은 '뉴 갤럭시 AI 구독클럽'에 가입했다. 함께 출시되는 갤럭시 워치 울트라2와 워치9도 전작 대비 사전판매가 각각 두 자릿수 증가했다. 특히 워치 울트라2는 여성 구매 비중이 전작보…",
+          "press": "cnbizm.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:46",
+          "link": "https://www.cnbizm.com/news/articleView.html?idxno=310735",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, '갤럭시 Z 폴드8' 시리즈·워치 신제품 7일 국내 출시",
+          "summary": "자급제 모델 사전 구매자 2명 중 1명은 'New 갤럭시 AI 구독클럽'에도 가입했다. 갤럭시 워치 신제품 역시 선전했다. 워치 울트라2와 워치9의 사전판매량은 전작 동기간 대비 각각 두 자릿수 성장률을 기록했다. …",
+          "press": "nextdaily.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:46",
+          "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251946",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 갤럭시 Z 폴드8·플립8 7일 출시...갤럭시워치 울트라2·워치...",
+          "summary": "삼성닷컴에서 자급제 모델을 사전 구매한 고객 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐다. 8세대 '갤럭시 Z 시리즈'는 지난 7년간 축적된 폴더블 기술력을 바탕으로 제품별 라인업을...",
+          "press": "thebigdata.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:44",
+          "link": "http://www.thebigdata.co.kr/view.php?ud=20260806094007589bbceadc3c9_23",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "144만대 사전판매 흥행 이어간다…삼성, '갤럭시 Z 폴드8·플립8' 국내 출...",
+          "summary": "또 삼성닷컴에서 자급제 모델을 사전 구매한 고객 2명 가운데 1명은 'New 갤럭시 AI 구독클럽'에 가입했다. 별도 앱 설치 없이 데이터를 옮길 수 있는 '스마트 스위치', iOS와 갤럭시 간 파일 공유 기능인 '…",
+          "press": "straightnews.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:42",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308427",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 갤럭시 Z폴드8 시리즈·워치 국내 공식 출시",
+          "summary": "이 밖에도 삼성닷컴에서 '갤럭시 Z 폴드8 울트라·폴드8·플립8' 자급제 모델을 사전 구매한 고객 2명 중 1명이 'New 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐다. '갤럭시 워치 울트라2·워치9'은 사전 판…",
+          "press": "biz.newdaily.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:42",
+          "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/06/2026080600052.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8' 7일 국내 공식 출시",
+          "summary": "삼성닷컴 기준 사전 구매 고객의 절반이 1030세대였으며, 여성 고객 비중은 전작 '갤럭시 Z 폴드7' 대비 2배 이상 증가했다. 자급제 모델 구매자 2명 가운데 1명은 'New 갤럭시 AI 구독클럽'에 가입한 것으…",
+          "press": "businesspost.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:40",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444073",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“사전판매 144만대”⋯ 삼성전자, 갤럭시 Z 폴드8·플립8 국내 출시",
+          "summary": "삼성닷컴에서 자급제 모델을 사전구매한 고객 2명 중 1명은 ‘뉴(New) 갤럭시 AI 구독클럽’에 가입했다. 별도 앱 설치 없이 QR코드만으로 데이터를 옮길 수 있는 ‘스마트 스위치’, iOS와 갤럭시 간 파일 공유…",
+          "press": "viva100.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:38",
+          "link": "https://www.viva100.com/article/20260806500251",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -847,12 +1573,45 @@
           "subgroup_label": ""
         },
         {
+          "title": "삼성전자, '갤럭시 Z 폴드8·플립8' 국내 출시…사전판매 144만대 신기록",
+          "summary": "자급제 모델 구매 고객 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입했다. 별도 앱 설치 없이 데이터를 옮길 수 있는 스마트 스위치, iOS와 갤럭시 간 파일 공유를 지원하는 퀵 셰어, 모바일 결제와 신분증…",
+          "press": "newslock.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:36",
+          "link": "http://www.newslock.co.kr/news/articleView.html?idxno=133985",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 갤럭시 Z8·워치9 내일 공식 출시...'사전판매 144만대' 흥행",
+          "summary": "삼성닷컴에서 자급제 모델을 사전 구매한 고객 2명 중 1명은 '뉴 갤럭시 AI 구독클럽'에 가입했다. 별도 애플리케이션 설치 없이 QR코드로 데이터를 옮길 수 있는 '스마트 스위치'와 애플의 운영체제(iOS)·갤럭시…",
+          "press": "아이뉴스24",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:34",
+          "link": "https://n.news.naver.com/mnews/article/031/0001047639?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "“SK, AI 부품 넘어 지능 수출…아태 지형 바꾼다”",
           "summary": "한편 이번 분석을 내놓은 CCS인사이트는 웨어러블·스마트폰·중고폰 등 전자·IT 시장 동향을 전문적으로 조사 및 전망하는 대표 시장조사업체다. 1993년 CCS인사이트를 창립한 숀 콜린스 대표는 세계 최대 이동통신.…",
           "press": "sentv.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 09:30",
           "link": "https://www.sentv.co.kr/article/view/sentv202608060019",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성 폴더블 새 역사…사전 판매 144만대 '갤럭시 역대 최고'",
+          "summary": "자급제 모델 사전 구매 고객 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입했다. 별도 앱 설치 없이 QR코드로 데이터를 옮길 수 있는 '스마트 스위치'와 갤럭시·아이폰 간 파일 공유 기능을 강화한 '퀵 셰어…",
+          "press": "newsquest.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:20",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=271193",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -886,6 +1645,17 @@
           "date": "2026-08-06",
           "datetime": "2026-08-06 06:00",
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167363",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "선버드, 63만건 유출 사태 3년 뒤 아이메시지 앱 재출시",
+          "summary": "아이폰 사용자 입장에서는 상대방의 말풍선이 초록색이 아닌 파란색으로 표시된다. 회사 측은 이번... 지적이다.요금제와 새로워진 기능들재출시된 선버드는 유료 구독 모델로 바뀌었다. 더 버지(The Verge)는 월 2…",
+          "press": "wikitree.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 03:26",
+          "link": "https://www.wikitree.co.kr/articles/1150677",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1072,23 +1842,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "케이뱅크, 생활밀착형 제휴 서비스 2종 출시",
-          "summary": "'캐시백 받는 통신비 비교'는 케이뱅크 앱에서 티플러스와 연동해 통신 3사의 알뜰폰 요금제 28종을 비교하고 가입할 수 있는 서비스다. 통신비 자동이체 계좌를 케이뱅크 계좌로 등록하면 가입 다음 달부터 6개월 동안.…",
-          "press": "finomy.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 10:52",
-          "link": "http://www.finomy.com/news/articleView.html?idxno=258676",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "케이뱅크, 생활비 절약·자산관리 '투트랙' 강화…신규 제휴 서비스",
           "summary": "'캐시백 받는 통신비 비교' 서비스는 케이뱅크 앱을 통해 알뜰폰 브랜드 티플러스(tplus)의 통신 3사 알뜰폰 요금제 28종을 비교하고 가입할 수 있도록 지원한다. 이용자가 가입 후 통신비 자동이체 계좌를 케이뱅크…",
           "press": "g-enews.com",
           "date": "2026-08-06",
           "datetime": "2026-08-06 10:52",
           "link": "https://www.g-enews.com/view.php?ud=202608060856152693cd0bfacc1c_1",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "케이뱅크, 생활밀착형 제휴 서비스 2종 출시",
+          "summary": "'캐시백 받는 통신비 비교'는 케이뱅크 앱에서 티플러스와 연동해 통신 3사의 알뜰폰 요금제 28종을 비교하고 가입할 수 있는 서비스다. 통신비 자동이체 계좌를 케이뱅크 계좌로 등록하면 가입 다음 달부터 6개월 동안.…",
+          "press": "finomy.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:52",
+          "link": "http://www.finomy.com/news/articleView.html?idxno=258676",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1105,23 +1875,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "케이뱅크, 알뜰폰 비교·AI 경매 서비스 출시…생활비 절약부터 재테크...",
-          "summary": "'캐시백 받는 통신비 비교'는 케이뱅크 앱에서 알뜰폰 브랜드 티플러스(tplus)의 통신 3사 기반 알뜰폰 요금제 28종을 비교하고 가입할 수 있는 서비스다. 가입 후 통신비 자동이체 계좌를 케이뱅크 계좌로 등록하면…",
-          "press": "dailian.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 10:02",
-          "link": "https://n.news.naver.com/mnews/article/119/0003118837?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "케이뱅크, 생활 밀착형·재테크 제휴 서비스 2종 출시...소비자 관심도...",
           "summary": "먼저 ‘캐시백 받는 통신비 비교’는 케이뱅크 앱에서 연동된 알뜰폰 브랜드 티플러스(tplus) 페이지를 통해 통신 3사의 알뜰폰 요금제 28종을 한눈에 비교하고 가입할 수 있는 서비스다. 가입 후 통신비 자동이체 계…",
           "press": "thebigdata.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 10:02",
           "link": "http://www.thebigdata.co.kr/view.php?ud=202608060950581869df3c2a17b7_23",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "케이뱅크, 알뜰폰 비교·AI 경매 서비스 출시…생활비 절약부터 재테크...",
+          "summary": "'캐시백 받는 통신비 비교'는 케이뱅크 앱에서 알뜰폰 브랜드 티플러스(tplus)의 통신 3사 기반 알뜰폰 요금제 28종을 비교하고 가입할 수 있는 서비스다. 가입 후 통신비 자동이체 계좌를 케이뱅크 계좌로 등록하면…",
+          "press": "dailian.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:02",
+          "link": "https://n.news.naver.com/mnews/article/119/0003118837?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1309,5 +2079,5 @@
       ]
     }
   ],
-  "total": 114
+  "total": 184
 }

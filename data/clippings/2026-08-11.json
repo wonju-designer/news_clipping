@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:46 소급 정리",
+  "generated_at": "2026-08-21 15:55 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -11,12 +11,34 @@
       "digest": "",
       "articles": [
         {
+          "title": "KT엠모바일, 25~30GB 요금제 1만원대로 인하",
+          "summary": "KT엠모바일이 고용량 데이터부터 무제한 요금제까지 월 이용료를 낮춘다. KT엠모바일은 25~30GB 고용량 및... 한편 과학기술정보통신부는 알뜰폰 활성화 방안을 통해 이통 3사가 최근 출시한 신규 요금제(데이터..…",
+          "press": "dailian.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 19:59",
+          "link": "https://n.news.naver.com/mnews/article/119/0003120752?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "이통3사, 샤오미 신제품 '뚝'…1년째 정체",
           "summary": "샤오미코리아 관계자는 \"샤오미는 한국 시장의 변화와 소비자 니즈에 발맞춰 다양한 유통 전략을 상시 검토하고 있다\"며 \"특정 채널에 한정을 두기보다는 알뜰폰을 포함해 고객과의 접점을 넓힐 수 있는 모든 가능성을...",
           "press": "hansbiz.co.kr",
           "date": "2026-08-11",
           "datetime": "2026-08-11 19:22",
           "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=856092",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, AI 활용 경쟁…통신·금융·산업으로 확장 중",
+          "summary": "SKT 제조 AI 실증·KT 금융 AICC 상용화 LG유플, 상용망에 AI 적용…2028년 자율 운영 네트워크 목표 이동통신3사... KT알뜰폰을 포함한 전 고객으로 확대했다. AI가 새로운 유형과 변형된 스팸을 실…",
+          "press": "srtimes.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 17:48",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=209704",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -33,6 +55,39 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT엠모바일, 고용량·무제한 요금제 등 34종 월 이용료 인하",
+          "summary": "[KT엠모바일]  KT엠모바일이 가계 통신비 절감을 돕고 자급제 단말 이용자 혜택을 강화하기 위해 주요... 이번 개편 대상은 LTE 22종, 5G 12종 등 총 34종으로, 최근 출시된 프리미엄 자급제 단말 구매 …",
+          "press": "ziksir.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 16:50",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=142822",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"30GB도 1만원대\" KT엠모바일, LTE·5G 34종 요금 인하",
+          "summary": "고객의 통신비 부담을 낮출 수 있을 것으로 기대된다고 설명했다. 변석주 KT엠모바일 사업운영본부장... 한편, KT엠모바일은 최근 eSIM 로밍 서비스 'mobi(모비)'의 요금 혜택을 확대하는 등 통신비 부담을 낮…",
+          "press": "finomy.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 16:40",
+          "link": "http://www.finomy.com/news/articleView.html?idxno=258944",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, LTE·5G 34종 요금 인하",
+          "summary": "이번 요금제 개편에는 고용량·무제한 데이터 요금제까지 포함돼 최근 출시된 ‘갤럭시 Z8’ 시리즈 등 프리미엄 자급제 단말기 이용 소비자에게도 혜택을 제공할 것으로 기대된다. 대상 요금제는 LTE 22종, 5G 12종…",
+          "press": "munhwa.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 16:32",
+          "link": "https://n.news.naver.com/mnews/article/021/0002810714?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "中 중저가폰, 한국서 고전…'칩플레이션' 탓?",
           "summary": "알뜰폰 시장에서도 샤오미는 사업을 종료했다. 다만 국내 시장에서 유통 전략 자체를 포기한 것은 아니라는 입장이다. 샤오미코리아는 이통3사 유통망 재진입과 관련해 \"아직 확정되거나 결정된 바가 없다\"고 밝혔다....",
           "press": "hansbiz.co.kr",
@@ -44,12 +99,56 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT, 구글 AI 혜택 담은 '초이스 요금제' 출시…월 9만원부터",
+          "summary": "아울러 KT의 알뜰폰 자회사 KT엠모바일은 LTE 22종과 5G 12종 등 총 34개 요금제 가격을 인하한다. 대상 요금제는 LTE 22종, 5G 12종 등으로, 고용량 데이터 요금제를 1만원대로 이용할 수 있다. …",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 15:18",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476341",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'보조금 경쟁' 한다더니···단통법 폐지 1년, 꽁꽁 묶인 통신 시장",
+          "summary": "이재명 정부가 가계통신비 절감과 시장 경쟁 활성화를 목표로 '이동통신 단말장치 유통구조 개선법(단통법)'을 폐지한 지 1년이 지났지만, 당초 기대했던 '보조금 경쟁'이나 통신비 인하 효과는 미미한 것으로 나타났다..…",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 15:12",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423009",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "사전판매만 500만대 '갤럭시 Z폴드 시리즈'…첫 적자 지울 발판 되나",
+          "summary": "울트라가 사전 예약의 약 60%를 차지했다. 고소득층과 비즈니스 고객, 기존 프리미엄 스마트폰 이용자가 최상위 모델을 선호하면서 높은 수익성을 기록했다. 특히 아이폰의 점유율이 높은 일본에서도 흥행 조짐이...",
+          "press": "g-enews.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 15:00",
+          "link": "https://www.g-enews.com/view.php?ud=20260811145011865827fa31d75c_1",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[부캐 키우는 금융사] ④ 보험사가 집 짓고 요양까지…커지는 시니어 시...",
           "summary": "은행은 배달앱과 알뜰폰, 쇼핑 플랫폼을 운영하고, 보험사는 시니어 주거·요양 사업에 진출하는 등 금융과... 생활·통신·유통·주거·데이터 시장으로 사업 영역을 넓히는 흐름을 조명한다. 각 신사업의 추진 배경과...",
           "press": "straightnews.co.kr",
           "date": "2026-08-11",
           "datetime": "2026-08-11 14:52",
           "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308706",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 풍향계] KT-롯데백화점 'RCS 메시징 시스템' 구축·KT-구글 '초이스...",
+          "summary": "이러한 조치는 최근 출시된 갤럭시 Z8시리즈와 같은 프리미엄 자급제 단말 이용 고객에게 실질적인 혜택을 주려고 마련했다. 11일 발표에 따르면 고용량과 무제한 요금제가 대거 포함돼 고객의 선택 폭이...",
+          "press": "newsworks.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 14:50",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850010",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -88,12 +187,122 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT엠모바일, LTE·5G 34종 요금 인하",
+          "summary": "컨슈머타임스=강나연 기자 | 국내 알뜰폰 1위 사업자 KT엠모바일은 25~30GB 고용량 및 무제한 데이터 요금제를 포함한 총 34종 요금제의 월 이용료를 인하했다고 11일 밝혔다. 이번 요금제 개편에는 고용량·무제…",
+          "press": "cstimes.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 11:38",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=716392",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'알뜰폰 1위' KT엠모바일, LTE·5G 34종 요금 인하… 30GB도 1만원대",
+          "summary": "국내 알뜰폰 1위 사업자 KT엠모바일은 25~30GB 고용량 및 무제한 데이터 요금제를 포함한 총 34종 요금제의 월 이용료를 인하했다고 11일 밝혔다. 이번 요금제 개편에는 고용량·무제한 데이터 요금제까지 포함돼 …",
+          "press": "financialpost.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 11:32",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269954",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "인기 신용·체크카드 1위 모두 ‘선택형 혜택’...\"혜택 집중 성향\"",
+          "summary": "국내 가맹점과 아파트관리비·통신비, 교육 가운데 하나를 고르고, 온라인쇼핑몰·의료·배달앱 또는 음식점·편의점·할인점·주유 가운데 한 개 패키지를 매달 선택하는 방식이다. 체크카드 1위인 케이뱅크 'ONE...",
+          "press": "joseilbo.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 11:24",
+          "link": "https://n.news.naver.com/mnews/article/123/0002388184?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "카드고릴라 \"'선택형 혜택' 대세\"…소비 패턴 따라 고른다",
+          "summary": "이용자는 국내 가맹점과 아파트 관리비·통신비, 교육 가운데 한 영역을 고를 수 있다. 여기에 온라인 쇼핑몰·의료·배달앱 패키지와 음식점·편의점·할인점·주유 패키지 중 하나를 추가로 선택해 매달 적용할 수...",
+          "press": "slist.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 11:10",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=758052",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[IT는 지금] KT, 초이스 요금제에 구글 AI 결합 外",
+          "summary": "KT엠모바일은 갤럭시 Z8 시리즈 등 프리미엄 자급제 단말 이용 고객까지 요금 인하 혜택을 확대한다는 계획이다. ◆오픈AI, 사이버보안 특화 ‘GPT-5.6 사이버’ 출시 오픈AI가 고급 취약점 연구와 익스플로잇 검…",
+          "press": "dealsite.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 11:02",
+          "link": "https://dealsite.co.kr/articles/166968",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "금융위 '신용성장스코어' 내년 도입...카뱅은 4년 전에 이미 시작 '눈길...",
+          "summary": "두 모형이 세금·통신비 같은 비금융 데이터를 신용평가에 활용한다는 방법론적 결을 공유하고 있어서다. 11일 금융권에 따르면 금융위가 준비 중인 신용성장스코어는 세금·국민연금·통신비 납부 기록에 온라인 쇼핑...",
+          "press": "그린포스트코리아",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 10:54",
+          "link": "https://www.greened.kr/news/articleView.html?idxno=347320",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 구글 AI 결합 요금제·롯데백화점 RCS 도입… 디지털 서비스 경쟁력...",
+          "summary": "프리미엄 자급제 단말기 이용자들의 통신비 부담을 실질적으로 덜어줄 것으로 기대된다. 업계 전문가는 \"이번 KT 그룹의 행보는 AI 서비스 대중화, 기업 고객 커뮤니케이션 혁신, 가성비 중심의 알뜰폰 경쟁력...",
+          "press": "newstnt.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 10:40",
+          "link": "https://www.newstnt.com/news/articleView.html?idxno=713499",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "KT엠모바일, QoS 요금제 대폭 인하…RS도 준비",
           "summary": "이번에 인하한 요금제는 KT엠모바일이 KT 망 도매대가를 기반으로 자체 구성한 종량형(RM) 방식의 요금제다. KT엠모바일은 정부가 추진하는 QoS 적용된 수익배분형(RS) 방식 요금제도 별도로 준비하고 있다. 최근…",
           "press": "hansbiz.co.kr",
           "date": "2026-08-11",
           "datetime": "2026-08-11 10:36",
           "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=855899",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 대학가 원룸 월세 62만5000원…1년 새 7.7%↑, 관리비는 10...",
+          "summary": "월세 60만원에 관리비까지 8만~10만원을 부담해야 하는 구조에서는 식비와 교통비, 통신비 등 기본 생활비를 제외하고도 매달 상당한 비용이 주거비로 빠져나간다. 부모의 지원을 받기 어려운 청년층일수록 주거비...",
+          "press": "weeklytoday.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 10:26",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=789851",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 요금제 AI 혜택 강화…KT엠모바일은 ‘가성비’ 승부",
+          "summary": "KT엠모바일은 최근 출시된 갤럭시 Z8 시리즈 등 프리미엄 자급제 단말 이용 고객을 겨냥해 합리적인 통신비를 앞세운다는 전략이다. 통신업계 한 관계자는 “최근 통신업계 전반에서 가격 경쟁력뿐 아니라 AI...",
+          "press": "thebigdata.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 10:20",
+          "link": "http://www.thebigdata.co.kr/view.php?ud=202608111013123920a47484cf8_23",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "안전∙편의∙몰입 잡는다…LG∙KT∙삼성, 디지털 서비스 강화",
+          "summary": "KT는 구글과 협력해 생성형 AI 혜택을 결합한 '초이스' 요금제 신규 라인업 4종을 선보였다. 신규... 전시관에는 세계 최초 6K 게이밍 모니터 '오디세이 G8'을 비롯해 고성능 SSD '9100 PRO', '갤…",
+          "press": "kdfnews.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 10:18",
+          "link": "http://www.kdfnews.com/news/articleView.html?idxno=186355",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -110,12 +319,67 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT, 구글 AI 혜택 결합한 '초이스 요금제' 신규 라인업 출시",
+          "summary": "한편 KT의 알뜰폰 자회사 KT엠모바일은 25∼30GB 고용량 및 무제한 데이터 요금제를 포함해 모두 34종 요금제 가격을 인하했다고 이날 밝혔다. 대상 요금제는 LTE 22종, 5G 12종 등으로, 고용량 데이터 …",
+          "press": "연합뉴스",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 10:00",
+          "link": "https://n.news.naver.com/mnews/article/001/0016243937?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 데이터 최대 30GB도 1만원대…요금제 34종 인하",
+          "summary": "회사는 이번 요금제 개편으로 고용량·무제한 데이터 요금제가 포함돼 최근 출시된 갤럭시 Z8 시리즈 등 프리미엄 자급제 단말 이용 고객에게도 실질적인 혜택이 돌아갈 것으로 보고 있다. 이번 인하로 월 25~30GB..…",
+          "press": "widedaily.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:50",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=299171",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 34종 요금제 인하…\"30GB도 1만원대\"",
+          "summary": "이에 따라 최근 출시된 갤럭시 Z8 시리즈 등 프리미엄 자급제 단말 이용 고객도 혜택을 누릴 수 있을 것으로 보인다. 개편 대상인 요금제는 LTE 22종, 5G 12종 등 총 34종이다. 이번 인하로 월 25~30G…",
+          "press": "디지털데일리",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:35",
+          "link": "https://n.news.naver.com/mnews/article/138/0002237324?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 알뜰폰 요금제 34종 인하…30GB도 1만원대",
+          "summary": "알뜰폰업체 KT엠모바일이 데이터 25~30GB 및 무제한 요금제를 포함한 총 34종 요금제의 월 이용료를 인하했다. 이번 요금제 개편에는 고용량·무제한 데이터 요금제까지 포함돼 최근 출시된 갤럭시Z8 시리즈 등...",
+          "press": "전자신문",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:32",
+          "link": "https://n.news.naver.com/mnews/article/030/0003456118?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[위클리오늘] KT, KT엠모바일(8.11)",
           "summary": "알뜰폰 시장에서 데이터 사용량이 많은 이용자를 겨냥한 요금 경쟁이 이어지는 가운데 고용량 요금제까지 개편 대상에 포함해 선택 폭을 넓혔다. 이번 개편 대상은 LTE 22종과 5G 12종이다. 특히 25~30GB 구간…",
           "press": "weeklytoday.com",
           "date": "2026-08-11",
           "datetime": "2026-08-11 09:26",
           "link": "http://www.weeklytoday.com/news/articleView.html?idxno=789830",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"데이터 30GB가 1만 원대\"…KT엠모바일, 요금제 34종 가격 인하",
+          "summary": "알뜰폰 사업자 KT엠모바일은 고용량 및 무제한 데이터 요금제를 포함한 총 34종 요금제의 월 이용료를 인하했다고 11일 밝혔다. 대상 요금제는 LTE 22종, 5G 12종 등 총 34종이다. 이번 인하로 월 25~3…",
+          "press": "뉴스1",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:10",
+          "link": "https://n.news.naver.com/mnews/article/421/0009106981?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -132,12 +396,45 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT엠모바일, 데이터 최대 30GB도 1만원대…요금제 34종 인하",
+          "summary": "회사는 이번 요금제 개편으로 고용량·무제한 데이터 요금제가 포함돼 최근 출시된 갤럭시 Z8 시리즈 등 프리미엄 자급제 단말 이용 고객에게도 실질적인 혜택이 돌아갈 것으로 보고 있다. 이번 인하로 월 25~30GB..…",
+          "press": "뉴시스",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 08:50",
+          "link": "https://n.news.naver.com/mnews/article/003/0014119180?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, LTE·5G 요금제 34종 월 이용료 인하",
+          "summary": "사진=KT엠모바일 KT엠모바일은 11일 이번 개편에 최근 출시된 갤럭시 Z8 시리즈 등 프리미엄 자급제 단말 이용 고객이 주로 찾는 고용량·무제한 상품을 포함했다. 인하 대상은 LTE 22종과 5G 12종이며 25~…",
+          "press": "slist.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 08:40",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=757979",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "비용 30% 줄여도 이익 72%↓…LG헬로비전 하반기도 '먹구름'",
           "summary": "알뜰폰 역시 이동통신 시장의 저가 요금제 경쟁 심화로 매출이 줄었다. 다만 2분기 매출은 직전 분기와 비교하면 0.1% 증가한 368억 원으로 감소세가 일단 주춤했다. 유료방송 사업의 부진은 LG헬로비전만의 문제는.…",
           "press": "뉴스1",
           "date": "2026-08-11",
           "datetime": "2026-08-11 06:20",
           "link": "https://n.news.naver.com/mnews/article/421/0009106755?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "금융권, 갤럭시 Z8 흥행에 '들썩'…\"구매 혜택 경쟁\"",
+          "summary": "자급제 갤럭시 스마트폰을 등록한 고객에게 요금제에 따라 매월 최대 2만5000 삼성월렛 포인트를 24개월 동안 제공한다는 것이다. 최대 60만원 상당이다. 삼성월렛머니에 우리은행 계좌를 등록하면 통신요금도 월 110…",
+          "press": "bizwnews.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 03:28",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=142876",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -637,5 +934,5 @@
       ]
     }
   ],
-  "total": 53
+  "total": 80
 }

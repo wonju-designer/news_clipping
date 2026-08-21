@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:46 소급 정리",
+  "generated_at": "2026-08-21 15:55 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -33,12 +33,56 @@
           "subgroup_label": ""
         },
         {
+          "title": "[싱글족 재테크] 1인가구 재테크 첫걸음, '선저축 후소비'가 자산관리의...",
+          "summary": "월세와 관리비, 통신비, 보험료, 각종 구독료, 카드값이 빠져나가고 나면 통장에 50만 원도 남지 않기... 예를 들어 실수령액이 월 300만원인 직장인이라면 저축·투자에 20~30%, 주거비·보험·통신비 등 고정비…",
+          "press": "sisacast.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 20:34",
+          "link": "http://www.sisacast.kr/news/articleView.html?idxno=98852",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AI 경쟁 속 통신 3사 R&D 투자 살펴보니…SKT·KT·LGU+ 순",
+          "summary": "LG유플러스는 이번 반기 보고서에 유튜브 모아보기 서비스 개발, 공공와이파이용 5G CPE 개발 등의 연구과제를 명시했다. 한편 연구개발비 회계처리 방식은 3사가 달랐다. KT는 연구개발비의 21.7%인 302억원을…",
+          "press": "디지털데일리",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 20:21",
+          "link": "https://n.news.naver.com/mnews/article/138/0002237933?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT새노조, 2분기 실적 논란 \"해킹에 본업 위기, 신뢰 회복 급선무\"",
+          "summary": "KT새노조는 무선서비스 매출이 1조 6,749억 원으로 전년 동기 대비 1.8% 감소한 점을 핵심 위기로 짚었다. 5G 가입자 비중이 83.2%까지 올랐으나 ARPU(가입자당 평균매출)는 3만 4,412원으로 2.3…",
+          "press": "globale.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 20:00",
+          "link": "https://www.globale.co.kr/news/articleView.html?idxno=39885",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "이통3사, 상반기 보수 공개…정재헌 17억·홍범식 18억",
           "summary": "정 사장의 급여에는 고객 신뢰 회복 및 AX(인공지능 전환)를 통한 이동통신망 사업자(MNO) 사업 경쟁력 강화와 그룹의 AI(인공지능) 인프라 사업 주도, AI B2B(기업간거래) 사업 성과 등이 고려됐다는 설명이…",
           "press": "shinailbo.co.kr",
           "date": "2026-08-14",
           "datetime": "2026-08-14 18:50",
           "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051618",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[뉴스 앤 데이터] 상반기 재계 총수 보수 살펴보니…박정원 455억·구자...",
+          "summary": "홍범식 LG유플러스 대표는 18억1600만원이다. 급여 7억2600만원에 상여 10억8900만원, 기타 근로소득 100만원을 받았다. 회사는 지난해 경영실적과 AX 사업 성과 등을 상여 책정 때 고려했다. 장용호 S…",
+          "press": "seoultimes.news",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 18:46",
+          "link": "https://www.seoultimes.news/news/article.html?no=2000098845",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -55,12 +99,45 @@
           "subgroup_label": ""
         },
         {
+          "title": "공공연대노조, 공무직·자회사·돌봄노동자 등 처우개선 촉구",
+          "summary": "교통비·통신비 등 실비조차 지원받지 못하는 것으로 조사됐다. 토론에 참가한 이주환 한국노동사회연구소... 근속수당·교통비·통신비 지급 ▲ 생활체육지도자에 대한 공무원 8급 기준 호봉제 도입, 상여금 120...",
+          "press": "ohmynews.com",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 17:46",
+          "link": "https://n.news.naver.com/mnews/article/047/0002525637?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "2분기 실적 엇갈린 통신3사… AIDC는 모두 성장",
+          "summary": "◇ SKT, 가입자 기반 회복 못 해… AIDC로 실적 성장 최근 실적발표에 따르면 SKT는 2분기 연결기준 매출 4조3,591억원, 영업이익 5,660억원으로 전년 동기 대비 각각 0.5%, 67% 증가했다. SK…",
+          "press": "sisaweek.com",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 17:36",
+          "link": "https://www.sisaweek.com/news/articleView.html?idxno=237313",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "홍범석 LG유플러스서 상반기 보수 18억, SK텔레콤 정재헌 17억",
           "summary": "SK텔레콤은 정 사장의 보수를 산정하면서 고객 신뢰 회복과 AX를 통한 이동통신(MNO) 사업 경쟁력 강화, 그룹 AI 인프라 사업 주도, AI B2B 사업 확대 등을 고려했다고 설명했다. 박윤영 KT 대표이사 사장…",
           "press": "businesspost.co.kr",
           "date": "2026-08-14",
           "datetime": "2026-08-14 17:28",
           "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444845",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리 시그널] 이통3사, 무선사업 성장 '주춤'…장기고객 잡기 경쟁",
+          "summary": "이통3사의 올해 2분기 실적 발표 결과, 가입자는 증가했지만 무선사업 매출은 크게 늘지 않은 것으로... 현재 SKT는 장기고객 초청 행사를 'T 장기고객 데이'로 통합 운영하고 있다. 다음 혜택 프로모션은 '어드벤…",
+          "press": "itdaily.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 17:22",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241023",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -88,12 +165,34 @@
           "subgroup_label": ""
         },
         {
+          "title": "박윤영 대표 첫 성적표에 KT새노조 \"무선 매출 줄었는데 긴장 안해?\" 쓴...",
+          "summary": "KT새노조가 박윤영 대표의 첫 경영 성적표를 두고 쓴소리를 냈다. 지난해 발생한 펨토셀 해킹 사고로... 5G 가입자 비중은 83.2%까지 확대됐지만 무선서비스 가입자당평균매출(ARPU)은 오히려 2.3% 감소했다.…",
+          "press": "1conomynews.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 17:12",
+          "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50007",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "4대 시중은행, 배달·통신 잇는 생활밀착형 서비스 '확대'",
           "summary": "현대경제신문 정준기 기자 | 4대 시중은행( KB국민·신한·하나·우리은행)이 배달앱과 알뜰폰 등 생활밀착형... 통신에서는 KB국민은행의 경우, 리브모바일 가입자가 지난해 말 44만2000명에서 올 상반기 42만90…",
           "press": "finomy.com",
           "date": "2026-08-14",
           "datetime": "2026-08-14 17:02",
           "link": "http://www.finomy.com/news/articleView.html?idxno=259283",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "기업공시 [8월 14일]",
+          "summary": "신규 대표 선임 ▲에프알텍=KT와 약 56억 원 규모 중계기(5G광중계기) 계약 체결 ▲바이브컴퍼니(301300)=한국지능정보사회진흥원과 19억 원 규모 클라우드 네이티브 전환 사업 체결 ▲에이비온=주권 매매 거래 …",
+          "press": "서울경제",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 16:51",
+          "link": "https://n.news.naver.com/mnews/article/011/0004651879?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -110,12 +209,89 @@
           "subgroup_label": ""
         },
         {
+          "title": "데이터·AI 힘 받은 티맵모빌리티, 2Q EBITA '흑자' 달성...\"6월엔 월 기...",
+          "summary": "티맵 2분기 실적 요약 / 사진=SKT스퀘어 IR자료 캡처 티맵모빌리티가 올해 2분기 매출 744억원, EBITDA 44억원을 기록했다고 밝혔다. 매출의 경우 전년 동기 대비 7.4% 증가, EBITDA는 같은 기간…",
+          "press": "techm.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 16:36",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154347",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "한유원, 대표·임원 통신비 2500만원…'갤폴드' 돌렸나?",
+          "summary": "중소벤처기업부 산하 한국중소벤처기업유통원(한유원)이 대표이사를 포함한 임원 5명의 통신비 명목으로 3년동안 2500만원대 예산을 쓴 것으로 나타나 기관경고 조치를 받은 것으로 나타났습니다. 통신비 내역에는...",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 16:28",
+          "link": "https://n.news.naver.com/mnews/article/374/0000527596?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "박윤영 KT, 모바일 3위 추락 직전…본업 경쟁력 급속 약화",
+          "summary": "KT는 5세대 이동통신(5G) 보급률이 83.2%까지 높아졌지만 무선 가입자당평균매출(ARPU)은 3만4412원으로 전년 동기보다 2.3% 감소했다. KT는 지난 2월부터 7월까지 진행한 고객보답 프로그램과 위약금 …",
+          "press": "4th.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 15:50",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2116393",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "태광그룹 계열 알뜰폰 티플러스 외국인 접점 확대, 다국어 홈페이지 운...",
+          "summary": "티플러스는 여름 휴가철을 맞아 가족 고객의 통신비 부담을 낮추기 위한 요금 할인 혜택과 올리브영·다이소 등과 연계한 제휴 서비스도 제공하고 있다. 고객센터에서는 평균 5분 이내 상담 연결 서비스를 운영하고 있다...…",
+          "press": "businesspost.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 15:20",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444810",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "에프알텍, 56억 규모 5G광중계기 공급계약",
+          "summary": "에프알텍은 KT와 중계기(5G광중계기) 공급계약을 체결했다고 14일 공시했다. 계약금액은 55억8423만원으로 이는 2025년 매출 대비 22.1%에 해당하는 규모이다. 계약기간은 11월 4일까지다.",
+          "press": "헤럴드경제",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 15:18",
+          "link": "https://n.news.naver.com/mnews/article/016/0002684119?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "티플러스, 외국인 고객 수요 반영해 홈페이지 다국어 서비스 확대",
+          "summary": "티플러스는 이와 함께 여름 휴가철을 맞아 가족 고객 대상 통신비 할인 혜택과 올리브영·다이소 등과의 제휴 서비스를 제공하고 있으며, 고객센터는 평균 5분 이내 상담 연결 서비스를 운영하고 있다고 설명했다. 이재석..…",
+          "press": "smarttoday.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 15:06",
+          "link": "https://www.smarttoday.co.kr/ko-kr/articles/110507",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "4년전 나온 아이폰SE 없어서 못판다…日서 귀한몸 된 중고폰",
           "summary": "일본에서 메모리 공급 부족과 엔화 약세로 정보기술(IT) 기기 가격이 일제히 상승하면서 신제품보다 저렴한 중고 제품을 찾는 소비자가 늘고 있는 것으로 나타났다. 14일 니혼게이자이(닛케이)신문은 프랑스에...",
           "press": "이데일리",
           "date": "2026-08-14",
           "datetime": "2026-08-14 14:54",
           "link": "https://n.news.naver.com/mnews/article/018/0006351888?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[기획] 클라우드 저물고 AI 뜬다…이통 3사 AIDC 총력",
+          "summary": "SK텔레콤, KT, LG유플러스 역시 고성능 AI 인프라 시장을 선점하기 위해 대대적인 프로젝트를 추진하는 등... 5G 보급 이후 가입자 증가세는 둔화되고, 가입자당 평균 매출(ARPU) 정체도 장기화되는 등 전통…",
+          "press": "kfenews.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 14:06",
+          "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=662451",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -132,6 +308,28 @@
           "subgroup_label": ""
         },
         {
+          "title": "통신3사, '통신'만 해서는 성장 어렵다…2분기 실적이 보여준 'AIDC'의 가...",
+          "summary": "실제 박종석 SKT CFO는 지난 2분기 실적 발표 컨퍼런스콜에서 \"회사의 최우선 원칙은 선구축 후 수요확보가 아닌 고객 확보 후 데이터센터를 건설하는 것\"이라고 밝힌 바 있다. 반면 LG유플러스는 SKT와 다른 투…",
+          "press": "popcornnews.net",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 13:08",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=129738",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] SK텔레콤, 9월부터 3G 신규 가입 중단 추진… 서비스 종료 ‘신호...",
+          "summary": "LTE·5G로 이동하면서 단말기 교체 비용이나 통신비 부담이 늘지 않도록 대체 요금제와 단말 지원책 등을 마련해야 한다. 승강기 비상통화와 차량 관제, 결제 단말기 등에 사용되는 3G 기반 IoT 회선은 전환에 더 …",
+          "press": "조선비즈",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 11:37",
+          "link": "https://n.news.naver.com/mnews/article/366/0001186288?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "롯데하이마트, 모토로라 품고 모바일 판 키운다",
           "summary": "다만 스마트폰 가격 상승으로 소비자 부담이 높아지는 가운데 30만~40만원대 단말과 자급제·알뜰폰을 묶은 시장은 모토로라가 파고들 수 있는 틈새로 꼽힌다. 롯데하이마트 역시 이런 수요를 모바일 사업 확대에...",
           "press": "4th.kr",
@@ -143,12 +341,56 @@
           "subgroup_label": ""
         },
         {
+          "title": "청년 곁으로 다가선 LG유플러스, 청년재단과 맞손",
+          "summary": "특화 요금제 경쟁에도 참여하고 있다. SK텔레콤은 대학생들과 함께 고객 서비스 개선 아이디어를 발굴하는 'CX 캠퍼스'를 8주간 진행했고 KT는 AI 스타트업을 발굴해 사업 파트너로 키우는 'K-PATH' 공모를 시…",
+          "press": "econovill.com",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 11:28",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=748030",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "반전 꾀하는 롯데하이마트, 서비스 강화·대표이사 교체 승부수",
           "summary": "상반기 영업손실 139원…대형 가전·생활 주방 가전 매출 축소 영향 케어 서비스·PB제품·중고폰 사업... 롯데하이마트는 차별화를 위해 케어 서비스·PB제품·중고폰 등 사업을 집중적으로 육성한다는 계획이다....",
           "press": "topdaily.kr",
           "date": "2026-08-14",
           "datetime": "2026-08-14 10:53",
           "link": "https://www.topdaily.kr/articles/111437",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 맥락읽기] 통신 3사끼리 싸우던 시대 끝…이제 'IT 영토' 싸움",
+          "summary": "과거 SK텔레콤과 KT, LG유플러스가 가입자와 통신요금을 놓고 경쟁했다면 이제는 데이터센터와 클라우드... 누가 더 많은 가입자를 확보하고 더 좋은 요금제와 서비스를 제공하느냐가 핵심이었습니다. 5G 시대에도...",
+          "press": "pointdaily.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 10:30",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315388",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "1030 마음 '꽉' 사로잡은 갤럭시 Z8 시리즈, 韓 넘어 일본·유럽서도 '흥...",
+          "summary": "투데이코리아=안현준 기자 | 삼성전자가 선보인 갤럭시 Z8 시리즈가 전작을 웃도는 사전 판매량을 기록하는 등 전세계적으로 흥행에 성공하면서, 자급제 단말기를 중심으로 품귀 현상까지 이어지고 있다. 특히...",
+          "press": "todaykorea.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 09:58",
+          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=404920",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[애널픽] \"통신장비, 연내 전고점 돌파 가능…통신3사도 주목\"",
+          "summary": "그는 \"AI 데이터센터 설립 붐으로 광통신 투자 증가로 올해 광통신 업체 실적이 본격적인 호전세를... 통신서비스 업종에 대해선 SKT를 최선호하지만 현 주가에선 KT와 LGU+도 투자 매력도가 높다고 평가했다. 김…",
+          "press": "theviewers.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 09:26",
+          "link": "https://theviewers.co.kr/View.aspx?No=4186432",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -182,6 +424,17 @@
           "date": "2026-08-14",
           "datetime": "2026-08-14 07:06",
           "link": "https://n.news.naver.com/mnews/article/031/0001049678?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "﻿[AI로 읽는 경제] ⑤ 선장은 남았지만 AI가 항로를 고른다…조선업이...",
+          "summary": "시스템 설치비와 구독료, 통신비, 센서 정비비, 교육비를 제외한 순편익을 선종별로 확인해야 한다. 예를 들어 연간 연료비가 100억원인 선박에서 4.2%가 유지된다면 단순 계산상 4억2000만원을 줄일 수 있다. 이…",
+          "press": "newspim.com",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 06:00",
+          "link": "https://www.newspim.com/news/view/20260813000276",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -682,5 +935,5 @@
       ]
     }
   ],
-  "total": 57
+  "total": 80
 }

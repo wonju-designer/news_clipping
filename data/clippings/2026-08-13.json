@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:46 소급 정리",
+  "generated_at": "2026-08-21 15:55 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -11,12 +11,78 @@
       "digest": "",
       "articles": [
         {
+          "title": "[K-놀부전] KT의 인프라 '인질극'",
+          "summary": "티오더 관계자: 두 개 하면 KT 직원 A: 10만 원 - KT 직원 A - 티오더 관계자 간 통화 (23년 4월) 결국 티오더를 사용하다 맥 제한 조치 등으로 피해를 입었던 소상공인 가운데 일부는 일선 KT 직원의…",
+          "press": "newstapa.org",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 21:05",
+          "link": "https://n.news.naver.com/mnews/article/607/0000003445?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"KT 클라우드 20%·estate 80% 폭풍 성장…자회사가 이끈 KT의 반전\"",
+          "summary": "KT는 2분기 연결 매출액이 전년 동기대비 10.1% 감소한 6조6799억원, 영업이익이 36.1% 줄어든 6483억원을... 무선 통신 부문의 요금제 설계 및 과금 역량을 기반으로, AI 시대 토큰 사용량 측정 및…",
+          "press": "newsquest.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 19:10",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=271752",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "1000만명 쓰는데… 최적요금제 안내 못받는 알뜰폰",
           "summary": "이동통신 요금에 민감한 1048만 알뜰폰 가입자들은 최적요금 안내에서 소외되는데다, 번호이동으로 이동통신 회사를 옮기는 경우 요금 데이터가 리셋되면서 자칫 최적요금 안내가 부실해질 수 있다는 우려가 나오면서다....",
           "press": "파이낸셜뉴스",
           "date": "2026-08-13",
           "datetime": "2026-08-13 18:18",
           "link": "https://n.news.naver.com/mnews/article/014/0005561392?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[보험 뉴스브리핑] ABL생명 미니보험 2종 출시",
+          "summary": "아이폰을 포함한 전 기종과 자급제·알뜰폰 이용자도 혜택을 받을 수 있다. 이 보험은 수리 횟수와 자기부담금을 직접 선택할 수 있으며 갤럭시 스마트폰은 파손 보장이 최대 5년까지 제공되는 것이 특징이다....",
+          "press": "asiatime.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 18:18",
+          "link": "https://www.asiatime.co.kr/article/20260813500376",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "재무 부담에 지갑 못여는 SKT·KT… 설비투자 두 자릿수 '뚝'",
+          "summary": "5G 상용화 8년 차에 접어들었지만, 네트워크 품질 등 여전히 개선해야 할 인프라 과제가 산적한 상황에서 설비투자가 뒷전으로 밀리고 있다는 지적이 나온다.13일 통신3사 실적 보고서를 보면 올해 상반기 각 사...",
+          "press": "asiatoday.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 18:04",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260814010004793",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
+          "summary": "삼성전자 갤럭시 폴더블 출시부터 여권형 화면비로 관심을 모았던 폴드8을 비롯한 삼성의 폴더블폰을... 새로운 요금제'라는 메시지가 익숙하면서도 신뢰성 있게 전달된다. 롯데웰푸드 – '우리 시대의 낭만 스낵, 꼬깔콘.…",
+          "press": "banronbodo.com",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 16:56",
+          "link": "https://www.banronbodo.com/news/articleView.html?idxno=32784",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "실적 부담 요소 걷어낸 KT…'AX'로 체질 개선 속도",
+          "summary": "고객 보답 프로그램의 일환인 데이터 추가 제공으로 인한 고객들의 요금제 하향 변경 등도 완화될 것으로 예상된다. 13일 금융감독원 전자공시시스템에 따르면 KT는 올해 2분기 연결 기준 매출 6조6799억원, 영업이익…",
+          "press": "goodkyung.com",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 16:44",
+          "link": "https://www.goodkyung.com/news/articleView.html?idxno=290253",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -55,12 +121,67 @@
           "subgroup_label": ""
         },
         {
+          "title": "KB국민은행, 환전 고객에 해외 eSIM 데이터 1GB 제공",
+          "summary": "특히 해외에서는 지도와 교통정보 검색, 모바일 결제, 메신저 사용 등 스마트폰 데이터 이용이 필수적인 만큼 일정량의 데이터를 무료로 제공해 여행 초기 통신비 부담을 줄이는 데 도움이 될 것으로 기대된다....",
+          "press": "todayeconomic.com",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 16:18",
+          "link": "https://www.todayeconomic.com/news/article.html?no=31717",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "가입자 늘어도 매출은 제자리…유료방송 성장 한계",
+          "summary": "KT는 앞서 프리미엄 요금제와 셋톱박스 이용 확대를 미디어 사업 성장 요인으로 제시한 바 있으며, LG유플러스도 이번 분기 ARPU 상승을 IPTV 매출 증가 배경으로 꼽았습니다.",
+          "press": "newstomato.com",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 16:06",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1310228&inflow=N",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사, 2분기 영업이익 선방…AX가 성장 견인",
+          "summary": "KT·SKT 영업익 본궤도…LG유플러스는 사상 최대 AIDC 등 AX가 성장 견인…통신 본업도 안정적 통신 3사 CI. 통신 3사가 올해 2분기 견조한 실적을 거뒀다. KT와 SK텔레콤은 영업이익 등락에서 엇갈렸지만…",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 15:38",
+          "link": "http://www.metroseoul.co.kr/article/20260813500442",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "OTT 광고형 매출 63조 시대…방송도 ‘광고 족쇄’ 푼다",
+          "summary": "국내에서도 광고형 요금제 이용이 늘고 있다. KT나스미디어의 '2026 인터넷 이용자 조사(NPR)'에 따르면 국내 OTT 이용자의 59.7%가 광고형 요금제를 이용하는 것으로 나타났다. 넷플릭스 이용자의 54.2%…",
+          "press": "ekn.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 15:30",
+          "link": "https://www.ekn.kr/web/view.php?key=20260813023142379",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "카카오페이손보, 다음달까지 휴대폰 보험료 100원 혜택",
           "summary": "행사 대상은 갤럭시 신제품뿐 아니라 아이폰 등 모든 기종이며, 자급제 단말기와 알뜰폰 이용자도 참여할... 고가 스마트폰 출시와 함께 휴대폰보험 가입자도 늘고 있다. 올해 상반기 누적 가입자는 2024년...",
           "press": "g-enews.com",
           "date": "2026-08-13",
           "datetime": "2026-08-13 15:28",
           "link": "https://www.g-enews.com/view.php?ud=202608131526466064e30fcb1ba8_1",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"과징금 540억 폭탄 맞은 KT…올해 배당 증액 물건너갔지만 'AI 카드로 반...",
+          "summary": "KT의 장기 성장 동력으로는 9만원 이상 고가 요금제에서 AI 플러스 요금제 출시가 꼽혔다. 이로 인해 장기적으로 1인당 평균매출(ARPU) 상승 기대감이 형성되고 있다. 또한 2027년 국내 AI 기지국 활성화에 …",
+          "press": "newsquest.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 14:52",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=271726",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -99,12 +220,34 @@
           "subgroup_label": ""
         },
         {
+          "title": "호르무즈 불확실성에 유가 다시 들썩…물가 불안 커지나",
+          "summary": "재정경제부 관계자는 \"가공식품도 일부 업계에서 가격 인상 움직임이 있고, 반도체 가격 인상으로 태블릿 가격도 많이 올랐다\"며 \"중동 전쟁 관련 불확실성도 지속되고 있고, 작년 통신비 인하 효과도 있어 8월에는...",
+          "press": "뉴시스",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 13:12",
+          "link": "https://n.news.naver.com/mnews/article/003/0014125609?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "카카오페이손보, 휴대전화보험 '첫 달 100원' 연장",
           "summary": "통신사와 관계없이 자급제 단말기와 알뜰폰 이용자도 혜택받을 수 있다. 갤럭시 신제품 가운데서는 Z폴드8 가입 비중이 가장 높았다. 사전 예약자 개통이 시작된 지난 4~10일 신규 가입자의 기종별 비중을 보면...",
           "press": "thereport.co.kr",
           "date": "2026-08-13",
           "datetime": "2026-08-13 12:02",
           "link": "https://www.thereport.co.kr/news/articleView.html?idxno=90411",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "요금제 짜던 KT, 이젠 'AI 토큰 가격표' 만든다… 1GW AIDC 위 새 수익 공...",
+          "summary": "KT가 무선 통신에서 축적한 복잡한 요금제 설계와 과금 역량을 AI 시대의 새로운 사용 단위에 적용한다는 구상이다. 단순히 '통신사가 AI도 한다'는 수준과는 결이 다르다. KT의 전략을 뜯어보면 AIDC에서 연산.…",
+          "press": "s-journal.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 11:58",
+          "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=43012",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -132,12 +275,34 @@
           "subgroup_label": ""
         },
         {
+          "title": "[단독] 인천시, 운행 안전위한 전세버스 통신비 지원,... 시민 안전망 강...",
+          "summary": "인천광역시(시장 박찬대)가 전세버스 운행정보의 실시간 전송을 위한 통신비 지원사업을 추진하면서... 차량 1대당 월 통신비 1만5,000원의 절반인 7,500원을 지원하고 나머지는 사업자가 부담한다. 지원 규모는 경…",
+          "press": "discoverynews.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 11:06",
+          "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1098516",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[금융] 하나카드 러닝 특화카드 / 카카오페이손보 휴대폰보험 / ABL생명...",
           "summary": "갤럭시 신제품뿐 아니라 아이폰 등 전 기종이 대상이며 자급제와 알뜰폰 이용자도 가입할 수 있다. 카카오페이손해보험에 따르면 8월 4~10일 신규 가입자 가운데 Z폴드8 비중이 75%로 가장 높았고 Z폴드8 울트라 2…",
           "press": "webeconomy.co.kr",
           "date": "2026-08-13",
           "datetime": "2026-08-13 11:00",
           "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2265440",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"여권형 사려면 한달 대기는 기본\"…폴드8 흥행에 공급 속도전",
+          "summary": "삼성전자의 여권형 디자인 폴더블폰 갤럭시 Z 폴드8이 흥행하면서 이동통신사를 거치지 않는 자급제 단말기를 중심으로 품귀 현상이 이어지고 있다. 삼성전자는 원활한 제품 공급을 위해 총력을 다한다는 방침이다. 13일..…",
+          "press": "view.asiae.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 11:00",
+          "link": "https://n.news.naver.com/mnews/article/277/0005802628?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -154,6 +319,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT알파, 상반기 영업익 262억원…전년비 0.3% 증가",
+          "summary": "통신 요금제·부가서비스와 연계한 구독형 상품과 통합상품권 브랜드 제휴 확대가 기여했다. 앞서 KT알파는 지난 7월 창립 35주년을 맞아 경영전략 'SHIFT 2026'을 발표했다. AI(인공지능)와 데이터를 기반으로…",
+          "press": "IT조선",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 10:36",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168051",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "카카오페이손보, 휴대폰보험 '첫 달 100원' 내달 4일까지",
           "summary": "카카오페이손보는 신규 단말기 공급이 지연되면서 혜택 기간을 늘려달라는 가입자들의 문의가 잇따라 당초... 이번 이벤트는 최신 폴더블폰뿐만 아니라 아이폰을 포함한 모든 기종에 적용되며 알뜰폰이나 자급제 단말...",
           "press": "pointdaily.co.kr",
@@ -165,12 +341,45 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT알파, 상반기 영업이익 262억원",
+          "summary": "KT알파(대표 박정민)가 2026년 상반기 매출 1,925억원, 영업이익 262억원, 당기순이익 247억원을 기록했다. 반면... 특히 통신 요금제·부가서비스와 연계한 구독형 상품과 통합상품권 브랜드 제휴를 확대하는…",
+          "press": "apparelnews.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 09:58",
+          "link": "http://www.apparelnews.co.kr/news/news_view/?idx=226893",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사 모두 AI 요금제…인터넷·OTT 이어 新 '번들링' 전략 굳히나",
+          "summary": "12일 업계에 따르면 이통 3사는 KT를 마지막으로 모두 AI 결합 요금제를 출시했다. 지난 해 LG유플러스가 도입한 데 이어 SK텔레콤이 선보였고 KT도 지난 11일 동참했다. KT는 구글 AI를 결합한 '초이스'…",
+          "press": "news.mtn.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 09:54",
+          "link": "https://news.mtn.co.kr/news-detail/2026081216454494844",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "카카오페이손보, 휴대폰보험 '첫 달 100원' 이벤트 9월 4일까지 연장",
           "summary": "이번 이벤트는 갤럭시 신제품뿐만 아니라 아이폰을 포함한 전 기종을 대상으로 하며, 통신사와 관계없이 자급제 단말기와 알뜰폰 이용자도 동일한 혜택을 받을 수 있다. 갤럭시 신제품 출시 이후 휴대폰보험 가입자...",
           "press": "fins.co.kr",
           "date": "2026-08-13",
           "datetime": "2026-08-13 09:50",
           "link": "http://www.fins.co.kr/news/articleView.html?idxno=109600",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT알파, 상반기 영업익 262억원…“외형·내실 견조한 성장”",
+          "summary": "KT알파는 올해 상반기 매출 1925억원, 영업이익 262억원, 당기순이익 247억원을 기록했다고 13일 밝혔다. 전년... 특히 통신 요금제·부가서비스와 연계한 구독형 상품과 통합상품권 브랜드 제휴를 확대하는 등 …",
+          "press": "kukinews.com",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 09:30",
+          "link": "https://www.kukinews.com/article/view/kuk202608130028",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -198,12 +407,144 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT알파, 상반기 영업익 262억원…“외형·수익 동반성장”",
+          "summary": "통신 요금제·부가서비스와 연계한 구독형 상품과 통합상품권 브랜드 제휴 확대가 기여했다. KT알파는 지난 7월 창립 35주년을 맞아 경영전략 ‘SHIFT 2026’을 발표했다. AI(인공지능)와 데이터를 기반으로 회사…",
+          "press": "헤럴드경제",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 08:55",
+          "link": "https://n.news.naver.com/mnews/article/016/0002683223?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "‘일회성’ 걷어낸 KT, 2분기 깜짝 호실적…AX로 날개 단다",
           "summary": "다만 5G 가입자는 전 분기 대비 8만명 늘어난 1115만명(보급률 83.2%)을 기록했고, SK텔레콤 해킹 사고 반사효과로 KT MVNO 가입자가 전년 대비 18.3% 늘어난 904만8000명까지 증가했다. 유선사…",
           "press": "매일경제",
           "date": "2026-08-13",
           "datetime": "2026-08-13 08:52",
           "link": "https://n.news.naver.com/mnews/article/009/0005720367?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "구글, ‘픽셀11’ 공개…AI 강화했지만 가격도 100달러 인상",
+          "summary": "또 픽셀 11 프로급 이상을 구매하는 고객에게는 자사의 ‘AI 프로’ 요금제를 6개월간 무료로 제공한다.... 픽셀폰은 애플의 아이폰만큼 대중적이지는 않지만, 구글은 2023년 이후 픽셀폰에 탑재되는 AI 기능을 꾸…",
+          "press": "etoday.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 08:28",
+          "link": "https://www.etoday.co.kr/news/view/2613968",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“기프티쇼 선물 늘었다”⋯ KT알파, 상반기 영업익 262억 전년比↑",
+          "summary": "KT알파가 올해 상반기 매출 감소에도 영업이익과 당기순이익을 모두 늘리며 수익성을 지켰다. 주력인... 통신 요금제·부가서비스와 연계한 구독형 상품과 통합상품권 브랜드 제휴를 확대하고, 기업 고객 대상...",
+          "press": "viva100.com",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 08:08",
+          "link": "https://www.viva100.com/article/20260813500012",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "웅장한 은유와 감각적 연출 돋보인 기획…SKT 새광고",
+          "summary": "- 서영덕 평론가 (평점 6.1) 제품과 서비스의 밀착 결합 또한 갤럭시 Z 폴드8의 대화면과 SKT의 OTT 요금제를 자연스럽게 연결해, 새로운 기기로 콘텐츠를 즐기는 경험을 설득력 있게 보여준다고 분석했습니다. …",
+          "press": "에이피신문",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 08:00",
+          "link": "https://www.apnews.kr/news/articleView.html?idxno=3050425",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "앱 여는 스마트폰 끝나나… 구글 픽셀11, '알아서 행동하는 AI폰' 승부수",
+          "summary": "픽셀11 프로 구매자에게는 '구글 AI 프로' 요금제를 6개월간 무료로 제공한다. 스마트폰을 판매한 뒤... 픽셀은 글로벌 스마트폰 시장에서 애플 아이폰이나 삼성전자 갤럭시보다 판매 규모가 작지만, 구글이 자체...",
+          "press": "IT조선",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 07:56",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168037",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "미래에셋證, “KT, 2분기 실적 기대 웃돌아⋯데이터센터ㆍ해저케이블 사...",
+          "summary": "최 연구원은 \"무선 서비스에서의 요금제 상향 판매(업셀링)에 따른 가입자당 평균 매출(ARPU) 상승과 함께 약 2000억원 규모의 그룹사 이익 기여가 실적 개선을 이끌 것\"이라고 내다봤다. KT의 중장기 성장...",
+          "press": "etoday.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 07:50",
+          "link": "https://www.etoday.co.kr/news/view/2613944",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 고가 AI 요금제 유입으로 장기 ARPU '폭증'…국내 AI 기지국 활성화...",
+          "summary": "\"장기 이익 성장 기대감 따른 주가 상승 나타날 것…절대적인 저평가 상황\" 하나증권은 13일 KT(030200)에 대해 인공지능(AI) 요금제 개편 성과에 따르면 주가 상승이 기대되기에 장기적으로 보유하기 괜찮은 시…",
+          "press": "newsprime.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 07:46",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=743697",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "해킹 악재 바닥 지나는 통신3사…AIDC, 효자 가능성 보인다",
+          "summary": "지난해 하반기부터 통신업계 실적을 짓눌렀던 개인정보 유출(해킹) 사고 여파가 마무리 국면에... 합산 영업익 1.5조 회복…SKT·LGU+ 웃고 KT는 역기저 13일 통신업계에 따르면 SK텔레콤과 KT, LG유플러스…",
+          "press": "뉴스1",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 06:46",
+          "link": "https://n.news.naver.com/mnews/article/421/0009111235?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "구글 픽셀11 프리오더 시작, 최대 350달러 기프트카드 받는 법",
+          "summary": "안드로이드폴리스(Android Police)는 아마존과 베스트바이 모두 언락(자급제) 프로 모델 예약 시 200달러... 픽셀 기존 폰을 반납하며 새 라인을 개통하면 워치5와 갤럭시 탭S10 FE를 무료로 받을 수 …",
+          "press": "wikitree.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 06:30",
+          "link": "https://www.wikitree.co.kr/articles/1152113",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 넘어 새 격전지 ‘AIDC’로…이통3사 2차전 본격화",
+          "summary": "SKT, 엔비디아 GPU 확보 수월…‘SK하이퍼’ 신설로 가속화 추진 “대한민국을 대표하는 1등 AI 인프라 사업자로 진화하겠다.” 박종석 SK텔레콤 CFO는 2분기 실적 발표 컨퍼런스콜에서 이같이 말하며 외부 자금…",
+          "press": "kukinews.com",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 06:02",
+          "link": "https://www.kukinews.com/article/view/kuk202608120178",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "배당 강화한 SKT·LGU+, KT는 2대주주 오른 美 웰링턴 행보 '주목'",
+          "summary": "한편으로는 SKT 등 통신사들이 인공지능(AI) 데이터센터(DC) 사업의 성장성을 실적으로 입증함에 따라 이에 베팅하는 것이란 분석도 나온다. 실제로 웰링턴은 2월부터 SKT 주식 매매를 반복하며 5월 7일까지 49…",
+          "press": "ebn.co.kr",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 06:00",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720116",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사 엇갈린 2Q 성적 속… 효자 된 AI DC",
+          "summary": "전체 실적은 엇갈렸지만 AIDC(인공지능데이터센터)사업은 3사 모두 성장세가 실적으로 확인됐다. SKT의 AIDC 매출은 판교 데이터센터 가동확대 등에 힘입어 92.5% 급증한 1362억원을 기록했다. AIDC사업을…",
+          "press": "머니투데이",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 04:02",
+          "link": "https://n.news.naver.com/mnews/article/008/0005399310?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -879,5 +1220,5 @@
       ]
     }
   ],
-  "total": 75
+  "total": 106
 }

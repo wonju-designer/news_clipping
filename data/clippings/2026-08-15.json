@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:46 소급 정리",
+  "generated_at": "2026-08-21 15:55 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,6 +10,28 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
+        {
+          "title": "“매달 20만원 그냥 나가는데”…아파트 관리비 할인카드 따져보니",
+          "summary": "카드업계 관계자는 “아파트관리비 할인카드의 경쟁력은 할인액 자체보다 소비자의 지출 구조와 얼마나 맞아떨어지느냐에 달려 있다”며 “보험료와 공과금 등 월납요금이 많은지, 주유·통신비 비중이 높은지...",
+          "press": "매일경제",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 20:16",
+          "link": "https://n.news.naver.com/mnews/article/009/0005721517?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "월소득 320만 중 198만원 쓰면서 7년 내 5억? 30대 한결씨 허황된 꿈",
+          "summary": "한결씨는 통신비로 12만원을 지출하며 용돈과 식비로 각각 40만원씩 80만원을 쓰고 있다. 공과금과 각종... 통신비(12만원)는 사용하는 요금제를 조절하는 방식으로 비용을 7만원으로 5만원 낮췄다. 월 60만원에 …",
+          "press": "thescoop.co.kr",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 18:57",
+          "link": "https://n.news.naver.com/mnews/article/665/0000007957?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
         {
           "title": "카카오페이손보, 휴대폰보험 '첫 달 100원' 이벤트 연장",
           "summary": "이번 이벤트는 갤럭시 신제품뿐만 아니라 아이폰을 포함한 전 기종을 대상으로 하며 통신사와 관계없이 자급제 단말기와 알뜰폰 이용자도 동일한 혜택을 받을 수 있다. 갤럭시 신제품 출시 뒤 휴대폰보험 가입자의...",
@@ -22,12 +44,56 @@
           "subgroup_label": ""
         },
         {
-          "title": "치킨·피자 제값 주고 사 먹으면 바보… 외식비 폭탄에 통신사가 던진 ...",
-          "summary": "KT는 지난 3일부터 31일까지 '케이티 멤버십 페스타(케.멤.페)'를 통해 여행·레저 중심의 여름 바캉스 혜택을 대거 선보이고 있다. 공항라운지 1만원 할인, 캐리비안 베이 본인 및 동반 1인 50% 할인, 롯데렌…",
-          "press": "wikitree.co.kr",
+          "title": "[금융 HOT 뉴스] 카드 업계 대세는 '선택형 혜택'…소비 패턴에 맞춰 고...",
+          "summary": "여기에 국내 가맹점·아파트 관리비·통신비·교육 중 하나와 온라인 쇼핑몰·의료·배달앱 또는 음식점·편의점·할인점·주유 중 한 개 패키지를 매달 선택할 수 있다. 체크카드 1위는 케이뱅크의 'ONE 체크카드'가...",
+          "press": "bizwnews.com",
           "date": "2026-08-15",
-          "datetime": "2026-08-15 16:12",
-          "link": "https://www.wikitree.co.kr/articles/1152665",
+          "datetime": "2026-08-15 12:02",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=143029",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[긁기 전에] '생활비 할인' 자취생 지갑 지켜줄 카드는?",
+          "summary": "통신비, 식비다. 당장 주거비를 확 낮추기 어렵다면 매달 반복되는 생활비부터 카드 혜택으로 줄여보는 건 어떨까. 15일 카드고릴라에 따르면 각 카드사들은 전기·도시가스 등 공과금부터 아파트 관리비, 통신비...",
+          "press": "newsworks.co.kr",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 12:00",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850364",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG 2분기 영업익 92.5% 급증…하반기엔 로봇사업까지",
+          "summary": "다른 계열사들의 실적도 개선됐다. LG유플러스의 영업이익은 지난해보다 13.1% 증가했고 LG생활건강은 87.5% 늘었다. LG CNS는 다소 다른 모습을 보였다. AI와 클라우드, 데이터센터를 중심으로 외형 성장을…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 10:44",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477676",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "고장·출동비에 우는 완속충전…스타코프 승부수는 데이터",
+          "summary": "이 결과는 전력구입비·통신비 등을 제외한 자체 분석에 따른 것이다. 이 같은 데이터 역량은 지난 5월 딜라이브 충전망 인수에도 적용됐다. 스타코프는 개인투자조합을 통해 외부자본으로 충전자산을 확보하고, 신규...",
+          "press": "electimes.com",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 08:00",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=371308",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"통신비 낮춰준다더니 개통부터 막혀\"…안면인증에 불편 커진 노년층",
+          "summary": "실제 과기정통부는 최근 만 65세 이상 이용자의 통신비 부담을 낮추기 위해 음성·문자 제공량을 확대했다. 월 2만원대 요금제 이용자에게는 음성과 문자를 기본 제공해 사실상 무제한으로 이용할 수 있도록 했다. 월...",
+          "press": "IT조선",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 07:30",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168171",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -44,12 +110,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "에프알텍, 케이티와 5G 광중계기 공급계약 체결",
-          "summary": "에프알텍(073540)이 케이티와 중계기(5G광중계기) 공급계약을 체결했다고 공시했다. 이번 계약을 통해 에프알텍은 주요 거래처인 케이티에 자사 제품을 공급하게 된다. 한국거래소 공시에 따르면, 확정...",
-          "press": "topstarnews.net",
+          "title": "“피자 반값·아이스크림 30% 할인”…통신사 멤버십, 외식비 부담 낮춘...",
+          "summary": "KT도 외식·식음료 할인에 힘을 싣고 있다. KT는 8월 ‘KT 멤버십 페스타’를 통해 배스킨라빈스 레디팩 30... 고가 요금제나 장기 가입자만을 대상으로 한 혜택보다 피자·치킨·커피처럼 이용 빈도가 높은 품목의.…",
+          "press": "세계일보",
           "date": "2026-08-15",
-          "datetime": "2026-08-15 00:06",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164023",
+          "datetime": "2026-08-15 06:15",
+          "link": "https://n.news.naver.com/mnews/article/022/0004151101?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "실적·AI 기대에 '주주 친화'…젠슨 황 만난 LG 주가 재평가[종목현미경...",
+          "summary": "LG(003550)가 시장 기대치를 웃도는 2분기 실적을 발표하면서 증권가가 잇달아 목표주가를 높이고 있다.... 담당한다\"며 \"LG유플러스(032640)는 AI 데이터센터(AIDC), LG에너지솔루션은 데이터센터 …",
+          "press": "뉴스1",
+          "date": "2026-08-15",
+          "datetime": "2026-08-15 06:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009115337?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -141,5 +218,5 @@
       ]
     }
   ],
-  "total": 8
+  "total": 15
 }

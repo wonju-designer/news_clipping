@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:46 소급 정리",
+  "generated_at": "2026-08-21 15:55 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -28,6 +28,28 @@
           "date": "2026-08-10",
           "datetime": "2026-08-10 17:50",
           "link": "https://www.asiatime.co.kr/article/20260810500365",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[ICT 종합] 캐논코리아 및 비댁스 소식 외",
+          "summary": "-글로벌 테크 액세서리 브랜드 벨킨(Belkin)이 삼성 갤럭시 Z8 시리즈에 최적화된 액정 보호필름과 마그네틱... 엔터프라이즈 요금제 도입 문의도 함께 급증하고 있다. 만들어지는 영상의 성격도 달라졌다. 모픽 내…",
+          "press": "gamevu.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 17:48",
+          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59928",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"싸게 팔지 않겠다\"…애플 퇴짜·딥시크 가격인상",
+          "summary": "그래도 애플은 아이폰과 맥북을 포함한 여러 제품군에서 CXMT의 메모리를 테스트하고 있는 것으로... 특히 딥시크 같은 저가 AI에 대응하기 위해 두 가지 요금제를 내놨습니다. AI 피드백을 제공하는 조건으로 출력 …",
+          "press": "한국경제TV",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 17:43",
+          "link": "https://n.news.naver.com/mnews/article/215/0001261839?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -61,6 +83,17 @@
           "date": "2026-08-10",
           "datetime": "2026-08-10 17:28",
           "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071656",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"갤Z폴드8 256GB로 변경하면 지원금 추가\"",
+          "summary": "뉴스토마토 = 이지은 기자 | 갤럭시Z폴드8 512GB 모델의 재고 부족이 이어지면서 일부 이동통신 유통망이... 취소하거나 자급제폰 등으로 이탈할 가능성도 있습니다. 이에 유통망에서는 재고가 남아 있는 256GB로…",
+          "press": "newstomato.com",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 17:04",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1309789&inflow=N",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -110,12 +143,45 @@
           "subgroup_label": ""
         },
         {
+          "title": "'안드로이드 무덤' 日 홀린 삼성 갤럭시 Z폴드8… 초고가에도 인기랭킹...",
+          "summary": "한국(39%)과 유럽(20%) 등 주요 시장에서 뚜렷한 성장세를 보인 가운데 , 애플 아이폰의 점유율이 압도적인... 하지만 진정한 시험대는 초기 사전 예약 물량 소진 이후와, 다음 달로 예상되는 애플의 폴더블폰 출…",
+          "press": "industrynews.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 15:20",
+          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84235",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[가전 트렌드] 삼성전자, '갤럭시 Z 폴드8 울트라·폴드8·플립8', '갤럭...",
+          "summary": "이 밖에도, 삼성닷컴에서 '갤럭시 Z 폴드8 울트라·폴드8·플립8' 자급제 모델을 사전 구매한 고객 2명 중 1명이 'New 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐다. ▲별도 앱 설치 없이 QR 코드만으로 간…",
+          "press": "ibabynews.com",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 14:34",
+          "link": "https://www.ibabynews.com/news/articleView.html?idxno=153592",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "\"번호이동 시장 '폴드8'이 살린다\"···더 뜨거워지는 8월 통신업계",
           "summary": "이어지느냐\"라며 \"시장 점유율 40% 회복을 노리는 SK텔레콤과 이를 저지해야 하는 KT·LG유플러스, 가입자 확대를 노리는 알뜰폰까지 가세하면서 통신업계의 여름철 가입자 확보 경쟁은 예년보다 뜨거워질 것\"이라고..…",
           "press": "이뉴스투데이",
           "date": "2026-08-10",
           "datetime": "2026-08-10 14:20",
           "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457493",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "갤럭시 Z8, 주력은 기본 '폴드8'…국내 예약 70% 차지",
+          "summary": "실제 삼성닷컴에서 Z8 시리즈 자급제 모델을 사전 구매한 고객의 절반은 'New 갤럭시 AI 구독클럽'에 가입했다. 일반 스마트폰과 플립 이용자의 유입이 실제 판매에서도 이어질지가 폴드8의 소비층 확대 여부를 가를.…",
+          "press": "itdaily.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 14:04",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=240890",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -138,6 +204,50 @@
           "date": "2026-08-10",
           "datetime": "2026-08-10 11:52",
           "link": "http://www.4th.kr/news/articleView.html?idxno=2116055",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'아재폰'의 반전···갤럭시 폴드8, 1030 여성 구매 2배",
+          "summary": "'갤럭시 Z 폴드8 울트라·폴드8·플립8'. 사진=삼성전자 중년 남성 업무용 스마트폰으로 통하던 삼성전자... 삼성전자는 \"삼성닷컴에서 Z8 시리즈 자급제 모델을 사전 구매한 고객 두 명 중 한 명이 이 상품에 가입…",
+          "press": "pointdaily.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 11:02",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314891",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[디지털포스트 모닝픽] '베라루빈' 원가 3만9000弗 … 62%는 메모리값",
+          "summary": "6 루나 무제한 제공 삼성 갤럭시 Z8 글로벌 예약 30% 이상 증가 [디지털포스트(PC사랑)=이백현 기자]... ■ 오픈AI가 챗GPT 무료 이용자와 저가형 '고' 요금제 이용자에게 최신 경량 모델 'GPT-5.6…",
+          "press": "ilovepc.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 09:12",
+          "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60261",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[가봤더니] “정책 어때요” 갤럭시 폴드8 출시 첫날 한산…눈치싸움 '...",
+          "summary": "판매자들은 신제품인 갤럭시Z플립8을 펼쳐 보여주면서도 출고가보다 통신사별 지원 조건과 요금제 유지 기간을 먼저 설명했다. 휴대폰을 판매하는 직원들 역시 “다른 곳에서 속지 않게 강의를 해주겠다”며 구매를...",
+          "press": "dealsite.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 08:02",
+          "link": "https://dealsite.co.kr/articles/166838",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[상반기 테크업종 리포트] ④통신",
+          "summary": "통신3사, 본업 정체 뚫을 해법은 ‘AI 인프라’…SKT·LGU+ 실적 개선 3사 합산 AI 인프라 투자 ‘조 단위’... 5G 보급률이 80%를 넘어서고 알뜰폰과 중저가 요금제 확산으로 통신 본업의 고성장이 어려워…",
+          "press": "dnews.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 05:40",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608081508572440257",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -625,5 +735,5 @@
       ]
     }
   ],
-  "total": 52
+  "total": 62
 }
