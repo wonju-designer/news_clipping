@@ -59,6 +59,11 @@ TEMPLATE = r"""<!DOCTYPE html>
   .daybtn.on{background:var(--navy);color:#fff;}
   .daybtn .cnt{font-size:11px;color:var(--t3);}
   .daybtn.on .cnt{color:#cfe0f2;}
+  .dgrp{font-size:11px;font-weight:700;color:var(--navy);margin:10px 4px 4px;
+    text-transform:none;letter-spacing:0.2px;}
+  .dgrp:first-child{margin-top:0;}
+  .dgrp.back{color:var(--t2);border-top:1px solid var(--border);padding-top:10px;}
+  .dgrp-x{font-weight:400;color:var(--t3);font-size:10px;}
   .main{flex:1;min-width:0;}
   .search{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:12px;margin-bottom:12px;}
   .search input{width:100%;border:1px solid var(--border);border-radius:8px;padding:10px 12px;font-size:14px;
@@ -130,11 +135,21 @@ let query = "";
 const esc = s => (s||"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 function renderDays(){
-  document.getElementById("days").innerHTML = DATA.map(d=>{
+  const daily = DATA.filter(d=>!d.backfill_note && d.kind!=="monthly");
+  const back  = DATA.filter(d=>d.backfill_note || d.kind==="monthly");
+  const btn = d=>{
     const name = d.kind==="monthly" ? "📚 "+(d.label||d.date) : d.date;
     return `<button class="daybtn ${d.date===curDay&&!query?'on':''}" onclick="pickDay('${d.date}')">
       <span>${esc(name)}</span><span class="cnt">${d.total}건</span></button>`;
-  }).join("") || '<div class="hit">데이터 없음</div>';
+  };
+  let html = "";
+  if(daily.length){
+    html += `<div class="dgrp">매일 클리핑</div>` + daily.map(btn).join("");
+  }
+  if(back.length){
+    html += `<div class="dgrp back">소급 아카이브 <span class="dgrp-x">(과거 일괄 정리)</span></div>` + back.map(btn).join("");
+  }
+  document.getElementById("days").innerHTML = html || '<div class="hit">데이터 없음</div>';
 }
 function renderChips(){
   document.getElementById("chips").innerHTML = CATS.map(([id,nm])=>
