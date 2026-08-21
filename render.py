@@ -9,6 +9,7 @@
 """
 
 import html
+import os
 from datetime import datetime
 
 import config
@@ -203,11 +204,24 @@ def build_html(collected_display: dict, top: list, total: int, digests: dict = N
     now = datetime.now(config.KST)
     meta = f"{now:%Y년 %-m월 %-d일} ({WD_KR[now.weekday()]}) · 오전 8:00 · 총 {total}건"
 
+    # '지난 소식 보기' 버튼 — DASHBOARD_URL 환경변수가 있을 때만 노출
+    dash_url = os.environ.get("DASHBOARD_URL", "").strip()
+    dash_btn = ""
+    if dash_url:
+        dash_btn = (
+            f'<a href="{esc(dash_url)}" target="_blank" '
+            f'style="display:inline-block;margin-top:12px;padding:8px 16px;'
+            f'background:rgba(255,255,255,0.15);border:1px solid rgba(255,255,255,0.35);'
+            f'border-radius:8px;color:#ffffff;font-size:13px;font-weight:600;'
+            f'text-decoration:none;">📋 지난 소식 보기 (대시보드)</a>'
+        )
+
     header = (
         f'<div style="background:{C["header_bg"]};padding:20px 24px;">'
         f'<div style="font-size:20px;font-weight:600;color:#ffffff;letter-spacing:-0.3px;">'
         f'아이즈비전 뉴스 클리핑</div>'
         f'<div style="font-size:13px;color:{C["header_sub"]};margin-top:4px;">{meta}</div>'
+        f'{dash_btn}'
         f'</div>'
     )
 
