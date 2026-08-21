@@ -38,7 +38,8 @@ def _in_range(pub, start, end):
     return pub is not None and start <= pub <= end
 
 
-def _collect_terms(terms, badge, start, end, seen, extra_exclude=(), require_any=()):
+def _collect_terms(terms, badge, start, end, seen, extra_exclude=(), require_any=(),
+                   require_context=()):
     """키워드 목록으로 수집 → 기간·필터 통과분만 반환."""
     out = []
     for q in terms:
@@ -50,9 +51,12 @@ def _collect_terms(terms, badge, start, end, seen, extra_exclude=(), require_any
             if key in seen:
                 continue
             text = art["title"] + " " + art["desc"]
+            low = text.lower()
             if collect._excluded(text, extra_exclude):
                 continue
-            if require_any and not any(k.lower() in text.lower() for k in require_any):
+            if require_any and not any(k.lower() in low for k in require_any):
+                continue
+            if require_context and not any(k.lower() in low for k in require_context):
                 continue
             if art["is_sports"]:
                 continue
@@ -109,8 +113,11 @@ def run():
         else:
             ex = cat.get("exclude", ())
             req = cat.get("require_any", ())
-            arts = _collect_terms(cat["keywords"], None, start, end, seen,
-                                  extra_exclude=ex, require_any=req)
+            quals = cat.get("qualifiers", ())
+            terms = collect._expand(cat["keywords"], quals) if quals else cat["keywords"]
+            arts = _collect_terms(terms, None, start, end, seen,
+                                  extra_exclude=ex, require_any=req,
+                                  require_context=cat.get("require_context", ()))
 
         sec = {
             "id": cat["id"], "num": cat["num"], "title": cat["title"],
