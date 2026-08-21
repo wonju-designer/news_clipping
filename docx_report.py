@@ -24,6 +24,7 @@ WD_KR = ["월", "화", "수", "목", "금", "토", "일"]
 SHORT = {
     "산업 동향": "산업", "자사 동향": "자사",
     "경쟁사 동향": "경쟁사", "자회사 동향 (머큐리)": "자회사",
+    "그룹 동향 (파워넷)": "그룹",
 }
 
 
@@ -108,6 +109,40 @@ def _mmdd(pub):
     return f"{pub:%m.%d}" if pub else ""
 
 
+def _digest_para(doc, text):
+    if not text:
+        return
+    box = doc.add_paragraph()
+    box.paragraph_format.space_before = Pt(4)
+    box.paragraph_format.space_after = Pt(6)
+    box.paragraph_format.left_indent = Pt(6)
+    _shade(box)
+    _left_border(box)
+    _run(box, "이 섹션 한눈에  ", size=9, bold=True, color=ACCENT)
+    _run(box, text, size=9.5, color=SECOND)
+
+
+def _article_para(doc, art):
+    pt = doc.add_paragraph()
+    pt.paragraph_format.space_before = Pt(6)
+    pt.paragraph_format.space_after = Pt(1)
+    if art.get("badge"):
+        _run(pt, f"[{art['badge']}] ", size=9, bold=True, color=ACCENT)
+    _run(pt, art.get("title", ""), size=11, bold=True)
+
+    ps = doc.add_paragraph()
+    ps.paragraph_format.space_after = Pt(1)
+    _run(ps, art.get("summary", ""), size=10, color=SECOND)
+
+    src = doc.add_paragraph()
+    src.paragraph_format.space_after = Pt(4)
+    meta = " · ".join(x for x in [art.get("press", ""), _mmdd(art.get("pub"))] if x)
+    _run(src, meta + "  ", size=9, color=MUTED)
+    link = art.get("link")
+    if link:
+        _add_hyperlink(src, link, "원문보기")
+
+
 def build_docx(display: dict, top: list, digests: dict, path: str, total: int) -> str:
     doc = Document()
     _set_default_font(doc)
@@ -149,41 +184,37 @@ def build_docx(display: dict, top: list, digests: dict, path: str, total: int) -
         _run(p, f"{cat['num']} {cat['title']}", size=13, bold=True, color=NAVY)
         _run(p, f"   {cat['subtitle']} · {len(arts)}건", size=9, color=MUTED)
 
+        # 회사별 소그룹 섹션 (그룹 동향)
+        if cat.get("subgroups"):
+            sub_dig = (digests or {}).get(cat["id"], {})
+            any_art = False
+            for sg in cat["subgroups"]:
+                sg_arts = [a for a in arts if a.get("subgroup") == sg["id"]]
+                if not sg_arts:
+                    continue
+                any_art = True
+                sp = doc.add_paragraph()
+                sp.paragraph_format.space_before = Pt(8)
+                _run(sp, sg["label"], size=11, bold=True, color=NAVY)
+                _run(sp, f"  · {len(sg_arts)}건", size=9, color=MUTED)
+                _digest_para(doc, (sub_dig or {}).get(sg["id"], ""))
+                for art in sg_arts:
+                    _article_para(doc, art)
+            if not any_art:
+                _run(doc.add_paragraph(), "해당 기간 수집된 기사가 없습니다.", size=9.5, color=MUTED)
+            doc.add_paragraph()
+            continue
+
         # 동향 요약 박스
         digest = (digests or {}).get(cat["id"], "")
-        if digest:
-            box = doc.add_paragraph()
-            box.paragraph_format.space_before = Pt(4)
-            box.paragraph_format.space_after = Pt(6)
-            box.paragraph_format.left_indent = Pt(6)
-            _shade(box)
-            _left_border(box)
-            _run(box, "이 섹션 한눈에  ", size=9, bold=True, color=ACCENT)
-            _run(box, digest, size=9.5, color=SECOND)
+        _digest_para(doc, digest if isinstance(digest, str) else "")
 
         # 기사 목록
         if not arts:
             _run(doc.add_paragraph(), "해당 기간 수집된 기사가 없습니다.",
                  size=9.5, color=MUTED)
         for art in arts:
-            pt = doc.add_paragraph()
-            pt.paragraph_format.space_before = Pt(6)
-            pt.paragraph_format.space_after = Pt(1)
-            if art.get("badge"):
-                _run(pt, f"[{art['badge']}] ", size=9, bold=True, color=ACCENT)
-            _run(pt, art.get("title", ""), size=11, bold=True)
-
-            ps = doc.add_paragraph()
-            ps.paragraph_format.space_after = Pt(1)
-            _run(ps, art.get("summary", ""), size=10, color=SECOND)
-
-            src = doc.add_paragraph()
-            src.paragraph_format.space_after = Pt(4)
-            meta = " · ".join(x for x in [art.get("press", ""), _mmdd(art.get("pub"))] if x)
-            _run(src, meta + "  ", size=9, color=MUTED)
-            link = art.get("link")
-            if link:
-                _add_hyperlink(src, link, "원문보기")
+            _article_para(doc, art)
 
         doc.add_paragraph()
 
