@@ -121,9 +121,11 @@ let query = "";
 const esc = s => (s||"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 function renderDays(){
-  document.getElementById("days").innerHTML = DATA.map(d=>
-    `<button class="daybtn ${d.date===curDay&&!query?'on':''}" onclick="pickDay('${d.date}')">
-      <span>${d.date}</span><span class="cnt">${d.total}건</span></button>`).join("") || '<div class="hit">데이터 없음</div>';
+  document.getElementById("days").innerHTML = DATA.map(d=>{
+    const name = d.kind==="monthly" ? "📚 "+(d.label||d.date) : d.date;
+    return `<button class="daybtn ${d.date===curDay&&!query?'on':''}" onclick="pickDay('${d.date}')">
+      <span>${esc(name)}</span><span class="cnt">${d.total}건</span></button>`;
+  }).join("") || '<div class="hit">데이터 없음</div>';
 }
 function renderChips(){
   document.getElementById("chips").innerHTML = CATS.map(([id,nm])=>
@@ -143,8 +145,13 @@ function artHTML(a){
 function renderDay(){
   const d = DATA.find(x=>x.date===curDay);
   if(!d){ document.getElementById("view").innerHTML='<div class="empty">선택한 날짜 데이터가 없습니다.</div>'; return; }
-  let h = `<div class="card"><div class="hd"><div class="d">${d.date} 뉴스 클리핑</div>
-    <div class="m">생성 ${esc(d.generated_at)} · 총 ${d.total}건</div></div>`;
+  const isMonthly = d.kind==="monthly";
+  const headTitle = isMonthly ? esc(d.label||d.date) : `${d.date} 뉴스 클리핑`;
+  const headMeta = isMonthly
+    ? `${esc(d.generated_at)} · 실제 발행일 기준 · 총 ${d.total}건`
+    : `생성 ${esc(d.generated_at)} · 총 ${d.total}건`;
+  let h = `<div class="card"><div class="hd"><div class="d">${headTitle}</div>
+    <div class="m">${headMeta}</div></div>`;
   if(d.top5 && d.top5.length){
     h += `<div class="top5"><div class="lb">🔥 오늘의 핵심 Top 5</div>`;
     h += d.top5.map(t=>`<div class="row"><span class="n">${t.rank}</span>${
