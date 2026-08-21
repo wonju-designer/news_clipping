@@ -147,9 +147,10 @@ function renderDay(){
   if(!d){ document.getElementById("view").innerHTML='<div class="empty">선택한 날짜 데이터가 없습니다.</div>'; return; }
   const isMonthly = d.kind==="monthly";
   const headTitle = isMonthly ? esc(d.label||d.date) : `${d.date} 뉴스 클리핑`;
-  const headMeta = isMonthly
+  let headMeta = isMonthly
     ? `${esc(d.generated_at)} · 실제 발행일 기준 · 총 ${d.total}건`
     : `생성 ${esc(d.generated_at)} · 총 ${d.total}건`;
+  if(d.backfill_note) headMeta += ` · ${esc(d.backfill_note)}`;
   let h = `<div class="card"><div class="hd"><div class="d">${headTitle}</div>
     <div class="m">${headMeta}</div></div>`;
   if(d.top5 && d.top5.length){
