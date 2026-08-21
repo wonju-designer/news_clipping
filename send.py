@@ -1,78 +1,74 @@
 # -*- coding: utf-8 -*-
 """
-뉴스 클리핑 파이프라인 오케스트레이터
-수집 → 노출 추림 → Groq 요약 → Gemini Top5 → 렌더 → Gmail 발송
-로컬 프리뷰: python main.py --preview  (발송 없이 report_preview.html 생성)
+발송 단계
+Gmail SMTP로 REPORT_TO(쉼표 구분) 수신자에게 HTML 메일 발송
 """
 
-import sys
+import os
+import smtplib
+from email.mime.base import MIMEBase
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.utils import formataddr
+from email import encoders
 from datetime import datetime
 
 import config
-import collect as collector
-import analyze
-import render
-import docx_report
-import archive
-import dashboard
-import send as sender
+
+GMAIL_USER = os.environ.get("GMAIL_USER", "")
+GMAIL_PASS = os.environ.get("GMAIL_APP_PASSWORD", "")
+REPORT_TO = os.environ.get("REPORT_TO", "")
 
 
-def run(preview: bool = False):
+def _recipients() -> list:
+    return [addr.strip() for addr in REPORT_TO.split(",") if addr.strip()]
+
+
+def _attach(msg, path):
+    """워드 문서를 첨부. Korean 파일명은 RFC2231로 인코딩."""
+    if not (path and os.path.exists(path)):
+        return
+    with open(path, "rb") as f:
+        part = MIMEBase(
+            "application",
+            "vnd.openxmlformats-officedocument.wordprocessingml.document",
+        )
+        part.set_payload(f.read())
+    encoders.encode_base64(part)
+    fname = os.path.basename(path)
+    # 한글 파일명 안전 처리
+    part.add_header("Content-Disposition", "attachment", filename=("utf-8", "", fname))
+    msg.attach(part)
+
+
+def send(html_body: str, attachment_path: str = None) -> bool:
+    to_list = _recipients()
+    if not (GMAIL_USER and GMAIL_PASS and to_list):
+        print("[발송 생략] GMAIL_USER/GMAIL_APP_PASSWORD/REPORT_TO 미설정")
+        return False
+
     now = datetime.now(config.KST)
-    print(f"[시작] {now:%Y-%m-%d %H:%M} 뉴스 클리핑")
+    subject = f"[뉴스 클리핑] 아이즈비전 {now:%Y-%m-%d}"
 
-    collected = collector.collect()
-    raw_total = sum(len(v) for v in collected.values())
+    # 본문(HTML) + 첨부를 함께 담기 위해 mixed 컨테이너 사용
+    msg = MIMEMultipart("mixed")
+    msg["Subject"] = subject
+    msg["From"] = formataddr(("아이즈비전 뉴스 클리핑", GMAIL_USER))
+    msg["To"] = ", ".join(to_list)
 
-    # 문서(첨부)용으로 섹션별 넓게 선별 → 이메일은 그 상위만 사용
-    print(f"[선별] AI 중요도 판단 (품질 AI: {analyze.QUALITY_AI})")
-    doc_display = analyze.select_display(collected, doc=True)
-    doc_flat = analyze.flatten(doc_display)
+    alt = MIMEMultipart("alternative")
+    alt.attach(MIMEText(html_body, "html", "utf-8"))
+    msg.attach(alt)
 
-    analyze.summarize(doc_flat)                       # Groq 기사별 요약(문서 전체)
-    digests = analyze.section_digests(doc_display)    # Groq 섹션별 동향 요약
-    top = analyze.select_top5(doc_flat)               # 품질 AI Top5
+    _attach(msg, attachment_path)
 
-    # 이메일용: 문서 선별 결과에서 섹션별 상위만 잘라냄
-    email_display = analyze.email_subset(doc_display)
-    email_total = sum(len(v) for v in email_display.values())
-    doc_total = len(doc_flat)
-    print(f"[정리] 수집 {raw_total}건 → 이메일 {email_total}건 / 문서 {doc_total}건")
-
-    html_body = render.build_html(email_display, top, email_total, digests)
-
-    with open("report_preview.html", "w", encoding="utf-8") as f:
-        f.write(html_body)
-    print("[렌더 완료] report_preview.html")
-
-    # 첨부용 워드 문서 생성 (더 많은 기사 수록)
-    docx_path = f"아이즈비전_뉴스클리핑_{now:%Y%m%d}.docx"
     try:
-        docx_report.build_docx(doc_display, top, digests, docx_path, doc_total)
-        print(f"[문서 생성] {docx_path}")
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as s:
+            s.login(GMAIL_USER, GMAIL_PASS)
+            s.sendmail(GMAIL_USER, to_list, msg.as_string())
+        note = " (+첨부)" if attachment_path and os.path.exists(attachment_path) else ""
+        print(f"[발송 완료]{note} {len(to_list)}명: {', '.join(to_list)}")
+        return True
     except Exception as e:
-        print(f"[문서 생성 실패] {e}")
-        docx_path = None
-
-    # 대시보드용 데이터 저장 + 자체완결형 대시보드 HTML 갱신
-    try:
-        archive.save(doc_display, top, digests)
-        dashboard.build()
-    except Exception as e:
-        print(f"[대시보드 생성 실패] {e}")
-
-    if preview:
-        print("[프리뷰 모드] 발송 생략")
-        return
-
-    if email_total == 0:
-        print("[종료] 노출 기사 0건 — 발송 생략")
-        return
-
-    sender.send(html_body, docx_path)
-    print("[완료]")
-
-
-if __name__ == "__main__":
-    run(preview="--preview" in sys.argv)
+        print(f"[발송 실패] {e}")
+        return False
