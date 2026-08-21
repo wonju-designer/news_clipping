@@ -122,7 +122,7 @@ CATEGORIES = [
         # 회사별 소그룹: 각 회사 아래 자사(corporate)+연관산업(industry)을 함께 노출
         "subgroups": [
             {
-                "id": "powernet", "label": "4-1 파워넷",
+                "id": "powernet", "label": "파워넷",
                 "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
                 "priority_own": ["파워넷"],
                 "priority_ind": ["SMPS", "전원공급장치", "PSU"],
@@ -156,7 +156,7 @@ CATEGORIES = [
                 ],
             },
             {
-                "id": "mercury", "label": "4-2 머큐리 & 머큐리광통신",
+                "id": "mercury", "label": "머큐리 & 머큐리광통신",
                 "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
                 "priority_own": ["머큐리광통신", "머큐리", "광통신"],
                 "priority_ind": ["광케이블", "광섬유"],
@@ -178,7 +178,7 @@ CATEGORIES = [
                 ],
             },
             {
-                "id": "encreative", "label": "4-3 이앤크리에이티브",
+                "id": "encreative", "label": "이앤크리에이티브",
                 "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
                 "priority_own": ["이엔크리에이티브", "이앤크리에이티브", "국떡"],
                 "priority_ind": ["밀키트", "간편식", "HMR"],
@@ -199,7 +199,7 @@ CATEGORIES = [
                 ],
             },
             {
-                "id": "ritco", "label": "4-4 리트코",
+                "id": "ritco", "label": "리트코",
                 "email_own": 3, "email_ind": 2, "doc_own": 5, "doc_ind": 4,
                 "priority_own": ["리트코"],
                 "priority_ind": ["미세먼지", "전기집진"],
