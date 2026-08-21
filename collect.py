@@ -177,9 +177,11 @@ def collect() -> dict:
             items = []
             for sg in cat["subgroups"]:
                 sgx = sg.get("exclude", ())
-                own = _gather(sg["keywords"], cat_seen, cutoff, badge="자사", extra_exclude=sgx)
+                own = _gather(sg["keywords"], cat_seen, cutoff, badge="자사",
+                              extra_exclude=sgx, require_any=sg.get("require_own", ()))
                 ind = _gather(sg.get("industry_keywords", []), cat_seen, cutoff,
-                              badge="산업", extra_exclude=sgx)
+                              badge="산업", extra_exclude=sgx,
+                              require_any=sg.get("require_ind", ()))
                 for x in (own + ind):
                     x["subgroup"] = sg["id"]
                     x["subgroup_label"] = sg["label"]
