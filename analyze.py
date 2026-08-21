@@ -214,7 +214,31 @@ def select_display(collected: dict, doc: bool = False) -> dict:
     for cat in config.CATEGORIES:
         items = collected.get(cat["id"], [])
 
-        if cat["id"] == "subsidiary":
+        if cat.get("subgroups"):
+            # 회사별 소그룹: 각 회사 아래 자사+연관산업을 각각 선별
+            picked = []
+            for sg in cat["subgroups"]:
+                sg_arts = [a for a in items if a.get("subgroup") == sg["id"]]
+                own = [a for a in sg_arts if a.get("badge") == "자사"]
+                ind = [a for a in sg_arts if a.get("badge") == "산업"]
+                p_own = sg.get("priority_own", ())
+                p_ind = sg.get("priority_ind", ())
+                co = sg.get("doc_own", 5) if doc else sg.get("email_own", 2)
+                ci = sg.get("doc_ind", 4) if doc else sg.get("email_ind", 1)
+                op = _rank(own, co, sg["label"], p_own, top_terms=p_own)
+                ip = _rank(ind, ci, sg["label"], p_ind, top_terms=p_ind)
+                _order(op, p_own, top_terms=p_own)
+                _order(ip, p_ind, top_terms=p_ind)
+                picked += op + ip
+            for art in picked:
+                art["cat_id"] = cat["id"]
+                art["cat_title"] = cat["title"]
+            display[cat["id"]] = picked
+            tag = "문서" if doc else "메일"
+            print(f"  {cat['num']} {cat['title']}({tag}): 후보 {len(items)} → 선별 {len(picked)}")
+            continue
+
+        if cat.get("industry_keywords"):
             # 자사(머큐리)와 산업(광통신)을 분리해 각각 선별 → 둘 다 반드시 노출
             own = [a for a in items if a.get("badge") == "자사"]
             ind = [a for a in items if a.get("badge") == "산업"]
@@ -252,7 +276,15 @@ def email_subset(doc_display: dict) -> dict:
     email = {}
     for cat in config.CATEGORIES:
         arts = doc_display.get(cat["id"], [])
-        if cat["id"] == "subsidiary":
+        if cat.get("subgroups"):
+            out = []
+            for sg in cat["subgroups"]:
+                sg_arts = [a for a in arts if a.get("subgroup") == sg["id"]]
+                own = [a for a in sg_arts if a.get("badge") == "자사"][: sg.get("email_own", 2)]
+                ind = [a for a in sg_arts if a.get("badge") == "산업"][: sg.get("email_ind", 1)]
+                out += own + ind
+            email[cat["id"]] = out
+        elif cat.get("industry_keywords"):
             own = [a for a in arts if a.get("badge") == "자사"][: cat.get("display_max_own", 3)]
             ind = [a for a in arts if a.get("badge") == "산업"][: cat.get("display_max_industry", 3)]
             email[cat["id"]] = own + ind
@@ -292,52 +324,58 @@ def summarize(flat: list) -> None:
         a["summary"] = s if s else (a["desc"][:88] + "…" if len(a["desc"]) > 88 else a["desc"])
 
 
+def _one_digest(label: str, arts: list, hint: str = "", long: bool = False) -> str:
+    """기사 목록으로 동향 요약 1개 생성. 3단 폴백."""
+    if not arts:
+        return ""
+    bullets = "\n".join(
+        f"- {a['title']}: {a.get('summary', a.get('desc',''))}" for a in arts
+    )
+    length = "한국어 4~5문장(320자 내외)" if long else "한국어 2~3문장(최대 160자)"
+    system = (
+        f"너는 통신사 임원 브리핑 편집자다. 아래 '{label}' 기사들을 종합해 "
+        f"오늘의 흐름을 {length}으로 요약하라. {hint}"
+        + GUARDRAIL + " 개별 기사 나열이 아니라 전체 맥락을 짚는다. "
+        "출력은 요약문 그 자체만. 머리말·따옴표·목록 금지."
+    )
+    out = _groq(system, "기사 목록:\n" + bullets).strip().strip('"').strip()
+    if not out:
+        out = _quality(
+            f"다음 '{label}' 기사들을 종합해 오늘의 흐름을 {length}으로 요약하라. "
+            f"{hint}{GUARDRAIL} 요약문만 출력.\n\n기사 목록:\n{bullets}"
+        ).strip().strip('"').strip()
+    if not out:
+        take = 5 if long else 3
+        parts = [(a.get("summary") or a.get("desc") or "").split(". ")[0].rstrip(". ")
+                 for a in arts[:take] if (a.get("summary") or a.get("desc"))]
+        out = ". ".join(parts)
+        if out:
+            out += "."
+    return out
+
+
 def section_digests(display: dict) -> dict:
-    """카테고리별 동향 요약(2~3문장) 생성. {cat_id: 요약문}. 실패 시 빈 문자열."""
+    """카테고리별 동향 요약 생성. {cat_id: 요약문}.
+    소그룹 섹션은 {cat_id: {subgroup_id: 요약문}} 형태."""
     digests = {}
     for cat in config.CATEGORIES:
         arts = display.get(cat["id"], [])
-        if not arts:
-            digests[cat["id"]] = ""
+
+        if cat.get("subgroups"):  # 회사별 요약 각각
+            sub = {}
+            for sg in cat["subgroups"]:
+                sg_arts = [a for a in arts if a.get("subgroup") == sg["id"]]
+                sub[sg["id"]] = _one_digest(
+                    sg["label"], sg_arts,
+                    hint="해당 회사 소식과 연관 산업 관점에서 정리한다. ", long=False)
+            digests[cat["id"]] = sub
             continue
-        bullets = "\n".join(
-            f"- {a['title']}: {a.get('summary', a.get('desc',''))}" for a in arts
-        )
-        label = cat["title"]
+
         hint = ""
-        if cat["id"] == "subsidiary":
-            hint = "머큐리(자회사)와 광통신·광케이블·네트워크 사업 관점에서 정리한다. "
-        if cat.get("digest_long"):
-            length = "한국어 4~5문장(320자 내외)"
-        else:
-            length = "한국어 2~3문장(최대 160자)"
-        system = (
-            f"너는 통신사 임원 브리핑 편집자다. 아래 '{label}' 기사들을 종합해 "
-            f"오늘의 흐름을 {length}으로 요약하라. {hint}"
-            + GUARDRAIL + " 개별 기사 나열이 아니라 전체 맥락을 짚는다. "
-            "출력은 요약문 그 자체만. 머리말·따옴표·목록 금지."
-        )
-        out = _groq(system, "기사 목록:\n" + bullets).strip()
-        out = out.strip().strip('"').strip()
-
-        if not out:  # 폴백 1: 품질 AI(Gemini/Claude)로 재시도
-            out = _quality(
-                f"다음 '{label}' 기사들을 종합해 오늘의 흐름을 {length}으로 요약하라. "
-                f"{hint}{GUARDRAIL} 요약문만 출력.\n\n기사 목록:\n{bullets}"
-            ).strip().strip('"').strip()
-
-        if not out:  # 폴백 2: 기사 요약을 이어붙여 최소 동향 요약 구성
-            take = 5 if cat.get("digest_long") else 3
-            parts = []
-            for a in arts[:take]:
-                s = (a.get("summary") or a.get("desc") or "").strip()
-                if s:
-                    parts.append(s.split(". ")[0].rstrip(". "))
-            out = ". ".join(parts)
-            if out:
-                out += "."
-
-        digests[cat["id"]] = out
+        if cat["id"] == "group":
+            hint = "계열사 소식과 연관 산업 관점에서 정리한다. "
+        digests[cat["id"]] = _one_digest(
+            cat["title"], arts, hint=hint, long=cat.get("digest_long"))
     return digests
 
 
@@ -388,7 +426,7 @@ def select_top5(flat: list) -> list:
             })
 
     if len(top) < config.TOP_N:  # 폴백: 통신 우선순위 → 자사 → 최신순
-        catrank = {"own": 0, "industry": 1, "competitor": 2, "subsidiary": 3}
+        catrank = {"own": 0, "industry": 1, "competitor": 2, "subsidiary": 3, "group": 4}
         used = {t["headline"] for t in top}
         ordered = sorted(
             flat,
