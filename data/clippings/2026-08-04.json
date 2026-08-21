@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:28 소급 정리",
+  "generated_at": "2026-08-21 15:46 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -99,23 +99,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "[2026 2분기 실적] 롯데하이마트, 매출 회복 전환…6월 매출 8% 증가",
-          "summary": "회사는 ‘Hi-mart 요금제’ 출시 및 중고 모바일 사업 확대를 적극 추진하고 있으며, 중고폰 판매 고객의 신제품 연동 구매율은 7월 말 16%로 상승했고 월 매입량도 1000대를 넘어섰습니다. 2분기 영업이익은 …",
-          "press": "inthenews.co.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 17:12",
-          "link": "https://www.inthenews.co.kr/news/article.html?no=90161",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "수익성 개선…롯데하이마트 2분기 영업익 9억·총매출액 7339억",
           "summary": "자체 요금제와 중고 모바일 사업 확대에 힘입어 중고폰 매입 고객의 신제품 구매 연계율은 지난 3월 5%에서 7월 말 16%까지 상승했다. 구매 주기가 짧은 상품을 중심으로 유입된 고객이 대형가전과 서비스 구매로...",
           "press": "asiatime.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 17:12",
           "link": "https://www.asiatime.co.kr/article/20260804500203",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[2026 2분기 실적] 롯데하이마트, 매출 회복 전환…6월 매출 8% 증가",
+          "summary": "회사는 ‘Hi-mart 요금제’ 출시 및 중고 모바일 사업 확대를 적극 추진하고 있으며, 중고폰 판매 고객의 신제품 연동 구매율은 7월 말 16%로 상승했고 월 매입량도 1000대를 넘어섰습니다. 2분기 영업이익은 …",
+          "press": "inthenews.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 17:12",
+          "link": "https://www.inthenews.co.kr/news/article.html?no=90161",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -550,23 +550,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "이통 3사, 갤럭시 Z8 개통 시작… 프로모션 총력",
-          "summary": "제휴카드·중고폰 보상 등 프로모션 마련 [아시아타임즈=김민솔 기자] 이동통신 3사가 삼성전자 갤럭시 Z8... 상품과 중고폰 보상 등 프로모션을 앞세우고 있다. SK텔레콤이 갤럭시 Z 폴드 울트라·Z 폴드8·Z 플립…",
-          "press": "asiatime.co.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 10:32",
-          "link": "https://www.asiatime.co.kr/article/20260804500038",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "이통3사, '갤럭시 Z8 시리즈' 개통 시작…폴드8 예약 절반 넘어",
           "summary": "SKT·KT·LGU+, 4일부터 사전개통 폴드8 중심으로 젊은층 수요 확대 OTT·할인·중고폰 보상 경쟁 치열 모델이... 할인, 중고폰 보상 등 구매 혜택 경쟁에도 나섰다. KT는 유튜브 프리미엄 라이트와 넷플릭스…",
           "press": "news2day.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:32",
           "link": "https://www.news2day.co.kr/article/20260804500077",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통 3사, 갤럭시 Z8 개통 시작… 프로모션 총력",
+          "summary": "제휴카드·중고폰 보상 등 프로모션 마련 [아시아타임즈=김민솔 기자] 이동통신 3사가 삼성전자 갤럭시 Z8... 상품과 중고폰 보상 등 프로모션을 앞세우고 있다. SK텔레콤이 갤럭시 Z 폴드 울트라·Z 폴드8·Z 플립…",
+          "press": "asiatime.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:32",
+          "link": "https://www.asiatime.co.kr/article/20260804500038",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -583,6 +583,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "SKT, 갤럭시 Z 폴드8 시리즈 개통 시작 … 2030 유입 늘며 폴더블 대세화",
+          "summary": "4일부터 9월 6일까지 'T안심보상with민팃' 프로그램을 통해 신규 단말을 사면서 기존 중고폰을 반납하면 모델과 상태에 따라 최대 100만원까지 보상받을 수 있다. 카드사 제휴 혜택도 다양하다. 'T PREMIUM…",
+          "press": "worktoday.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:18",
+          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87514",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "통신 3사, 갤럭시 Z 시리즈 사전예약 마무리…\"개통 실시\"",
           "summary": "LG유플러스는 온라인 전용 할인 쿠폰과 무이자 할부, 중고폰 추가 보상 등 다양한 구매 지원 프로그램이 고객의 단말 구매 부담을 줄이는 데 기여한 것으로 분석했다. LG유플러스는 앞으로도 고객이 최신 디바이스의...",
           "press": "megaeconomy.co.kr",
@@ -594,12 +605,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 갤럭시 Z 폴드8 시리즈 개통 시작 … 2030 유입 늘며 폴더블 대세화",
-          "summary": "4일부터 9월 6일까지 'T안심보상with민팃' 프로그램을 통해 신규 단말을 사면서 기존 중고폰을 반납하면 모델과 상태에 따라 최대 100만원까지 보상받을 수 있다. 카드사 제휴 혜택도 다양하다. 'T PREMIUM…",
-          "press": "worktoday.co.kr",
+          "title": "이통3사 '갤럭시 Z 폴드8·플립8' 개통 시작… 고객 유치 경쟁",
+          "summary": "오는 9월 6일까지는 T안심보상 with민팃을 통해 최대 100만원의 중고폰 보상을 지원하며 'T PREMIUM 삼성카드' 및 'T&Life 신한카드' 등 제휴카드 할인을 통해 구매 부담을 대폭 낮췄다. 만 13세 …",
+          "press": "newscj.com",
           "date": "2026-08-04",
-          "datetime": "2026-08-04 10:18",
-          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87514",
+          "datetime": "2026-08-04 10:14",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3422267",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -627,12 +638,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "이통3사 '갤럭시 Z 폴드8·플립8' 개통 시작… 고객 유치 경쟁",
-          "summary": "오는 9월 6일까지는 T안심보상 with민팃을 통해 최대 100만원의 중고폰 보상을 지원하며 'T PREMIUM 삼성카드' 및 'T&Life 신한카드' 등 제휴카드 할인을 통해 구매 부담을 대폭 낮췄다. 만 13세 …",
-          "press": "newscj.com",
+          "title": "갤럭시 Z 폴드8 개통 시작…통신3사, '폴드 대세' 속 혜택 경쟁",
+          "summary": "이와 함께 중고폰 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준) 보상과 제휴카드 할인 등 구매 지원... 회사는 프리미엄 스마트폰 가격 부담을 낮추기 위한 할인 쿠폰과 무이자 할부, 중고폰 추가 보상 프로…",
+          "press": "popcornnews.net",
           "date": "2026-08-04",
-          "datetime": "2026-08-04 10:14",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3422267",
+          "datetime": "2026-08-04 10:10",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=128583",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -660,12 +671,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "갤럭시 Z 폴드8 개통 시작…통신3사, '폴드 대세' 속 혜택 경쟁",
-          "summary": "이와 함께 중고폰 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준) 보상과 제휴카드 할인 등 구매 지원... 회사는 프리미엄 스마트폰 가격 부담을 낮추기 위한 할인 쿠폰과 무이자 할부, 중고폰 추가 보상 프로…",
-          "press": "popcornnews.net",
+          "title": "통신 3사, '갤럭시Z8 시리즈' 개통 시작…\"대화면 폴드8 인기\"",
+          "summary": "이날부터 다음 달 6일까지 T안심보상with민팃 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만 원(갤럭시 Z 폴드7 256GB A급 기준)까지 …",
+          "press": "newsway.co.kr",
           "date": "2026-08-04",
-          "datetime": "2026-08-04 10:10",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=128583",
+          "datetime": "2026-08-04 10:08",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026080409363051041",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -677,17 +688,6 @@
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:08",
           "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251885",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "통신 3사, '갤럭시Z8 시리즈' 개통 시작…\"대화면 폴드8 인기\"",
-          "summary": "이날부터 다음 달 6일까지 T안심보상with민팃 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만 원(갤럭시 Z 폴드7 256GB A급 기준)까지 …",
-          "press": "newsway.co.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 10:08",
-          "link": "https://www.newsway.co.kr/news/view?ud=2026080409363051041",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

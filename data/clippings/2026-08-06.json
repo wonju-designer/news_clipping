@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:28 소급 정리",
+  "generated_at": "2026-08-21 15:46 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -550,23 +550,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2분기 영업익 3445억원 '분기 최대'",
-          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개로 7.2% 늘었고 알뜰폰(MVNO) 가입회선은 902만5000여개로 0.4% 증가했다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 늘면서 전체 핸드셋 …",
-          "press": "ziksir.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 11:16",
-          "link": "https://www.ziksir.com/news/articleView.html?idxno=142347",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[2026 2분기 실적] LG유플러스, 영업이익 3445억원…역대 분기 최대 기록",
           "summary": "MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었습니다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만8000명으로 전체 핸드…",
           "press": "inthenews.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:16",
           "link": "https://www.inthenews.co.kr/news/article.html?no=90248",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2분기 영업익 3445억원 '분기 최대'",
+          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개로 7.2% 늘었고 알뜰폰(MVNO) 가입회선은 902만5000여개로 0.4% 증가했다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 늘면서 전체 핸드셋 …",
+          "press": "ziksir.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:16",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=142347",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -605,23 +605,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2Q 영업이익 3445억원 '분기 최대 실적'",
-          "summary": "이 중 MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 집계됐다. 5G 핸드셋 가입자는 954만8000명으로 전체 핸드셋 가입자 대비 5G 보급률은 84.9%에 달했다. 스마트홈 부…",
-          "press": "IT조선",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 11:06",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167432",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스, 2분기 영업이익 역대 최대…\"AIDC 등 신사업 성장\"",
           "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개, 알뜰폰사업자(MVNO) 가입회선은 902만5000여개로 각각 7.2%, 0.4% 증가했다. 5G 휴대폰 가입자는 954만8000명으로 6.9% 늘었고, 전체 …",
           "press": "socialvalue.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:06",
           "link": "https://www.socialvalue.kr/news/view/1065577447953003",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2Q 영업이익 3445억원 '분기 최대 실적'",
+          "summary": "이 중 MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 집계됐다. 5G 핸드셋 가입자는 954만8000명으로 전체 핸드셋 가입자 대비 5G 보급률은 84.9%에 달했다. 스마트홈 부…",
+          "press": "IT조선",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:06",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167432",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:28 소급 정리",
+  "generated_at": "2026-08-21 15:46 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -455,23 +455,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG헬로비전 헬로모바일, 교보문고 손잡고 '도서 제휴 요금제' 출시",
-          "summary": "헬로모바일은 알뜰폰 주요 이용층인 2040세대를 비롯해 독서와 자기계발에 관심이 높은 고객을 대상으로 차별화된 혜택을 제공한다는 계획이다. 가입 고객은 매월 교보문고 sam무제한 이용권과 온라인 전용...",
-          "press": "popcornnews.net",
-          "date": "2026-08-07",
-          "datetime": "2026-08-07 08:14",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=128941",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG헬로비전 헬로모바일, 교보문고 제휴 혜택 담은 알뜰폰 요금제 출시",
           "summary": "사진=LG헬로비전 LG헬로비전이 교보문고 전자책 구독과 도서 구매 혜택을 결합한 알뜰폰 요금제를 선보인다. LG헬로비전 헬로모바일은 교보문고와 제휴해 '교보문고 유심·휴대폰 요금제' 6종을 출시했다고 7일...",
           "press": "pinpointnews.co.kr",
           "date": "2026-08-07",
           "datetime": "2026-08-07 08:14",
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475157",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG헬로비전 헬로모바일, 교보문고 손잡고 '도서 제휴 요금제' 출시",
+          "summary": "헬로모바일은 알뜰폰 주요 이용층인 2040세대를 비롯해 독서와 자기계발에 관심이 높은 고객을 대상으로 차별화된 혜택을 제공한다는 계획이다. 가입 고객은 매월 교보문고 sam무제한 이용권과 온라인 전용...",
+          "press": "popcornnews.net",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 08:14",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=128941",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -617,17 +617,6 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "‘2026 국제아웃도어캠핑&레포츠페스티벌 고카프’, 오는 28일 수원메쎄...",
-          "summary": "주식회사 메쎄이상이 주최하는 이번 행사는 지난 14년간 국내 캠핑 시장과 함께 성장해 온 대표 전시회로... FESTA에서는 밀키트와 간편식, 디저트 등 캠핑 먹거리를 중심으로 다양한 식품 브랜드가 참가해 캠핑 식문…",
-          "press": "idsn.co.kr",
-          "date": "2026-08-07",
-          "datetime": "2026-08-07 16:30",
-          "link": "https://idsn.co.kr/news/view/1065575974621952",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "K-푸드, 인도·남아시아 시장 공략",
           "summary": "새로운 수출 유망시장으로 주목받고 있다. 7월 30일부터 31일까지 뉴델리 에어로시티 풀만호텔에서 열린 B2B... 오픈키친존에서는 떡볶이와 김밥 등 한국식 분식을 선보였으며, K-누들 스테이션에는 즉석에서 라면을.…",
           "press": "chukkyung.co.kr",
@@ -670,5 +659,5 @@
       ]
     }
   ],
-  "total": 56
+  "total": 55
 }

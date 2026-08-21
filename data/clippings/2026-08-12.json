@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 15:28 소급 정리",
+  "generated_at": "2026-08-21 15:46 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -374,23 +374,23 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "[건설 Pick] ㈜한화 건설부문·삼표그룹, '에너지 효율·기후 대응' 건설...",
-          "summary": "무정전전원공급장치(UPS) 개발 ▲고밀도 AI 데이터센터용 직접액체냉각 기술 등 3개 과제의 현장 적용과 실증을 맡는다. '데이터센터 수요자원화' 과제에서는 AI 기반으로 서버 전력 소모와 냉방 부하를 예측해 에너지…",
-          "press": "lcnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:30",
-          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206398",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "한화 건설부문, AI 데이터센터 에너지 기술로 확장…3개 국책과제 선정",
           "summary": "서버와 냉각설비의 전력 사용량을 줄이고 무정전전원공급장치(UPS) 효율을 높이는 한편, 고밀도 AI 서버에 직접액체냉각 기술을 적용하는 실증까지 진행한다. 한화 건설부문은 기후에너지환경부와...",
           "press": "thepowernews.co.kr",
           "date": "2026-08-12",
           "datetime": "2026-08-12 16:30",
           "link": "https://www.thepowernews.co.kr/view.php?ud=20260812160039573de3f0aa1be_7",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[건설 Pick] ㈜한화 건설부문·삼표그룹, '에너지 효율·기후 대응' 건설...",
+          "summary": "무정전전원공급장치(UPS) 개발 ▲고밀도 AI 데이터센터용 직접액체냉각 기술 등 3개 과제의 현장 적용과 실증을 맡는다. '데이터센터 수요자원화' 과제에서는 AI 기반으로 서버 전력 소모와 냉방 부하를 예측해 에너지…",
+          "press": "lcnews.co.kr",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 16:30",
+          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206398",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
