@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="ko"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>아이즈비전 뉴스 클리핑 대시보드</title>
+<style>
+  :root{
+    --navy:#0C447C; --navy2:#185FA5; --accent:#185FA5;
+    --bg:#eef0f3; --card:#fff; --border:#e4e7eb;
+    --t1:#1a1d21; --t2:#4b5158; --t3:#8b9199;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--t1);
+    font-family:'Pretendard',-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;}
+  header{background:var(--navy);color:#fff;padding:16px 24px;position:sticky;top:0;z-index:10;}
+  header .ttl{font-size:19px;font-weight:600;letter-spacing:-0.3px;}
+  header .sub{font-size:12px;color:#85B7EB;margin-top:3px;}
+  .wrap{display:flex;max-width:1200px;margin:0 auto;gap:16px;padding:16px;}
+  .side{width:220px;flex:0 0 220px;}
+  .side .box{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:12px;margin-bottom:12px;}
+  .side h3{font-size:12px;color:var(--t3);margin:0 0 8px;font-weight:600;}
+  .daybtn{display:flex;justify-content:space-between;align-items:center;width:100%;text-align:left;
+    background:none;border:none;padding:7px 8px;border-radius:6px;cursor:pointer;font-size:13px;color:var(--t1);
+    font-family:inherit;}
+  .daybtn:hover{background:#f2f5f9;}
+  .daybtn.on{background:var(--navy);color:#fff;}
+  .daybtn .cnt{font-size:11px;color:var(--t3);}
+  .daybtn.on .cnt{color:#cfe0f2;}
+  .main{flex:1;min-width:0;}
+  .search{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:12px;margin-bottom:12px;}
+  .search input{width:100%;border:1px solid var(--border);border-radius:8px;padding:10px 12px;font-size:14px;
+    font-family:inherit;outline:none;}
+  .search input:focus{border-color:var(--accent);}
+  .chips{display:flex;gap:6px;margin-top:10px;flex-wrap:wrap;}
+  .chip{font-size:12px;padding:5px 12px;border-radius:16px;border:1px solid var(--border);background:#fff;
+    cursor:pointer;color:var(--t2);font-family:inherit;}
+  .chip.on{background:var(--navy2);color:#fff;border-color:var(--navy2);}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;margin-bottom:14px;}
+  .card .hd{background:var(--navy);color:#fff;padding:14px 18px;}
+  .card .hd .d{font-size:16px;font-weight:600;}
+  .card .hd .m{font-size:12px;color:#85B7EB;margin-top:2px;}
+  .top5{padding:14px 18px;border-bottom:8px solid var(--bg);}
+  .top5 .lb{font-size:12px;font-weight:600;color:var(--accent);margin-bottom:8px;}
+  .top5 .row{font-size:14px;line-height:1.6;}
+  .top5 .n{color:var(--accent);font-weight:600;margin-right:6px;}
+  .top5 .tag{font-size:11px;color:var(--t3);}
+  .sec{padding:14px 18px;border-top:1px solid var(--border);}
+  .sec .sh{font-size:14px;font-weight:600;color:var(--navy);margin-bottom:8px;}
+  .sec .subh{font-size:13px;font-weight:600;color:var(--t1);margin:12px 0 6px;}
+  .sec .dg{background:#f6f7f9;border-left:3px solid var(--accent);border-radius:6px;padding:9px 11px;
+    font-size:12.5px;color:var(--t2);line-height:1.6;margin-bottom:10px;}
+  .art{padding:8px 0;border-bottom:1px solid #f0f2f4;}
+  .art:last-child{border-bottom:none;}
+  .art .at{font-size:14px;font-weight:600;color:var(--t1);line-height:1.5;}
+  .art .as{font-size:13px;color:var(--t2);line-height:1.6;margin:3px 0;}
+  .art .am{font-size:12px;color:var(--t3);}
+  .art .am a{color:var(--accent);text-decoration:none;}
+  .bdg{font-size:10px;font-weight:600;padding:1px 7px;border-radius:10px;margin-right:6px;}
+  .bdg.자사{color:#26215C;background:#CECBF6;} .bdg.산업{color:#663806;background:#FAC775;}
+  .empty{padding:40px;text-align:center;color:var(--t3);font-size:14px;}
+  .hit{font-size:11px;color:var(--t3);margin-left:6px;}
+  @media(max-width:820px){.wrap{flex-direction:column}.side{width:auto;flex:auto;display:flex;gap:12px;overflow-x:auto}}
+</style></head>
+<body>
+<header>
+  <div class="ttl">아이즈비전 뉴스 클리핑 대시보드</div>
+  <div class="sub" id="hsub"></div>
+</header>
+<div class="wrap">
+  <div class="side">
+    <div class="box"><h3>날짜</h3><div id="days"></div></div>
+  </div>
+  <div class="main">
+    <div class="search">
+      <input id="q" placeholder="키워드 검색 (제목·요약·언론사) — 전체 날짜 대상">
+      <div class="chips" id="chips"></div>
+    </div>
+    <div id="view"></div>
+  </div>
+</div>
+<script>
+const DATA = [{"date": "2026-08-21", "generated_at": "2026-08-21 13:02", "top5": [{"rank": 1, "headline": "저물어가는 3G 서비스…SKT 이어 KT도 곧 신규 가입 중단", "category": "산업", "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721195"}, {"rank": 2, "headline": "[Invest]AI DC에 사활거는 통신사들…SKT '스케일' vs KT·LG는 '실속' 전...", "category": "산업", "link": "https://www.investchosun.com/site/data/html_dir/2026/08/20/2026082080125.html"}, {"rank": 3, "headline": "3G 서비스 역사 속으로… SKT, 23년 만에 신규 가입 중단", "category": "산업", "link": "https://n.news.naver.com/mnews/article/022/0004152524?sid=105"}, {"rank": 4, "headline": "3G ‘영상통화 시대’ 막 내린다", "category": "산업", "link": "https://n.news.naver.com/mnews/article/081/0003672188?sid=102"}, {"rank": 5, "headline": "요즘은 공항 도착 즉시 ‘이것’부터…해외여행객 몰리자 통신사 ‘효자...", "category": "산업", "link": "https://n.news.naver.com/mnews/article/011/0004653658?sid=105"}], "sections": [{"id": "industry", "num": "①", "title": "산업 동향", "digest": "SK텔레콤이 23년 만에 3G 서비스를 종료하고 내년 말까지 신규 가입을 중단한다. KT도 동일하게 3G 신규 가입을 중단하고 알뜰폰 사업자도 차례로 서비스 종료를 준비한다. 현재 3G 회선 비중은 전체의 1% 미만이며, 남은 13만4천여 명의 3G 가입자는 LTE·5G로 전환이 요구된다. 한편 eSIM·로밍 수요가 확대되는 가운데, 불법 수집 개인정보로 380억 원 규모 해킹을 저지른 중국인 해커가 징역 20년을 선고받는 등 보안 이슈도 대두되고 있다.", "articles": [{"title": "불법수집 개인정보로 380억원 해킹·탈취한 중국인, 징역 20년", "summary": "전 씨는 태국 등 해외에서 해킹 범죄단체를 조직해 2023년 8월부터 지난해 4월까지 알뜰폰 사업자 등 20여개... 당시 전 씨와 공범들은 해킹으로 확보한 …", "press": "동아일보", "date": "2026-08-20", "datetime": "2026-08-20 20:37", "link": "https://n.news.naver.com/mnews/article/020/0003742258?sid=102", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "3G 서비스 역사 속으로… SKT, 23년 만에 신규 가입 중단", "summary": "KT도 정부와 3G 종료를 논의하고 있고, 두 회사가 3G 서비스를 끝내면 SK텔레콤과 KT망을 활용한 알뜰폰 사업자도 3G 운영을 잇따라 중단하게 된다. 통…", "press": "세계일보", "date": "2026-08-21", "datetime": "2026-08-21 06:03", "link": "https://n.news.naver.com/mnews/article/022/0004152524?sid=105", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "3G ‘영상통화 시대’ 막 내린다", "summary": "알뜰폰까지 포함해도 국내 3G 회선이 전체 이동통신 회선에서 차지하는 비중은 1%에 못 미친다. 남아 있는 3G 가입자가 LTE·5G로 옮길 경우에는 단말 교…", "press": "서울신문", "date": "2026-08-21", "datetime": "2026-08-21 05:03", "link": "https://n.news.naver.com/mnews/article/081/0003672188?sid=102", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "요즘은 공항 도착 즉시 ‘이것’부터…해외여행객 몰리자 통신사 ‘효자...", "summary": "알뜰폰에 e심까지…통신사 ‘고마진 로밍’까지 흔들 문제는 기존 이동통신사들이다. 이미 가상이동통신망사업자(MVNO·알뜰폰 사업자)의 공세를 받고 있는 상황에서…", "press": "서울경제", "date": "2026-08-20", "datetime": "2026-08-20 21:38", "link": "https://n.news.naver.com/mnews/article/011/0004653658?sid=105", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "SKT, 23년 만에 3G 퇴장…내년 말 종료 목표", "summary": "3G 종료는 가입자와 트래픽 감소에 단말·장비 노후화까지 겹치면서 망 운영 필요성이 낮아졌기 때문이다.... SK텔레콤 망 알뜰폰 고객은 각 알뜰폰 사업자가 …", "press": "전자신문", "date": "2026-08-20", "datetime": "2026-08-20 15:34", "link": "https://n.news.naver.com/mnews/article/030/0003459053?sid=105", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "\"요즘 누가 로밍해요\"…e심 인기에 세계 이통사들 효자상품 잃어", "summary": "는 \"시장이 고객들에게 e심을 교육하는 단계에서 고객을 실제 구매자로 전환시키는 단계로 이동하고 있으며, 이러한 전환이 가속화되고 있다\"고 말했다. 기존 이동…", "press": "뉴스1", "date": "2026-08-20", "datetime": "2026-08-20 14:40", "link": "https://n.news.naver.com/mnews/article/421/0009123782?sid=104", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "저물어가는 3G 서비스…SKT 이어 KT도 곧 신규 가입 중단", "summary": "SKT와 KT가 3G 서비스를 종료하면 해당 망을 사용하는 알뜰폰(MVNO)도 자연히 서비스 종료 수순을 밟게... 사업자별로 보면 SKT(13만4413개),…", "press": "ebn.co.kr", "date": "2026-08-21", "datetime": "2026-08-21 12:22", "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721195", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "[Invest]AI DC에 사활거는 통신사들…SKT '스케일' vs KT·LG는 '실속' 전...", "summary": "이동통신 시장이 이미 포화된 데다 알뜰폰 확산으로 본업의 성장 여력이 제한되면서 AI DC가 새로운 성장 사업으로 부상하고 있단 평가다. 주주환원을 없애거나 …", "press": "investchosun.com", "date": "2026-08-21", "datetime": "2026-08-21 07:02", "link": "https://www.investchosun.com/site/data/html_dir/2026/08/20/2026082080125.html", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "SKT, 23년 만에 3G 셧다운 수순…\"실버 요금제 이관 및 전방위 전환 지원...", "summary": "또한 SKT 망을 사용하는 알뜰폰(MVNO) 가입자의 경우 각 사업자별로 확정된 일정에 맞춰 별도 지원책을 공지받게 된다. 윤재웅 SKT 프로덕트&브랜드본부장…", "press": "thedailypost.kr", "date": "2026-08-20", "datetime": "2026-08-20 18:04", "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115090", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "\"우리가 이통 2위\"…KT·LG유플러스의 '아전인수' 왜?", "summary": "3사 모두 과기정통부 자료를 기반으로 시장점유율을 산출했으며 알뜰폰(MVNO) 가입자를 제외한 점도 동일하다. 그럼에도 순위 평가가 엇갈린 배경은 이동전화의 …", "press": "newsway.co.kr", "date": "2026-08-20", "datetime": "2026-08-20 17:08", "link": "https://www.newsway.co.kr/news/view?ud=2026082015313643353", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "종료 수순 밟은 3G 서비스…SKT 신규가입 마무리", "summary": "SK텔레콤과 KT망을 이용하는 알뜰폰 3G 가입자는 13만4763명입니다. KT는 \"이용자 불편 최소화 방안을 다각도로 검토 중이며, 3G 신규 가입 중단을 …", "press": "newstomato.com", "date": "2026-08-20", "datetime": "2026-08-20 16:20", "link": "http://www.newstomato.com/ReadNews.aspx?no=1310848&inflow=N", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "23년 만에 막 내리는 3G… 일부 LTE폰도 전환 대상", "summary": "SK텔레콤은 3G 가입자와 트래픽이 지속적으로 감소한 데다 단말과 장비가 노후화되고 LTE·5G 중심으로 통신... ◆법인·알뜰폰도 대상… 끝까지 안 바꾸면 …", "press": "newscj.com", "date": "2026-08-20", "datetime": "2026-08-20 16:14", "link": "https://www.newscj.com/news/articleView.html?idxno=3426616", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "시민단체 \"해킹 은폐 의혹 KT·LGU+, 강력 제재 필요\"", "summary": "개인정보위에 따르면 KT는 불법 소형기지국인 펨토셀을 통해 알뜰폰 가입자를 포함한 이용자 1만6647명의 휴대전화번호·국제모바일가입자식별번호(IMSI)·단말기…", "press": "newsprime.co.kr", "date": "2026-08-20", "datetime": "2026-08-20 15:08", "link": "http://www.newsprime.co.kr/news/article.html?no=744486", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "SKT, 3G 서비스 23년 만에 퇴장…KT도 신규가입 중단 준비", "summary": "SKT는 3G 가입자에게 문자메시지(MMS), T월드 홈페이지 및 앱, 우편·이메일 요금 안내서 등 다양한 채널을... SKT가 13만4413개, KT가 5만…", "press": "news.bizwatch.co.kr", "date": "2026-08-20", "datetime": "2026-08-20 14:37", "link": "https://n.news.naver.com/mnews/article/648/0000049998?sid=105", "badge": "", "subgroup": "", "subgroup_label": ""}, {"title": "'내 손 안의 인터넷' 열었던 3G…23년 만에 마침표 찍나 [성 기자의 망+...", "summary": "당시 SK텔레콤은 'T', KT는 '쇼(SHOW)'라는 무선 통신 브랜드를 중심으로 시장에서 경쟁했다. SK텔레콤은... 법인 회선 역시 개인 고객과 동일한 …", "press": "itdaily.kr", "date": "2026-08-20", "datetime": "2026-08-20 14:28", "link": "https://www.itdaily.kr/news/articleView.html?idxno=241100", "badge": "", "subgroup": "", "subgroup_label": ""}]}, {"id": "own", "num": "②", "title": "자사 동향", "digest": "2026-07-08) ▶아이즈비전, 종속회사 머큐리, 560억원 규모(자산총액대비 19.72%) 유형자산(인천광역시 서해구 가좌동 531-6 소재 토지 및 건….", "articles": [{"title": "8월 18일 주식시장 주요공시", "summary": "2026-07-08) ▶아이즈비전, 종속회사 머큐리, 560억원 규모(자산총액대비 19.72%) 유형자산(인천광역시 서해구 가좌동 531-6 소재 토지 및 건…", "press": "catchnews.kr", "date": "2026-08-19", "datetime": "2026-08-19 08:48", "link": "https://www.catchnews.kr/news/articleView.html?idxno=127443", "badge": "", "subgroup": "", "subgroup_label": ""}]}, {"id": "competitor", "num": "③", "title": "경쟁사 동향", "digest": "풀 MVNO 정책에 어려움이 있어 설비 보유 알뜰폰 사업자가 이탈하고 있다. KCT는 티플러스 서비스에서 HLR 운영을 중단하고 단순 재판매 모델로 전환을 검토 중이다.", "articles": [{"title": "'풀MVNO' 정책 암초…설비보유 알뜰폰 줄 이탈", "summary": "18일 업계에 따르면 알뜰폰 티플러스를 운영하는 KCT는 가입자위치등록장치(HLR) 운영을 중단하고 단순 재판매 모델만 남기는 내용의 사업 재편을 검토 중이다…", "press": "전자신문", "date": "2026-08-18", "datetime": "2026-08-18 16:01", "link": "https://n.news.naver.com/mnews/article/030/0003458303?sid=105", "badge": "", "subgroup": "", "subgroup_label": ""}]}, {"id": "group", "num": "④", "title": "그룹 동향", "digest": {"powernet": "\" 한 대표에 따르면 고성능 GPU 서버와 초고효율 UPS, 전원공급장치(SMPS), 전력변환 스위치가 집중된 AI 데이터센터에서는 과거 일반 공장이나 일반 …. 전원공급장치(SMPS), 전력전자부품 등 12개 첨단 사업군이 반영됐다. 전원공급장치(SMPS) ▲전력전자부품 등 12개 첨단 사업군으로 구체화했다.", "mercury": "같은 인천 소재 기업인 머큐리가 이 공장을 넘기면서, 560억원 규모 거래가 부지를 확장하는 쪽과 재원을. 광통신주 중에서는 RF머티리얼즈(-6.12%) RFHIC(-2.84%) 라이콤(-5.61%) 머큐리(-3.57%) 성호전자(-8.21%) 등의 주가가 크게 떨…. 한미반도체는 ㈜머큐리로부터 주안국가산업단지 내 부지 2만여㎡, 건물 2만 5천여㎡ 규모의 공장을 매입해 역대 최대 면적인 8공장을 구축한다고 19일 밝혔다.", "encreative": "", "ritco": ""}, "articles": [{"title": "한정규 재신정보 대표, \"AI 데이터센터의 보이지 않는 위협…'미세 전력...", "summary": "\" 한 대표에 따르면 고성능 GPU 서버와 초고효율 UPS, 전원공급장치(SMPS), 전력변환 스위치가 집중된 AI 데이터센터에서는 과거 일반 공장이나 일반 …", "press": "electimes.com", "date": "2026-08-20", "datetime": "2026-08-20 16:32", "link": "https://www.electimes.com/news/articleView.html?idxno=371409", "badge": "산업", "subgroup": "powernet", "subgroup_label": "4-1 파워넷"}, {"title": "에이텀, 전기차·AI 전력 12개 사업군 반영", "summary": "전원공급장치(SMPS), 전력전자부품 등 12개 첨단 사업군이 반영됐다. 회사는 제어기술과 소프트웨어·펌웨어... 에이텀은 이 인증을 바탕으로 조달청 나라장터…", "press": "tokenpost.kr", "date": "2026-08-19", "datetime": "2026-08-19 15:14", "link": "https://www.tokenpost.kr/news/market/393135", "badge": "산업", "subgroup": "powernet", "subgroup_label": "4-1 파워넷"}, {"title": "에이텀, EV 전장·AI 데이터센터 전력으로 사업 확장…정관 대폭 손질", "summary": "전원공급장치(SMPS) ▲전력전자부품 등 12개 첨단 사업군으로 구체화했다. 특히 제어기술 및 소프트웨어(S/W)... 회사는 이를 바탕으로 조달청 나라장터 …", "press": "view.asiae.co.kr", "date": "2026-08-19", "datetime": "2026-08-19 15:02", "link": "https://n.news.naver.com/mnews/article/277/0005804737?sid=101", "badge": "산업", "subgroup": "powernet", "subgroup_label": "4-1 파워넷"}, {"title": "에이텀, 사업목적 추가…EV 전장·AI 전력 전문기업 도약", "summary": "전원공급장치(SMPS) ▲전력전자부품·제어 소프트웨어(S/W) 등 12개 첨단 사업군으로 세분화·구체화했다.... Center) 시장 진입에 나설 계획이다. …", "press": "widedaily.com", "date": "2026-08-19", "datetime": "2026-08-19 15:02", "link": "https://www.widedaily.com/news/articleView.html?idxno=299654", "badge": "산업", "subgroup": "powernet", "subgroup_label": "4-1 파워넷"}, {"title": "공장 확보한 한미반도체…재원 마련한 머큐리", "summary": "같은 인천 소재 기업인 머큐리가 이 공장을 넘기면서, 560억원 규모 거래가 부지를 확장하는 쪽과 재원을... 19일 업계에 따르면 한미반도체는 정보통신장비 …", "press": "incheonilbo.com", "date": "2026-08-19", "datetime": "2026-08-19 19:56", "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1329958", "badge": "자사", "subgroup": "mercury", "subgroup_label": "4-2 머큐리 & 머큐리광통신"}, {"title": "코스피 폭락...반도체 · 광통신 · AI주 '출렁'", "summary": "광통신주 중에서는 RF머티리얼즈(-6.12%) RFHIC(-2.84%) 라이콤(-5.61%) 머큐리(-3.57%) 성호전자(-8.21%) 등의 주가가 크게 떨…", "press": "choicenews.co.kr", "date": "2026-08-19", "datetime": "2026-08-19 16:20", "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=170119", "badge": "자사", "subgroup": "mercury", "subgroup_label": "4-2 머큐리 & 머큐리광통신"}, {"title": "한미반도체, AI 장비 선제적 대응...1천300억 투자", "summary": "한미반도체는 ㈜머큐리로부터 주안국가산업단지 내 부지 2만여㎡, 건물 2만 5천여㎡ 규모의 공장을 매입해 역대 최대 면적인 8공장을 구축한다고 19일 밝혔다. …", "press": "joongboo.com", "date": "2026-08-19", "datetime": "2026-08-19 14:20", "link": "https://www.joongboo.com/news/articleView.html?idxno=363734206", "badge": "자사", "subgroup": "mercury", "subgroup_label": "4-2 머큐리 & 머큐리광통신"}, {"title": "[더벨][i-point] 머큐리, 유형자산 560억 매각", "summary": "정보통신장비 전문기업 머큐리는 인천광역시 서해구 가좌동 소재 토지 및 건물을 560억원에 매각하는... 머큐리 관계자는 \"이번 유형자산 매각은 재무적 유연성을…", "press": "thebell.co.kr", "date": "2026-08-19", "datetime": "2026-08-19 10:38", "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608190959051000101589", "badge": "자사", "subgroup": "mercury", "subgroup_label": "4-2 머큐리 & 머큐리광통신"}, {"title": "인천 뿌리기업 한미반도체, 대규모 8공장 구축 나서", "summary": "한미반도체는 ㈜머큐리로부터 주안국가산업단지 부지 2만여㎡(6천230평), 건물 면적 2만5,000여㎡ 공장을 매입해 8공장으로 구축한다고 밝혔다. 한미반도체 …", "press": "incheonin.com", "date": "2026-08-19", "datetime": "2026-08-19 10:20", "link": "http://www.incheonin.com/news/articleView.html?idxno=120122", "badge": "자사", "subgroup": "mercury", "subgroup_label": "4-2 머큐리 & 머큐리광통신"}, {"title": "통신망에서 전력·냉각까지… 통신 3사, ‘AI 인프라 종합사업자’로 변...", "summary": "국내 통신 3사가 본업인 이동통신을 넘어 AI데이터센터(AIDC)를 축으로 ‘AI 인프라 종합사업자’로 체질... 통신사가 보유한 광케이블과 해저케이블 등 네…", "press": "이데일리", "date": "2026-08-21", "datetime": "2026-08-21 05:05", "link": "https://n.news.naver.com/mnews/article/018/0006355343?sid=105", "badge": "산업", "subgroup": "mercury", "subgroup_label": "4-2 머큐리 & 머큐리광통신"}, {"title": "'칩 담보' AI 순환대출 논란…150년 전 美 '철도 붐' 닮았다? [세계는 왜...", "summary": "철도는 망해도 선로가 남고 광섬유는 땅속에 남았지만, AI칩은 몇 년마다 신제품으로 교체됩니다. 빚을 갚을 현금 흐름과 빚을 지키는 담보 가격이 같은 AI 사…", "press": "한국일보", "date": "2026-08-21", "datetime": "2026-08-21 04:40", "link": "https://n.news.naver.com/mnews/article/469/0000949223?sid=104", "badge": "산업", "subgroup": "mercury", "subgroup_label": "4-2 머큐리 & 머큐리광통신"}, {"title": "[박정식의 국내 주식시황] 글로벌 증시 부진에도 삼성전자, SK하이닉스 ...", "summary": "스콧 베선트 미 재무장관은 바이백 규모가 회당 40억 달러 이상으로 추가 확대될 수 있다고 밝혀 시장... ▷SK하이닉스, 차세대 광 연결 기술 'CPO' 로…", "press": "newsquest.co.kr", "date": "2026-08-21", "datetime": "2026-08-21 08:16", "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272158", "badge": "산업", "subgroup": "mercury", "subgroup_label": "4-2 머큐리 & 머큐리광통신"}, {"title": "위험은 요란하고 기회는 침묵한다…우리가 장기 투자를 놓치는 이유", "summary": "당시 정보통신 분야에서는 과잉 투자와 연쇄 파산으로 수십억 달러(약 수조 원)에 이르는 막대한 자본 손실이 발생해 비관론이 시장을 뒤덮었다. 바다 밑과 땅속에…", "press": "g-enews.com", "date": "2026-08-21", "datetime": "2026-08-21 04:26", "link": "https://www.g-enews.com/view.php?ud=20260820175806361fbbec65dfb_1", "badge": "산업", "subgroup": "mercury", "subgroup_label": "4-2 머큐리 & 머큐리광통신"}], "subgroups": [{"id": "powernet", "label": "4-1 파워넷"}, {"id": "mercury", "label": "4-2 머큐리 & 머큐리광통신"}, {"id": "encreative", "label": "4-3 이앤크리에이티브"}, {"id": "ritco", "label": "4-4 리트코"}]}], "total": 30}];
+const CATS = [["all","전체"],["industry","산업"],["own","자사"],["competitor","경쟁사"],["group","그룹"]];
+let curDay = DATA.length ? DATA[0].date : null;
+let curCat = "all";
+let query = "";
+
+const esc = s => (s||"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function renderDays(){
+  document.getElementById("days").innerHTML = DATA.map(d=>
+    `<button class="daybtn ${d.date===curDay&&!query?'on':''}" onclick="pickDay('${d.date}')">
+      <span>${d.date}</span><span class="cnt">${d.total}건</span></button>`).join("") || '<div class="hit">데이터 없음</div>';
+}
+function renderChips(){
+  document.getElementById("chips").innerHTML = CATS.map(([id,nm])=>
+    `<button class="chip ${curCat===id?'on':''}" onclick="pickCat('${id}')">${nm}</button>`).join("");
+}
+function pickDay(d){ curDay=d; query=""; document.getElementById("q").value=""; render(); }
+function pickCat(c){ curCat=c; render(); }
+
+function artHTML(a){
+  const bdg = a.badge ? `<span class="bdg ${a.badge}">${a.badge}</span>` : "";
+  const link = a.link ? `<a href="${esc(a.link)}" target="_blank">원문보기 ↗</a>` : "";
+  return `<div class="art"><div class="at">${bdg}${esc(a.title)}</div>
+    <div class="as">${esc(a.summary)}</div>
+    <div class="am">${esc(a.press)} · ${esc(a.date)} ${link?'· '+link:''}</div></div>`;
+}
+
+function renderDay(){
+  const d = DATA.find(x=>x.date===curDay);
+  if(!d){ document.getElementById("view").innerHTML='<div class="empty">선택한 날짜 데이터가 없습니다.</div>'; return; }
+  let h = `<div class="card"><div class="hd"><div class="d">${d.date} 뉴스 클리핑</div>
+    <div class="m">생성 ${esc(d.generated_at)} · 총 ${d.total}건</div></div>`;
+  if(d.top5 && d.top5.length){
+    h += `<div class="top5"><div class="lb">🔥 오늘의 핵심 Top 5</div>`;
+    h += d.top5.map(t=>`<div class="row"><span class="n">${t.rank}</span>${
+      t.link?`<a href="${esc(t.link)}" target="_blank" style="color:var(--t1);text-decoration:none">${esc(t.headline)}</a>`:esc(t.headline)
+    } <span class="tag">[${esc(t.category)}]</span></div>`).join("");
+    h += `</div>`;
+  }
+  d.sections.forEach(s=>{
+    if(curCat!=="all" && s.id!==curCat) return;
+    if(!s.articles.length) return;
+    h += `<div class="sec"><div class="sh">${s.num} ${esc(s.title)} · ${s.articles.length}건</div>`;
+    if(s.subgroups && s.subgroups.length){
+      // 회사별 소그룹
+      s.subgroups.forEach(sg=>{
+        const list = s.articles.filter(a=>a.subgroup===sg.id);
+        if(!list.length) return;
+        h += `<div class="subh">${esc(sg.label)} <span class="hit">${list.length}건</span></div>`;
+        const dg = (s.digest && typeof s.digest==="object") ? (s.digest[sg.id]||"") : "";
+        if(dg) h += `<div class="dg">${esc(dg)}</div>`;
+        h += list.map(artHTML).join("");
+      });
+    } else {
+      if(s.digest && typeof s.digest==="string") h += `<div class="dg">${esc(s.digest)}</div>`;
+      h += s.articles.map(artHTML).join("");
+    }
+    h += `</div>`;
+  });
+  h += `</div>`;
+  document.getElementById("view").innerHTML = h;
+}
+
+function renderSearch(){
+  const q = query.toLowerCase();
+  let rows = [];
+  DATA.forEach(d=>d.sections.forEach(s=>{
+    if(curCat!=="all" && s.id!==curCat) return;
+    s.articles.forEach(a=>{
+      const hay = (a.title+" "+a.summary+" "+a.press).toLowerCase();
+      if(hay.includes(q)) rows.push({d:d.date, s:s.title, a});
+    });
+  }));
+  let h = `<div class="card"><div class="hd"><div class="d">검색 결과</div>
+    <div class="m">"${esc(query)}" · ${rows.length}건</div></div><div class="sec">`;
+  h += rows.length ? rows.map(r=>`<div class="art">
+      <div class="at">${esc(r.a.title)} <span class="hit">${r.d} · ${esc(r.s)}</span></div>
+      <div class="as">${esc(r.a.summary)}</div>
+      <div class="am">${esc(r.a.press)} · ${esc(r.a.date)} ${r.a.link?'· <a href="'+esc(r.a.link)+'" target="_blank">원문보기 ↗</a>':''}</div>
+    </div>`).join("") : '<div class="empty">일치하는 기사가 없습니다.</div>';
+  h += `</div></div>`;
+  document.getElementById("view").innerHTML = h;
+}
+
+function render(){
+  renderDays(); renderChips();
+  if(query.trim()) renderSearch(); else renderDay();
+}
+document.getElementById("q").addEventListener("input", e=>{ query=e.target.value; render(); });
+document.getElementById("hsub").textContent =
+  DATA.length ? `${DATA.length}일치 아카이브 · 최신 ${DATA[0].date}` : "데이터 없음";
+render();
+</script>
+</body></html>
