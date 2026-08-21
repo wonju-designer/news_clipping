@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 14:44 소급 정리",
+  "generated_at": "2026-08-21 15:17 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -39,39 +39,6 @@
           "date": "2026-08-01",
           "datetime": "2026-08-01 07:59",
           "link": "https://n.news.naver.com/mnews/article/293/0000088461?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "트럼프, 기업 모금 당당 '어둠의 공주' 지정…\"'보스의 뜻' 압박해 1조 ...",
-          "summary": "수백만 달러를 기부한 대가로 트럼프와 전화 통화를 한 일부 기부자들은 오히려 추가 기부를 요구받았고... 있었지만, 이는 그저 (과거와) 완전히 다른 '도매 자금'(wholesale money·대규모 자금 조달)일 …",
-          "press": "biz.sbs.co.kr",
-          "date": "2026-08-01",
-          "datetime": "2026-08-01 07:41",
-          "link": "https://n.news.naver.com/mnews/article/374/0000524970?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'어둠의 공주' 모금책 둔 트럼프…\"'보스의 뜻' 압박해 1조 걷어\"",
-          "summary": "수백만 달러를 기부한 대가로 트럼프와 전화 통화를 한 일부 기부자들은 오히려 추가 기부를 요구받기도... 있었지만, 이는 그저 (과거와) 완전히 다른 '도매 자금'(wholesale money·대규모 자금 조달)일 …",
-          "press": "연합뉴스",
-          "date": "2026-08-01",
-          "datetime": "2026-08-01 05:31",
-          "link": "https://n.news.naver.com/mnews/article/001/0016227934?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[딜로이트 글로벌 경제 리뷰] 7월 FOMC '매파적 동결'과 정책 불확실성",
-          "summary": "그 대가는 1981~82년 10%에 달하는 실업률과 심각한 경기 침체였다. 1990년대 후반에 정반대 문제가 발생했다.... 마찬가지로 도매 및 소매업 부문의 고용도 지난 2년간 감소세를 보인 후 증가세로 돌아섰다.…",
-          "press": "financialpost.co.kr",
-          "date": "2026-08-01",
-          "datetime": "2026-08-01 05:00",
-          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=268571",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -130,5 +97,5 @@
       ]
     }
   ],
-  "total": 7
+  "total": 4
 }

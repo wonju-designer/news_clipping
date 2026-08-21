@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 14:44 소급 정리",
+  "generated_at": "2026-08-21 15:17 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -209,23 +209,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2분기 역대 최대 실적…수익성 기반 AIDC 투자 확대(종합)",
-          "summary": "MNO 가입회선은 2244만 2000여개, MVNO 가입회선은 902만 5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만 8000명으로, 전체 …",
-          "press": "아주경제",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:06",
-          "link": "https://www.ajunews.com/view/20260806145442087",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG U+, 2분기 영업익 3445억원…분기 기준 역대 최대",
           "summary": "이동통신(MNO) 가입 회선은 2244만2000여개로 7.2%, 알뜰폰(MVNO) 가입 회선은 902만5000여개로 0.4% 각각 증가했다. 스마트홈 부문 수익은 IPTV와 초고속인터넷 가입자 증가에 힘입어 4.3%…",
           "press": "delighti.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 15:06",
           "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119894",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2분기 역대 최대 실적…수익성 기반 AIDC 투자 확대(종합)",
+          "summary": "MNO 가입회선은 2244만 2000여개, MVNO 가입회선은 902만 5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만 8000명으로, 전체 …",
+          "press": "아주경제",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:06",
+          "link": "https://www.ajunews.com/view/20260806145442087",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -638,12 +638,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LGU+, 2분기 영업익 3445억원 ‘역대 최대’…AI DC가 성장 견인",
-          "summary": "이동통신(MNO) 가입회선은 2244만2000여개, 알뜰폰(MVNO) 가입회선은 902만5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만8000…",
-          "press": "segyebiz.com",
+          "title": "LG유플러스, 2분기 영업이익 3445억원...\"역대 분기 최대 실적\"",
+          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개로 7.2% 증가했고, 알뜰폰(MVNO) 가입회선은 902만5000여개로 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 증가했다. 전체 핸…",
+          "press": "seouleconews.com",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:02",
-          "link": "http://www.segyebiz.com/newsView/20260806509704?OutUrl=naver",
+          "link": "http://www.seouleconews.com/news/articleView.html?idxno=92884",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -660,12 +660,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2분기 영업이익 3445억원...\"역대 분기 최대 실적\"",
-          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개로 7.2% 증가했고, 알뜰폰(MVNO) 가입회선은 902만5000여개로 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 증가했다. 전체 핸…",
-          "press": "seouleconews.com",
+          "title": "LGU+, 2분기 영업익 3445억원 ‘역대 최대’…AI DC가 성장 견인",
+          "summary": "이동통신(MNO) 가입회선은 2244만2000여개, 알뜰폰(MVNO) 가입회선은 902만5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만8000…",
+          "press": "segyebiz.com",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:02",
-          "link": "http://www.seouleconews.com/news/articleView.html?idxno=92884",
+          "link": "http://www.segyebiz.com/newsView/20260806509704?OutUrl=naver",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -803,12 +803,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG U+, 2분기 영업이익 3445억 원…역대 최대 분기 실적",
-          "summary": "MNO(Mobile Network Operator) 가입회선은 2244만 2천여 개, 가상이동통신망사업자(Mobile Virtual Network Operator, MVNO) 가입회선은 902만 5천여 개로 전년 동…",
-          "press": "nocutnews.co.kr",
+          "title": "LGU+, 2분기 영업익 3445억원 '역대 최대'…\"기업 인프라가 견인\"",
+          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개, 알뜰폰(MVNO) 가입회선은 902만5000여개로 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 전년 동기보다 6.9% 증가했다…",
+          "press": "digitaltoday.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 10:36",
-          "link": "https://n.news.naver.com/mnews/article/079/0004176065?sid=105",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690457",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1278,17 +1278,6 @@
           "subgroup_label": "4-2 머큐리 & 머큐리광통신"
         },
         {
-          "title": "인천 생활폐기물 민간위탁 비율 22%···\"관리·감독 엄격해야\"",
-          "summary": "이어 \"공공소각장은 굴뚝자동측정기기(TMS) 등을 통해 오염물질 배출을 상시 관리할 수 있지만, 민간소각장은 상대적으로 규모가 작고 처리 과정도 분산돼 있다\"며 \"폐기물 처리 과정에서 대기오염과 분진, 수질오염...",
-          "press": "incheontoday.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 17:26",
-          "link": "https://www.incheontoday.com/news/articleView.html?idxno=322059",
-          "badge": "산업",
-          "subgroup": "ritco",
-          "subgroup_label": "4-4 리트코"
-        },
-        {
           "title": "[르포] 펄펄 끓는 서울에서 살아남는 법",
           "summary": "6차선ㆍ지하철역 인근 등 기준을 충족한 18개 도로에서 쿨링로드를 운영 중이다. 최종 테스트를 남겨둔 연신내 시설도 다음 주 중 가동할 예정이다. 박완수 시 도로관리팀장은 “처음에는 도로 청소와 미세먼지 저감을...",
           "press": "dnews.co.kr",
@@ -1320,5 +1309,5 @@
       ]
     }
   ],
-  "total": 115
+  "total": 114
 }

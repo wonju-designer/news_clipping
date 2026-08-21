@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 14:44 소급 정리",
+  "generated_at": "2026-08-21 15:17 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -17,28 +17,6 @@
           "date": "2026-08-09",
           "datetime": "2026-08-09 15:38",
           "link": "http://www.metroseoul.co.kr/article/20260809500181",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "“시청 김 주무관입니다” 소상공인 울린 그의 정체",
-          "summary": "사기범은 공공기관 납품가보다 일반 도매가가 싸다며 대리구매를 부탁했고, 허위 업체 직원을 소개하며... 처음에는 리뷰 작성이나 영상 시청 대가로 소액을 지급해 안심시킨 뒤 보증금·투자금·충전금 등을 요구한다....",
-          "press": "조선일보",
-          "date": "2026-08-09",
-          "datetime": "2026-08-09 12:14",
-          "link": "https://n.news.naver.com/mnews/article/023/0003992005?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "돌산에서 11억 매출 일군 탈북 여성… 박은숙 해오름푸드 대표의 인생 ...",
-          "summary": "● 지옥에서 바친 3년의 청춘 1998년에 그가 사는 지역에서 평양-남포 고속도로 건설돌격대가 모집되기... 수도권에서 재배해서 식당마다 도매하는 사람들을 전라도 끝에 사는 그가 이길 순 없었다. 엎친 데 덮친 격으…",
-          "press": "동아일보",
-          "date": "2026-08-09",
-          "datetime": "2026-08-09 10:01",
-          "link": "https://n.news.naver.com/mnews/article/020/0003739496?sid=100",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -164,17 +142,6 @@
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "포항 에코빌리지 갈등 격화… \"건강 위협\" vs \"안전 확보\"",
-          "summary": "이 경우 굴뚝 자동측정기(TMS)를 통해 한국환경공단이 24시간 실시간 감시하므로 데이터 조작은 불가능하다고 설명했다. 포항시는 신광면이 활성단층이라는 사실에 대해서는 부인하지 않았다. 다만 건물을 지을 때 이러한.…",
-          "press": "dkilbo.com",
-          "date": "2026-08-09",
-          "datetime": "2026-08-09 19:30",
-          "link": "https://www.dkilbo.com/news/articleView.html?idxno=550894",
-          "badge": "산업",
-          "subgroup": "ritco",
-          "subgroup_label": "4-4 리트코"
         }
       ],
       "subgroups": [
@@ -197,5 +164,5 @@
       ]
     }
   ],
-  "total": 13
+  "total": 10
 }

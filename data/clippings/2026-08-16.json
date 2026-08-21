@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 14:44 소급 정리",
+  "generated_at": "2026-08-21 15:17 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,17 +10,6 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
-        {
-          "title": "[인터뷰] \"포털에 넘긴 편집권, AI시대엔 되찾아야\"",
-          "summary": "그때도 도매상이냐 소매상이냐 논란이 많았죠. 새로운 여론의 공간이라고 생각했는데, 그 포털이 우리를... 포털과의 계약, 뉴스 저작권, 전재료 등을 둘러싸고 여러 형태의 연대가 시도됐지만 매체마다 규모와 이해관계가.…",
-          "press": "mediaus.co.kr",
-          "date": "2026-08-16",
-          "datetime": "2026-08-16 10:00",
-          "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=317834",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
         {
           "title": "KT, '해킹 청구서' 본업까지 덮쳤다…무선 매출 꺾였는데 투자도 줄어",
           "summary": "당시 박 부문장은 판매비를 늘려 가입자를 확보하기보다는 \"비대면 채널, 중고폰 활용 등 저비용 가입자를 확보하는 방식\"으로 성장하겠다고 했다. 비용 효율화 자체는 정상적인 경영 전략이다. 그러나 대형 보안...",
@@ -44,17 +33,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "[테니스] ATP-WTA 신시내티 오픈 결과···조코비치 2R 탈락",
-          "summary": "bt 케이티 볼터(독일) 2-0(6-3, 6-3) 알렉산드라 에알라(필리핀 x17) bt 가브리엘라 루스(루마니아) 6-1, 3-0 기권 아만다 아니시모바(미국 x9) bt 제네이프 쇤메즈(튀르키예) 2-0(6-2,…",
-          "press": "gukjenews.com",
-          "date": "2026-08-16",
-          "datetime": "2026-08-16 08:58",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3665933",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "'제4이통' 6년 됐는데…日라쿠텐, KDDI 통신망 계속 빌려쓴다",
           "summary": "시장 진입 6년이 지난 현재까지도 로밍을 완전히 종료하지 못하는 셈이다. 사실상 제4이통이란 표현보다 알뜰폰에 가깝다는 평가다. 현행 로밍 계약은 오는 9월 말 종료된다. KDDI는 일부 지방에 한해 일정 기간...",
           "press": "지디넷코리아",
@@ -72,28 +50,6 @@
           "date": "2026-08-16",
           "datetime": "2026-08-16 08:00",
           "link": "https://n.news.naver.com/mnews/article/008/0005400665?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "케이티 레데키, 팬 퍼시픽 여자 400m 자유형 예선 4조 출격 준비",
-          "summary": "AFP 14일(현지시간) 케이티 레데키가 윌리엄 울렛 주니어 수영 센터에서 열린 팬 퍼시픽 수영 선수권 대회 3일째 여자 400m 자유형 예선 4조 경기에 출전하기 전 준비하는 모습이 포착됐다. 레데키는 미국 대표팀…",
-          "press": "gukjenews.com",
-          "date": "2026-08-16",
-          "datetime": "2026-08-16 03:00",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3665861",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "아르헨티나, 20년 만에 민간 주도 에너지 인프라 투자 나서",
-          "summary": "아르헨티나 전력 도매시장 관리회사 카메사(CAMMESA)는 공사 착수를 위해 1억 달러(약 1400억원)를 지원한다.... AMBA I는 아르헨티나의 민간 주도 전력 인프라 사업이 확대될 수 있을지를 가늠할 첫 시험…",
-          "press": "theguru.co.kr",
-          "date": "2026-08-16",
-          "datetime": "2026-08-16 00:02",
-          "link": "https://www.theguru.co.kr/news/article.html?no=105788",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -319,23 +275,23 @@
           "subgroup_label": "4-3 이앤크리에이티브"
         },
         {
-          "title": "[현장] '1등 K만두' 매일 160톤씩 생산, CJ제일제당 보몬트공장 '미국판...",
-          "summary": "특히 2019년 미국 냉동식품기업 슈완스를 인수하면서 미국 사업의 규모가 크게 확대됐다. 현재 만두를... 보몬트 공장은 한국에서 만들어진 K푸드를 미국으로 수출하는 단계를 넘어 미국 소비자 취향에 맞는 제품을...",
-          "press": "businesspost.co.kr",
-          "date": "2026-08-16",
-          "datetime": "2026-08-16 09:02",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444879",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
           "title": "치킨·고수로 빚은 '비비고 만두', 美 수백만 식탁 홀렸다",
           "summary": "2014년 캘리포니아 플러턴에 만두 공장을 가동하는 등 현지 생산능력을 확대했고, 2019년에는 미국 냉동식품 기업 슈완스를 인수했다. 슈완스 인수 이후에는 수출 중심에서 현지 생산과 유통을 결합한 구조로 사업을..…",
           "press": "biz.newdaily.co.kr",
           "date": "2026-08-16",
           "datetime": "2026-08-16 09:02",
           "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/15/2026081500003.html",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "4-3 이앤크리에이티브"
+        },
+        {
+          "title": "[현장] '1등 K만두' 매일 160톤씩 생산, CJ제일제당 보몬트공장 '미국판...",
+          "summary": "특히 2019년 미국 냉동식품기업 슈완스를 인수하면서 미국 사업의 규모가 크게 확대됐다. 현재 만두를... 보몬트 공장은 한국에서 만들어진 K푸드를 미국으로 수출하는 단계를 넘어 미국 소비자 취향에 맞는 제품을...",
+          "press": "businesspost.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 09:02",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444879",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "4-3 이앤크리에이티브"
@@ -394,17 +350,6 @@
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "용산공원에 '고급 반값아파트'…\"서울 주택난 풀 핵심 카드\"",
-          "summary": "용산공원은 서울의 지리적 중심에 자리 잡고 있고 지하철 1·4·6호선과 경의중앙선, 수도권광역급행철도(GTX)... 서울의 열섬현상과 미세먼지, 집중호우 등에 대응하려면 도심의 대규모 녹지를 그대로 보존해야 한다는.…",
-          "press": "4th.kr",
-          "date": "2026-08-16",
-          "datetime": "2026-08-16 15:40",
-          "link": "http://www.4th.kr/news/articleView.html?idxno=2116443",
-          "badge": "산업",
-          "subgroup": "ritco",
-          "subgroup_label": "4-4 리트코"
         }
       ],
       "subgroups": [
@@ -427,5 +372,5 @@
       ]
     }
   ],
-  "total": 34
+  "total": 29
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 14:44 소급 정리",
+  "generated_at": "2026-08-21 15:17 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -28,61 +28,6 @@
           "date": "2026-08-15",
           "datetime": "2026-08-15 16:12",
           "link": "https://www.wikitree.co.kr/articles/1152665",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "우리카드, 3억달러 해외 신디케이트론 조달",
-          "summary": "우리카드가 3억달러 규모의 해외 신디케이티드론 약정을 체결했다. 우리카드는 14일 약 4200억원 규모의 해외 신디케이티드론 조달을 완료했다고 밝혔다. 이번 신디케이티드론은 2년물과 3년물로 구성된 듀얼 트랜치...",
-          "press": "sentv.co.kr",
-          "date": "2026-08-15",
-          "datetime": "2026-08-15 09:44",
-          "link": "https://www.sentv.co.kr/article/view/sentv202608150013",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "퇴임 앞둔 백악관 대변인 글에 'AI 제작' 표시…AI 워터마크 논쟁 가열",
-          "summary": "BI의 케이티 노토풀로스는 \"AI 단속이나 워터마크가 확산한다면 사람들이 AI를 사용하다 적발되는 것을 부끄러워할지 혹은 그러지 않을지 의문\"이라고 밝혔다. 그는 \"AI 글쓰기에 있어 변화하는 규범이 어떤 파급효과를…",
-          "press": "뉴시스",
-          "date": "2026-08-15",
-          "datetime": "2026-08-15 09:03",
-          "link": "https://n.news.naver.com/mnews/article/003/0014129258?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "우리카드, 3억달러 규모 해외 신디케이티드론 조달",
-          "summary": "우리카드는 미화 3억달러(약 4200억원) 규모의 해외 신디케이티드론 약정을 체결했다고 15일 밝혔다. 이번 신디케이티드론은 2년물과 3년물로 구성됐으며 중국, 홍콩, 마카오, 대만 소재 은행들이 대주단으로...",
-          "press": "webeconomy.co.kr",
-          "date": "2026-08-15",
-          "datetime": "2026-08-15 08:52",
-          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2267647",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[은행가] 하나금융, 지역 중장년 구직자 일자리 지원 外",
-          "summary": "사진=우리카드 우리카드는 14일 미화 3억달러, 약 4200억원 규모의 해외 신디케이티드론 약정을 체결했다.... 우리카드는 국내 카드사가 체결한 해외 신디케이티드론 가운데 최저 수준의 스프레드라고 설명했다. 안정적…",
-          "press": "slist.kr",
-          "date": "2026-08-15",
-          "datetime": "2026-08-15 08:28",
-          "link": "https://www.slist.kr/news/articleView.html?idxno=758954",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "5000억달러 AI 금융, 엔비디아 최종계약 남았다",
-          "summary": "에스케이텔레콤(SK Telecom)은 최대 2GW 규모 엔비디아 기반 AI 팩토리를 구축하고, 첫 AI 팩토리를 2027년 가동할 계획이라고 밝혔다. 같은 날 엔비디아는 네이버(NAVER), 브룩필드와 한국 AI 팩…",
-          "press": "tokenpost.kr",
-          "date": "2026-08-15",
-          "datetime": "2026-08-15 07:06",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/391229",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -174,17 +119,6 @@
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "[2026 전남광주미래산업박람회] 코리아세이프룸, 바이러스 저감·클린룸...",
-          "summary": "바이러스 저감률 96.4%를 기록했으며, 한국필터시험원(KFTL)의 성능시험에서는 0.3㎛ 크기의 극초미세먼지를... 터미널, 지하철 역사 등 공기안전이 중요한 다양한 다중이용시설에서 활용할 수 있다. 감염병 예방과…",
-          "press": "전자신문",
-          "date": "2026-08-15",
-          "datetime": "2026-08-15 09:31",
-          "link": "https://n.news.naver.com/mnews/article/030/0003457680?sid=102",
-          "badge": "산업",
-          "subgroup": "ritco",
-          "subgroup_label": "4-4 리트코"
         }
       ],
       "subgroups": [
@@ -207,5 +141,5 @@
       ]
     }
   ],
-  "total": 14
+  "total": 8
 }

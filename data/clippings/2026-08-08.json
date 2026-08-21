@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 14:44 소급 정리",
+  "generated_at": "2026-08-21 15:17 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -17,17 +17,6 @@
           "date": "2026-08-08",
           "datetime": "2026-08-08 14:40",
           "link": "https://www.econovill.com/news/articleView.html?idxno=747477",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "계통 살리라면서 '통행세' 내라고?…배전망 ESS 사업, '망 이용료' 논란",
-          "summary": "배전망 이용료는 전력망이라는 인프라를 점유하고 사용하는 대가로 사업자가 한전에 지불하는 일종의... 미국(CAISO, ERCOT, PJM), 영국(NESO), 호주(NEM) 등은 ESS를 단순한 전력 소비처가 아닌 …",
-          "press": "electimes.com",
-          "date": "2026-08-08",
-          "datetime": "2026-08-08 07:00",
-          "link": "https://www.electimes.com/news/articleView.html?idxno=371074",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -130,5 +119,5 @@
       ]
     }
   ],
-  "total": 7
+  "total": 6
 }

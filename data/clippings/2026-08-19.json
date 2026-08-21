@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 14:44 소급 정리",
+  "generated_at": "2026-08-21 15:17 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -11,122 +11,12 @@
       "digest": "",
       "articles": [
         {
-          "title": "KB국민인증서 이용 고객 1800만 돌파…일상 속 '디지털 인증 플랫폼'으로",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 발급할 수 있으며... 또한 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템 적용 등 보안 강화와 동시에, 생체인증과..…",
-          "press": "thepublic.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 22:16",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=315489",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[인터뷰] 보완수사권 폐지에 소신 밝힌 홍기원 민주당 의원",
-          "summary": "말해\" ⊙ \"윤석열과 도매금으로 평가받는 데 대해 다수의 검사 억울한 건 이해되지만…\" 검찰 보완수사권... 상응하는 대가를 치르게 하는 데 도움이 되고, 분명 사회적 약자를 훨씬 더 두텁게 보호할 수 있다고 생각한…",
-          "press": "조선일보",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 21:38",
-          "link": "https://monthly.chosun.com/news/articleView.html?idxno=71088",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "하나금융, 생활 맞춤형 캠페인 'HANA Green Mate' 실시 外",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 간편하게 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며, 생체인증(지문·Face I…",
-          "press": "rcast.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 21:00",
-          "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31481",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민은행, 'KB국민인증서' 이용자 1800만 명 넘었다",
-          "summary": "본인 명의 스마트기기와 신분증만 있으면 은행 창구를 찾아가지 않고도 발급받을 수 있다. KB스타뱅킹 앱을... 인증서 발급부터 실제 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했다. 지문이나 페이스ID…",
-          "press": "tournews21.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 20:58",
-          "link": "https://www.tournews21.com/news/articleView.html?idxno=141340",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[금융픽] 하나금융, 탄소중립 실천 'HANA Green Mate' 캠페인 외",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 간편하게 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며, 생체인증(지문·Face I…",
-          "press": "newsian.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 20:50",
-          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93942",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[공시] SHD·화신정공 '투자경고', KBI메탈·NHN '투자주의' 등...68건",
-          "summary": "(079190), 케이티(030200), 한국전력공사(015760) 등 11개다. 공매도 과열종목 지정이 연장되어 거래 금지가 유지되는 종목은 골드앤에스(035290), 아주IB투자(027360), 엣지파운드리(10…",
-          "press": "newstnt.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 20:42",
-          "link": "https://www.newstnt.com/news/articleView.html?idxno=714497",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[통신 풍향계] KT '소버린 AI' 출시-'협력사 북미진출' 지원·LGU+ 'AI-RAN ...",
           "summary": "셀로의 중고폰 판매 완료 단말 출시 3년 이상 비중 63% 발표, 서울대 공과대학의 IEEE 무선전력기술콘퍼런스... ◆미디어로그, 중고폰 3년 이상 단말 63% 미디어로그 셀로가 올해 중고폰 판매 완료 단말의 약 …",
           "press": "newsworks.co.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 19:42",
           "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850889",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "느슨해진 휴가철 8월, 음주-무면허운전 사망사고 최다",
-          "summary": "여름 휴가철을 맞아 렌터카나 공유 차량 이용이 늘어나는 데, 이때 타인의 명의를 도용해 운전하는 일이 반영된 것으로 보인다. 또한, 19세 이하로 면허 취득이 불가능한 청소년이 무면허 상태에서 전동킥보드 등...",
-          "press": "jjn.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 18:20",
-          "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1049778",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[기획] ‘8월은 잔인한 달’…음주운전 사망·무면허 사고 ‘집중’",
-          "summary": "무면허 운전 사고가 가장 자주 발생한 8월은 여름 휴가철 렌터카와 공유 차량 이용 시 타인의 명의를 도용해 운전하는 사례가 작용한 결과란 분석이다. 가해 운전자 연령대는 19세 이하가 28.0%로 전체 연령대 중 가…",
-          "press": "kukinews.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 18:14",
-          "link": "https://www.kukinews.com/article/view/kuk202608190223",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"국민 3명 중 1명 KB인증서 사용\"···KB국민은행,이용자 1800만명 돌파",
-          "summary": "본인 명의 스마트기기와 신분증이 있으면 영업점 방문 없이 발급할 수 있으며 KB스타뱅킹에서 간편인증과... KB국민은행은 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용하고 있다....",
-          "press": "이뉴스투데이",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 17:35",
-          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2460865",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민은행, KB국민인증서 고객 1800만명 돌파",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증이 있으면 영업점을 방문하지 않고 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며, 지문과 Face ID 등...",
-          "press": "cnbizm.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 17:30",
-          "link": "https://www.cnbizm.com/news/articleView.html?idxno=312030",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -154,67 +44,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "KB국민인증서, 누적 이용 1,800만명 돌파…성인 3명 중 1명 사용",
-          "summary": "이용자는 본인 명의의 스마트기기와 신분증만으로 영업점 방문 없이 인증서를 발급받을 수 있으며... 보안과 편의성 향상을 위해 암호화 기술과 도용 방지 시스템이 적용됐으며, 지문과 Face ID 같은 생체인증과...",
-          "press": "cbci.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 17:22",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=599243",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[금융권 풍향계] 수출입은행, 사우디 전력공사에 12억달러 자금 지원 外",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 간편하게 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며, 생체인증(지문·Face I…",
-          "press": "ekn.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 17:16",
-          "link": "https://www.ekn.kr/web/view.php?key=20260819023484190",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[금융 HOT 뉴스] 국민은행, 'KB국민인증서' 고객 1800만명 넘어",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며 생체인증(지문·Face ID)과...",
-          "press": "bizwnews.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 17:14",
-          "link": "http://www.bizwnews.com/news/articleView.html?idxno=143713",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "신한카드, 생활요금 자동납부 고객에 최대 2만원 캐시백",
           "summary": "전화요금은 SK텔레콤·KT·LG유플러스 휴대전화 요금이 대상이며 알뜰폰 등은 제외된다. 신한카드의 이번 행사는 고정비 결제를 자사 카드로 끌어오면서 신규 자동납부 고객을 확보하려는 전략으로 풀이된다....",
           "press": "koreaittimes.com",
           "date": "2026-08-19",
           "datetime": "2026-08-19 17:12",
           "link": "https://www.koreaittimes.com/news/articleView.html?idxno=156266",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[금융계 동향] 한국투자증권·NH투자증권·KB국민은행",
-          "summary": "KB국민인증서는 본인 명의 스마트기기와 신분증으로 영업점 방문 없이 발급할 수 있으며, KB스타뱅킹에서... KB국민은행은 인증서 발급과 이용 과정에 암호화 기술과 도용 방지 시스템을 적용하고 있으며...",
-          "press": "iminju.net",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 17:12",
-          "link": "http://www.iminju.net/news/articleView.html?idxno=168271",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[오늘의 은행] KB국민은행·우리은행·하나은행·IBK기업은행·BNK경남은...",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 간편하게 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며, 생체인증(지문·Face I…",
-          "press": "financialreview.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 17:04",
-          "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=44281",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -231,89 +66,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "KB국민은행, 'KB국민인증서' 누적 이용객 1800만명 돌파",
-          "summary": "▲ [사진=KB국민은행] KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용해 안전성을 강화했고, 생체인증...",
-          "press": "megaeconomy.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 16:50",
-          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598823553176",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민은행, KB국민인증서 누적 이용 고객 1800만명 돌파",
-          "summary": "발급도 간편해 본인 명의 스마트기기와 신분증을 이용해 영업점 방문 없이 발급받고 지문이나 얼굴인식, 간편비밀번호로 인증할 수 있다. 발급부터 이용까지 암호화 기술과 도용 방지 시스템도 적용했다.",
-          "press": "hbnpress.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 16:44",
-          "link": "https://hbnpress.com/news/view/1065598832167449",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민은행, 'KB국민인증서' 고객 1,800만명 돌파-'디지털 인증 플랫폼'...",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 간편하게 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며, 생체인증(지문ㆍFace I…",
-          "press": "techholic.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 16:28",
-          "link": "http://www.techholic.co.kr/news/articleView.html?idxno=222524",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "금융권, KB국민인증서 고객 증가·탄소중립 실천 생활 맞춤형 캠페인 실...",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 간편하게 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며 생체인증(지문ㆍFace ID…",
-          "press": "wsobi.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 16:16",
-          "link": "http://www.wsobi.com/news/articleView.html?idxno=316692",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "시작부터 파행 빚은 과방위에 산적한 AI·통신 현안 '뒷전'",
           "summary": "단통법 폐지 이후 시장 안정화 및 소비자 권익 보호를 위한 전기통신사업법 개정 등 후속 제도 정비와 함께, 알뜰폰(MVNO) 활성화 및 가계통신비 부담 경감 방안에 대한 논의가 필요한 상황이다. 그러나 과방위가 본격…",
           "press": "sisajournal-e.com",
           "date": "2026-08-19",
           "datetime": "2026-08-19 15:56",
           "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423164",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민은행, KB국민인증서 고객 1800만명 돌파",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 간편하게 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며 생체인증(지문·Face ID…",
-          "press": "newsfreezone.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 15:48",
-          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704700",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[더밸류 브리핑] 오늘의 금융권 소식...KB국민은행·IBK기업은행·BNK금융",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며 생체인증인 지문·Face ID와...",
-          "press": "thevaluenews.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 15:44",
-          "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200894",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민은행, KB국민인증서 이용 고객 1800만명 돌파",
-          "summary": "KB국민인증서는 영업점을 찾지 않고도 본인 명의의 스마트기기와 신분증만 있으면 간편하게 만들 수 있다.... 인증서 발급부터 사용까지 모든 단계에 도용 방지 시스템과 암호화 기술을 적용했으며 지문·Face ID 등.…",
-          "press": "pointdaily.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 15:42",
-          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315982",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -352,17 +110,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "KB국민인증서, 일상 속 디지털 인증 플랫폼으로 자리매김",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증이 있으면 영업점 방문 없이 발급할 수 있다.... KB국민은행은 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했다. 생체인증과...",
-          "press": "popcornnews.net",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 15:24",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=130156",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LGU+망 알뜰폰 증가율 21.7%→0.4% 급락…\"현대차 회선 공급 사업자 KT로...",
           "summary": "2019년부터 7년 연속 두 자릿수 성장을 이어온 LG유플러스 망 알뜰폰(MVNO)의 회선 증가세가 사실상 멈춰... 증가율 하락에는 일반 알뜰폰 가입자 수요 외에도 커넥티드카 회선 공급 구조 변화 등이 영향을...",
           "press": "아이뉴스24",
@@ -396,56 +143,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "KB국민은행 'KB국민인증서' 누적 이용자 1800만명 돌파...생활 밀착형 인...",
-          "summary": "이 인증서는 본인 명의 스마트기기와 신분증만 있으면 영업점 방문 없이 간단히 발급할 수 있다.... 보안 측면에서도 인증서 발급과 사용 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며 지문, 얼굴 인식 등..…",
-          "press": "asiaa.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 14:56",
-          "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259242",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민은행 'KB국민인증서' 이용 고객 1800만명 돌파",
-          "summary": "본인 명의 스마트기기와 신분증을 이용해 영업점 방문 없이 발급할 수 있으며 KB스타뱅킹에서 간편인증... KB국민은행은 인증서 발급과 이용 과정에 암호화 기술과 도용 방지 시스템을 적용하고 지문·Face ID 등..…",
-          "press": "worktoday.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 14:56",
-          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88149",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민인증서 이용자 1800만명 돌파",
-          "summary": "KB국민인증서는 영업점 방문 없이 본인 명의의 스마트 기기와 신분증으로 발급할 수 있다. 국세청 홈택스... 또 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며, 생체인증(지문...",
-          "press": "디일렉",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 14:54",
-          "link": "https://www.thelec.kr/news/articleView.html?idxno=61113",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "IBK기업은행, 올해 두 번째 대형 금융사고…누적 1000억원 넘었다",
           "summary": "다른 경로로 유출된 개인정보와 결합될 경우 타깃형 보이스피싱이나 명의도용에 악용될 소지가 있다는 점에서 우려가 나온다. 은행권은 매년 신년사에서 내부통제 강화와 소비자보호를 강조해왔지만, 실제...",
           "press": "그린포스트코리아",
           "date": "2026-08-19",
           "datetime": "2026-08-19 14:48",
           "link": "https://www.greened.kr/news/articleView.html?idxno=347958",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민은행, 일상 속 디지털 인증 플랫폼 'KB국민인증서' 고객 1800만 돌...",
-          "summary": "이 인증서는 본인 명의 스마트기기와 신분증만 있으면 영업점 방문 없이 발급받을 수 있다. KB스타뱅킹을... 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했다. 지문·얼굴 인식 등 생체 인증과.…",
-          "press": "updownnews.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 14:40",
-          "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=318435",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -484,111 +187,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "KB국민은행, KB국민인증서 고객 1800만명 돌파",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 간편하게 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며, 생체인증과...",
-          "press": "디지털데일리",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 14:21",
-          "link": "https://n.news.naver.com/mnews/article/138/0002238265?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민은행, '국민인증서' 이용자 1800만명 돌파…생활 속 인증으로 확장",
-          "summary": "KB국민인증서는 본인 명의 스마트기기와 신분증을 이용해 영업점 방문 없이 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용했으며 지문과 페이스ID 등 생체인증과...",
-          "press": "ziksir.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 14:12",
-          "link": "https://www.ziksir.com/news/articleView.html?idxno=143602",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "글로벌 기업정보 전문기관에게 듣는 해외 거래처 검증법…홍콩 사례를...",
-          "summary": "(상호 도용/ Name-cloning) Q5. 두 번째 축인 '소유구조'는 어디까지 파악할 수 있는가? 거래처를 궁극적으로... 홍콩 기업 구조에는 명의 신탁(Nominee) 배열, 법인 주주, 역외 지주회사가 포함…",
-          "press": "dream.kotra.or.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 14:07",
-          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=110&CONTENTS_NO=1&bbsGbn=245&bbsSn=245&pNttSn=243562",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"우리나라 국민 3명 중 1명, KB국민인증서 이용한다\"",
-          "summary": "KB국민인증서는 본인 명의의 스마트기기와 신분증만 있으면 영업점 방문 없이 간편하게 발급할 수 있다.... 기술과 도용 방지 시스템을 적용했으며 생체인증(지문·Face ID)과 간편비밀번호를 통해 편리하게 인증할 수…",
-          "press": "ngonews.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 13:42",
-          "link": "https://www.ngonews.kr/news/articleView.html?idxno=235842",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민은행, 'KB국민인증서' 누적 고객 1800만명 돌파",
-          "summary": "KB국민인증서는 영업점 방문 없이 본인 명의 스마트기기와 신분증으로 비대면 발급이 가능하다.... 발급과 이용 전 과정에 암호화 기술과 도용 방지 시스템을 적용하고 지문·페이스ID 등 생체인증을 도입해 안전성과...",
-          "press": "newscape.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 13:38",
-          "link": "http://www.newscape.co.kr/news/articleView.html?idxno=124011",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[데이터 뉴스룸] 상사·유통 업체 50곳 중 21곳 부채비율 100%↓…삼성물...",
           "summary": "이들 기업군에는 ▲대산F&B(51.1%) ▲형지글로벌(56.2%) ▲케이티알파(57.9%) ▲신세계인터내셔날(60.1%) ▲미스토홀딩스(65.1%) ▲LX인터내셔널(69.5%) ▲현대백화점(77.7%) ▲디아이동일(…",
           "press": "그린포스트코리아",
           "date": "2026-08-19",
           "datetime": "2026-08-19 13:33",
           "link": "https://www.greened.kr/news/articleView.html?idxno=347975",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "1800만 명이 쓰는 '디지털 신분증'…KB국민인증서, 금융 넘어 일상으로",
-          "summary": "본인 명의 스마트기기와 신분증을 이용해 영업점 방문 없이 발급받고 지문이나 얼굴인식, 간편비밀번호로 인증할 수 있다. 발급부터 이용까지 암호화 기술과 도용 방지 시스템도 적용했다. 인증서비스 경쟁의...",
-          "press": "e-science.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 13:26",
-          "link": "https://www.e-science.co.kr/news/articleView.html?idxno=133767",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민인증서 이용자 1800만명 돌파…1년 새 100만명 증가",
-          "summary": "KB국민인증서는 본인 명의 스마트기기와 신분증을 이용해 영업점 방문 없이 발급할 수 있다. KB스타뱅킹을... 국민은행은 인증서 발급과 이용 과정에 암호화 기술과 도용 방지 시스템을 적용하고 지문·Face ID 등.…",
-          "press": "newslock.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 13:18",
-          "link": "http://www.newslock.co.kr/news/articleView.html?idxno=134519",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민인증서 누적 이용자 1800만명 넘어서...1년 새 100만명↑",
-          "summary": "KB금융인증서는 본인 명의의 스마트기기와 신분증을 이용해 비대면으로 발급할 수 있다. 별도로... 보안 측면에서는 인증서 발급과 사용 과정에 암호화 기술과 도용 방지 시스템을 적용했다. 인증 과정에서는...",
-          "press": "idsn.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 13:10",
-          "link": "https://idsn.co.kr/news/view/1065585802631570",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KB국민인증서 1800만명 돌파…은행권 '자체 인증서' 경쟁 확대",
-          "summary": "KB국민인증서는 본인 명의 스마트기기와 신분증만 있으면 영업점 방문 없이 발급할 수 있다.... 인증서 발급부터 이용까지 전 과정에 암호화 기술과 도용 방지 시스템을 적용하고, 지문이나 페이스ID, 간편비밀번호 등을…",
-          "press": "srtimes.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 13:10",
-          "link": "http://www.srtimes.kr/news/articleView.html?idxno=210356",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -660,23 +264,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 정부 '모두의AI' 사업 도전…2250만 통신 회선 기반 AI 대중화 나선...",
-          "summary": "과기정통부의 2026년 6월 무선통신서비스 가입 현황을 기준으로 IoT와 알뜰폰(MVNO)을 제외한 SKT 이동통신 회선은 2249만8579개다. SKT는 약 2250만 회선과 온·오프라인 채널을 활용해 AI 서비스…",
-          "press": "eroun.net",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:34",
-          "link": "https://www.eroun.net/news/articleView.html?idxno=87821",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, '모두의AI' 사업 참여…서비스·모델·인프라 역량 결집",
           "summary": "이는 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외한 수치로, 과학기술정보통신부의 무선통신서비스 가입 현황을 기준으로 했다. SKT는 약 2250만 회선과 온·오프라인 고객 접점을 활용해 AI 서비스의 접근성을 높인…",
           "press": "businessplus.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 09:34",
           "link": "https://www.businessplus.kr/news/articleView.html?idxno=115619",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 정부 '모두의AI' 사업 도전…2250만 통신 회선 기반 AI 대중화 나선...",
+          "summary": "과기정통부의 2026년 6월 무선통신서비스 가입 현황을 기준으로 IoT와 알뜰폰(MVNO)을 제외한 SKT 이동통신 회선은 2249만8579개다. SKT는 약 2250만 회선과 온·오프라인 채널을 활용해 AI 서비스…",
+          "press": "eroun.net",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 09:34",
+          "link": "https://www.eroun.net/news/articleView.html?idxno=87821",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -743,28 +347,6 @@
           "date": "2026-08-19",
           "datetime": "2026-08-19 08:00",
           "link": "https://n.news.naver.com/mnews/article/001/0016257503?sid=102",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[Who Is ?] 홍영철 고려제강 회장",
-          "summary": "△과일·채소 도매자회사 효자노릇 고려제강 자회사들 가운데 철강 사업과 전혀 관련이 없는 과일·채소... 이유만으로 대가도 받지 않고 이루어진 것으로서 공정한 거래를 저해할 우려가 명백한 행위\"라고...",
-          "press": "businesspost.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 07:00",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=441620",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "높게 띄워 세우는 샷",
-          "summary": "글_케이티 달(Katie Dahl) / 정리_론 카스프리스크(Ron Kaspriske) 플롭 샷은 볼을 매우 높게 띄워 바로 멈춰 세우는 기술이다. 이를 시도하기 전에 가장 먼저 생각해야 할 것은 '언제 쓸 것이냐'…",
-          "press": "golfdigest.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 06:00",
-          "link": "https://m.sports.naver.com/golf/article/435/0000016075",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -848,23 +430,23 @@
           "subgroup_label": "4-1 파워넷"
         },
         {
-          "title": "에이텀, 사업목적 추가…EV 전장·AI 전력 전문기업 도약",
-          "summary": "전원공급장치(SMPS) ▲전력전자부품·제어 소프트웨어(S/W) 등 12개 첨단 사업군으로 세분화·구체화했다.... Center) 시장 진입에 나설 계획이다. 회사는 이번에 인증을 획득한 서버 제품군을 공공기관 및 기…",
-          "press": "widedaily.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 15:02",
-          "link": "https://www.widedaily.com/news/articleView.html?idxno=299654",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "4-1 파워넷"
-        },
-        {
           "title": "에이텀, EV 전장·AI 데이터센터 전력으로 사업 확장…정관 대폭 손질",
           "summary": "전원공급장치(SMPS) ▲전력전자부품 등 12개 첨단 사업군으로 구체화했다. 특히 제어기술 및 소프트웨어(S/W)... 회사는 이를 바탕으로 조달청 나라장터 등록을 추진하고 공공 데이터센터와 엣지 데이터센터 시장에 …",
           "press": "view.asiae.co.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 15:02",
           "link": "https://n.news.naver.com/mnews/article/277/0005804737?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "4-1 파워넷"
+        },
+        {
+          "title": "에이텀, 사업목적 추가…EV 전장·AI 전력 전문기업 도약",
+          "summary": "전원공급장치(SMPS) ▲전력전자부품·제어 소프트웨어(S/W) 등 12개 첨단 사업군으로 세분화·구체화했다.... Center) 시장 진입에 나설 계획이다. 회사는 이번에 인증을 획득한 서버 제품군을 공공기관 및 기…",
+          "press": "widedaily.com",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 15:02",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=299654",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "4-1 파워넷"
@@ -1728,34 +1310,12 @@
           "subgroup_label": "4-3 이앤크리에이티브"
         },
         {
-          "title": "차선 막히는 테크노폴리스로… 3주간 터널·지하차도 대대적 세척",
-          "summary": "▲ 대구테크오폴리스 일대 도로구간 터널 전경. 대구공공시설관리공단 제공 대구 달서구 도원동과 달성군... 터널 내부에 쌓인 미세먼지와 매연 분진을 씻어내 운전자들의 시야를 확보하고 공기 질을 높이려는...",
-          "press": "dkilbo.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 17:06",
-          "link": "https://www.dkilbo.com/news/articleView.html?idxno=551749",
-          "badge": "산업",
-          "subgroup": "ritco",
-          "subgroup_label": "4-4 리트코"
-        },
-        {
           "title": "대구공공시설관리공단, 터널 세척작업…테크노폴리스로 부분 통제",
           "summary": "대구공공시설관리공단이 터널 내 쾌적한 통행환경 조성과 미세먼지 저감을 위해 테크노폴리스로 터널 및... 작업 구간에서는 안전사고 예방을 위해 도로를 부분 통제한다. 이번 작업에는 공단 인력 13명과 세척장비...",
           "press": "kbmaeil.com",
           "date": "2026-08-19",
           "datetime": "2026-08-19 16:30",
           "link": "https://www.kbmaeil.com/article/20260819500427",
-          "badge": "산업",
-          "subgroup": "ritco",
-          "subgroup_label": "4-4 리트코"
-        },
-        {
-          "title": "대구공공시설관리공단 테크노폴리스로 터널·지하차도 대청소… 교통 일...",
-          "summary": "쾌적한 도로환경을 조성하기 위해 테크노폴리스로 내 주요 터널과 지하차도를 대상으로 대청소를 실시합니다. 대구시설공단은 차량의 쾌적한 주행 환경을 조성하고 미세먼지를 줄이기 위해 테크노폴리스로에 대해...",
-          "press": "newsclaim.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 15:44",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072440",
           "badge": "산업",
           "subgroup": "ritco",
           "subgroup_label": "4-4 리트코"
@@ -1792,5 +1352,5 @@
       ]
     }
   ],
-  "total": 158
+  "total": 118
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 14:44 소급 정리",
+  "generated_at": "2026-08-21 15:17 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -11,34 +11,12 @@
       "digest": "",
       "articles": [
         {
-          "title": "기아, 7월 글로벌 판매 29만8037대...전년比 13.4% 증가",
-          "summary": "도매 판매 기준이다. 차종별로는 스포티지가 5만2714대로 글로벌 시장에서 가장 많이 팔렸다.... 승용 모델은 레이 5178대, 모닝 3408대, K5 2362대 등 총 1만3113대가 판매됐다. 레저용차량(RV)…",
-          "press": "joongangenews.com",
-          "date": "2026-08-03",
-          "datetime": "2026-08-03 15:10",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=537294",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[더벨][i-point] 아이즈비전 \"과기부 알뜰폰 2.0 정책 수혜 기대\"",
           "summary": "가격 측면에서 과기정통부는 이통3사 신규 요금제의 도매제공 확대, 5G 도매대가 인하(약 15종 1~3%p) 등을 통해 업계 전체적으로 연간 약 250억원 규모의 비용 절감 효과를 기대한다고 밝혔다. 이는 알뜰폰 사…",
           "press": "thebell.co.kr",
           "date": "2026-08-03",
           "datetime": "2026-08-03 13:32",
           "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608031249160240108915",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "이제이엠컴퍼니, 개인정보보호 관리체계 인증 획득",
-          "summary": "올해 심사에서는 에스케이텔레콤(주), 공무원연금공단, (주)씨제이이엔엠 등 국내 대표 대기업과 공공기관도 잇따라 인증을 획득했다. 이번 인증의 토대는 창사 이래 이어온 무사고 운영 이력이다. 이제이엠컴퍼니는...",
-          "press": "이뉴스투데이",
-          "date": "2026-08-03",
-          "datetime": "2026-08-03 13:25",
-          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2455129",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -297,5 +275,5 @@
       ]
     }
   ],
-  "total": 22
+  "total": 20
 }

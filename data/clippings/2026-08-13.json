@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 14:44 소급 정리",
+  "generated_at": "2026-08-21 15:17 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -50,17 +50,6 @@
           "date": "2026-08-13",
           "datetime": "2026-08-13 16:18",
           "link": "https://n.news.naver.com/mnews/article/029/0003042323?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "‘서바이벌전’ 국가대표 AI 2차 발표 임박…4팀 중 3팀만 생존",
-          "summary": "에스케이텔레콤의 에이닷엑스 케이투(A.X K2)모델은 한국어·수학 능력, 긴 문맥 처리에 공을 들였다. 긴 문서를 처리할 때 답변에 중요한 과거 토큰을 선별해 집중적으로 참고하는 자체 기술을 적용해 장문 이해 및..…",
-          "press": "한겨레",
-          "date": "2026-08-13",
-          "datetime": "2026-08-13 16:14",
-          "link": "https://n.news.naver.com/mnews/article/028/0002818420?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -171,17 +160,6 @@
           "date": "2026-08-13",
           "datetime": "2026-08-13 10:30",
           "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315374",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[기업들] AI부터 고단열 창호·에듀테크까지…맞춤형 서비스로 시장 공...",
-          "summary": "사진=LG유플러스 임직원들이 '엘지유플러스 중개서비스 for Amazon Web Services'를 소개하고 있는 모습 LG유플러스는 아마존웹서비스(AWS) 기반 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘…",
-          "press": "dailypop.kr",
-          "date": "2026-08-13",
-          "datetime": "2026-08-13 10:10",
-          "link": "http://www.dailypop.kr/news/articleView.html?idxno=101521",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -475,7 +453,7 @@
         },
         {
           "title": "통신장비 상장기업 브랜드평판 8월 1위 RFHIC…쏠리드·케이엠더블유 뒤...",
-          "summary": "13위 머큐리, 14위 유비쿼스, 15위 한울소재과학 순으로 집계됐다. 1위 RFHIC 브랜드는 참여지수 116,898, 미디어지수 65,700, 소통지수 114,953, 커뮤니티지수 27,026, 시장지수 282,…",
+          "summary": "12위 아이즈비전, 13위 머큐리, 14위 유비쿼스, 15위 한울소재과학 순으로 집계됐다. 1위 RFHIC 브랜드는 참여지수 116,898, 미디어지수 65,700, 소통지수 114,953, 커뮤니티지수 27,026…",
           "press": "cbci.co.kr",
           "date": "2026-08-13",
           "datetime": "2026-08-13 11:28",
@@ -901,5 +879,5 @@
       ]
     }
   ],
-  "total": 77
+  "total": 75
 }

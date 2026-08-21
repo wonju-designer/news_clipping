@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 14:44 소급 정리",
+  "generated_at": "2026-08-21 15:17 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -17,28 +17,6 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 19:08",
           "link": "https://n.news.naver.com/mnews/article/028/0002818261?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 공공 클라우드 강화…AWS 기반 중개서비스, 디지털서비스 ...",
-          "summary": "12일 LG유플러스에 따르면 이날 AWS의 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다. 디지털서…",
-          "press": "sportschosun.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:29",
-          "link": "https://n.news.naver.com/mnews/article/076/0004435201?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"아마존 클라우드 앞세워\" LG유플, 공공AX 영토확장 속도",
-          "summary": "LG유플러스 임직원들이 '엘지유플러스 중개서비스 포 아마존 웹 서비스'를 소개하고 있다. [사진 LG유플러스] LG유플러스가 글로벌 1위 클라우드인 아마존웹서비스(AWS)를 등에 업고 공공부문 인공지능 전환(AX) …",
-          "press": "catchnews.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:25",
-          "link": "https://www.catchnews.kr/news/articleView.html?idxno=127272",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -66,34 +44,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 공공 클라우드 사업 확대…AWS 중개서비스 공식 등록",
-          "summary": "LG유플러스는 아마존웹서비스(AWS)의 클라우드 서비스형 인프라(laaS) 중개서비스인 ‘엘지유플러스 중개서비스 포 아마존 웹 서비스’를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스...",
-          "press": "디지털타임스",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:07",
-          "link": "https://n.news.naver.com/mnews/article/029/0003042103?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "아이폰18 원가 38%↑…LG이노텍·LGD 부담 커지나",
           "summary": "국내도 민팃 등 중고폰 업계에선 아이폰은 시장 평균 수준과 같이 2~3년차 모델이 주로 들어온다고 알려져... 적어 중고폰 시장에서 감가가 덜한 편이다. 문제는 이 흐름이 부품사에는 다른 이야기라는 점이다. 신제품.…",
           "press": "econovill.com",
           "date": "2026-08-12",
           "datetime": "2026-08-12 17:02",
           "link": "https://www.econovill.com/news/articleView.html?idxno=747806",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 연계 공공 클라우드 중개서비스 공식 등록",
-          "summary": "LG유플러스는 AWS의 글로벌 클라우드 인프라와 자사의 네트워크 및 보안 역량을 결합한 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다. 이 시스템은…",
-          "press": "cbci.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:54",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=597484",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -121,56 +77,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 사업 확대... 디지털서비스 등록",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 밝혔다. 디지털서비스 이용지원…",
-          "press": "thefirstmedia.net",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:38",
-          "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205893",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 사업 확대",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 포 아마존 웹서비스'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 이용지원시스템은 정부와.…",
-          "press": "ftoday.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:24",
-          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363515",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "로봇의 일상화, 법으로 앞당긴다...'이동로봇 특별법' 제정 추진",
-          "summary": "이동로봇 특별법 설명회 참석 기업 : 삼성전자㈜, 현대자동차, 기아, 네이버, 에스케이텔레콤, 현대건설, 대한항공, 주식회사 레인보우로보틱스, 두산로보틱스, 포스코 DX, ㈜현대엘리베이터, 한화손해보험, 대동로보틱스…",
-          "press": "ekoreanews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:12",
-          "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87458",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LGU+, AWS 기반 공공 클라우드 사업 본격 확대 실시",
           "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 과학기술정보통신부 ‘디지털서비스...",
           "press": "breaknews.com",
           "date": "2026-08-12",
           "datetime": "2026-08-12 16:04",
           "link": "http://www.breaknews.com/1228511",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"공공기관 핵심 AX 파트너\" LG유플러스, AWS 기반 공공 클라우드 사업 본...",
-          "summary": "LG유플러스는 AWS IaaS 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 등록했다. 해당 시스템은 정부와 지방자치단체, 공공기관 등이 클라우드 기…",
-          "press": "finomy.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:04",
-          "link": "http://www.finomy.com/news/articleView.html?idxno=259055",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -187,133 +99,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG U+, 클라우드 서비스로 지자체 등 공공기관에 서비스 지원한다",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "kgnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:48",
-          "link": "https://www.kgnews.co.kr/news/article.html?no=907433",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 중개서비스 공공 플랫폼 등록…클라우드 사업 확대",
-          "summary": "LG유플러스 임직원들이 디지털서비스 이용지원시스템에 공식 등록된 '엘지유플러스 중개서비스 for Amazon Web Services'를 소개하고 있다.ㅣLG유플러스 LG유플러스가 아마존웹서비스(AWS) 기반 인프라 …",
-          "press": "biztribune.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:48",
-          "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357335",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "이동통신 3사, AI 데이터센터로 승부 \"본업 성장 끝났다\"",
           "summary": "전 분기와 비교해도 5.3% 늘었지만, 이동통신 매출은 알뜰폰 확산과 요금제 경쟁 심화로 전년 동기 대비... 신한투자증권 김아람 애널리스트는 \"데이터센터 증설 계획만으로는 시장의 기업가치 재평가를 기대하기...",
           "press": "bizhankook.com",
           "date": "2026-08-12",
           "datetime": "2026-08-12 15:36",
           "link": "https://bizhankook.com/articles/telco-ai-data-center-expansion.html",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS와 공공 클라우드 사업 확대 '맞손'… 서비스 강화",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개 서비스 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 등록했다고 12일 밝혔다. 디지털서비스 이용지…",
-          "press": "thepublic.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:36",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=314718",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[재계 투데이] LG전자, FDA 승인 의료용 모니터 선보여 外",
-          "summary": "AWS 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다. 이에 따라 정부·지자체·공공기관은 해당 시스템을 통해…",
-          "press": "news.dealsitetv.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:30",
-          "link": "https://news.dealsitetv.com/articles/174633",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[Telecom & Now] LGU+, AWS 클라우드 공공기관 공급…공공 AX 정조준",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "ebn.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:24",
-          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720127",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, 공공에 AWS 인프라 판다",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 디지털서비스 이용지원시스템에 공식 등록했다. 디지털서비스 이용지원시스템은 …",
-          "press": "byline.network",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:18",
-          "link": "https://byline.network/?p=9004111222615105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 사업 확대…디지털서비스 이용지원...",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 디지털서비스 이용지원시스템에 공식 등록했다고 밝혔다. 디지털서비스 이용지원…",
-          "press": "todayeconomic.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:18",
-          "link": "https://www.todayeconomic.com/news/article.html?no=31680",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[재계는 지금] LG U+, AWS 기반 공공 클라우드 사업 본격 확대 外",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "dealsite.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:14",
-          "link": "https://dealsite.co.kr/articles/167066",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 결합 공공 클라우드 사업 확대…\"공공 AX 파트너 자리매...",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 포 AWS’를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. ▲LG유플러스 임직원들이 ‘엘지유플러스...",
-          "press": "socialvalue.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:10",
-          "link": "https://www.socialvalue.kr/news/view/1065588619675717",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, AWS 클라우드 인프라 기반 공공부문 AX 시장 '세몰이'",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "그린포스트코리아",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:07",
-          "link": "https://www.greened.kr/news/articleView.html?idxno=347517",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 공공 클라우드 사업 확대...AWS 인프라 중개서비스 제공",
-          "summary": "LG유플러스는 아마존웹서비스(AWS)의 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔…",
-          "press": "hbnpress.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:44",
-          "link": "https://hbnpress.com/news/view/1065591559500110",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -330,28 +121,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG U+, AWS 기반 공공 클라우드 사업 확대 본격화",
-          "summary": "LG유플러스는 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 이용지원시스템은 정부, 공공기관 등이 디지털 서비스 관련…",
-          "press": "newspost.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:10",
-          "link": "https://www.newspost.kr/news/articleView.html?idxno=224848",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "신약∙금융∙공공∙제조로 파고든 DX∙AX…핵심 업무 바꾼다",
-          "summary": "LG유플러스 임직원들이 '엘지유플러스 중개서비스 for Amazon Web Services'를 소개하고 있는 모습. 사진=LG유플러스 현대차그룹은 2019년부터 추진한 전사 DX·AX 과정과 주요 성과를 공개했다. …",
-          "press": "kdfnews.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 13:56",
-          "link": "http://www.kdfnews.com/news/articleView.html?idxno=186438",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "KT, 2분기 영업익 6483억원…시장 전망치 7% 웃돌아",
           "summary": "이동통신(MNO) 가입자는 2045만3000명으로 전분기보다 4만명 늘었다. 해지율은 1분기 1.7%에서 2분기 0.9%로 낮아졌다. 5G 가입자 비중은 전체 핸드셋 가입자의 83.2%를 기록했다. 유선 사업 매출은…",
           "press": "ekn.kr",
@@ -363,45 +132,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 중개서비스 등록…공공 AX 사업 속...",
-          "summary": "LG유플러스는 12일 \"AWS 클라우드 서비스형 인프라(IaaS) 중개 서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 최종 등록했다\"고 밝혔다. 디지털서…",
-          "press": "thedailypost.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 13:40",
-          "link": "https://www.thedailypost.kr/news/articleView.html?idxno=114981",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스 공공 클라우드 사업 확대",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 포 아마존 웹 서비스’를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 이용지원시스템은...",
-          "press": "naeil.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 13:04",
-          "link": "https://www.naeil.com/news/read/598526?ref=naver",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[KB국민vs 신한銀 생활금융戰]①KB는 통신, 신한은 배달…은행 밖 고객 ...",
           "summary": "KB국민은행은 알뜰폰 '리브모바일'을 계좌와 연결하는 반면 신한은행은 배달앱 '땡겨요'에서 소비자와... 42만9000명, 계좌에서 출발한 리브모바일 리브모바일 개인 가입자는 KB국민은행 입출금계좌를 보유해야 한다.…",
           "press": "press9.kr",
           "date": "2026-08-12",
           "datetime": "2026-08-12 12:46",
           "link": "http://www.press9.kr/news/articleView.html?idxno=80971",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+, AWS 인프라 결합한 '공공 클라우드' 사업 확대",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 포 아마존웹서비스'를 디지털서비스 이용지원시스템에 등록했다고 12일 밝혔다. 이번 등록으로 공공부문이 디지털서비스...",
-          "press": "it-b.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 12:00",
-          "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89467",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -429,89 +165,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LGU+, AWS 기반 공공 클라우드 사업 본격 확대",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "pointdaily.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:36",
-          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315216",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+, AWS 기반 공공 클라우드 서비스 강화",
-          "summary": "12일 LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 포 아마존 웹서비스(for Amazon Web Services)’를 디지털서비스 이용지원시스템에 공식 등록했다고 …",
-          "press": "헤럴드경제",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:28",
-          "link": "https://n.news.naver.com/mnews/article/016/0002682842?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 시장 '정조준'",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용 지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스…",
-          "press": "newstree.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:22",
-          "link": "https://www.newstree.kr/newsView/ntr202608120007",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "해킹 악재 털고가는 KT…AX·클라우드 두자릿수 성장(종합)",
           "summary": "2분기 무선 가입자는 2950만 1000명으로 전 분기 대비 1.2% 증가했고 MNO 가입자도 2045만 3000명으로 4만 명 늘었다. 해지율은 1분기 1.7%에서 0.9%로 낮아졌다. 유선 사업 매출은 1조 31…",
           "press": "뉴스1",
           "date": "2026-08-12",
           "datetime": "2026-08-12 11:11",
           "link": "https://n.news.naver.com/mnews/article/421/0009109696?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, AWS 기반 공공 클라우드 사업 본격 확대",
-          "summary": "LG유플러스 임직원들이 '엘지유플러스 중개서비스 for Amazon Web Services'를 소개하고 있다. (사진=LG유플러스) LG유플러스가 아마존웹서비스(AWS)의 글로벌 클라우드 인프라와 자사의 네트워크·보…",
-          "press": "delighti.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:10",
-          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120098",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 중개서비스 공공 플랫폼 등록…클라우드 사업 확대",
-          "summary": "◇AWS 중개서비스 등록…공공기관 공급 기반 확보 LG유플러스는 AWS 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식…",
-          "press": "ziksir.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:06",
-          "link": "https://www.ziksir.com/news/articleView.html?idxno=142905",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 사업 본격 확대",
-          "summary": "▲LG유플러스 임직원들이 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 소개하고 있다. [사진=LG유플러스] LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러…",
-          "press": "megaeconomy.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:04",
-          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578487965280",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 업고 공공 클라우드 시장 넓힌다",
-          "summary": "LG유플러스 임직원들이 '엘지유플러스 중개서비스 for Amazon Web Services'를 소개하고 있는 모습. LG유플러스가 아마존웹서비스(AWS)의 글로벌 클라우드 인프라에 자사의 네트워크·보안 운영 노하우를…",
-          "press": "worktoday.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:04",
-          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87838",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -528,72 +187,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, '공공 클라우드 사업' 확대…AWS 중개서비스 디지털서비스...",
-          "summary": "LG유플러스는 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록하고, 각 기관의 업무 환경과 특성에 맞춘 클라우드 서비스 도입을 지원한다고 12일 밝혔다.…",
-          "press": "100ssd.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:38",
-          "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=211869",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 사업 확대",
-          "summary": "LG유플러스는 아마존웹서비스(AWS) 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 등록했다고 12일 밝혔다. 디…",
-          "press": "koreastocknews.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:32",
-          "link": "http://www.koreastocknews.com/news/articleView.html?idxno=120508",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 공공 부문에 AWS 기반 클라우드 서비스 지원",
-          "summary": "정부 디지털 서비스 이용지원시스템에 자사 서비스 공식 등록 LG유플러스 임직원들이 '엘지유플러스 중개서비스 for 아마존웹서비스'를 소개하고 있다./LG유플러스 LG유플러스가 공공 클라우드 사업 확대에 나선다....",
-          "press": "metroseoul.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:30",
-          "link": "http://www.metroseoul.co.kr/article/20260812500115",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플, AWS 기반 공공 디지털전환 지원",
-          "summary": "LG유플러스 임직원들이 '엘지유플러스 중개서비스 for Amazon Web Services'를 소개하고 있는 모습. 사진=LG유플러스 LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러…",
-          "press": "kfenews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:26",
-          "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=662264",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG디스플레이·LGU+ '연대 계약학과 설명회' 개최·AWS 기반 공공 클라우...",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다. 디지털서비스 이용지원시스템은 …",
-          "press": "wsobi.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:08",
-          "link": "http://www.wsobi.com/news/articleView.html?idxno=316351",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 중개서비스 등록…공공 클라우드 사업 기반 마련",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "popcornnews.net",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:02",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=129402",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스, AWS 중개서비스 디지탈서비스 마켓 등록…공공 클라우드 시...",
           "summary": "사진은 LG유플러스 임직원들이 '엘지유플러스 중개서비스 for Amazon Web Services'를 소개하고 있는 모습. /사진=LG유플러스 LG유플러스가 아마존웹서비스(AWS)의 클라우드 인프라와 자사의 통신 및…",
           "press": "businessplus.kr",
@@ -605,364 +198,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 사업 확대",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "cnbizm.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:58",
-          "link": "https://www.cnbizm.com/news/articleView.html?idxno=311263",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+, AWS 손잡고 공공 클라우드 사업 확대",
-          "summary": "12일 업계에 따르면 LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스 '엘지유플러스 중개서비스 포 아마존 웹 서비스'를 디지털서비스 이용지원시스템에 공식 등록했다. 디지털서비스 이용지원시스템은..…",
-          "press": "파이낸셜뉴스",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:57",
-          "link": "https://n.news.naver.com/mnews/article/014/0005560386?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, AWS 기반 공공 클라우드 사업 확대",
-          "summary": "LG유플러스는 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 이용지원시스템은 정부와 지방자치단체, 공공기관 등이 클라…",
-          "press": "한국경제TV",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:57",
-          "link": "https://n.news.naver.com/mnews/article/215/0001262072?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+, AWS 손잡고 공공 클라우드 확대…정부 디지털서비스 등록",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "widedaily.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:52",
-          "link": "https://www.widedaily.com/news/articleView.html?idxno=299261",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 중개서비스로 공공 클라우드 사업 확대",
-          "summary": "LG유플러스는 12일 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 포 아마존 웹 서비스(LG유플러스 중개서비스 for Amazon Web Services)'를 디지털서비스 이용지원…",
-          "press": "epnc.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:50",
-          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405465",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, 아마존웹서비스 기반 공공 클라우드 사업 확대…디지털 혁신 추...",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다. 디지털서비스 이용지원시스템은 …",
-          "press": "newsquest.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:46",
-          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=271572",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[위클리오늘] LG유플러스 소식(8.12)",
-          "summary": "▲ LG유플러스 임직원들이 '엘지유플러스 중개서비스 for Amazon Web Services'를 소개하고 있는 모습. LG유플러스, AWS 기반 공공 클라우드 사업 확대 LG유플러스가 아마존웹서비스(AWS) 기반 …",
-          "press": "weeklytoday.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:38",
-          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=789833",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 연계 공공 클라우드 사업 확대…디지털서비스 이용지원...",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'가 디지털서비스 이용지원시스템에 공식 등재됐다고 밝혔다. 디지털서비스 이용지원…",
-          "press": "nextdaily.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:34",
-          "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252090",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플, AWS 중개서비스 공식 등록",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 디지털서비스 이용지원시스템에 공식 등록했다고 오늘(12일) 밝혔습니다. 이…",
-          "press": "biz.sbs.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:33",
-          "link": "https://n.news.naver.com/mnews/article/374/0000526973?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 사업 확대",
-          "summary": "LG유플러스 임직원들이 '엘지유플러스 중개서비스 for Amazon Web Services'를 소개하고 있다. 사진=LG유플러스 LG유플러스가 아마존웹서비스(AWS)의 글로벌 클라우드 인프라와 자사의 네트워크·보안 …",
-          "press": "weekly.hankooki.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:28",
-          "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7178563",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 손잡고 공공 클라우드 시장 판 넓힌다",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개 서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 정부의 '디지털서비스 이용지원시스템'에 공식 등록했다고 12일 밝혔다. …",
-          "press": "newsdream.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:26",
-          "link": "http://www.newsdream.kr/news/articleView.html?idxno=116116",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, AWS 기반 공공 클라우드 사업 본격 확대",
-          "summary": "LG유플러스 임직원들이 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 소개하고 있는 모습.(사진=LG유플러스) 12일 LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘…",
-          "press": "asiatime.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:22",
-          "link": "https://www.asiatime.co.kr/article/20260812500053",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, AWS 공공 클라우드 사업 확대...네이티브 전환·디지털 혁신 지원",
-          "summary": "이를 위해 LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다. 디지털서비스 이용지원…",
-          "press": "womentimes.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:22",
-          "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105185",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 사업 확대",
-          "summary": "LG유플러스에 따르면 회사는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 디지털서비스 이용지원시스템에 공식 등록했다. 디지털서비스 이…",
-          "press": "smarttoday.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:20",
-          "link": "https://www.smarttoday.co.kr/ko-kr/articles/110366",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, AWS 기반 공공 클라우드 사업 본격 확대",
-          "summary": "LG유플러스는 AWS 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 이용지원시…",
-          "press": "cstimes.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:20",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=716510",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 사업 본격 확대…공공기관 수요 대...",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "etoday.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:14",
-          "link": "https://www.etoday.co.kr/news/view/2613538",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 클라우드 공공시장 공급길 열었다",
-          "summary": "LG유플러스는 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 디지털서비스 이용지원시스템에 등록했다고 12일 밝혔다. AWS의 서비스형 인프라(IaaS)를 LG유플러스가 중개하는 서비스다. 디…",
-          "press": "seoultimes.news",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:11",
-          "link": "https://www.seoultimes.news/news/article.html?no=2000098716",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG U+, AWS 기반 공공 클라우드 사업 본격 확대",
           "summary": "12일 통신업계에 따르면, LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다. 디…",
           "press": "뉴스1",
           "date": "2026-08-12",
           "datetime": "2026-08-12 09:10",
           "link": "https://n.news.naver.com/mnews/article/421/0009109174?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 사업 본격 확대",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 디지털서비스 이용지원시스템에 공식 등록했다. 디지털서비스 이용지원시스템은 …",
-          "press": "viva100.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:08",
-          "link": "https://www.viva100.com/article/20260812500167",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 기반 공공 클라우드 사업 본격 확대",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "ngonews.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:02",
-          "link": "https://www.ngonews.kr/news/articleView.html?idxno=235250",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS와 손잡고 공공 클라우드 사업 확대",
-          "summary": "아주경제=김성현 기자 minus1@ajunews.com LG유플러스 임직원들이 ‘엘지유플러스 중개서비스 포 아마존 웹 서비스’를 소개하고 있다. [사진=LG유플러스] LG유플러스가 아마존웹서비스(AWS)의 글로벌 클…",
-          "press": "아주경제",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:02",
-          "link": "https://www.ajunews.com/view/20260812085547042",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 공공 클라우드 영토 넓힌다…AWS 중개서비스 등록",
-          "summary": "12일 LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 포 아마존 웹서비스(for Amazon Web Services)’를 디지털서비스 이용지원시스템에 공식 등록했다고 …",
-          "press": "헤럴드경제",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:01",
-          "link": "https://n.news.naver.com/mnews/article/016/0002682638?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+, AWS 기반 공공 클라우드 사업 본격화",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다. 디지털서비스 이용지원시스템은 …",
-          "press": "전자신문",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:01",
-          "link": "https://n.news.naver.com/mnews/article/030/0003456472?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, AWS 기반 공공 클라우드 사업 확대…중개서비스 등록",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "view.asiae.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:00",
-          "link": "https://n.news.naver.com/mnews/article/277/0005801894?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, AWS 기반 공공 클라우드 사업 본격화",
-          "summary": "사진은 LG유플러스 임직원들이 '엘지유플러스 중개서비스 for Amazon Web Services'를 소개하고 있는 모습. LG유플러스는 아마존웹서비스(AWS) 글로벌 클라우드 인프라와 자사 네트워크·보안 운영 역량…",
-          "press": "digitaltoday.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:00",
-          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692254",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"공공 클라우드 시장 잡는다\"…LG유플러스, AWS 기반 중개 서비스 공식 ...",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개 서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스…",
-          "press": "thefairnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:00",
-          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84786",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+, AWS 손잡고 공공 클라우드 확대…정부 디지털서비스 등록",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "뉴시스",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:00",
-          "link": "https://n.news.naver.com/mnews/article/003/0014121828?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스 공공 클라우드 사업 확대… 핵심 AX 파트너로 자리매김",
-          "summary": "사진은 LG유플러스 임직원들이 '엘지유플러스 중개서비스 for Amazon Web Services'를 소개하고 있는 모습. LG유플러스 제공 LG유플러스(대표 홍범식)가 디지털서비스 이용지원시스템에 아마존웹서비스(A…",
-          "press": "newsclaim.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:00",
-          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071805",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 중개서비스 등록…공공 클라우드 사업 확대",
-          "summary": "LG유플러스는 12일 AWS 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 밝혔다. 디지털서비스 이용지원시…",
-          "press": "srtimes.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:00",
-          "link": "http://www.srtimes.kr/news/articleView.html?idxno=209750",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, AWS와 손잡고 공공 클라우드 사업 확대",
-          "summary": "LG유플러스는 디지털서비스 이용지원시스템에 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 포 아마존 웹 서비스(Amazon Web Services)'를 공식 등록했다고 12일 밝혔다…",
-          "press": "머니투데이",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:00",
-          "link": "https://n.news.naver.com/mnews/article/008/0005398783?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, AWS 손잡고 공공 클라우드 시장 정조준",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라 중개서비스인 엘지유플러스 중개서비스 for Amazon Web Services를 디지털서비스 이용지원시스템에 공식 등록했다고 설명했다. 디지털서비스 이용지원시스템은 정부…",
-          "press": "econovill.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 08:58",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=747746",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+, AWS 기반 공공 클라우드 사업 본격 확대",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 ‘엘지유플러스 중개서비스 for Amazon Web Services’를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "thetracker.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 08:57",
-          "link": "https://thetracker.co.kr/View.aspx?No=4183170",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, AWS 기반 공공 클라우드 사업 확대",
-          "summary": "LG유플러스는 AWS 클라우드 서비스형 인프라(IaaS) 중개서비스인 '엘지유플러스 중개서비스 for Amazon Web Services'를 디지털서비스 이용지원시스템에 공식 등록했다고 12일 밝혔다. 디지털서비스 …",
-          "press": "nocutnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 08:55",
-          "link": "https://n.news.naver.com/mnews/article/079/0004177806?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1626,5 +867,5 @@
       ]
     }
   ],
-  "total": 143
+  "total": 74
 }

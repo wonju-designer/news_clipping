@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 14:44 소급 정리",
+  "generated_at": "2026-08-21 15:17 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -77,23 +77,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "[은행브리핑] 하나은행, 독립유공자 위한 공익신탁 MOU 외",
-          "summary": "우리은행, '쓰고, 받고 최종혜택가 0원' 이벤트 실시 우리은행의 알뜰폰 서비스 '우리WON모바일'이 8월 한... 당초 계획과 실제 성과의 차이, 시장환경 변화에 대한 대응과정, 미진했던 부분과 그 원인까지 되짚어…",
-          "press": "seoulfn.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 16:28",
-          "link": "https://www.seoulfn.com/news/articleView.html?idxno=635316",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "알뜰폰 5G 도매대가 내린다더니…고가 요금제는 '쏙'",
           "summary": "알뜰폰 사업자는 이동통신사의 요금제를 도매로 공급받아 소비자에게 다시 판매하는 만큼 도매대가가 내려가야 요금을 추가로 낮출 여력이 생긴다.더욱이 알뜰폰 시장의 대표 상품으로 꼽히는 LTE 11GB 요금제도 이번...",
           "press": "news.mtn.co.kr",
           "date": "2026-08-10",
           "datetime": "2026-08-10 16:28",
           "link": "https://news.mtn.co.kr/news-detail/2026081014160469372",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[은행브리핑] 하나은행, 독립유공자 위한 공익신탁 MOU 외",
+          "summary": "우리은행, '쓰고, 받고 최종혜택가 0원' 이벤트 실시 우리은행의 알뜰폰 서비스 '우리WON모바일'이 8월 한... 당초 계획과 실제 성과의 차이, 시장환경 변화에 대한 대응과정, 미진했던 부분과 그 원인까지 되짚어…",
+          "press": "seoulfn.com",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 16:28",
+          "link": "https://www.seoulfn.com/news/articleView.html?idxno=635316",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -614,17 +614,6 @@
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "4-3 이앤크리에이티브"
-        },
-        {
-          "title": "포항 에코빌리지 갈등, 소통과 대승적 결단으로 풀자",
-          "summary": "다이옥신 배출을 법적 기준의 10% 이하로 완벽 차단하고 굴뚝 자동측정기(TMS)로 24시간 실시간 감시하는 최첨단 기술력과 강화된 내진 설계를 주민들에게 진정성 있게 설명하고 입증해야 한다. 포항시는 450억 원 …",
-          "press": "dkilbo.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 15:50",
-          "link": "https://www.dkilbo.com/news/articleView.html?idxno=550959",
-          "badge": "산업",
-          "subgroup": "ritco",
-          "subgroup_label": "4-4 리트코"
         }
       ],
       "subgroups": [
@@ -647,5 +636,5 @@
       ]
     }
   ],
-  "total": 54
+  "total": 53
 }
