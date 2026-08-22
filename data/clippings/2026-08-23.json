@@ -1,0 +1,434 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23 08:17",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "무선 성장 멈추자 AI로…통신 3사, AIDC에 승부 건다",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/001/0016265114?sid=105"
+    },
+    {
+      "rank": 2,
+      "headline": "싼 통신요금 찾아온 고객, '최적 요금제' 안내는 왜 못받을까",
+      "category": "산업",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461700"
+    },
+    {
+      "rank": 3,
+      "headline": "SK텔레콤, 23년 만에 3G 종료···KT도 종료 예정",
+      "category": "산업",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423225"
+    },
+    {
+      "rank": 4,
+      "headline": "여행객 e심 사용 급증… 통신사 알짜 로밍 매출에 ‘빨간불’",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/023/0003994321?sid=105"
+    },
+    {
+      "rank": 5,
+      "headline": "휴넥트, '모빈스 고객센터' 신규 구축",
+      "category": "산업",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=744715"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "통신 3사는 5G 전환이 정점에 이르고 알뜰폰·저가 요금제 확산으로 기존 무선 성장세가 멈추면서 AI 데이터센터와 AIDC 등 신규 사업으로 전환을 모색하고 있다. 동시에 eSIM 수요 급증이 로밍 매출 감소 위험을 높이고 있다. SKT와 KT가 3G 신규 가입을 중단하고 서비스 종료를 앞두면서 MVNO도 망 이용 종료에 직면한다. 개인정보 위법 수집·해킹 등 알뜰폰 관련 보안·소비자 보호 이슈도 지속적으로 제기되고 있다.",
+      "articles": [
+        {
+          "title": "여행객 e심 사용 급증… 통신사 알짜 로밍 매출에 ‘빨간불’",
+          "summary": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. FDM CCS에 따르면 …",
+          "press": "조선일보",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 08:01",
+          "link": "https://n.news.naver.com/mnews/article/023/0003994321?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "무선 성장 멈추자 AI로…통신 3사, AIDC에 승부 건다",
+          "summary": "5G 전환율이 정점에 도달한 데다 알뜰폰·중저가 요금제 확산, 단통법 폐지 이후에도 보조금 경쟁이 재현되지 않으면서 기존 무선 사업만으로는 성장을 기대하기 어…",
+          "press": "연합뉴스",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 07:33",
+          "link": "https://n.news.naver.com/mnews/article/001/0016265114?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "싼 통신요금 찾아온 고객, '최적 요금제' 안내는 왜 못받을까",
+          "summary": "알뜰폰(MVNO) 이용 회선이 1000만개를 넘어섰지만 이동통신3사와 달리 정작 가입자가 자신의 이용 패턴에 가장... 시행되지만 알뜰폰은 해당되지 않기 때문…",
+          "press": "이뉴스투데이",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:00",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461700",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "3G 서비스 역사 속으로… SKT, 23년 만에 신규 가입 중단",
+          "summary": "KT도 정부와 3G 종료를 논의하고 있고, 두 회사가 3G 서비스를 끝내면 SK텔레콤과 KT망을 활용한 알뜰폰 사업자도 3G 운영을 잇따라 중단하게 된다. 통…",
+          "press": "세계일보",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 06:03",
+          "link": "https://n.news.naver.com/mnews/article/022/0004152524?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "3G ‘영상통화 시대’ 막 내린다",
+          "summary": "알뜰폰까지 포함해도 국내 3G 회선이 전체 이동통신 회선에서 차지하는 비중은 1%에 못 미친다. 남아 있는 3G 가입자가 LTE·5G로 옮길 경우에는 단말 교…",
+          "press": "서울신문",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 05:03",
+          "link": "https://n.news.naver.com/mnews/article/081/0003672188?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK텔레콤, 23년 만에 3G 종료···KT도 종료 예정",
+          "summary": "이 중 SK텔레콤 가입자가 13만4413명으로 가장 많으며, KT는 5만8948명, 알뜰폰(MVNO)은 13만4763명이다. SK텔레콤은 3G 가입자들의 원활…",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423225",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "휴넥트, '모빈스 고객센터' 신규 구축",
+          "summary": "서울 영등포구 문래동에 문을 연 모빈스 고객센터는 KT 휴대폰 안심케어 서비스 상담을 비롯해 KT그룹 알뜰폰 브랜드인 KT M모바일 고객 상담을 핵심 업무로 …",
+          "press": "newsprime.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 23:10",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=744715",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[기획] 과징금보다 큰 신뢰 비용…KT 피해구제는 끝나지 않았다 (하)",
+          "summary": "YTN이 2025년 9월15일 보도한 KT 통신망 이용 알뜰폰 가입자 A씨 사례를 보면 피해 통지 과정의 문제도 드러난다. A씨의 휴대전화에서는 2025년 8…",
+          "press": "rightknow.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 18:34",
+          "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34559",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] 재벌·유명인 노린 中 해킹 조직, ‘이재용·구광모 개인정보’...",
+          "summary": "알뜰폰을 무단으로 개통했고, 통신사 이동을 통한 뒤 국내 포털 사이트 등에 접속해 피해자들의 기본 개인정보를 확보했다. 구체적으로 이들은 명의자가 아닌 제3자…",
+          "press": "mediawatch.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 17:30",
+          "link": "https://www.mediawatch.kr/news/article.html?no=260743",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "역사 속으로 사라지는 3G…관건은 '정부 승인'과 '이용자 보호'",
+          "summary": "실제로 과학기술정보통신부가 최근 발표한 '유·무선통신서비스 가입 현황 및 무선데이터 트래픽 통계'를 살펴보면 지난 6월 말 기준 3G 서비스 휴대전화 회선(알…",
+          "press": "newsway.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 17:16",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026082115433985823",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "3G 가고 6G 온다…통신망 세대교체 본격화",
+          "summary": "알뜰폰 사업자 역시 이통사 망을 임차해 3G 서비스를 제공하고 있다. ▲ 경제성 문제로 3G 종료 3G 가입자는 이미 전체 이동통신 시장에서 사실상 사라지는 …",
+          "press": "hansbiz.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 16:30",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858580",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 납부자 주민번호 위법 수집…LG유플 자회사 미디어로그 제재",
+          "summary": "알뜰폰 사업 등을 하는 LG유플러스 자회사 '미디어로그'가 정부 당국으로부터 개인정보보호법 위반으로 제재를 받을 위기에 몰렸습니다. 알뜰폰 해지 고객 정보를 …",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 16:14",
+          "link": "https://n.news.naver.com/mnews/article/374/0000528721?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "단통법 사라져도 번호이동 2.5%↑… 통신시장 왜 잠잠했나",
+          "summary": "자급제 단말기를 구입한 뒤 원하는 이동통신사나 알뜰폰 요금제를 선택하는 소비자가 늘면서 통신사의 단말기 지원금이 가입자를 움직이는 영향력도 과거와 달라졌다. …",
+          "press": "the-biz.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 13:58",
+          "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726591",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "저물어가는 3G 서비스…SKT 이어 KT도 곧 신규 가입 중단",
+          "summary": "SKT와 KT가 3G 서비스를 종료하면 해당 망을 사용하는 알뜰폰(MVNO)도 자연히 서비스 종료 수순을 밟게... 사업자별로 보면 SKT(13만4413개),…",
+          "press": "ebn.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 12:22",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721195",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[Invest]AI DC에 사활거는 통신사들…SKT '스케일' vs KT·LG는 '실속' 전...",
+          "summary": "이동통신 시장이 이미 포화된 데다 알뜰폰 확산으로 본업의 성장 여력이 제한되면서 AI DC가 새로운 성장 사업으로 부상하고 있단 평가다. 주주환원을 없애거나 …",
+          "press": "investchosun.com",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 07:02",
+          "link": "https://www.investchosun.com/site/data/html_dir/2026/08/20/2026082080125.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "서울 영등포구 문래동에 문을 연 모빈스 고객센터는 KT 휴대폰 안심케어 서비스 상담을 비롯해 KT그룹 알뜰폰 브랜드인 KT M모바일 고객 상담을 핵심 업무로 ….",
+      "articles": [
+        {
+          "title": "휴넥트, '모빈스 고객센터' 신규 구축",
+          "summary": "서울 영등포구 문래동에 문을 연 모빈스 고객센터는 KT 휴대폰 안심케어 서비스 상담을 비롯해 KT그룹 알뜰폰 브랜드인 KT M모바일 고객 상담을 핵심 업무로 …",
+          "press": "newsprime.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 23:10",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=744715",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "변환기 시장은 제품 용도에 따라 유통경로가 다르게 형성되어 있다. 데이터센터용 전원공급장치 등을 사업목적에 반영했다고 보도했다. \" 한 대표에 따르면 고성능 GPU 서버와 초고효율 UPS, 전원공급장치(SMPS), 전력변환 스위치가 집중된 AI 데이터센터에서는 과거 일반 공장이나 일반 ….",
+        "mercury": "한편, ‘산호세 머큐리뉴스’ 등 현지 언론에 따르면 이날 레드삭스 팬들은 데버스에 대해 야유와 환호가 뒤섞인 반응을 보였다. 한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규…. 반도체업계에 따르면 한미반도체는 인천 주안국가산업단지에 위치한 ㈜머큐리의 6230평 규모 공장을 매입해 8공장으로 구축하기로 했다.",
+        "encreative": "국내 가정간편식(HMR) 시장이 빠르게 성장하면서 소비자의 상품 선택 기준도 달라지고 있다. 한때 무인점포의 대표주자였던 밀키트 전문점이 빠르게 자취를 감추고 있다. 또한 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "멕시코 정지형 변환기 시장동향",
+          "summary": "변환기 시장은 제품 용도에 따라 유통경로가 다르게 형성되어 있다. 산업용 전원공급장치와 모터제어용 변환기는 글로벌 제조사의 현지법인이나 공인 대리점, 전기·전…",
+          "press": "dream.kotra.or.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 17:29",
+          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243529",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, 11·22㎾ 충전제어 부품 개발 추진",
+          "summary": "데이터센터용 전원공급장치 등을 사업목적에 반영했다고 보도했다. 당시 회사는 전기차 전장부품과 AI... 완성차 시장으로 확대할 수 있는 중요한 계기가 될 것”…",
+          "press": "tokenpost.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 13:54",
+          "link": "https://www.tokenpost.kr/news/market/394830",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "한정규 재신정보 대표, \"AI 데이터센터의 보이지 않는 위협…'미세 전력...",
+          "summary": "\" 한 대표에 따르면 고성능 GPU 서버와 초고효율 UPS, 전원공급장치(SMPS), 전력변환 스위치가 집중된 AI 데이터센터에서는 과거 일반 공장이나 일반 …",
+          "press": "electimes.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 16:32",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=371409",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "블랙웰 7656장 서울서 돌린다…AI 데이터센터가 수도권 못 떠나는 이유",
+          "summary": "무정전전원장치(UPS)가 줄지어 서 있었다. 외부 전력이 끊겨도 서버를 멈추지 않도록 비상발전기도 별도로... 정부는 이 자원을 기업과 대학·연구기관 등에 공…",
+          "press": "newspim.com",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 08:00",
+          "link": "https://www.newspim.com/news/view/20260819000002",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "트레이드 이후 첫 보스턴 방문한 데버스 “결국은 비지니스임을 이해해...",
+          "summary": "한편, ‘산호세 머큐리뉴스’ 등 현지 언론에 따르면 이날 레드삭스 팬들은 데버스에 대해 야유와 환호가 뒤섞인 반응을 보였다. 레드삭스 구단은 1회 공수교대 시…",
+          "press": "매일경제",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:05",
+          "link": "https://m.sports.naver.com/wbaseball/article/410/0001136996",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, 1300억 들여 8공장 확보…\"장비 쇼티지 대비\"",
+          "summary": "한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규…",
+          "press": "econovill.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 11:36",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=748644",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, 8공장 구축 속도···HBM 넘어 시스템반도체 패키징 공략",
+          "summary": "반도체업계에 따르면 한미반도체는 인천 주안국가산업단지에 위치한 ㈜머큐리의 6230평 규모 공장을 매입해 8공장으로 구축하기로 했다. 한미반도체가 확보한 단일 …",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 10:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423203",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "P7·공동패키지광학·용적이양제 [This Week 경제용어]",
+          "summary": "광케이블로 외부 장치까지 이동한다. 더 빠르고, 더 적은 전력으로, 더 멀리까지 데이터를 보낼 수 있다. ​모건스탠리에 따르면, 세계 CPO 시장 규모는 20…",
+          "press": "매일경제",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 16:08",
+          "link": "https://n.news.naver.com/mnews/article/024/0000107696?sid=102",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS, AI 데이터센터가 키운 전력인프라…실적이 달라졌다",
+          "summary": "전기차와 고압 변압기 등에 사용되는 특수권선 사업을 확대하는 한편 미국 광케이블 시장에서도 경쟁력을 강화하고 있다. 미국에서 광케이블 관련 사업을 확대하기 위…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 00:06",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479582",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "안부 전화 중대경보 [이문재의 발견]",
+          "summary": "광케이블, 데이터센터 그리고 학교, 유치원, 어린이집 그리고··· 아련한 추억과 연둣빛 꿈들 우리의 안과... 데이터센터가, 주식시장이 기후 붕괴를 막는가. …",
+          "press": "sisain.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:28",
+          "link": "https://n.news.naver.com/mnews/article/308/0000038664?sid=103",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[AI시승기] 양자가 기적 빌 때, AI는 확률 갱신한다···누가 진짜 슈퍼...",
+          "summary": "반도체와 AI 모델, 데이터센터, AI PC, 광케이블과 위성망은 지구의 연산 구조를 공학적으로 확장한 새로운 계층이다. AI는 생명과 분리된 기술이 아니라 …",
+          "press": "womaneconomy.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 15:54",
+          "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257617",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "맛은 기본, 이제는 ‘빠르고 가성비 있게’…간편식 경쟁 기준 바뀐다 ...",
+          "summary": "국내 가정간편식(HMR) 시장이 빠르게 성장하면서 소비자의 상품 선택 기준도 달라지고 있다. 맛과 품질이 상향 평준화된 가운데 얼마나 쉽고 빠르게 조리할 수 …",
+          "press": "서울경제",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 12:01",
+          "link": "https://n.news.naver.com/mnews/article/011/0004654112?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "“밀키트집 다 어디 갔지?”…무인점포 빈자리 채운 ‘뽑기샵’",
+          "summary": "한때 무인점포의 대표주자였던 밀키트 전문점이 빠르게 자취를 감추고 있다. 그 빈자리는 오락실과 뽑기샵... 무인점포 시장의 주력 업종도 바뀌고 있다. 22일 …",
+          "press": "이데일리",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 07:02",
+          "link": "https://n.news.naver.com/mnews/article/018/0006356006?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "더본코리아, 해외사업 판 넓힌다…빽다방·소스 ‘투트랙’",
+          "summary": "또한 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고 협력 기업이 보유한 생산·유통망을 활용…",
+          "press": "mediapen.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 11:22",
+          "link": "https://www.mediapen.com/news/view/1118201",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "건강·웰니스 트렌드와 함께한 2026년 홍콩 식품전시회 참관기",
+          "summary": "이는 홍콩과 글로벌 시장에서 높아지는 건강·웰니스 수요를 반영한 것으로, 식품·뷰티·라이프스타일... 한 홍콩 연화식 브랜드는 삼킴 장애(嚥下困難, dysph…",
+          "press": "dream.kotra.or.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 17:21",
+          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=110&CONTENTS_NO=1&bbsGbn=245&bbsSn=245&pNttSn=243629",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 31
+}
