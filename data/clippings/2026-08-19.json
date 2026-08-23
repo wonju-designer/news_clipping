@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
-  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 16:31 소급 정리",
+  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-23 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -979,23 +979,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "로봇·드론 이동해도 연결 유지…LG유플러스, AI-RAN 기술 검증",
-          "summary": "LG유플러스가 연세대학교와 AI-RAN 시험망과 상용 5G망을 연동해 네트워크 전환 과정에서도 연결이 끊기지 않는 기술을 검증했다고 19일 밝혔다. 양측은 로봇과 드론 등 피지컬 AI 장비가 서로 다른 네트워크 영역…",
-          "press": "bizwork.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 11:08",
-          "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=418314",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG U+, 연세대와 AI-RAN 환경서 네트워크 전환 기술 검증",
           "summary": "이번 검증은 LG유플러스의 5G망과 연세대가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망에서 5G망으로 이동하거나 반대로 5G…",
           "press": "delighti.co.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 11:08",
           "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120397",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "로봇·드론 이동해도 연결 유지…LG유플러스, AI-RAN 기술 검증",
+          "summary": "LG유플러스가 연세대학교와 AI-RAN 시험망과 상용 5G망을 연동해 네트워크 전환 과정에서도 연결이 끊기지 않는 기술을 검증했다고 19일 밝혔다. 양측은 로봇과 드론 등 피지컬 AI 장비가 서로 다른 네트워크 영역…",
+          "press": "bizwork.co.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 11:08",
+          "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=418314",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1177,34 +1177,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 연세대와 AI-RAN 망 전환 기술 검증",
-          "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬AI 장비가 AI-RAN 시험망을 벗어나 5G망으로 이동하거나 반대…",
-          "press": "globale.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 10:22",
-          "link": "https://www.globale.co.kr/news/articleView.html?idxno=39935",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, '모두의AI' 사업 공모 참여…풀스택 역량 총결집",
           "summary": "여기에 약 2250만 회선(2026년 6월 기준 2249만8579회선, 과학기술정보통신부 무선통신서비스 가입 현황·IoT·MVNO 제외)에 달하는 이동통신 회선과 온·오프라인 채널까지 더해 AI 서비스를 빠르게 확산…",
           "press": "nextdaily.co.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 10:20",
           "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252267",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 연세대와 'AI-RAN' 기술 검증…6G 네트워크 선점 속도",
-          "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연동하는 방식으로 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망에서 5G망으로 이동하거…",
-          "press": "dailysmart.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 10:16",
-          "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128390",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1221,61 +1199,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "[Telecom & Now] LGU+, 연세대와 AI-RAN 실증…\"피지컬 AI 연결성 확인\"",
-          "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망을 벗어나 5G망으로 이동하거나, …",
-          "press": "ebn.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 10:10",
-          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720845",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 연세대와 AI-RAN 환경에서 안정적 네트워크 전환 기술 검증",
-          "summary": "LG유플러스는 자체 5G망과 연세대학교가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연동해 검증을 진행했다고 19일 밝혔다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망을 벗어나 5G망으…",
-          "press": "etoday.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 10:00",
-          "link": "https://www.etoday.co.kr/news/view/2615848",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스·연세대, 'AI-RAN' 연동 기술 검증…피지컬 AI 통신 인프라 ...",
-          "summary": "양측은 LG유플러스의 5G 상용망과 연세대학교가 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 상호 연동해 실증을 진행했다. 포인트모바일의 산업용 단말(PM95)을 활용해 단말기가 두 네트워크 구역을 오가는 과정…",
-          "press": "newsdream.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 10:00",
-          "link": "http://www.newsdream.kr/news/articleView.html?idxno=116460",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 연세대와 AI-RAN 환경서 네트워크 전환 기술 검증",
-          "summary": "LG유플러스는 자사 5G망과 연세대가 엔비디아 GPU 기반으로 구축한 AI-RAN 시험망을 연동해 단말이 서로 다른 네트워크를 오가는 상황을 구현했다고 19일 밝혔다. 검증에는 산업용 모바일 기기 전문기업 포인트모바…",
-          "press": "cnbizm.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:58",
-          "link": "https://www.cnbizm.com/news/articleView.html?idxno=311958",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"피지컬 AI 끊김 줄인다\" LG유플러스, 5G·AI-RAN 망 전환 검증",
-          "summary": "이번 실증은 LG유플러스의 5G망과 연세대가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연결해 진행됐다. 양측은 로봇과 드론 등 피지컬 AI 장비가 AI-RAN 시험망에서 5G망으로 이동하거나 반대로 5…",
-          "press": "econovill.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:58",
-          "link": "https://www.econovill.com/news/articleView.html?idxno=748337",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[이슈]보안사고 나도 2000억 사업 그대로…KT에 면죄부 준 정부?(2부)",
           "summary": "KT의 대규모 보안사고와 공공사업 참여 논란은 특정 통신사의 책임 문제를 넘어 현행 공공조달 체계가... 특히 경찰 바디캠과 국방 5G, 재난안전통신망은 통신 장애나 해킹이 발생할 경우 국민 안전과 국가 안보에 직접…",
           "press": "the-today.com",
@@ -1287,45 +1210,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 연세대와 AI-RAN 연결성 검증… 피지컬 AI 시대 통신망 고도...",
-          "summary": "이번 검증에는 LG유플러스 5G망과 연세대가 엔비디아 GPU 기반으로 구축한 AI-RAN 시험망이 활용됐다. 양측은 로봇·드론 등 피지컬 AI 단말이 AI-RAN 시험망에서 5G망으로 이동하거나 반대로 5G망에서 A…",
-          "press": "koreaittimes.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:52",
-          "link": "https://www.koreaittimes.com/news/articleView.html?idxno=156234",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스·연세대, AI-RAN·5G망 전환해도 연결 유지 확인",
-          "summary": "LG유플러스 5G망·AI-RAN 시험망 연동…로봇·드론 이동 상황 구현 무선환경 따라 최적 네트워크 자동 선택…포인트모바일 PM95 단말로 검증 중소기업에 AI-RAN 시험 환경 제공…차세대 네트워크 공동 연구...",
-          "press": "seoultimes.news",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:47",
-          "link": "https://www.seoultimes.news/news/article.html?no=2000098917",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "‘모두의 AI’ 판 깔렸다…네이버 빠지고 SKT·KT·카카오 6파전",
           "summary": "이동통신 3사 가운데 LG유플러스 역시 주관 사업자로 별도 출전하지 않고 카카오 컨소시엄의 핵심 참여사로 합류하면서 최종 경쟁 구도는 SK텔레콤·KT·카카오를 비롯한 6개 사업자로 정리됐다. 선정된 사업자는 연내..…",
           "press": "sateconomy.co.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 09:46",
           "link": "https://sateconomy.co.kr/news/view/1065573148951546",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 연세대와 AI-RAN 네트워크 전환 기술 검증",
-          "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망을 벗어나 5G망으로 이동하거나, …",
-          "press": "한국경제TV",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:45",
-          "link": "https://n.news.naver.com/mnews/article/215/0001262795?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1353,23 +1243,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, '모두의AI' 사업 참여…서비스·모델·인프라 역량 결집",
-          "summary": "이는 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외한 수치로, 과학기술정보통신부의 무선통신서비스 가입 현황을 기준으로 했다. SKT는 약 2250만 회선과 온·오프라인 고객 접점을 활용해 AI 서비스의 접근성을 높인…",
-          "press": "businessplus.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:34",
-          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115619",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 정부 '모두의AI' 사업 도전…2250만 통신 회선 기반 AI 대중화 나선...",
           "summary": "과기정통부의 2026년 6월 무선통신서비스 가입 현황을 기준으로 IoT와 알뜰폰(MVNO)을 제외한 SKT 이동통신 회선은 2249만8579개다. SKT는 약 2250만 회선과 온·오프라인 채널을 활용해 AI 서비스…",
           "press": "eroun.net",
           "date": "2026-08-19",
           "datetime": "2026-08-19 09:34",
           "link": "https://www.eroun.net/news/articleView.html?idxno=87821",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, '모두의AI' 사업 참여…서비스·모델·인프라 역량 결집",
+          "summary": "이는 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외한 수치로, 과학기술정보통신부의 무선통신서비스 가입 현황을 기준으로 했다. SKT는 약 2250만 회선과 온·오프라인 고객 접점을 활용해 AI 서비스의 접근성을 높인…",
+          "press": "businessplus.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 09:34",
+          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115619",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1816,23 +1706,23 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "서울 도심에 숨은 'AI 공장'…NHN팩토리X 서울 가보니",
-          "summary": "두 변전소 모두 문제가 생길 경우에는 무정전전원공급장치(UPS)와 배터리가 먼저 전력을 이어받고, 이후... 입주한 데이터센터는 애초 공기로 서버의 열을 식히는 공랭식 냉각을 기준으로 설계됐지만, NHN은 B200.…",
-          "press": "newsway.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:00",
-          "link": "https://www.newsway.co.kr/news/view?ud=2026081816511645444",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "“공기로는 못 식힌다”…물길 따라 돌아가는 7656개 AI 두뇌",
           "summary": "외부 전력망에서 들어오는 전력은 이중 수전·변전 설비와 무정전전원장치(UPS)를 거쳐 GPU 서버에 공급된다. 전력 공급이 끊기는 만일의 사태에도 대비했다. 열차 앞코처럼 생긴 비상 발전기에는 롤스로이스...",
           "press": "etoday.co.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 09:00",
           "link": "https://www.etoday.co.kr/news/view/2615611",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "서울 도심에 숨은 'AI 공장'…NHN팩토리X 서울 가보니",
+          "summary": "두 변전소 모두 문제가 생길 경우에는 무정전전원공급장치(UPS)와 배터리가 먼저 전력을 이어받고, 이후... 입주한 데이터센터는 애초 공기로 서버의 열을 식히는 공랭식 냉각을 기준으로 설계됐지만, NHN은 B200.…",
+          "press": "newsway.co.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 09:00",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026081816511645444",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
@@ -2421,45 +2311,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "[더벨][CJ 글로벌 현장] 30년 투자 '뚝심' 결실…2028년 미주 매출 12조 ...",
-          "summary": "CJ그룹이 지난 30년간 북미 시장에 구축한 식품·콘텐츠·물류·뷰티 사업을 연결해 두 번째 성장에 나선다.... 2018년 미국 물류기업 DSC로지스틱스, 2019년 냉동식품 기업 슈완스를 인수했다. 글로벌 콘텐츠 …",
-          "press": "thebell.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 10:02",
-          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608160418246900107347",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "[전지영 더봄] 세계 미식 여행, 식중독이라는 불청객을 조심하세요",
-          "summary": "이탈리아의 작은 골목에서 먹었던 파스타, 인도의 시장에서 마주한 커리, 미국의 햄버거, 일본의 초밥 한 점.... 유럽 냉동식품의 반전 2015년부터 2018년까지 유럽 여러 국가에서는 리스테리아 모노사이토제네스(L…",
-          "press": "womaneconomy.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 10:00",
-          "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256932",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "[더벨][CJ 글로벌 현장] 美 생산기지로 간 K푸드, CJ제일제당 현지화 승...",
           "summary": "국내에서 만든 제품을 미국에 수출하는 데 그치지 않고 현지 생산과 연구개발, 물류·유통망을 결합한... 2019년에는 현지 냉동식품 기업 슈완스를 인수하며 사업 규모를 키웠다. 인수 이듬해인 2020년부터 양사의 기…",
           "press": "thebell.co.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 09:52",
           "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608151041204280104191",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "식품부터 여행·가전까지...추석 앞두고 '취향·편의' 담은 신제품 잇따...",
-          "summary": "동원F&B는 차별화된 공법으로 바삭한 식감을 강화한 냉동치킨 '케바삭' 2종을 출시하며 냉동 치킨 시장에... 안전성을, 냉동식품은 외식 수준의 맛과 식감을 강조하는 등 소비자의 세분화된 수요에 맞춰 차별화 전략을.…",
-          "press": "popcornnews.net",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:28",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=130102",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -2476,45 +2333,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "거제 수해에 동네 슈퍼도 ‘직격탄’… “재고·설비 복구 직접지원 서...",
-          "summary": "연합회는 정부와 지자체가 전통시장이나 등록 상점가뿐 아니라 주거지역의 개별 슈퍼마켓과 나들가게, 소규모 식료품점까지 포함해 긴급 전수조사를 실시해야 한다고 주장했다. 또 침수된 상품과 냉장·냉동식품의 폐기...",
-          "press": "viva100.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:06",
-          "link": "https://www.viva100.com/article/20260819500183",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "동원F&B, 바삭함 앞세운 '케바삭' 출시…\"닭다리살 100%\"",
-          "summary": "집에서 간편하게 조리하면서도 갓 튀긴 치킨의 식감을 구현하려는 냉동식품 수요에 맞춰 동원F&B가 자체... 동원F&B는 바삭한 식감을 강조한 신제품 '케바삭' 2종을 출시하며 냉동 치킨 시장에 진출한다고 19일 밝혔…",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 08:30",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478474",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "더본코리아, 북미 시장 공략...캐나다 유통 확대·美 현지 생산 추진",
           "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 진행 중이다. 현지 소비 방식과 입맛을 반영한 제품을 만들고 협력 기업의 생산·유통망을 활용해 일반 소비자 시장까지 사업 영역을 확대한다는 구상이다. 백 대표는..…",
           "press": "ppss.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 07:34",
           "link": "https://www.ppss.kr/news/articleView.html?idxno=305901",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "\"북미 1위 K-뷰티·푸드 열풍 잇는다\" 코트라, 'KCON LA' 연계 B2B 상담회...",
-          "summary": "화장품 시장 1위를 차지한 K-뷰티와 냉동 김밥으로 화제를 모은 K-푸드를 필두로 한 한국 소비재가 북미... 북미 시장 판로 개척을 다각도로 도왔다. 이번 상담회에는 뷰티, 식품, 패션, 생활용품 분야의 국내 우수…",
-          "press": "cstimes.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 02:16",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=717154",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -2573,5 +2397,5 @@
       ]
     }
   ],
-  "total": 229
+  "total": 213
 }

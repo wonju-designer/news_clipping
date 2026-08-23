@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 16:31 소급 정리",
+  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-23 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -12,22 +12,11 @@
       "articles": [
         {
           "title": "통신 3사, ‘AI 인프라 기업’으로 전환 속도 낸다...AIDC 매출 두 자릿...",
-          "summary": "무선사업 정체 속 데이터센터·클라우드가 새 성장축으로 부상 SKT·KT·LGU+, 대규모 AIDC 투자 확대...전력·부지 확보 경쟁 본격화 이동통신 3사가 인공지능(AI) 데이터센터(AIDC)를 중심으로 한 ‘AI…",
+          "summary": "무선사업 정체 속 데이터센터·클라우드가 새 성장축으로 부상 SKT·KT·LGU+, 대규모 AIDC 투자 확대...전력... 올해 2분기 실적을 보면 변화는 더욱 뚜렷하다. SK텔레콤의 2분기 AIDC 매출은 1362…",
           "press": "m-economynews.com",
           "date": "2026-08-17",
           "datetime": "2026-08-17 20:32",
           "link": "https://www.m-economynews.com/news/article.html?no=69842",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "“통신비 11개월에 110원”…26세에 2억 6000만 원 모은 평범한 직장인의...",
-          "summary": "그는 알뜰폰 요금제와 각종 혜택을 적극적으로 이용했다. 그 결과 11개월 동안 실제로 낸 통신비는 모두 합쳐 110원이었다고 밝혔다. 매달 당연히 빠져나가는 비용으로 생각하기 쉬운 통신비까지 꼼꼼하게 확인한 것이다.…",
-          "press": "wikitree.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 19:44",
-          "link": "https://www.wikitree.co.kr/articles/1152785",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -44,30 +33,8 @@
           "subgroup_label": ""
         },
         {
-          "title": "통신 3사 'AI인프라 기업' 부상… AIDC로 승부 건다",
-          "summary": "이동통신 3사가 인공지능 데이터센터(AIDC)를 새로운 성장축으로 키우며 'AI 인프라 사업자'로 체질을 바꾸고 있다. 생성형 AI 확산으로 고성능 그래픽처리장치(GPU)를 수용할 데이터센터(DC) 수요가 급증하면서…",
-          "press": "파이낸셜뉴스",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 18:34",
-          "link": "https://n.news.naver.com/mnews/article/014/0005562521?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "통신 3사 '새 먹거리' AI 인프라 매출 급증",
-          "summary": "KT와 LG유플러스 역시 올해 2분기에 AI 사업이 눈에 띄게 성장했다는 평가다. KT는 KT클라우드를 합산한 AI... 업계 관계자는 “과거 가입자를 놓고 경쟁했던 통신사들이 앞으로는 전력과 부지 등 AI 인프라 …",
-          "press": "한국경제",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 18:21",
-          "link": "https://n.news.naver.com/mnews/article/015/0005321649?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "‘얼굴만 보여주면 카드결제’…LG유플러스, ‘페이스페이’ 결합 알뜰...",
-          "summary": "LG유플러스와 토스모바일이 얼굴인식 결제 서비스 ‘페이스페이’ 혜택을 결합한 알뜰폰 요금제를 선보였다. LG유플러스는 자사 알뜰폰 통합 플랫폼 ‘알닷’에서 토스모바일과 함께 생활밀착형 제휴 요금제...",
+          "summary": "LG유플러스는 모바일 금융과 결제 서비스에 익숙한 젊은 고객을 중심으로 통신과 일상생활의 혜택을 결합한 알뜰폰 상품에 관심이 이어지고 있다고 설명했다.박대용 LG유플러스 MVNO사업담당은 “알뜰폰 시장에서도...",
           "press": "서울경제",
           "date": "2026-08-17",
           "datetime": "2026-08-17 17:21",
@@ -78,7 +45,7 @@
         },
         {
           "title": "LG유플러스·토스모바일, '페이스페이' 알뜰 요금제 5종 출시",
-          "summary": "토스모바일은 지난 3일 얼굴인식 결제 서비스 '페이스페이' 혜택을 결합한 알뜰폰 요금제 5종을 출시했다고 17일 밝혔다. 토스모바일은 LG유플러스망을 이용하는 알뜰폰 사업자다. 앞서 알닷에서 CU 편의점 이용 시..…",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대 중\"이라며 \"LG유플러스는 다양한 파트너사와 협력해 생활밀착형 상품과 혜택을 지속해서...",
           "press": "머니투데이",
           "date": "2026-08-17",
           "datetime": "2026-08-17 15:50",
@@ -122,7 +89,7 @@
         },
         {
           "title": "LG유플러스·토스모바일, 생활밀착형 요금제 프로모션 확대",
-          "summary": "LG유플러스가 알뜰폰 요금제에 안면인식 결제 쿠폰과 편의점 할인 등 일상생활에서 활용할 수 있는 혜택을 결합한다. 알뜰폰 통합 플랫폼 ‘알닷’을 통해 토스모바일의 페이스페이·CU 제휴 요금제를 선보이며...",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 “LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에 실질적인 가치를 제공하는 상품과 혜택을 지속 선보일 계획”이라고 했다.",
           "press": "조선일보",
           "date": "2026-08-17",
           "datetime": "2026-08-17 14:25",
@@ -133,7 +100,7 @@
         },
         {
           "title": "LGU+·토스모바일 ‘페이스페이 요금제’ 2030 인기…가입자 56% 차지",
-          "summary": "투데이e코노믹 = 유서진 기자 | LG유플러스가 토스모바일과 손잡고 선보인 얼굴인식 결제 서비스 연계 알뜰폰 요금제가 20·30대 고객을 중심으로 호응을 얻고 있다. LG유플러스는 알뜰폰 통합 플랫폼 ‘알닷’에서..…",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 “알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다”며 “다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
           "press": "todayeconomic.com",
           "date": "2026-08-17",
           "datetime": "2026-08-17 14:04",
@@ -341,17 +308,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "[AI 고속도로] AI 데이터센터 수혜 본격화…서버 기업들 잇따라 '역대급...",
-          "summary": "17일 업계에 따르면 최근 실적을 발표한 슈퍼마이크로와 레노버를 비롯해 델테크놀로지스와... NHN클라우드는 AI GPU 사업 확대에 힘입어 2분기 매출이 85.3% 증가했고 KT클라우드는 데이터센터 사업을 기반으로…",
-          "press": "지디넷코리아",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:26",
-          "link": "https://n.news.naver.com/mnews/article/092/0002434143?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스, 알닷서 토스모바일 제휴 요금제 확대…생활 혜택 강화",
           "summary": "알뜰폰 시장에서 단순히 저렴한 통신요금만으로 가입자를 확보하기 어려워지면서 제휴 혜택을 차별화 요소로 활용하려는 움직임으로 풀이된다. LG유플러스는 17일 알닷에서 토스모바일과 함께 고객의 일상생활과...",
           "press": "thepublic.kr",
@@ -429,23 +385,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG U+, 알뜰폰에 토스 ‘페이스페이’ 결합…2030 가입자 절반 넘어",
-          "summary": "LG유플러스는 가격과 데이터 제공량을 중심으로 경쟁해온 알뜰폰 시장에서 결제, 유통 등 일상생활과 연계한 제휴 상품을 늘려 차별화한다는 계획이다. 박대용 LG유플러스 MVNO사업담당은 “알뜰폰 시장에서도...",
-          "press": "매일경제",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:01",
-          "link": "https://n.news.naver.com/mnews/article/009/0005721830?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "페이스페이 품은 LGU+망 토스 알뜰폰, 가입자 56%가 2030세대",
           "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
           "press": "지디넷코리아",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:01",
           "link": "https://n.news.naver.com/mnews/article/092/0002434135?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG U+, 알뜰폰에 토스 ‘페이스페이’ 결합…2030 가입자 절반 넘어",
+          "summary": "LG유플러스는 가격과 데이터 제공량을 중심으로 경쟁해온 알뜰폰 시장에서 결제, 유통 등 일상생활과 연계한 제휴 상품을 늘려 차별화한다는 계획이다. 박대용 LG유플러스 MVNO사업담당은 “알뜰폰 시장에서도...",
+          "press": "매일경제",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:01",
+          "link": "https://n.news.naver.com/mnews/article/009/0005721830?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -528,34 +484,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 알뜰폰 플랫폼 '알닷'서 생활밀착형 제휴 요금제 강화",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 이용 경험을 차별화할 수 있는 서비스에 대한 요구가 계속 늘고 있다\"면서 \"다양한 파트너사와의 협력을 넓혀 통신을 넘어선 실질적 생활 가치를 계속 제공해...",
-          "press": "worktoday.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88002",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"얼굴로 카드 결제\"…LGU+ 알뜰폰, ‘페이스페이’ 품었다",
           "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
           "press": "뉴시스",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:00",
           "link": "https://n.news.naver.com/mnews/article/003/0014130645?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, 토스모바일 '페이스페이' 요금제 프로모션 확대",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너와 협력해 통신 서비스를 넘어 고객 일상에.…",
-          "press": "datanet.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=213819",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -583,45 +517,45 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 토스모바일과 '페이스페이' 요금제…2030 비중 과반",
+          "title": "LG유플러스, 알뜰폰 플랫폼 '알닷'서 생활밀착형 제휴 요금제 강화",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 이용 경험을 차별화할 수 있는 서비스에 대한 요구가 계속 늘고 있다\"면서 \"다양한 파트너사와의 협력을 넓혀 통신을 넘어선 실질적 생활 가치를 계속 제공해...",
+          "press": "worktoday.co.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88002",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG U+, 토스모바일 '페이스페이' 요금제 프로모션 확대",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너와 협력해 통신 서비스를 넘어 고객 일상에.…",
+          "press": "datanet.co.kr",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=213819",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+·토스모바일 '페이스페이' 요금제, 가입자 절반이 2030",
           "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
-          "press": "cstimes.com",
+          "press": "pinpointnews.co.kr",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:00",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=716946",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477787",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스 알닷, 토스모바일 ‘페이스페이’ 요금제 선봬",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
-          "press": "seoultimes.news",
+          "title": "LG유플러스, 알닷서 토스모바일 제휴 요금제 확대",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
+          "press": "newspim.com",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:00",
-          "link": "https://www.seoultimes.news/news/article.html?no=2000098851",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스·토스모바일 '페이스페이' 요금제, 2030세대 취향 저격",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다며 다양한 파트너사와 협력을 넓혀 통신 서비스를 넘어 고객 일상에...",
-          "press": "thefairnews.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85166",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스-토스모바일 '페이스페이 결합 요금제', 2030 가입자가 56%",
-          "summary": "LG유플러스는 통신요금 자체의 가격 경쟁에 집중하기보다 이용자가 자주 사용하는 서비스와 통신을 결합한 제휴 상품을 알뜰폰 시장의 차별화 요소로 활용하고 있다. 앞서 알닷에서는 토스모바일과 CU의 제휴를...",
-          "press": "businessplus.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115518",
+          "link": "https://www.newspim.com/news/view/20260816000053",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -649,23 +583,45 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 알닷서 토스모바일 제휴 요금제 확대",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
-          "press": "newspim.com",
+          "title": "LG유플러스·토스모바일 '페이스페이' 요금제, 2030세대 취향 저격",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다며 다양한 파트너사와 협력을 넓혀 통신 서비스를 넘어 고객 일상에...",
+          "press": "thefairnews.co.kr",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:00",
-          "link": "https://www.newspim.com/news/view/20260816000053",
+          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85166",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "LGU+·토스모바일 '페이스페이' 요금제, 가입자 절반이 2030",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
-          "press": "pinpointnews.co.kr",
+          "title": "LG유플러스-토스모바일 '페이스페이 결합 요금제', 2030 가입자가 56%",
+          "summary": "LG유플러스는 통신요금 자체의 가격 경쟁에 집중하기보다 이용자가 자주 사용하는 서비스와 통신을 결합한 제휴 상품을 알뜰폰 시장의 차별화 요소로 활용하고 있다. 앞서 알닷에서는 토스모바일과 CU의 제휴를...",
+          "press": "businessplus.kr",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:00",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477787",
+          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115518",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 토스모바일과 '페이스페이' 요금제…2030 비중 과반",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
+          "press": "cstimes.com",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=716946",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스 알닷, 토스모바일 ‘페이스페이’ 요금제 선봬",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
+          "press": "seoultimes.news",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.seoultimes.news/news/article.html?no=2000098851",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -835,28 +791,6 @@
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
-        },
-        {
-          "title": "뉴파워프라즈마, 국내 넘어 해외로…반도체 장비 성장 본격화",
-          "summary": "반도체 시장을 넘어 해외 고객사를 확대하면서 새로운 성장 국면에 진입할 것이라는 전망이 나왔다. 한국IR협의회는 최근 보고서에서 반도체 공정 미세화와 고객사의 생산능력(CAPA) 투자 확대가 플라즈마 전원장치인 RP…",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:34",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477909",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "인텔의 '독한' 경영자, 그의 뒤엔 홀로코스트의 상처가 있었다",
-          "summary": "새너제이 머큐리 뉴스의 마이클 말론 기자는 '인텔 끝나지 않은 도전과 혁신'이라는 책에서 대학원 과정이 그로브의 오만한 성격 형성에 영향을 미친 일화를 소개했다. 그로브는 대학원 수업에서 교수의 강의 내용을...",
-          "press": "한국일보",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 14:00",
-          "link": "https://n.news.naver.com/mnews/article/469/0000948432?sid=105",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "[투자를IT다] 2026년 8월 2주차 IT기업 주요 소식과 시장 전망",
@@ -1189,17 +1123,6 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "전국 생산 87% 제주 메밀, 1차 가공 탈피…'밀키트'로 부가가치 높여야",
-          "summary": "이어 2027년부터 2028년까지는 개발된 향토 조리법을 기반으로 밀키트와 레토르트 등 간편 대체식품을 본격 상용화할 계획입니다. 농업기술원은 단순 원물 공급지에서 벗어나 고부가가치 가공 산업 중심의 소비 시장을..…",
-          "press": "news.bbsi.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 11:54",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4101113",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "CJ, '식품·콘텐츠·뷰티' 3각 편대로 2028년 북미 매출 12조 연다",
           "summary": "단순 개별 브랜드 수출을 넘어, 미주 소비자의 일상에 'K라이프스타일'을 뿌리내리게 하는 생태계를... 냉동식품 시장에서 거둔 성공 공식을 상온 보관(Shelf Stable) 제품군으로 확대해 브랜드 외연을 넓힌다.…",
           "press": "metroseoul.co.kr",
@@ -1255,12 +1178,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "[CJ 북미 대도약] 다시 찾은 이재현 \"2028년 美 매출 12조\"",
-          "summary": "단순한 제품 수출을 넘어 한국 문화와 소비 경험 전반을 아우르는 생태계를 구축하겠다는 구상을 재차... 2018년 미국 물류기업 DSC로지스틱스를 인수한 데 이어 2019년 냉동식품 기업 슈완스 컴퍼니, 2020년 …",
-          "press": "블로터",
+          "title": "[현장] \"미국서 못 이기면 글로벌도 없다\"···CJ, 북미에 'K라이프스타...",
+          "summary": "2019년 미국 냉동식품 기업 슈완스를 인수한 데 이어 올해는 올리브영까지 미국에 진출시키며 북미 사업의... 김 대표에 따르면 한국의 대미 식품·음악·뷰티 수출 규모는 2020년 22억달러에서 2024년 42억달러…",
+          "press": "smartbizn.com",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:00",
-          "link": "https://n.news.naver.com/mnews/article/293/0000089138?sid=101",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=151379",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -1277,12 +1200,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "[현장] \"미국서 못 이기면 글로벌도 없다\"···CJ, 북미에 'K라이프스타...",
-          "summary": "2019년 미국 냉동식품 기업 슈완스를 인수한 데 이어 올해는 올리브영까지 미국에 진출시키며 북미 사업의... 김 대표에 따르면 한국의 대미 식품·음악·뷰티 수출 규모는 2020년 22억달러에서 2024년 42억달러…",
-          "press": "smartbizn.com",
+          "title": "[CJ 북미 대도약] 다시 찾은 이재현 \"2028년 美 매출 12조\"",
+          "summary": "단순한 제품 수출을 넘어 한국 문화와 소비 경험 전반을 아우르는 생태계를 구축하겠다는 구상을 재차... 2018년 미국 물류기업 DSC로지스틱스를 인수한 데 이어 2019년 냉동식품 기업 슈완스 컴퍼니, 2020년 …",
+          "press": "블로터",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:00",
-          "link": "https://www.smartbizn.com/news/articleView.html?idxno=151379",
+          "link": "https://n.news.naver.com/mnews/article/293/0000089138?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -1332,23 +1255,23 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "\"냄새 걱정 없이 편하게 즐긴다\" 생선구이까지 넓어진 HMR 시장",
-          "summary": "가정간편식(HMR) 시장이 꾸준히 성장하면서 간편식의 영역이 집에서 조리하기 번거로운 생선구이로까지 넓어지고 있다. 통조림 등으로 간편하게 접하던 수산물이 최근에는 고등어와 연어, 장어 등 생선 원물의 형태와...",
-          "press": "뉴시스",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 06:00",
-          "link": "https://n.news.naver.com/mnews/article/003/0014130549?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "[경제소식] 깐풍기·마라샹궈도 3980원…이마트, 초저가 델리 확대",
           "summary": "최근 출생아 수가 회복세를 보이면서 유아동 시장에 대한 기대도 커지고 있다. 통계청에 따르면 올해 1분기... 프리미엄 가정간편식(HMR) 라인업을 확대한다. 이번에는 소고기 안심과 트러플을 활용한 호텔식...",
           "press": "4th.kr",
           "date": "2026-08-17",
           "datetime": "2026-08-17 06:00",
           "link": "http://www.4th.kr/news/articleView.html?idxno=2116445",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"냄새 걱정 없이 편하게 즐긴다\" 생선구이까지 넓어진 HMR 시장",
+          "summary": "가정간편식(HMR) 시장이 꾸준히 성장하면서 간편식의 영역이 집에서 조리하기 번거로운 생선구이로까지 넓어지고 있다. 통조림 등으로 간편하게 접하던 수산물이 최근에는 고등어와 연어, 장어 등 생선 원물의 형태와...",
+          "press": "뉴시스",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 06:00",
+          "link": "https://n.news.naver.com/mnews/article/003/0014130549?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -1385,5 +1308,5 @@
       ]
     }
   ],
-  "total": 121
+  "total": 114
 }

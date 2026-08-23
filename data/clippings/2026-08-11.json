@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
-  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 16:31 소급 정리",
+  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-23 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -868,17 +868,6 @@
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "그냥 먹기만 해선 안 봐… 외국인이 좋아하는 K먹방은 ‘쿡방’",
-          "summary": "숏폼이 바꾼 K푸드 흥행 공식 올해 상반기 K-푸드 수출액은 70억달러를 넘어 역대 최고치를 경신했다. ‘2026... 김 교수는 “베트남에선 라이스 페이퍼로 떡볶이를 만들어 먹고, 미국에선 고추장 버터를 빵에 발라…",
-          "press": "조선일보",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 00:39",
-          "link": "https://n.news.naver.com/mnews/article/023/0003992275?sid=103",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
@@ -901,5 +890,5 @@
       ]
     }
   ],
-  "total": 77
+  "total": 76
 }

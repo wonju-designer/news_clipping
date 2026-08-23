@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 16:31 소급 정리",
+  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-23 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -28,17 +28,6 @@
           "date": "2026-08-15",
           "datetime": "2026-08-15 12:00",
           "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850364",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG 2분기 영업익 92.5% 급증…하반기엔 로봇사업까지",
-          "summary": "다른 계열사들의 실적도 개선됐다. LG유플러스의 영업이익은 지난해보다 13.1% 증가했고 LG생활건강은 87.5% 늘었다. LG CNS는 다소 다른 모습을 보였다. AI와 클라우드, 데이터센터를 중심으로 외형 성장을…",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-15",
-          "datetime": "2026-08-15 10:44",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477676",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -72,17 +61,6 @@
           "date": "2026-08-15",
           "datetime": "2026-08-15 06:15",
           "link": "https://n.news.naver.com/mnews/article/022/0004151101?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "실적·AI 기대에 '주주 친화'…젠슨 황 만난 LG 주가 재평가[종목현미경...",
-          "summary": "LG(003550)가 시장 기대치를 웃도는 2분기 실적을 발표하면서 증권가가 잇달아 목표주가를 높이고 있다.... 담당한다\"며 \"LG유플러스(032640)는 AI 데이터센터(AIDC), LG에너지솔루션은 데이터센터 …",
-          "press": "뉴스1",
-          "date": "2026-08-15",
-          "datetime": "2026-08-15 06:00",
-          "link": "https://n.news.naver.com/mnews/article/421/0009115337?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -174,5 +152,5 @@
       ]
     }
   ],
-  "total": 11
+  "total": 9
 }

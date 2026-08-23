@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 16:31 소급 정리",
+  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-23 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -33,45 +33,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "AI 경쟁 속 통신 3사 R&D 투자 살펴보니…SKT·KT·LGU+ 순",
-          "summary": "LG유플러스는 이번 반기 보고서에 유튜브 모아보기 서비스 개발, 공공와이파이용 5G CPE 개발 등의 연구과제를 명시했다. 한편 연구개발비 회계처리 방식은 3사가 달랐다. KT는 연구개발비의 21.7%인 302억원을…",
-          "press": "디지털데일리",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 20:21",
-          "link": "https://n.news.naver.com/mnews/article/138/0002237933?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT새노조, 2분기 실적 논란 \"해킹에 본업 위기, 신뢰 회복 급선무\"",
-          "summary": "KT새노조는 무선서비스 매출이 1조 6,749억 원으로 전년 동기 대비 1.8% 감소한 점을 핵심 위기로 짚었다. 5G 가입자 비중이 83.2%까지 올랐으나 ARPU(가입자당 평균매출)는 3만 4,412원으로 2.3…",
-          "press": "globale.co.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 20:00",
-          "link": "https://www.globale.co.kr/news/articleView.html?idxno=39885",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "이통3사, 상반기 보수 공개…정재헌 17억·홍범식 18억",
           "summary": "정 사장의 급여에는 고객 신뢰 회복 및 AX(인공지능 전환)를 통한 이동통신망 사업자(MNO) 사업 경쟁력 강화와 그룹의 AI(인공지능) 인프라 사업 주도, AI B2B(기업간거래) 사업 성과 등이 고려됐다는 설명이…",
           "press": "shinailbo.co.kr",
           "date": "2026-08-14",
           "datetime": "2026-08-14 18:50",
           "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051618",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[뉴스 앤 데이터] 상반기 재계 총수 보수 살펴보니…박정원 455억·구자...",
-          "summary": "홍범식 LG유플러스 대표는 18억1600만원이다. 급여 7억2600만원에 상여 10억8900만원, 기타 근로소득 100만원을 받았다. 회사는 지난해 경영실적과 AX 사업 성과 등을 상여 책정 때 고려했다. 장용호 S…",
-          "press": "seoultimes.news",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 18:46",
-          "link": "https://www.seoultimes.news/news/article.html?no=2000098845",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -143,34 +110,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "박윤영 대표 첫 성적표에 KT새노조 \"무선 매출 줄었는데 긴장 안해?\" 쓴...",
-          "summary": "KT새노조가 박윤영 대표의 첫 경영 성적표를 두고 쓴소리를 냈다. 지난해 발생한 펨토셀 해킹 사고로... 5G 가입자 비중은 83.2%까지 확대됐지만 무선서비스 가입자당평균매출(ARPU)은 오히려 2.3% 감소했다.…",
-          "press": "1conomynews.co.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 17:12",
-          "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50007",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "4대 시중은행, 배달·통신 잇는 생활밀착형 서비스 '확대'",
           "summary": "현대경제신문 정준기 기자 | 4대 시중은행( KB국민·신한·하나·우리은행)이 배달앱과 알뜰폰 등 생활밀착형... 통신에서는 KB국민은행의 경우, 리브모바일 가입자가 지난해 말 44만2000명에서 올 상반기 42만90…",
           "press": "finomy.com",
           "date": "2026-08-14",
           "datetime": "2026-08-14 17:02",
           "link": "http://www.finomy.com/news/articleView.html?idxno=259283",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "기업공시 [8월 14일]",
-          "summary": "신규 대표 선임 ▲에프알텍=KT와 약 56억 원 규모 중계기(5G광중계기) 계약 체결 ▲바이브컴퍼니(301300)=한국지능정보사회진흥원과 19억 원 규모 클라우드 네이티브 전환 사업 체결 ▲에이비온=주권 매매 거래 …",
-          "press": "서울경제",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 16:51",
-          "link": "https://n.news.naver.com/mnews/article/011/0004651879?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -198,45 +143,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "박윤영 KT, 모바일 3위 추락 직전…본업 경쟁력 급속 약화",
-          "summary": "KT는 5세대 이동통신(5G) 보급률이 83.2%까지 높아졌지만 무선 가입자당평균매출(ARPU)은 3만4412원으로 전년 동기보다 2.3% 감소했다. KT는 지난 2월부터 7월까지 진행한 고객보답 프로그램과 위약금 …",
-          "press": "4th.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 15:50",
-          "link": "http://www.4th.kr/news/articleView.html?idxno=2116393",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "에프알텍, 56억 규모 5G광중계기 공급계약",
-          "summary": "에프알텍은 KT와 중계기(5G광중계기) 공급계약을 체결했다고 14일 공시했다. 계약금액은 55억8423만원으로 이는 2025년 매출 대비 22.1%에 해당하는 규모이다. 계약기간은 11월 4일까지다.",
-          "press": "헤럴드경제",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 15:18",
-          "link": "https://n.news.naver.com/mnews/article/016/0002684119?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "4년전 나온 아이폰SE 없어서 못판다…日서 귀한몸 된 중고폰",
           "summary": "일본에서 메모리 공급 부족과 엔화 약세로 정보기술(IT) 기기 가격이 일제히 상승하면서 신제품보다 저렴한 중고 제품을 찾는 소비자가 늘고 있는 것으로 나타났다. 14일 니혼게이자이(닛케이)신문은 프랑스에...",
           "press": "이데일리",
           "date": "2026-08-14",
           "datetime": "2026-08-14 14:54",
           "link": "https://n.news.naver.com/mnews/article/018/0006351888?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[기획] 클라우드 저물고 AI 뜬다…이통 3사 AIDC 총력",
-          "summary": "SK텔레콤, KT, LG유플러스 역시 고성능 AI 인프라 시장을 선점하기 위해 대대적인 프로젝트를 추진하는 등... 5G 보급 이후 가입자 증가세는 둔화되고, 가입자당 평균 매출(ARPU) 정체도 장기화되는 등 전통…",
-          "press": "kfenews.co.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 14:06",
-          "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=662451",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -869,5 +781,5 @@
       ]
     }
   ],
-  "total": 74
+  "total": 66
 }

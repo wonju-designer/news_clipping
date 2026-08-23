@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
-  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 16:31 소급 정리",
+  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-23 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -738,17 +738,6 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "인텔 서버 매출점유율 1.7%p 올랐다",
-          "summary": "톰스하드웨어(Tom’s Hardware)는 머큐리리서치(Mercury Research) 자료를 인용해 2026년 1분기 AMD의 x86 서버 CPU 매출 점유율이 46.2%, 판매량 점유율이 33.2%였다고 보도했다…",
-          "press": "tokenpost.kr",
-          "date": "2026-08-13",
-          "datetime": "2026-08-13 21:48",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/390216",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "[이격도과열 종목] 상한가만 10개 쏟아졌다…이브이첨단소재 디알텍 지...",
           "summary": "에이엘티와 코아시아, 서전기전, 머큐리, 매드업도 상승세를 이어갔다. 매드업은 이날 이격도 과열 종목 가운데 비교적 높은 수익성과 성장성을 나타내는 종목으로 분류됐다. 주가 상승률은 7%대를 기록했지만...",
           "press": "pinpointnews.co.kr",
@@ -1123,34 +1112,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "오뚜기, 가격 인상 얼마나 됐다고…\"컵라면 담기도 겁나네\" [프라이스&]",
-          "summary": "가정용 가공식품에서 업소용 식자재를 거쳐 컵라면과 냉동식품까지 한 달 사이 가격 조정 대상이 빠르게... 경북 구미에 2000억원을 투자해 2029년까지 수출용 라면 공장도 짓기로 했다. 오뚜기는 소비자 부담을...",
-          "press": "한국경제",
-          "date": "2026-08-13",
-          "datetime": "2026-08-13 09:13",
-          "link": "https://n.news.naver.com/mnews/article/015/0005320371?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "폭염에 채소값 급등…가공식품도 줄인상",
           "summary": "전통시장에서도 채소 가격 상승세가 나타났다. 한국물가정보에 따르면 미나리 1kg은 1만6000원으로 한... 풀무원은 13일부터 간식, 김치, 냉동볶음밥, 소스, 계란가공품, 만두, 면 밀키트 등 7개 제품군 30개…",
           "press": "hansbiz.co.kr",
           "date": "2026-08-13",
           "datetime": "2026-08-13 08:24",
           "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=856473",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "[Who Is ?] 김주양 농협경제지주 농업경제대표이사",
-          "summary": "김주양은 2026년 7월14일 NH농우바이오를 방문하고 종자 수출 확대와 연구개발 역량을 활용한 맞춤형 종자... 농협경제지주는 2022년 8월 농협중앙회가 신설 냉동식품 제조업체에 145억 원 상당의 신용대출을 실…",
-          "press": "businesspost.co.kr",
-          "date": "2026-08-13",
-          "datetime": "2026-08-13 07:02",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444464",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -1198,5 +1165,5 @@
       ]
     }
   ],
-  "total": 104
+  "total": 101
 }

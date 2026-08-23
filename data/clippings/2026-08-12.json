@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "backfill_note": "※ 2026-08-21 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-21 16:31 소급 정리",
+  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-23 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -143,34 +143,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "KT, 2분기 영업익 6483억…AX·성장사업 확대",
-          "summary": "KT는 5G-LTE 통합요금제와 초이스 더블 요금제 신규 라인업을 출시하며 요금제 경쟁력을 강화했다. 인터넷 사업 매출은 기가 인터넷 가입자 증가와 부가서비스 이용 확대에 힘입어 1.1% 성장했다. 미디어 사업...",
-          "press": "straightnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:58",
-          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308823",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "KT알파, 상반기 매출 줄었지만 취급고 9%↑…영업익 262억원",
           "summary": "KT알파가 올 상반기 직매입 비중을 줄이고 위수탁 중심으로 사업 구조를 조정하면서 매출은 소폭... 통신 요금제·부가서비스와 연계한 구독형 상품과 통합상품권 브랜드 제휴도 확대했다. 기업간거래(B2B) 영역에서는..…",
           "press": "디지털데일리",
           "date": "2026-08-12",
           "datetime": "2026-08-12 16:58",
           "link": "https://n.news.naver.com/mnews/article/138/0002237600?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT알파, 상반기 영업익 262억원 '선전'…거래규모 작년보다 9% 증가",
-          "summary": "통신 요금제·부가서비스와 연계한 구독형 상품과 통합상품권 브랜드 제휴도 확대했다. 기업용 서비스인 '기프티쇼 비즈'를 통해 가정의 달과 근로자의 날 등 시즌 마케팅과 기업 특화 서비스도 강화했다. KT알파는...",
-          "press": "delighti.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:52",
-          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120135",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -204,28 +182,6 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 16:39",
           "link": "https://n.news.naver.com/mnews/article/020/0003740388?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT알파, 상반기 영업이익 262억원…전년比 0.3% 늘어",
-          "summary": "KT알파가 올해 상반기 취급고 성장과 수익성 개선을 동시에 달성하며 사업 체질 개선에 속도를 내고 있다.... 통신 요금제와 부가서비스를 연계한 구독형 상품과 통합상품권 브랜드 제휴를 확대하면서 상품 경쟁력을...",
-          "press": "megaeconomy.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:26",
-          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597761448791",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'고객 중심 경영' 외친 통신3사, 고객 부담 줄이기는 '법 그림자' 따라…...",
-          "summary": "하지만 고객의 통신비 부담을 직접 줄여줄 수 있는 '최적 요금제 안내'는 법으로 강제되고 나서야 현실이... SK텔레콤은 유심 해킹 사태 이후 고객 신뢰 회복을, KT는 고객 경험과 만족도 개선을, LG유플러스는 고…",
-          "press": "popcornnews.net",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:22",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=129456",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -270,17 +226,6 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 15:46",
           "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93649",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "kt 밀리의서재, 2분기 매출 15.2% 성장…IP 투자에 영업익은 감소",
-          "summary": "밀리의서재는 KT를 비롯해 SK텔레콤과 LG유플러스 등 이동통신 3사의 요금제·멤버십과 연계한 구독 상품을 운영하고 있다. 통신사 제휴는 개별 소비자를 직접 모집하는 B2C 사업보다 낮은 마케팅 부담으로 구독자 접점…",
-          "press": "biztribune.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:42",
-          "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357328",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -374,19 +319,8 @@
           "subgroup_label": ""
         },
         {
-          "title": "[KB국민vs 신한銀 생활금융戰]①KB는 통신, 신한은 배달…은행 밖 고객 ...",
-          "summary": "KB국민은행은 알뜰폰 '리브모바일'을 계좌와 연결하는 반면 신한은행은 배달앱 '땡겨요'에서 소비자와... 42만9000명, 계좌에서 출발한 리브모바일 리브모바일 개인 가입자는 KB국민은행 입출금계좌를 보유해야 한다.…",
-          "press": "press9.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 12:46",
-          "link": "http://www.press9.kr/news/articleView.html?idxno=80971",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "'해킹 여진 끝?' 2분기 실적 공개한 통신3사...'버텨낸 SKT' '반등한 KT' ...",
-          "summary": "전체 MNO 가입자 수는 제자리걸음을 하는 모양새지만 알뜰폰 등에서 버텨낸 것으로 풀이된다. 5G 가입자는 지속 상승세다. 전체 가입자 가운데 5G 가입자 비중도 82%까지 끌어올렸다. KT 2분기 연결매출은 6조6…",
+          "summary": "전체 MNO 가입자 수는 제자리걸음을 하는 모양새지만 알뜰폰 등에서 버텨낸 것으로 풀이된다. 5G... 1분기 감소세였던 MNO 가입자가 증가세로 돌아섰다. 전체 가입자 수도 지속 확대되고 있다. MNO의 공백을..…",
           "press": "techm.kr",
           "date": "2026-08-12",
           "datetime": "2026-08-12 11:48",
@@ -468,28 +402,6 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 10:40",
           "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/12/2026081200111.html",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "집토끼 지키기 나선 통신3사..장기고객 혜택 강화",
-          "summary": "박종석 SKT 최고재무책임자(CFO)는 지난 1분기 실적발표 컨퍼런스콜에서 “가입자 수를 늘리기 위한 소모적 경쟁은 지양하고 높은 생애가치(LTV)를 갖춘 가입자 확보를 지향하는 운영을 지속 추진할 방침”이라고...",
-          "press": "kpenews.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:58",
-          "link": "https://kpenews.com/View.aspx?No=4183259",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'고객' 챙긴 SKT vs '인프라·보안' 살핀 KT…CEO 현장경영 차별화 눈길",
-          "summary": "◆ 정재헌 SKT 대표, 장기고객 소통 강화… 가입자 순증 성과 정재헌 SK텔레콤 대표는 현장 중심의 고객... 이 같은 고객 친화 전략은 실질적인 실적 개선으로 이어졌다. 한국통신사업자연합회(KTOA)에 따르면 S…",
-          "press": "ftoday.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 08:56",
-          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363420",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -748,50 +660,6 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "한화건설부문, AIDC 전력·냉각 기술 강화…국책과제 참여",
-          "summary": "한화 건설부문은 △데이터센터 수요자원화 △고효율 모듈형 무정전전원공급장치(UPS) 개발 △고밀도 AI... 전력 공급과 냉각 효율을 확보하는 것이다. '데이터센터 수요자원화' 과제에서는 AI를 활용해 서버 소비전력과…",
-          "press": "4th.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:34",
-          "link": "http://www.4th.kr/news/articleView.html?idxno=2116208",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "한화 건설부문, AI DC 전력 효율화 국책과제 수행",
-          "summary": "무정전전원공급장치(UPS) 개발 △고밀도 AI 데이터센터용 직접액체 냉각 기술 등 3개 과제에 참여할 예정이다. 데이터센터 수요자원화는 AI로 데이터센터의 서버 소비 전력과 냉방 부하 등을 예측해 전력 효율을...",
-          "press": "디지털타임스",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:22",
-          "link": "https://n.news.naver.com/mnews/article/029/0003042014?sid=101",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "한화 건설부문, AI 데이터센터 에너지 절감 경쟁력 강화",
-          "summary": "무정전전원공급장치(UPS: Uninterruptible Power Supply) 개발 ▲고밀도 AI 데이터센터용 직접액체냉각 기술 등 3개... ‘데이터센터 수요자원화’는 AI로 데이터센터의 서버 소비 전력과 냉방부…",
-          "press": "segyebiz.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:08",
-          "link": "http://www.segyebiz.com/newsView/20260812514158?OutUrl=naver",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "㈜한화 건설부문, AI 데이터센터 전력 효율화 국책과제 수행",
-          "summary": "데이터센터 전력 수요 예측부터 무정전전원공급장치(UPS), 직접액체냉각 기술까지 에너지 절감과 운영... 데이터센터 수요자원화는 AI를 활용해 서버 소비전력과 냉방 부하 등을 예측하고 전력 효율을 높이는 기술이다..…",
-          "press": "헤럴드경제",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:08",
-          "link": "https://n.news.naver.com/mnews/article/016/0002682945?sid=101",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "AI 데이터센터 '빛'으로 뚫는다…서울바이오시스, 광소자 영토 확장",
           "summary": "광통신용 부품 및 RF 통신 솔루션 기업들도 오름세를 지지 중이다. 머큐리, RFHIC, 파이버프로가 AI 데이터센터용 광모듈 공급 기대감에 힘입어 상승 흐름을 나타내고 있다. 반면 일부 통신 부품 및 소재 종목들은…",
           "press": "pinpointnews.co.kr",
@@ -968,39 +836,6 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "컬리, 2분기 영업익 274억원 '역대 최대'... IPO 체력 키웠다",
-          "summary": "핵심 사업인 마켓컬리 거래액은 신선식품과 가정간편식(HMR) 판매 호조에 힘입어 25.7% 늘었다.... 컬리는 2022년 기업가치와 시장 상황 등을 고려해 상장 계획을 연기한 바 있다. 이번 분기 영업이익과 순이익…",
-          "press": "meconomynews.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:28",
-          "link": "https://www.meconomynews.com/news/articleView.html?idxno=200480",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "컬리, 2분기 영업익 274억…6개 분기 연속 흑자",
-          "summary": "마켓컬리 거래액은 신선식품과 가정간편식(HMR) 판매 증가에 힘입어 25.7% 늘었다. 뷰티컬리 거래액은... 컬리는 2022년 상장예비심사를 통과했지만 시장 침체와 기업가치 하락으로 상장을 연기했다. 지난해 창사 …",
-          "press": "아이뉴스24",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:27",
-          "link": "https://n.news.naver.com/mnews/article/031/0001049162?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "컬리, 2분기 영업익 1991% 폭증 '역대 최대'…IPO 다시 속도낸다",
-          "summary": "신선식품과 가정간편식(HMR) 판매량 증가가 거래액 확대에 힘을 보탰다. 뷰티컬리도 성장세를 이어갔다.... 시장에서는 컬리가 향후 IPO에 다시 속도를 낼지도 주목하고 있다. 컬리는 이날 실적 발표에서도 기업가치.…",
-          "press": "joongangenews.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:22",
-          "link": "https://www.joongangenews.com/news/articleView.html?idxno=539652",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "폭염에 채솟값 폭등 ·가공식품 줄인상…8월 장바구니 물가 부담",
           "summary": "전통시장에서도 채소류를 중심으로 가격 오름세가 나타났다. 한국물가정보에 따르면 미나리는 1㎏에... 면 밀키트 등 7개 제품군 30개 품목의 소비자가격을 평균 6.7% 인상한다. 대표적으로 평양냉면(2인)은...",
           "press": "slist.kr",
@@ -1153,5 +988,5 @@
       ]
     }
   ],
-  "total": 100
+  "total": 85
 }
