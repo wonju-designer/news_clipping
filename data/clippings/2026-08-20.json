@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 13:15 소급 정리",
+  "generated_at": "2026-08-23 13:22 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -385,23 +385,23 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "전기차 캐즘에 ESS 뜨자···K 배터리, 공장 쓰임새 바꾼다",
-          "summary": "중장기 공급계약도 체결했다. 해당 소재는 SPE에서 생산할 ESS용 배터리에 사용된다. ESS 확대는 실적에도 영향을 미치기 시작했다. 삼성SDI는 상반기 전력용 ESS와 무정전전원장치(UPS), 배터리백업유닛(BB…",
-          "press": "sisajournal-e.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 15:18",
-          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423183",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "'AI 시대' 전력저장 뜬다…'ESS' K-배터리 돌파구",
           "summary": "국내 배터리업계가 전 세계 전기차 배터리 시장에서 중국에 밀리자, 에너지저장장치(ESS)를 돌파구로... 무정전전원장치(UPS)용 배터리를 공급하는 등 그룹 내 전력 인프라를 바탕으로 초기 적용 경험을 쌓을 수 있을…",
           "press": "newsprime.co.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 15:18",
           "link": "http://www.newsprime.co.kr/news/article.html?no=744487",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "전기차 캐즘에 ESS 뜨자···K 배터리, 공장 쓰임새 바꾼다",
+          "summary": "중장기 공급계약도 체결했다. 해당 소재는 SPE에서 생산할 ESS용 배터리에 사용된다. ESS 확대는 실적에도 영향을 미치기 시작했다. 삼성SDI는 상반기 전력용 ESS와 무정전전원장치(UPS), 배터리백업유닛(BB…",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 15:18",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423183",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
@@ -572,56 +572,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "대한항공C&D서비스, 춘천에 올미쌀 1600㎏ 기부",
-          "summary": "대한항공C&D서비스는 2024년 한부모·조손가정에 밀키트 600개를 지원한 데 이어 지난해에는 춘천 소양강쌀... 육동한 춘천시장은 “지역 농업인과 어려운 이웃을 함께 생각한 따뜻한 나눔에 감사드린다”라며...",
-          "press": "kukinews.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 17:36",
-          "link": "https://www.kukinews.com/article/view/kuk202608200202",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "신화원축산, 도·소매 맞춤 유통시스템과 위생 제조관리 체계 강화",
           "summary": "소매 판매처와 일반 소비자를 대상으로는 소포장 제품, 밀키트, 온라인몰 상품 등을 통해 한우 부산물과 육류... 현장 경험을 통해 축적한 원재료 선별 기준과 가공 기술을 바탕으로 신선도와 위생을 중요하게 여기는 시장…",
           "press": "enetnews.co.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 16:06",
           "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=53573",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "대한항공C&D서비스 등, 춘천 올미쌀 1600kg 기부",
-          "summary": "육동한 춘천시장은 \"지역 농업인과 어려운 이웃을 함께 생각한 따뜻한 나눔에 감사드린다\"며 \"기부해 주신... 대한항공C&D서비스는 2024년 한부모·조손가정에 밀키트 600개를 지원한 데 이어 지난해 춘천 소양강쌀.…",
-          "press": "shinailbo.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 15:46",
-          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053253",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "대한항공C&D·삼구INC·유니에스, 춘천 이웃 위해 뜻 모았다",
-          "summary": "대한항공C&D서비스는 2024년 한부모·조손가정에 밀키트 600개를 지원했다. 지난해에는 춘천 소양강쌀 1... 육동한 춘천시장은 “지역 농업인과 어려운 이웃을 함께 생각한 따뜻한 나눔에 감사드린다”며 “기부해 주신…",
-          "press": "pressian.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 15:28",
-          "link": "https://n.news.naver.com/mnews/article/002/0002452850?sid=102",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "대한항공C&D서비스, 춘천 이웃에 올미쌀 1,600㎏ 기부",
-          "summary": "육동한 춘천시장은 “지역 농업인과 어려운 이웃을 함께 생각한 따뜻한 나눔에 감사드린다”며 “기부해... 한편 대한항공C&D서비스는 2024년 한부모·조손가정에 밀키트 600개를 지원한 데 이어 지난해에는 춘천...",
-          "press": "kwnews.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 15:20",
-          "link": "https://n.news.naver.com/mnews/article/087/0001212503?sid=102",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -658,6 +614,39 @@
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[이슈포커스] 폭염에 홍수까지…'기후플레이션'에 널뛰는 장바구니 물가",
+          "summary": "쌀과 달걀의 할인폭을 확대하고 기존 명절 기간을 중심으로 발행하던 전통시장 농할상품권도 7월부터 매월 200억원 규모로 발행하기로 했다. 8월에는 식품기업들과 함께 라면과 즉석밥, 국수, 냉동식품, 두부, 김치...",
+          "press": "sisacast.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 21:54",
+          "link": "http://www.sisacast.kr/news/articleView.html?idxno=99000",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "건강하게 먹고 싶은데 식비가 부담된다면?…장바구니부터 바꿔야 할 10가...",
+          "summary": "대형마트, 전통시장, 동네 슈퍼마켓, 온라인몰 등 판매처마다 가격과 할인 품목이 다르기 때문이다. 다만 몇... 할인하는 식재료를 중심으로 식단을 짜고, 제철 식품과 냉동식품을 적절히 활용하며, 집에 있는 재료를 먼…",
+          "press": "lady.khan.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 16:16",
+          "link": "https://n.news.naver.com/mnews/article/145/0000024070?sid=103",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[K-푸드 글로벌 점령 지도] 국내 식품 8개사 상반기 해외매출 8조 육박…...",
+          "summary": "글로벌 식품 시장의 거대 트렌드로 뿌리내렸다. 국내 8대 주요 식품기업의 상반기 해외 실적 데이터를... 풀무원은 중국 냉동김밥(697억원)과 일본 두부바(427억원)의 선전으로 1124억원을 올렸다. ◆동남아 64…",
+          "press": "dnews.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 06:00",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608190933104280448",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
@@ -680,5 +669,5 @@
       ]
     }
   ],
-  "total": 57
+  "total": 56
 }
