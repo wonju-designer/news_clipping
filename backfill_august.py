@@ -18,6 +18,7 @@ from datetime import datetime, timedelta
 
 import config
 import collect
+import analyze
 import dashboard
 
 KST = config.KST
@@ -148,6 +149,16 @@ def run():
             arts = _collect_terms(terms, None, start, end, seen,
                                   extra_exclude=ex, require_any=req,
                                   require_context=cat.get("require_context", ()))
+        # AI 관련성 필터 — 키워드가 우연히 걸린 무관 기사 제거
+        if cat.get("subgroups"):
+            filtered = []
+            for sg in cat["subgroups"]:
+                sg_arts = [a for a in arts if a.get("subgroup") == sg["id"]]
+                if sg_arts:
+                    filtered += analyze.relevance_filter(sg_arts, sg["id"])
+            arts = filtered
+        else:
+            arts = analyze.relevance_filter(arts, cat["id"])
         section_arts[cat["id"]] = arts
         print(f"  {cat['num']} {cat['title']}: {len(arts)}건")
 
