@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:20 소급 정리",
+  "generated_at": "2026-08-23 10:49 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -1034,23 +1034,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LGU+, AIDC·스마트홈 성장에 2분기 영업익 역대 최대",
-          "summary": "이동통신사업자(MNO) 가입 회선은 2244만2000여개, 알뜰폰(MVNO) 가입 회선은 902만5000여개로 전년동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 늘었…",
-          "press": "sentv.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 11:02",
-          "link": "https://www.sentv.co.kr/article/view/sentv202608060075",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스, 2분기 영업이익 3445억원...\"역대 분기 최대 실적\"",
           "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개로 7.2% 증가했고, 알뜰폰(MVNO) 가입회선은 902만5000여개로 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 증가했다. 전체 핸…",
           "press": "seouleconews.com",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:02",
           "link": "http://www.seouleconews.com/news/articleView.html?idxno=92884",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, AIDC·스마트홈 성장에 2분기 영업익 역대 최대",
+          "summary": "이동통신사업자(MNO) 가입 회선은 2244만2000여개, 알뜰폰(MVNO) 가입 회선은 902만5000여개로 전년동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 늘었…",
+          "press": "sentv.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:02",
+          "link": "https://www.sentv.co.kr/article/view/sentv202608060075",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1419,17 +1419,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "갤럭시Z 시리즈 144만대 사전판매 '역대 최대'…내일 국내 출시",
-          "summary": "자급제 모델 사전 구매자 2명 중 1명은 '뉴 갤럭시 AI 구독클럽'에도 가입했다. 새로운 갤럭시 Z 시리즈는 사용 목적에 따라 제품군을 세분화한 것이 특징이다. '갤럭시 Z 폴드8 울트라'는 대화면과 고성능을 앞세…",
-          "press": "nocutnews.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 09:48",
-          "link": "https://n.news.naver.com/mnews/article/079/0004176019?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "갤럭시 Z8·워치9 내일 공식 출시…폴더블 사전판매 144만대 흥행",
           "summary": "삼성닷컴에서 자급제 모델을 사전구매한 고객 가운데 절반은 'New(뉴) 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐다. 스마트 스위치와 퀵 셰어를 통해 iOS 기기와의 데이터 이전·공유 편의성을 높이고, 삼성월렛의…",
           "press": "widedaily.com",
@@ -1441,12 +1430,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "삼성전자, '갤럭시 Z 폴드8' 시리즈·워치 신제품 7일 국내 출시",
-          "summary": "자급제 모델 사전 구매자 2명 중 1명은 'New 갤럭시 AI 구독클럽'에도 가입했다. 갤럭시 워치 신제품 역시 선전했다. 워치 울트라2와 워치9의 사전판매량은 전작 동기간 대비 각각 두 자릿수 성장률을 기록했다. …",
-          "press": "nextdaily.co.kr",
+          "title": "갤럭시Z 시리즈 144만대 사전판매 '역대 최대'…내일 국내 출시",
+          "summary": "자급제 모델 사전 구매자 2명 중 1명은 '뉴 갤럭시 AI 구독클럽'에도 가입했다. 새로운 갤럭시 Z 시리즈는 사용 목적에 따라 제품군을 세분화한 것이 특징이다. '갤럭시 Z 폴드8 울트라'는 대화면과 고성능을 앞세…",
+          "press": "nocutnews.co.kr",
           "date": "2026-08-06",
-          "datetime": "2026-08-06 09:46",
-          "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251946",
+          "datetime": "2026-08-06 09:48",
+          "link": "https://n.news.naver.com/mnews/article/079/0004176019?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1458,6 +1447,17 @@
           "date": "2026-08-06",
           "datetime": "2026-08-06 09:46",
           "link": "https://www.cnbizm.com/news/articleView.html?idxno=310735",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, '갤럭시 Z 폴드8' 시리즈·워치 신제품 7일 국내 출시",
+          "summary": "자급제 모델 사전 구매자 2명 중 1명은 'New 갤럭시 AI 구독클럽'에도 가입했다. 갤럭시 워치 신제품 역시 선전했다. 워치 울트라2와 워치9의 사전판매량은 전작 동기간 대비 각각 두 자릿수 성장률을 기록했다. …",
+          "press": "nextdaily.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:46",
+          "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251946",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1864,23 +1864,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "케이뱅크, 생활비 절약·자산관리 '투트랙' 강화…신규 제휴 서비스",
-          "summary": "'캐시백 받는 통신비 비교' 서비스는 케이뱅크 앱을 통해 알뜰폰 브랜드 티플러스(tplus)의 통신 3사 알뜰폰 요금제 28종을 비교하고 가입할 수 있도록 지원한다. 이용자가 가입 후 통신비 자동이체 계좌를 케이뱅크…",
-          "press": "g-enews.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 10:52",
-          "link": "https://www.g-enews.com/view.php?ud=202608060856152693cd0bfacc1c_1",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "케이뱅크, 생활밀착형 제휴 서비스 2종 출시",
           "summary": "'캐시백 받는 통신비 비교'는 케이뱅크 앱에서 티플러스와 연동해 통신 3사의 알뜰폰 요금제 28종을 비교하고 가입할 수 있는 서비스다. 통신비 자동이체 계좌를 케이뱅크 계좌로 등록하면 가입 다음 달부터 6개월 동안.…",
           "press": "finomy.com",
           "date": "2026-08-06",
           "datetime": "2026-08-06 10:52",
           "link": "http://www.finomy.com/news/articleView.html?idxno=258676",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "케이뱅크, 생활비 절약·자산관리 '투트랙' 강화…신규 제휴 서비스",
+          "summary": "'캐시백 받는 통신비 비교' 서비스는 케이뱅크 앱을 통해 알뜰폰 브랜드 티플러스(tplus)의 통신 3사 알뜰폰 요금제 28종을 비교하고 가입할 수 있도록 지원한다. 이용자가 가입 후 통신비 자동이체 계좌를 케이뱅크…",
+          "press": "g-enews.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:52",
+          "link": "https://www.g-enews.com/view.php?ud=202608060856152693cd0bfacc1c_1",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1897,23 +1897,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "케이뱅크, 생활 밀착형·재테크 제휴 서비스 2종 출시...소비자 관심도...",
-          "summary": "먼저 ‘캐시백 받는 통신비 비교’는 케이뱅크 앱에서 연동된 알뜰폰 브랜드 티플러스(tplus) 페이지를 통해 통신 3사의 알뜰폰 요금제 28종을 한눈에 비교하고 가입할 수 있는 서비스다. 가입 후 통신비 자동이체 계…",
-          "press": "thebigdata.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 10:02",
-          "link": "http://www.thebigdata.co.kr/view.php?ud=202608060950581869df3c2a17b7_23",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "케이뱅크, 알뜰폰 비교·AI 경매 서비스 출시…생활비 절약부터 재테크...",
           "summary": "'캐시백 받는 통신비 비교'는 케이뱅크 앱에서 알뜰폰 브랜드 티플러스(tplus)의 통신 3사 기반 알뜰폰 요금제 28종을 비교하고 가입할 수 있는 서비스다. 가입 후 통신비 자동이체 계좌를 케이뱅크 계좌로 등록하면…",
           "press": "dailian.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 10:02",
           "link": "https://n.news.naver.com/mnews/article/119/0003118837?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "케이뱅크, 생활 밀착형·재테크 제휴 서비스 2종 출시...소비자 관심도...",
+          "summary": "먼저 ‘캐시백 받는 통신비 비교’는 케이뱅크 앱에서 연동된 알뜰폰 브랜드 티플러스(tplus) 페이지를 통해 통신 3사의 알뜰폰 요금제 28종을 한눈에 비교하고 가입할 수 있는 서비스다. 가입 후 통신비 자동이체 계…",
+          "press": "thebigdata.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:02",
+          "link": "http://www.thebigdata.co.kr/view.php?ud=202608060950581869df3c2a17b7_23",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

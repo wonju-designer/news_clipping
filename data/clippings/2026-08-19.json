@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:20 소급 정리",
+  "generated_at": "2026-08-23 10:49 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -462,23 +462,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, AI-RAN 생태계 확산 나선다…연세대와 기술검증 성공",
-          "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 그래픽처리장치(GPU) 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망을 벗어나 5G망으…",
-          "press": "socialvalue.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 15:20",
-          "link": "https://www.socialvalue.kr/news/view/1065588681898351",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스, 연세대와 맞손…AI-RAN 네트워크 전환 기술 검증",
           "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 그래픽처리장치(GPU) 기반 AI-RAN 시험망을 연동하는 방식으로 진행됐다. 산업용 모바일 기기 전문기업 포인트모바일의 'PM95' 단말을 활용…",
           "press": "m-i.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 15:20",
           "link": "https://www.m-i.kr/news/articleView.html?idxno=1403796",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, AI-RAN 생태계 확산 나선다…연세대와 기술검증 성공",
+          "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 그래픽처리장치(GPU) 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망을 벗어나 5G망으…",
+          "press": "socialvalue.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 15:20",
+          "link": "https://www.socialvalue.kr/news/view/1065588681898351",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -880,23 +880,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스·연세대, AI-RAN 환경서 네트워크 전환 기술 검증",
-          "summary": "검증에는 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망이 활용됐다. 양측은 피지컬 AI 장비가 AI-RAN 시험망에서 5G망으로 이동하거나 반대로 5G망에서 AI-RAN 시…",
-          "press": "ziksir.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 11:34",
-          "link": "https://www.ziksir.com/news/articleView.html?idxno=143574",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스, 연세대와 5G·AI-RAN 망 전환 서비스 연속성 검증",
           "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망을 벗어나 5G망으로 이동하거나, …",
           "press": "it-b.co.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 11:34",
           "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89541",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스·연세대, AI-RAN 환경서 네트워크 전환 기술 검증",
+          "summary": "검증에는 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망이 활용됐다. 양측은 피지컬 AI 장비가 AI-RAN 시험망에서 5G망으로 이동하거나 반대로 5G망에서 AI-RAN 시…",
+          "press": "ziksir.com",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 11:34",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=143574",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1243,23 +1243,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 정부 '모두의AI' 사업 도전…2250만 통신 회선 기반 AI 대중화 나선...",
-          "summary": "과기정통부의 2026년 6월 무선통신서비스 가입 현황을 기준으로 IoT와 알뜰폰(MVNO)을 제외한 SKT 이동통신 회선은 2249만8579개다. SKT는 약 2250만 회선과 온·오프라인 채널을 활용해 AI 서비스…",
-          "press": "eroun.net",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:34",
-          "link": "https://www.eroun.net/news/articleView.html?idxno=87821",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, '모두의AI' 사업 참여…서비스·모델·인프라 역량 결집",
           "summary": "이는 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외한 수치로, 과학기술정보통신부의 무선통신서비스 가입 현황을 기준으로 했다. SKT는 약 2250만 회선과 온·오프라인 고객 접점을 활용해 AI 서비스의 접근성을 높인…",
           "press": "businessplus.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 09:34",
           "link": "https://www.businessplus.kr/news/articleView.html?idxno=115619",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 정부 '모두의AI' 사업 도전…2250만 통신 회선 기반 AI 대중화 나선...",
+          "summary": "과기정통부의 2026년 6월 무선통신서비스 가입 현황을 기준으로 IoT와 알뜰폰(MVNO)을 제외한 SKT 이동통신 회선은 2249만8579개다. SKT는 약 2250만 회선과 온·오프라인 채널을 활용해 AI 서비스…",
+          "press": "eroun.net",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 09:34",
+          "link": "https://www.eroun.net/news/articleView.html?idxno=87821",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

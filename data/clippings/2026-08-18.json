@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:20 소급 정리",
+  "generated_at": "2026-08-23 10:49 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -915,23 +915,23 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "한미반도체, 6230평 역대 최대 8공장 구축…1300억원 투자",
-          "summary": "한미반도체는 인천 주안국가산업단지에 있는 6230평 규모 공장을 머큐리로부터 매입해 8공장으로 구축한다고 18일 밝혔다. 한미반도체가 보유한 공장 가운데 가장 큰 규모다. 8공장에는 공장 매입비 560억원을 포함해.…",
-          "press": "kukinews.com",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 14:40",
-          "link": "https://www.kukinews.com/article/view/kuk202608180120",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "한미반도체 1300억 들여 신규 공장…\"장비 공급 부족 대응\"",
           "summary": "한미반도체는 통신기기 제조사 머큐리로부터 인천 주안국가산업단지의 토지 면적 6천230평(2만582.1㎡), 건물 면적 7천770평(2만5천694.3㎡) 규모의 공장을 매입해 신공장(8공장)으로 구축한다고 오늘(18일…",
           "press": "biz.sbs.co.kr",
           "date": "2026-08-18",
           "datetime": "2026-08-18 14:40",
           "link": "https://n.news.naver.com/mnews/article/374/0000527966?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, 6230평 역대 최대 8공장 구축…1300억원 투자",
+          "summary": "한미반도체는 인천 주안국가산업단지에 있는 6230평 규모 공장을 머큐리로부터 매입해 8공장으로 구축한다고 18일 밝혔다. 한미반도체가 보유한 공장 가운데 가장 큰 규모다. 8공장에는 공장 매입비 560억원을 포함해.…",
+          "press": "kukinews.com",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 14:40",
+          "link": "https://www.kukinews.com/article/view/kuk202608180120",
           "badge": "자사",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -2059,6 +2059,17 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
+          "title": "더본코리아, 캐나다 썬레이그룹과 MOU…외식·소스 시장 공략",
+          "summary": "또 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고, 협력 기업의 생산·유통망을 활용해 일반 소비자 시장으로 사업 범위를 넓힌다는 구상이다. 백...",
+          "press": "연합뉴스",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 10:11",
+          "link": "https://n.news.naver.com/mnews/article/001/0016255679?sid=103",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
           "title": "[특징주] 더본코리아, 북미 공략 본격화에 16%대 강세",
           "summary": "북미 시장 확대를 위한 공급 거점으로 활용할 계획이다. 국내 생산 후 수출하는 기존 방식과 비교해 현지 생산으로 전환할 경우 물류비를 낮추고 공급 기간을 단축할 수 있다는 판단이다. 가정간편식(HMR) 사업 확대도.…",
           "press": "newspim.com",
@@ -2076,17 +2087,6 @@
           "date": "2026-08-18",
           "datetime": "2026-08-18 10:11",
           "link": "https://n.news.naver.com/mnews/article/003/0014132172?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "더본코리아, 캐나다 썬레이그룹과 MOU…외식·소스 시장 공략",
-          "summary": "또 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고, 협력 기업의 생산·유통망을 활용해 일반 소비자 시장으로 사업 범위를 넓힌다는 구상이다. 백...",
-          "press": "연합뉴스",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 10:11",
-          "link": "https://n.news.naver.com/mnews/article/001/0016255679?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -2378,23 +2378,23 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "더본코리아, 캐나다 매장 늘리고 美서 소스 만든다",
-          "summary": "현지 입맛을 반영한 가정간편식(HMR) 공동개발도 함께 추진해 북미 일반 소비자 시장 공략에도 나선다. 더본코리아 관계자는 \"해외 현장에서 발굴한 사업 기회가 현지 기업과의 구체적인 협력으로 이어지고 있다\"며...",
-          "press": "아주경제",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 08:36",
-          "link": "https://www.ajunews.com/view/20260818083204370",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "더본코리아, 북미서 브랜드 출점·소스 유통 추진",
           "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 진행 중이다. 현지 소비 방식과 입맛을 고려한 제품을 개발하고 협력사의 생산·유통망을 활용해 일반 소비자 시장으로 사업 영역을 넓힐 계획이다. 이번 북미 사업의..…",
           "press": "pinpointnews.co.kr",
           "date": "2026-08-18",
           "datetime": "2026-08-18 08:36",
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478090",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "더본코리아, 캐나다 매장 늘리고 美서 소스 만든다",
+          "summary": "현지 입맛을 반영한 가정간편식(HMR) 공동개발도 함께 추진해 북미 일반 소비자 시장 공략에도 나선다. 더본코리아 관계자는 \"해외 현장에서 발굴한 사업 기회가 현지 기업과의 구체적인 협력으로 이어지고 있다\"며...",
+          "press": "아주경제",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 08:36",
+          "link": "https://www.ajunews.com/view/20260818083204370",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
