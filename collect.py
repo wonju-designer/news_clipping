@@ -180,7 +180,7 @@ def collect() -> dict:
         if cat.get("subgroups"):  # 회사별 소그룹 섹션 (그룹 동향)
             items = []
             for sg in cat["subgroups"]:
-                sgx = sg.get("exclude", ())
+                sgx = tuple(sg.get("exclude", ())) + tuple(config.SPORTS_EXCLUDE)
                 own = _gather(sg["keywords"], cat_seen, cutoff, badge="자사",
                               extra_exclude=sgx, require_any=sg.get("require_own", ()))
                 ind = _gather(sg.get("industry_keywords", []), cat_seen, cutoff,
