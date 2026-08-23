@@ -166,6 +166,32 @@ def run():
         total = 0
         for cat in config.CATEGORIES:
             arts = cats.get(cat["id"], [])
+            if cat.get("subgroups"):
+                # 계열사 — 회사별 우선순위(자사명 → 핵심 사업어 → 나머지), 각 최신순, 회사별 상한
+                capped = []
+                for sg in cat["subgroups"]:
+                    sg_arts = [a for a in arts if a.get("subgroup") == sg["id"]]
+                    # 계열사 기사엔 회사명이 다 들어있으므로, 핵심 사업어(priority_ind) 유무로 우선순위
+                    p_ind = tuple(sg.get("priority_ind", ()))
+                    def _tier_sg(a, pi=p_ind):
+                        low = (a.get("title", "") + " " + a.get("desc", "")).lower()
+                        if pi and any(t.lower() in low for t in pi): return 0
+                        return 1
+                    sg_arts = sorted(sg_arts, key=lambda a: (_tier_sg(a), -(a["pub"].timestamp() if a.get("pub") else 0)))
+                    capped += sg_arts[:config.ARCHIVE_MAX_PER_COMPANY]
+                arts = capped
+            else:
+                # 산업·자사·경쟁사 — 알뜰폰·MVNO 최우선 → priority_terms → 나머지
+                top = config.TOP_PRIORITY
+                pt = cat.get("priority_terms", ())
+                def _tier(a):
+                    low = (a.get("title", "") + " " + a.get("desc", "")).lower()
+                    if any(t.lower() in low for t in top): return 0
+                    if pt and any(t.lower() in low for t in pt): return 1
+                    return 2
+                arts = sorted(arts, key=lambda a: (_tier(a), -(a["pub"].timestamp() if a.get("pub") else 0)))
+                cap = config.ARCHIVE_MAX_BY_SECTION.get(cat["id"], config.ARCHIVE_MAX_PER_SECTION)
+                arts = arts[:cap]
             sec = {
                 "id": cat["id"], "num": cat["num"], "title": cat["title"],
                 "digest": "", "articles": [_art_json(a) for a in arts],
