@@ -1,0 +1,41 @@
+name: 클리핑 테스트 (본인만 발송)
+
+on:
+  workflow_dispatch:        # 수동 실행 전용 (Actions 탭 → Run workflow)
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    # 주의: 커밋 권한 없음 — 테스트는 대시보드/데이터를 저장소에 남기지 않음
+    steps:
+      - name: 코드 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 클리핑 실행 (본인에게만 발송)
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          REPORT_TO: ${{ secrets.REPORT_TO }}
+          DASHBOARD_URL: "https://wonju-designer.github.io/news_clipping/"
+          TEST_MODE: "1"        # ★ 전체 수신자 무시, 발신 계정(본인)에게만 발송
+        run: python main.py
+
+      - name: 프리뷰 아티팩트 업로드
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test_report_preview
+          path: report_preview.html
+          if-no-files-found: ignore
