@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:49 소급 정리",
+  "generated_at": "2026-08-23 11:11 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -144,23 +144,23 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "LG유플러스, 공유기서 AI 돌린다…인터넷 품질 스스로 관리",
-          "summary": "LG유플러스는 와이파이 8(Wi‑Fi 8) 플랫폼을 활용한 홈 네트워크 자동 복구(Self-Healing) 기술을 실증했다고 9일 밝혔다. LG유플러스는 클라우드 서버가 아닌 가정용 공유기에서 AI가 네트워크 상태를…",
-          "press": "dailian.co.kr",
-          "date": "2026-08-09",
-          "datetime": "2026-08-09 09:00",
-          "link": "https://n.news.naver.com/mnews/article/119/0003119719?sid=105",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "공유기 속 '엣지 AI' 가동…LG유플러스, 지능형 홈 네트워크 검증 성공",
           "summary": "8(Wi-Fi 8) 플랫폼을 활용해 네트워크 스스로 상태를 원상 복구하는 자가 치유(Self-Healing) 기술 실증에 성공했다고 7일 밝혔다. LG유플러스는 중앙 클라우드 서버에 의존하지 않고 가정에 설치된 공유…",
           "press": "pointe.co.kr",
           "date": "2026-08-09",
           "datetime": "2026-08-09 09:00",
           "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82952",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LG유플러스, 공유기서 AI 돌린다…인터넷 품질 스스로 관리",
+          "summary": "LG유플러스는 와이파이 8(Wi‑Fi 8) 플랫폼을 활용한 홈 네트워크 자동 복구(Self-Healing) 기술을 실증했다고 9일 밝혔다. LG유플러스는 클라우드 서버가 아닌 가정용 공유기에서 AI가 네트워크 상태를…",
+          "press": "dailian.co.kr",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 09:00",
+          "link": "https://n.news.naver.com/mnews/article/119/0003119719?sid=105",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"

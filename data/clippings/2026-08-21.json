@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:49 소급 정리",
+  "generated_at": "2026-08-23 11:11 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -440,23 +440,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "카운터포인트리서치 \"올해 글로벌 스마트폰 출하량 14%↓...삼성 선두 복...",
-          "summary": "카운트포인트리서치 양 왕 수석연구원은 \"삼성의 스마트폰 1위 복귀는 내부 부품 생산 역량, 폭넓은 제품 포트폴리오, 그리고 이동통신사 및 유통업체와 구축한 탄탄한 관계 덕분\"이라고 설명했다. 실제 삼성전자는 이달..…",
-          "press": "livebiz.today",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 15:30",
-          "link": "https://www.livebiz.today/news/articleView.html?idxno=204317",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "'데이터 오류율 0.001%' LG전자, 5G 텔레매틱스 선점 나선다",
           "summary": "LG전자는 최근 5G 이동 통신 고도화 규격인 릴리스16(R16)을 기반으로 한 스마트 텔레매틱스 솔루션의 양산에 들어가 유럽 프리미엄 완성차 업체에 공급을 시작했다고 밝혔다. LG전자의 R16 기반 통합형 텔레매틱…",
           "press": "autodaily.co.kr",
           "date": "2026-08-21",
           "datetime": "2026-08-21 15:30",
           "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546783",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "카운터포인트리서치 \"올해 글로벌 스마트폰 출하량 14%↓...삼성 선두 복...",
+          "summary": "카운트포인트리서치 양 왕 수석연구원은 \"삼성의 스마트폰 1위 복귀는 내부 부품 생산 역량, 폭넓은 제품 포트폴리오, 그리고 이동통신사 및 유통업체와 구축한 탄탄한 관계 덕분\"이라고 설명했다. 실제 삼성전자는 이달..…",
+          "press": "livebiz.today",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 15:30",
+          "link": "https://www.livebiz.today/news/articleView.html?idxno=204317",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1155,23 +1155,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "통신망에서 전력·냉각까지… 통신 3사, ‘AI 인프라 종합사업자’로 변...",
-          "summary": "국내 통신 3사가 본업인 이동통신을 넘어 AI데이터센터(AIDC)를 축으로 ‘AI 인프라 종합사업자’로 체질 개선에 나서고 있다. 기존 데이터센터가 서버 공간과 전력을 빌려주는 사업에 가까웠다면, AIDC는 전력..…",
-          "press": "이데일리",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 05:05",
-          "link": "https://n.news.naver.com/mnews/article/018/0006355343?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "1년 새 2배 늘어난 AIDC공사...전력·냉각 숙련공 없어 급제동 위기",
           "summary": "통신 3사 중심 엔지니어 확보전…“진짜 대란은 2~3년 뒤” 국내 주요 ICT 기업들은 이미 인력 확보전에 들어갔다. SK텔레콤은 SK브로드밴드·SK에코플랜트와 신설법인 SK하이퍼를 통해 관련 인재를 채용하고 있다.…",
           "press": "이데일리",
           "date": "2026-08-21",
           "datetime": "2026-08-21 05:05",
           "link": "https://n.news.naver.com/mnews/article/018/0006355342?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신망에서 전력·냉각까지… 통신 3사, ‘AI 인프라 종합사업자’로 변...",
+          "summary": "국내 통신 3사가 본업인 이동통신을 넘어 AI데이터센터(AIDC)를 축으로 ‘AI 인프라 종합사업자’로 체질 개선에 나서고 있다. 기존 데이터센터가 서버 공간과 전력을 빌려주는 사업에 가까웠다면, AIDC는 전력..…",
+          "press": "이데일리",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 05:05",
+          "link": "https://n.news.naver.com/mnews/article/018/0006355343?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1420,23 +1420,23 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "성호전자-ADS테크, 광통신 낙수효과 본격화…장비 수주 확대",
-          "summary": "인공지능(AI) 데이터센터 확장에 따른 광통신 시장의 성장세가 글로벌 주요 기업들의 실적 및 대규모... 1.6T 광모듈 확산과 초고출력 공동 패키징 광학(CPO) 레이저 수요 증가가 호실적을 이끌었다. 코히런트는.…",
-          "press": "블로터",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 09:55",
-          "link": "https://n.news.naver.com/mnews/article/293/0000089351?sid=101",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "[글로벌 마켓노트]中 AI 인프라 투자에 비철금속 '귀하신 몸'",
           "summary": "구리와 알루미늄 등 기초 원자재는 물론 주석, 인듐, 탄탈럼 등 비철금속 수요가 늘면서 관련 기업의... 주석은 칩 회로기판의 납땜과 첨단 패키징에 사용되고, 인듐·게르마늄·갈륨은 광통신과 전원 관리 모듈 등에...",
           "press": "view.asiae.co.kr",
           "date": "2026-08-21",
           "datetime": "2026-08-21 09:55",
           "link": "https://n.news.naver.com/mnews/article/277/0005805650?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "성호전자-ADS테크, 광통신 낙수효과 본격화…장비 수주 확대",
+          "summary": "인공지능(AI) 데이터센터 확장에 따른 광통신 시장의 성장세가 글로벌 주요 기업들의 실적 및 대규모... 1.6T 광모듈 확산과 초고출력 공동 패키징 광학(CPO) 레이저 수요 증가가 호실적을 이끌었다. 코히런트는.…",
+          "press": "블로터",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 09:55",
+          "link": "https://n.news.naver.com/mnews/article/293/0000089351?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -2080,34 +2080,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "[기자수첩] K뷰티는 나는데 K푸드는 기는 이유",
-          "summary": "사진=농심 반면 식품업체들은 K-푸드에 대한 세계적 관심이 뜨거운데도 원가율이 워낙 높은 사업 구조 탓에... K뷰티가 사상 최대 수출 실적으로 글로벌을 달리지만 더 진작부터 끓어오른 K푸드가 속도를 내지 못하는..…",
-          "press": "consumernews.co.kr",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 06:10",
-          "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=761897",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "[로컬&식품] 김천 맛 담은 ‘고추잡채김밥’…‘제주 빙떡’ 밀키트 개...",
           "summary": "김천 맛 담은 ‘고추잡채김밥’ ‘김천김밥축제’로 관광객을 끌어모으는 경북 김천시(시장 배낙호)가... ‘제주 빙떡’ 밀키트 개발 이르면 내년 제주의 향토음식인 ‘빙떡’(사진)이 밀키트(반조리식품) 형태로...",
           "press": "nongmin.com",
           "date": "2026-08-21",
           "datetime": "2026-08-21 05:03",
           "link": "https://n.news.naver.com/mnews/article/662/0000102333?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "식약처, 中 해관총서와 식품안전 협력 문서 체결... \"K-푸드 수출 기반 ...",
-          "summary": "이번 조치로 수출 절차 편의성이 높아져 K-푸드 수출기반이 강화될 것으로 풀이된다. 식약처에 따르면 이날 회원국 세관당국과 정부, 산업계가 참여하는 고위급 협의체인 APEC 세관-기업 대화에서 △중국 수출 식품...",
-          "press": "getnews.co.kr",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 00:18",
-          "link": "https://www.getnews.co.kr/news/articleView.html?idxno=878444",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -2144,5 +2122,5 @@
       ]
     }
   ],
-  "total": 190
+  "total": 188
 }

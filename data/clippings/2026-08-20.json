@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:49 소급 정리",
+  "generated_at": "2026-08-23 11:11 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -1243,23 +1243,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "[위클리오늘] 이동통신 소식_LG유플러스, SK텔레콤(8.20)",
-          "summary": "SK텔레콤은 이날부터 3G 단말과 HD Voice를 지원하지 않는 LTE 단말의 신규 가입과 번호이동, 기기변경을 중단하고 기존 이용자의 LTE·5G 전환을 지원한다. 고객은 단말 교체와 구매 지원, 요금 할인 등 …",
-          "press": "weeklytoday.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 10:28",
-          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=790922",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 3G 신규 가입 서비스 중단한다...2G 이어 역사 속으로",
           "summary": "중단되는 서비스는 ▲3G 단말 ▲HD Voice 미지원 LTE 단말로의 신규 가입, 번호 이동, 기기 변경(유심기변 포함) 등이다. SKT는 추후 과학기술정보통신부에 종료 승인을 신청하고 단계적으로 서비스 종료를 추…",
           "press": "insightkorea.co.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 10:28",
           "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=252790",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 이동통신 소식_LG유플러스, SK텔레콤(8.20)",
+          "summary": "SK텔레콤은 이날부터 3G 단말과 HD Voice를 지원하지 않는 LTE 단말의 신규 가입과 번호이동, 기기변경을 중단하고 기존 이용자의 LTE·5G 전환을 지원한다. 고객은 단말 교체와 구매 지원, 요금 할인 등 …",
+          "press": "weeklytoday.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 10:28",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=790922",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1595,23 +1595,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 3G 신규 가입 중단…“점진적 서비스 종료 추진”",
-          "summary": "SKT는 고령 고객의 요금 부담을 낮추기 위해, 3G 가입 고객(만 65세 이상)이 LTE·5G로 전환하는 경우 기존 ‘뉴실버요금제(월 9900원)’에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으…",
-          "press": "ceoscoredaily.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 09:40",
-          "link": "https://www.ceoscoredaily.com/page/view/2026082009390562235",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 3G 서비스 신규 가입 중단…서비스 종료 추진",
           "summary": "전환 이후 다른 요금제로 변경하지 않는다면 해당 요금제를 계속 이용할 수 있다. SKT는 3G 가입자들이 서비스 종료와 지원 내용을 놓치지 않도록 문자메시지(MMS), T월드 홈페이지와 앱, 우편·이메일 요금 안내서…",
           "press": "ezyeconomy.com",
           "date": "2026-08-20",
           "datetime": "2026-08-20 09:40",
           "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=238877",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 신규 가입 중단…“점진적 서비스 종료 추진”",
+          "summary": "SKT는 고령 고객의 요금 부담을 낮추기 위해, 3G 가입 고객(만 65세 이상)이 LTE·5G로 전환하는 경우 기존 ‘뉴실버요금제(월 9900원)’에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으…",
+          "press": "ceoscoredaily.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:40",
+          "link": "https://www.ceoscoredaily.com/page/view/2026082009390562235",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1749,17 +1749,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 3G 서비스 신규 가입 중단…고객 LTE·5G 전환 지원",
-          "summary": "SKT는 고령 고객의 요금 부담을 낮추기 위해, 3G 가입 고객(만 65세 이상)이 LTE·5G로 전환하는 경우 기존 ‘뉴실버요금제(월 9900원)’에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으…",
-          "press": "etoday.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 09:20",
-          "link": "https://www.etoday.co.kr/news/view/2616240",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 3G 서비스 '신규 가입 중단'...23년 만에 종료 추진",
           "summary": "SKT가 2003년부터 시작한 3G 서비스 종료를 위해 신규 가입을 중단하고, 서비스 전환 지원 프로그램을... 또 24개월간 가입 요금제 월정액의 최대 70%, 총 최대 70만원을 할인받는 방안도 선택할 수 있다.…",
           "press": "moneystorm.kr",
@@ -1771,12 +1760,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 23년만에 3G 서비스 종료 수순…\"LTE·5G 전환 지원\"",
-          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다. 또, 선택하는 프로그램에... 기존 '뉴실버요금제(월 9900원)'에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으…",
-          "press": "newsway.co.kr",
+          "title": "SKT, 3G 서비스 신규 가입 중단…고객 LTE·5G 전환 지원",
+          "summary": "SKT는 고령 고객의 요금 부담을 낮추기 위해, 3G 가입 고객(만 65세 이상)이 LTE·5G로 전환하는 경우 기존 ‘뉴실버요금제(월 9900원)’에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으…",
+          "press": "etoday.co.kr",
           "date": "2026-08-20",
-          "datetime": "2026-08-20 09:18",
-          "link": "https://www.newsway.co.kr/news/view?ud=2026082008491714076",
+          "datetime": "2026-08-20 09:20",
+          "link": "https://www.etoday.co.kr/news/view/2616240",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1793,6 +1782,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "SKT, 23년만에 3G 서비스 종료 수순…\"LTE·5G 전환 지원\"",
+          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다. 또, 선택하는 프로그램에... 기존 '뉴실버요금제(월 9900원)'에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으…",
+          "press": "newsway.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:18",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026082008491714076",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "SK하이닉스·SKT, 차세대 AI 인프라 'CPO' 네이처 일렉트로닉스에 게재·...",
           "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다. 또 선택하는 프로그램에... 기존 '뉴실버요금제(월 9900원)'에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으면…",
           "press": "wsobi.com",
@@ -1804,23 +1804,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 3G 서비스 점진적 종료 추진…신규 가입 중단 결정",
-          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다. 선택하는 프로그램에 관계없이... 서비스 전환 지원을 원하는 고객은 전국 T월드 매장, SKT 고객센터, 공식 온라인몰 'T 다이렉트…",
-          "press": "newsquest.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 09:16",
-          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272057",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"굿바이 3G\" SKT, 3G 서비스 신규 가입 중단…LTE·5G 전환 지원",
           "summary": "SKT는 만 65세 이상 3G 가입 고객이 LTE·5G로 전환하는 경우 기존 '뉴실버요금제(월 9,900원)'에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으면 해당 요금제를 계속 이용할 수 있다.…",
           "press": "itdaily.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 09:16",
           "link": "https://www.itdaily.kr/news/articleView.html?idxno=241090",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 점진적 종료 추진…신규 가입 중단 결정",
+          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다. 선택하는 프로그램에 관계없이... 서비스 전환 지원을 원하는 고객은 전국 T월드 매장, SKT 고객센터, 공식 온라인몰 'T 다이렉트…",
+          "press": "newsquest.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:16",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272057",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -2398,67 +2398,12 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "미국 치맥축제서 K-푸드 매력…소스·스낵·웰니스 선봬",
-          "summary": "전기찬 aT 수출식품이사는 \"한국의 대중적인 외식문화인 '치맥'을 통해 현지 소비자들에게 다양한 한국식품을 자연스럽게 소개할 수 있었다\"며 \"앞으로도 한국 식문화와 연계한 체험형 홍보를 확대해 K-푸드의...",
-          "press": "newsfarm.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 22:26",
-          "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102044",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "홍콩 사로잡은 K-푸드…수출상담 2900만달러",
-          "summary": "단감 수출기업 관계자는 \"정부의 다각적인 노력 덕분에 K-단감이 수출시장을 효과적으로 확대할 수 있게 되었다.\"라며 \"이번 상담회를 통해 인연을 맺은 중화권 바이어와 실질적인 수출 성과를 이뤄낼 수 있도록...",
-          "press": "newsfarm.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 22:26",
-          "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102043",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "[이슈포커스] 폭염에 홍수까지…'기후플레이션'에 널뛰는 장바구니 물가",
           "summary": "쌀과 달걀의 할인폭을 확대하고 기존 명절 기간을 중심으로 발행하던 전통시장 농할상품권도 7월부터 매월 200억원 규모로 발행하기로 했다. 8월에는 식품기업들과 함께 라면과 즉석밥, 국수, 냉동식품, 두부, 김치...",
           "press": "sisacast.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 21:54",
           "link": "http://www.sisacast.kr/news/articleView.html?idxno=99000",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "K-푸드, 홍콩을 사로잡다…'이너뷰티'부터 1분 김치까지",
-          "summary": "신선 농산물 수출 확대를 위한 'K-프레시 존'도 마련됐다. 포도와 복숭아, 토마토 등 다양한 과채류를 선보였으며, 최근 중국 본토와 검역 협상이 타결된 한국산 단감은 별도 특별관을 통해 집중 홍보했다. 박람회...",
-          "press": "dongponews.net",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 21:42",
-          "link": "https://www.dongponews.net/news/articleView.html?idxno=59974",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "농협, K-인삼 미국 넘어 세계 대표 K-푸드로 키운다",
-          "summary": "대표적인 K-푸드로 도약할 수 있도록 모든 지원을 아끼지 않겠다”고 말했다. 농협은 앞으로도 해외 소비자들이 한국 인삼을 보다 친숙하게 접할 수 있도록 다양한 글로벌 마케팅을 추진하고, 인삼의 수출시장 확대와...",
-          "press": "fntimes.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 20:02",
-          "link": "https://www.fntimes.com/html/view.php?ud=202608201959166743dd55077bc2_18",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "\"농협 유치해야 전북 농생명산업 혁신\"",
-          "summary": "K-푸드 수출 생태계 조성에 대한 관심도 주문했다. 촘촘한 농협 유통망과 물류망을 농가의 계약재배, 식품가공 거점인 익산 국가식품클러스터, 무역항인 새만금 신항과 연계하자는 안이다. 여기에 산업육성형 농생명...",
-          "press": "sjbnews.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 19:48",
-          "link": "https://sjbnews.com/news/news.php?number=885716",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -2616,5 +2561,5 @@
       ]
     }
   ],
-  "total": 233
+  "total": 228
 }

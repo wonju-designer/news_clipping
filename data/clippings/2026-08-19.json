@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:49 소급 정리",
+  "generated_at": "2026-08-23 11:11 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -1243,23 +1243,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, '모두의AI' 사업 참여…서비스·모델·인프라 역량 결집",
-          "summary": "이는 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외한 수치로, 과학기술정보통신부의 무선통신서비스 가입 현황을 기준으로 했다. SKT는 약 2250만 회선과 온·오프라인 고객 접점을 활용해 AI 서비스의 접근성을 높인…",
-          "press": "businessplus.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:34",
-          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115619",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 정부 '모두의AI' 사업 도전…2250만 통신 회선 기반 AI 대중화 나선...",
           "summary": "과기정통부의 2026년 6월 무선통신서비스 가입 현황을 기준으로 IoT와 알뜰폰(MVNO)을 제외한 SKT 이동통신 회선은 2249만8579개다. SKT는 약 2250만 회선과 온·오프라인 채널을 활용해 AI 서비스…",
           "press": "eroun.net",
           "date": "2026-08-19",
           "datetime": "2026-08-19 09:34",
           "link": "https://www.eroun.net/news/articleView.html?idxno=87821",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, '모두의AI' 사업 참여…서비스·모델·인프라 역량 결집",
+          "summary": "이는 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외한 수치로, 과학기술정보통신부의 무선통신서비스 가입 현황을 기준으로 했다. SKT는 약 2250만 회선과 온·오프라인 고객 접점을 활용해 AI 서비스의 접근성을 높인…",
+          "press": "businessplus.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 09:34",
+          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115619",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1541,23 +1541,23 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "에이텀, 사업목적 추가…EV 전장·AI 전력 전문기업 도약",
-          "summary": "전원공급장치(SMPS) ▲전력전자부품·제어 소프트웨어(S/W) 등 12개 첨단 사업군으로 세분화·구체화했다.... Center) 시장 진입에 나설 계획이다. 회사는 이번에 인증을 획득한 서버 제품군을 공공기관 및 기…",
-          "press": "widedaily.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 15:02",
-          "link": "https://www.widedaily.com/news/articleView.html?idxno=299654",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "에이텀, EV 전장·AI 데이터센터 전력으로 사업 확장…정관 대폭 손질",
           "summary": "전원공급장치(SMPS) ▲전력전자부품 등 12개 첨단 사업군으로 구체화했다. 특히 제어기술 및 소프트웨어(S/W)... 회사는 이를 바탕으로 조달청 나라장터 등록을 추진하고 공공 데이터센터와 엣지 데이터센터 시장에 …",
           "press": "view.asiae.co.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 15:02",
           "link": "https://n.news.naver.com/mnews/article/277/0005804737?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, 사업목적 추가…EV 전장·AI 전력 전문기업 도약",
+          "summary": "전원공급장치(SMPS) ▲전력전자부품·제어 소프트웨어(S/W) 등 12개 첨단 사업군으로 세분화·구체화했다.... Center) 시장 진입에 나설 계획이다. 회사는 이번에 인증을 획득한 서버 제품군을 공공기관 및 기…",
+          "press": "widedaily.com",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 15:02",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=299654",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"

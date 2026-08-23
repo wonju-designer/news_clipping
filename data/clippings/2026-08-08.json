@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:49 소급 정리",
+  "generated_at": "2026-08-23 11:11 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -141,17 +141,6 @@
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "'아이코스'에 도전장…日 JT, '플룸' 궐련형 전자담배 7조 투자",
-          "summary": "JT 식품 자회사 테이블마크(TableMark)는 지난달 냉동 우동 밀키트를 미국에서 출시하며 북미 시장 공략에 나섰다. 면과 재료, 국물 구성품을 한 세트로 담은 제품으로, 북미는 JT가 식품 부문 핵심 성장 시장…",
-          "press": "theguru.co.kr",
-          "date": "2026-08-08",
-          "datetime": "2026-08-08 06:32",
-          "link": "https://www.theguru.co.kr/news/article.html?no=105450",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
@@ -174,5 +163,5 @@
       ]
     }
   ],
-  "total": 11
+  "total": 10
 }

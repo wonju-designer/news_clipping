@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:49 소급 정리",
+  "generated_at": "2026-08-23 11:11 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -462,23 +462,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "'6000원에 즐기는 디자인 축제'…DDP디자인페어 티켓 18일 오픈",
-          "summary": "핀카와 MNO, 퀘스처너스, 풀밭 등 서울디자인재단이 운영하는 서울디자인창업센터 출신 브랜드와 DDP디자인스토어 입점 브랜드도 참여한다. 대학생 디자이너와 기업을 연결하는 '영디자이너 특별관'도 운영한다....",
-          "press": "뉴스1",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 06:00",
-          "link": "https://n.news.naver.com/mnews/article/421/0009117864?sid=102",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "2026 DDP 디자인페어 '슈퍼얼리버드' 티켓 판매 시작",
           "summary": "핀카, MNO, 퀘스처너스, 풀밭 등 서울디자인재단이 운영하는 '서울디자인창업센터' 출신 브랜드와 'DDP 디자인스토어' 브랜드도 참여한다. DDP 디자인페어는 10월 14∼25일 DDP와 서울 곳곳에서 개최되는 디…",
           "press": "연합뉴스",
           "date": "2026-08-18",
           "datetime": "2026-08-18 06:00",
           "link": "https://n.news.naver.com/mnews/article/001/0016255241?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'6000원에 즐기는 디자인 축제'…DDP디자인페어 티켓 18일 오픈",
+          "summary": "핀카와 MNO, 퀘스처너스, 풀밭 등 서울디자인재단이 운영하는 서울디자인창업센터 출신 브랜드와 DDP디자인스토어 입점 브랜드도 참여한다. 대학생 디자이너와 기업을 연결하는 '영디자이너 특별관'도 운영한다....",
+          "press": "뉴스1",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 06:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009117864?sid=102",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -827,23 +827,23 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "한미반도체, 인천에 최대 규모 신공장 확보…총 1300억 투자",
-          "summary": "한미반도체는 18일 이사회를 통해 통신기기 제조사 머큐리로부터 인천 주안국가산업단지 토지 면적 2만582.1제곱미터(6226평)과 건물 면적 2만5694.3제곱미터(7772.5평) 규모의 공장을 매입해 신공장(8공장…",
-          "press": "ceoscoredaily.com",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 15:22",
-          "link": "https://www.ceoscoredaily.com/page/view/2026081815153741254",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "한미반도체, 인천에 역대 최대 규모 8공장 구축… “AI 장비 쇼티지 대...",
           "summary": "한미반도체는 ㈜머큐리로부터 인천 주안국가산업단지에 위치한 토지면적 2만595㎡ 규모의 공장을 매입해 8공장으로 구축한다고 18일 밝혔다. 이는 한미반도체가 보유한 공장 중에서 역대 최대 면적이다. 8공장에는...",
           "press": "dnews.co.kr",
           "date": "2026-08-18",
           "datetime": "2026-08-18 15:22",
           "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608181511088240370",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, 인천에 최대 규모 신공장 확보…총 1300억 투자",
+          "summary": "한미반도체는 18일 이사회를 통해 통신기기 제조사 머큐리로부터 인천 주안국가산업단지 토지 면적 2만582.1제곱미터(6226평)과 건물 면적 2만5694.3제곱미터(7772.5평) 규모의 공장을 매입해 신공장(8공장…",
+          "press": "ceoscoredaily.com",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 15:22",
+          "link": "https://www.ceoscoredaily.com/page/view/2026081815153741254",
           "badge": "자사",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -915,23 +915,23 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "한미반도체 1300억 들여 신규 공장…\"장비 공급 부족 대응\"",
-          "summary": "한미반도체는 통신기기 제조사 머큐리로부터 인천 주안국가산업단지의 토지 면적 6천230평(2만582.1㎡), 건물 면적 7천770평(2만5천694.3㎡) 규모의 공장을 매입해 신공장(8공장)으로 구축한다고 오늘(18일…",
-          "press": "biz.sbs.co.kr",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 14:40",
-          "link": "https://n.news.naver.com/mnews/article/374/0000527966?sid=101",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "한미반도체, 6230평 역대 최대 8공장 구축…1300억원 투자",
           "summary": "한미반도체는 인천 주안국가산업단지에 있는 6230평 규모 공장을 머큐리로부터 매입해 8공장으로 구축한다고 18일 밝혔다. 한미반도체가 보유한 공장 가운데 가장 큰 규모다. 8공장에는 공장 매입비 560억원을 포함해.…",
           "press": "kukinews.com",
           "date": "2026-08-18",
           "datetime": "2026-08-18 14:40",
           "link": "https://www.kukinews.com/article/view/kuk202608180120",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체 1300억 들여 신규 공장…\"장비 공급 부족 대응\"",
+          "summary": "한미반도체는 통신기기 제조사 머큐리로부터 인천 주안국가산업단지의 토지 면적 6천230평(2만582.1㎡), 건물 면적 7천770평(2만5천694.3㎡) 규모의 공장을 매입해 신공장(8공장)으로 구축한다고 오늘(18일…",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 14:40",
+          "link": "https://n.news.naver.com/mnews/article/374/0000527966?sid=101",
           "badge": "자사",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -1388,23 +1388,23 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "“수산물 시세 잡는다”…AI로 가격 예측·수급 이상 체크",
-          "summary": "캐디·비서·학습도우미로…특화시장 노리는 K스마트글라스 - 핵심 요약: 국내 스마트글라스 중소업체들이... 보고서에 따르면 AI용 광케이블 수요는 지난해 77% 성장한 데 이어 2029년까지 연평균 26% 성장할 것으…",
-          "press": "서울경제",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 10:55",
-          "link": "https://n.news.naver.com/mnews/article/011/0004652568?sid=101",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "2000억달러 대미투자 협상 난항…관세 리스크 커지나",
           "summary": "일본의 정부 부채 비율은 국내총생산(GDP)의 260%를 웃돌아 세계 최고 수준이며, 17일 일본 채권시장에서... 광케이블 수요는 지난해 77% 성장한 데 이어 2029년까지 연평균 26% 성장할 것으로 전망됐다.…",
           "press": "서울경제",
           "date": "2026-08-18",
           "datetime": "2026-08-18 10:55",
           "link": "https://n.news.naver.com/mnews/article/011/0004652571?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "“수산물 시세 잡는다”…AI로 가격 예측·수급 이상 체크",
+          "summary": "캐디·비서·학습도우미로…특화시장 노리는 K스마트글라스 - 핵심 요약: 국내 스마트글라스 중소업체들이... 보고서에 따르면 AI용 광케이블 수요는 지난해 77% 성장한 데 이어 2029년까지 연평균 26% 성장할 것으…",
+          "press": "서울경제",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 10:55",
+          "link": "https://n.news.naver.com/mnews/article/011/0004652568?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -2323,23 +2323,23 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "백종원, 캐나다서 글로벌 외식사업 본격화…TBK 소스 유통망 확대·현지...",
-          "summary": "외식 브랜드 출점에 그치지 않고 소스 현지 생산과 유통망 확보, 가정간편식(HMR) 공동개발까지 사업 영역을 넓히며 해외 시장 공략을 본격화하는 모습이다. 더본코리아는 백종원 대표가 지난 2일부터 진행 중인 북미..…",
-          "press": "megaeconomy.co.kr",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 08:56",
-          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596095854098",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "더본코리아, 썬레이그룹과 맞손…\"북미 사업 확대\"",
           "summary": "더본코리아가 북미 사업을 공략하며 해외 시장에서 입지를 넓혀가고 있습니다. 더본코리아는 지난 2일부터... 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진하고 있습니다. 더본코리아 관계자는 \"브랜드와 제품.…",
           "press": "biz.sbs.co.kr",
           "date": "2026-08-18",
           "datetime": "2026-08-18 08:56",
           "link": "https://n.news.naver.com/mnews/article/374/0000527872?sid=103",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "백종원, 캐나다서 글로벌 외식사업 본격화…TBK 소스 유통망 확대·현지...",
+          "summary": "외식 브랜드 출점에 그치지 않고 소스 현지 생산과 유통망 확보, 가정간편식(HMR) 공동개발까지 사업 영역을 넓히며 해외 시장 공략을 본격화하는 모습이다. 더본코리아는 백종원 대표가 지난 2일부터 진행 중인 북미..…",
+          "press": "megaeconomy.co.kr",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 08:56",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596095854098",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"

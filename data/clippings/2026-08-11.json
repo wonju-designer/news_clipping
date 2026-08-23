@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:49 소급 정리",
+  "generated_at": "2026-08-23 11:11 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -793,23 +793,23 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "뉴델리 K-푸드페어 성료…950만달러 MOU",
-          "summary": "국내 수출기업이 팀을 이뤄 문제를 푸는 '한-인도 식품퀴즈'를 진행해 교류를 지원했다. 8월 1일부터 2일까지는 뉴델리 대형 유통매장 앰비언스몰에서 소비자 체험행사가 열렸다. 오픈키친존에서는 떡볶이와 김밥 등...",
-          "press": "newsfarm.co.kr",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 11:30",
-          "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101926",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "호치민 식음료박람회 한국관 성료…수출상담 3538만달러",
           "summary": "농식품부와 aT는 박람회장에 통합한국관을 조성하고 국내 수출기업과 수출협의회 등 26개 업체의 베트남 시장 진출을 지원했다. 한국관에서는 떡볶이와 라면, 유자차, 홍삼·건강식품 등 다양한 K-푸드를 선보였다....",
           "press": "newsfarm.co.kr",
           "date": "2026-08-11",
           "datetime": "2026-08-11 11:30",
           "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101924",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "뉴델리 K-푸드페어 성료…950만달러 MOU",
+          "summary": "국내 수출기업이 팀을 이뤄 문제를 푸는 '한-인도 식품퀴즈'를 진행해 교류를 지원했다. 8월 1일부터 2일까지는 뉴델리 대형 유통매장 앰비언스몰에서 소비자 체험행사가 열렸다. 오픈키친존에서는 떡볶이와 김밥 등...",
+          "press": "newsfarm.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 11:30",
+          "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101926",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"

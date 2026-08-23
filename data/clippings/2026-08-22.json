@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:49 소급 정리",
+  "generated_at": "2026-08-23 11:11 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -748,17 +748,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "미 국방부, 군 기관지 성조지 편집장·발행인 해임",
-          "summary": "AP통신 등이 보도했다. 슬라빈 편집장은 AP통신에 \"CBS와 인터뷰에서 미군의 잠재적 검열에 반대한다는... 행정부, 정책 입안자가 아니라 성조지라고 말한 뒤 항명 혐의를 적용받았다\"고 주장했다. 성조지의 핵심 인…",
-          "press": "연합뉴스",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 09:18",
-          "link": "https://n.news.naver.com/mnews/article/001/0016264681?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "싼 통신요금 찾아온 고객, '최적 요금제' 안내는 왜 못받을까",
           "summary": "알뜰폰(MVNO) 이용 회선이 1000만개를 넘어섰지만 이동통신3사와 달리 정작 가입자가 자신의 이용 패턴에 가장... 시행되지만 알뜰폰은 해당되지 않기 때문이다. 알뜰폰이 가계통신비 부담을 낮추는 이동통신 시장의 …",
           "press": "이뉴스투데이",
@@ -787,17 +776,6 @@
           "date": "2026-08-22",
           "datetime": "2026-08-22 09:00",
           "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=391054",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "美 국채 바이백에 달러 약세 우려…'엔화식 평가절하' 경계",
-          "summary": "21일(현지시간) 블룸버그통신에 따르면 이번주 스콧 베선트 미 재무장관이 장기 국채의 바이백 규모를 최소... 또한 일본의 경우 아베 신조 전 총리가 추진한 경제정책인 '아베노믹스'에 따라 성장을 촉진하기 위해 공격…",
-          "press": "블로터",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 09:00",
-          "link": "https://n.news.naver.com/mnews/article/293/0000089401?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -913,23 +891,23 @@
       "digest": "",
       "articles": [
         {
-          "title": "삼성SDI, 삼성디스플레이 지분 4.45조 매각…\"미래 성장동력 투자 재원 ...",
-          "summary": "전력용 에너지저장장치(ESS)와 무정전 전원장치(UPS) 시장이 가파르게 성장하는 가운데, 삼성SDI는 관련 배터리 공급을 확대하며 존재감을 키우고 있다. 더불어 휴머노이드 로봇, 우주·항공 등 신규 응용 분야에서도…",
-          "press": "newsroad.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 07:00",
-          "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63215",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "[삼성SDI 대전환③] 전고체 조기 등판… '꿈의 배터리'로 미래 주도",
           "summary": "회사는 올 하반기 중 휴머노이드용 샘플을 공급하고 고객사 검증을 거쳐 양산 준비에 들어갈 계획이다. 차세대 라인업은 전고체에 그치지 않는다. 삼성SDI는 무정전 전원장치(UPS) 및 전력용 에너지저장장치(ESS)를.…",
           "press": "the-biz.co.kr",
           "date": "2026-08-22",
           "datetime": "2026-08-22 07:00",
           "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726558",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "삼성SDI, 삼성디스플레이 지분 4.45조 매각…\"미래 성장동력 투자 재원 ...",
+          "summary": "전력용 에너지저장장치(ESS)와 무정전 전원장치(UPS) 시장이 가파르게 성장하는 가운데, 삼성SDI는 관련 배터리 공급을 확대하며 존재감을 키우고 있다. 더불어 휴머노이드 로봇, 우주·항공 등 신규 응용 분야에서도…",
+          "press": "newsroad.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 07:00",
+          "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63215",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
@@ -1098,5 +1076,5 @@
       ]
     }
   ],
-  "total": 95
+  "total": 93
 }
