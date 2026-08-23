@@ -213,7 +213,7 @@ def build_html(collected_display: dict, top: list, total: int, digests: dict = N
             f'style="display:inline-block;margin-top:12px;padding:8px 16px;'
             f'background:rgba(255,255,255,0.15);border:1px solid rgba(255,255,255,0.35);'
             f'border-radius:8px;color:#ffffff;font-size:13px;font-weight:600;'
-            f'text-decoration:none;">📋 지난 소식 보기 (대시보드)</a>'
+            f'text-decoration:none;">📋 지난소식보기</a>'
         )
 
     header = (
