@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:50 소급 정리",
+  "generated_at": "2026-08-23 12:16 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -22,17 +22,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "SK텔레콤, 23년 만에 3G 종료···KT도 종료 예정",
-          "summary": "이 중 SK텔레콤 가입자가 13만4413명으로 가장 많으며, KT는 5만8948명, 알뜰폰(MVNO)은 13만4763명이다. SK텔레콤은 3G 가입자들의 원활한 세대 전환을 위해 지원 프로그램을 가동한다. 대상 고객…",
-          "press": "sisajournal-e.com",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 09:00",
-          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423225",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "여행객 e심 사용 급증… 통신사 알짜 로밍 매출에 ‘빨간불’",
           "summary": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. FDM CCS에 따르면 기존 이동통신사들은 전체 매출의 3~5%를 로밍 서비스에서…",
           "press": "조선일보",
@@ -44,34 +33,23 @@
           "subgroup_label": ""
         },
         {
+          "title": "SK텔레콤, 23년 만에 3G 종료···KT도 종료 예정",
+          "summary": "이 중 SK텔레콤 가입자가 13만4413명으로 가장 많으며, KT는 5만8948명, 알뜰폰(MVNO)은 13만4763명이다. SK텔레콤은 3G 가입자들의 원활한 세대 전환을 위해 지원 프로그램을 가동한다. 대상 고객…",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423225",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "머스크 8조 베팅하나…위성-스마트폰 연결 시대 온다 [김기혁의 테슬라...",
-          "summary": "블룸버그통신은 21일 “스페이스X와 AST 스페이스모바일이 미국 투자회사 그레인 매니지먼트가 보유한 800... 물론 실제 서비스 이용 단가와 대규모 설비 구축 비용 등을 고려하면 스타링크가 기존 이동통신망을 대체하…",
+          "summary": "그동안 스타링크 이동통신 사업은 기존 통신사의 보완재 역할에 그쳤습니다. 미국에서는 T모바일, AT&T 등 이동통신사가 보유한 주파수를 활용해 일반 스마트폰을 위성과 직접 연결하고 지상 기지국이 닿지 않는...",
           "press": "서울경제",
           "date": "2026-08-22",
           "datetime": "2026-08-22 20:01",
           "link": "https://n.news.naver.com/mnews/article/011/0004654146?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "자동차 안드로이드 업데이트 악용…광고 사기·프록시 봇넷에 악용",
-          "summary": "SIM 카드나 이동통신 기능을 갖춘 차량용 헤드유닛이 사이버범죄자들에게 새로운 봇넷 자원으로 활용될 수 있다는 의미다. 배드박스 공격 조직과 연계 카스퍼스키는 이번 공격을 높은 신뢰도로 '모유 그룹'과 연결했다...…",
-          "press": "dailysecu.com",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 16:42",
-          "link": "https://www.dailysecu.com/news/articleView.html?idxno=208148",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "화웨이, 모바일 AI 시대 겨냥 '싱글랜 22.1' 출시…AI 에이전트 네트워크...",
-          "summary": "화웨이 무선 네트워크 솔루션 부문 허윈루 부사장의 발표 모습(사진:화웨이) 화웨이가 인공지능(AI) 에이전트 확산에 대응하기 위한 차세대 이동통신 네트워크 소프트웨어를 공개했다. 화웨이(Huawei)는 지난 20일.…",
-          "press": "aitimes.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 16:10",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41555",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -94,6 +72,39 @@
           "date": "2026-08-22",
           "datetime": "2026-08-22 12:40",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214245",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[아프리카인물열전] (34)통신 재벌에서 자선가로…수단 모 이브라힘",
+          "summary": "이동통신 사업으로 일군 富를 아프리카 거버넌스 개혁 위해 투자 '모 이브라힘 상' 제정…모범적 지도자 육성과 리더십 혁신 도모 아프리카 수단 출신의 영국 기업가이자 자선가인 모 이브라힘은 아프리카에서 돈을 버는...",
+          "press": "연합뉴스",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 08:00",
+          "link": "https://n.news.naver.com/mnews/article/001/0016264642?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "자동차 안드로이드 업데이트 악용…광고 사기·프록시 봇넷에 악용",
+          "summary": "SIM 카드나 이동통신 기능을 갖춘 차량용 헤드유닛이 사이버범죄자들에게 새로운 봇넷 자원으로 활용될 수 있다는 의미다. 배드박스 공격 조직과 연계 카스퍼스키는 이번 공격을 높은 신뢰도로 '모유 그룹'과 연결했다...…",
+          "press": "dailysecu.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 16:42",
+          "link": "https://www.dailysecu.com/news/articleView.html?idxno=208148",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "화웨이, 모바일 AI 시대 겨냥 '싱글랜 22.1' 출시…AI 에이전트 네트워크...",
+          "summary": "화웨이 무선 네트워크 솔루션 부문 허윈루 부사장의 발표 모습(사진:화웨이) 화웨이가 인공지능(AI) 에이전트 확산에 대응하기 위한 차세대 이동통신 네트워크 소프트웨어를 공개했다. 화웨이(Huawei)는 지난 20일.…",
+          "press": "aitimes.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 16:10",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41555",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -143,23 +154,78 @@
           "subgroup_label": ""
         },
         {
-          "title": "[아프리카인물열전] (34)통신 재벌에서 자선가로…수단 모 이브라힘",
-          "summary": "이동통신 사업으로 일군 富를 아프리카 거버넌스 개혁 위해 투자 '모 이브라힘 상' 제정…모범적 지도자 육성과 리더십 혁신 도모 아프리카 수단 출신의 영국 기업가이자 자선가인 모 이브라힘은 아프리카에서 돈을 버는...",
-          "press": "연합뉴스",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 08:00",
-          "link": "https://n.news.naver.com/mnews/article/001/0016264642?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "일론 머스크의 스페이스X, 정부 계약 대거 수주…국가 안보 사업 핵심 ...",
           "summary": "또한, 연방통신위원회(FCC)는 지난 5월 스페이스X의 위성 휴대전화 연결용 주파수 사용권 구매를 승인하고, 전국 이동통신 서비스 유지 의무 등 일부 요건을 면제했다. FCC는 이 같은 조치가 스페이스X의 네트워크 …",
           "press": "cbci.co.kr",
           "date": "2026-08-22",
           "datetime": "2026-08-22 07:00",
           "link": "https://www.cbci.co.kr/news/articleView.html?idxno=599939",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이탈리아로 입국한 유럽 난민 신청자, 다시 이탈리아로",
+          "summary": "22일(현지시간) 유로뉴스와 현지 안사통신 등에 따르면 독일, 스위스, 핀란드, 스웨덴, 네덜란드 등이 최근... 이탈리아 야권에서는 이탈리아로 난민 신청자 이송이 시작되자 유럽과 정책 연대를 통해 추가 부담 경감.…",
+          "press": "연합뉴스",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 19:11",
+          "link": "https://n.news.naver.com/mnews/article/001/0016264915?sid=104",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“K-팝 가수 사랑, 돈으로 증명하라?!”…팬덤 줄 세우는 ‘패노메논’...",
+          "summary": "PC통신과 팬카페는 같은 가수를 좋아하는 사람들을 전국적으로 한데 모았고, 유튜브와 SNS는 국경 밖으로... 연계하는 정책이 시급하다“며 ”올림픽 금메달 따듯 단기 실적에 집착하는 20세기적 사고에서 벗어나 기초 …",
+          "press": "헤럴드경제",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 17:01",
+          "link": "https://n.news.naver.com/mnews/article/016/0002687021?sid=103",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'범정부 AIDC 추진단' 만든다...메가프로젝트 R&D사업 전담",
+          "summary": "22일 정부에 따르면 과학기술정보통신부와 정보통신기획평가원(IITP)은 'AIDC 국가전략산업 초격차 추진을... 과기정통부 관계자는 “올해는 당장 확보된 예산이 없기 때문에 정책연구 차원에서 검토하는 단계”라며..…",
+          "press": "전자신문",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 17:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459417?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이에이, AI용 모듈형 데이터센터 ‘네오큐브’ 공개…OCP 규격 개정 제...",
+          "summary": "그는 MDC의 냉각 방식과 전력 용량뿐 아니라 설비 효율을 측정하는 지표, 전력을 변환·배분하는 방식도... 전력반도체와 전력모듈, 클라우드 소프트웨어를 보유한 그룹사 역량도 네오큐브 사업에 결합한다. 그룹사...",
+          "press": "디지털데일리",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 14:56",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238625?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[VC's Pick]\"데이터 바로 연산\"…AI 반도체 투자 유치",
+          "summary": "기존 폴리머 가공 공정에 별도의 추가 설비 없이 적용할 수 있는 마스터 배치로 그래핀 도입 부담을 낮추고... 기술을 보유하고 있다는 점에 주목했다. 또 승용차와 상용차를 넘어 목적기반차량(PBV), 로봇·무인 이동…",
+          "press": "이데일리",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 11:10",
+          "link": "https://n.news.naver.com/mnews/article/018/0006356071?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "키신저와 반백년 해로한 부인 낸시, 92세 일기로 별세",
+          "summary": "21일(현지시간) AP 통신에 따르면 낸시는 코네티컷주(州) 켄트에 있는 자택에서 전날(20일) 숨을 거뒀다.... 당시 유족의 초청을 받은 정몽준 아산정책연구원 명예이사장이 행사에 참석해 키신저의 타계를 애도하고.…",
+          "press": "세계일보",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 11:06",
+          "link": "https://n.news.naver.com/mnews/article/022/0004152764?sid=104",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -187,56 +253,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "이탈리아로 입국한 유럽 난민 신청자, 다시 이탈리아로",
-          "summary": "22일(현지시간) 유로뉴스와 현지 안사통신 등에 따르면 독일, 스위스, 핀란드, 스웨덴, 네덜란드 등이 최근... 이탈리아 야권에서는 이탈리아로 난민 신청자 이송이 시작되자 유럽과 정책 연대를 통해 추가 부담 경감.…",
-          "press": "연합뉴스",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 19:11",
-          "link": "https://n.news.naver.com/mnews/article/001/0016264915?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "송파구약 \"정부 약 배송 전면 확대 반대…검증 먼저\"",
           "summary": "현행 지침의 본인확인 의무와 개정 의료법의 명의도용 금지 규정만으로 이 세 단계의 동일성 또는 적법한 대리관계를 확인하기는 어렵다. 처방·조제·복약지도·운송·수령의 전 과정을 추적하고 기록할 수 있는 실효적...",
           "press": "dailypharm.com",
           "date": "2026-08-22",
           "datetime": "2026-08-22 18:16",
           "link": "https://www.dailypharm.com/user/news/341696?REFERER=NP",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"대가 치를 수도\"…美 재무부 국채 개입에 월가 경고",
-          "summary": "21일(현지시간) 블룸버그 통신 등에 따르면 미 재무부가 지난 19일 장기물 국채 바이백(재매입) 규모를 최소 두... 실제로 정책 불확실성이 커지면서 일부 투자은행(IB)들은 달러 전망을 하향 조정하고 있다. 씨티…",
-          "press": "한국경제TV",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 18:03",
-          "link": "https://n.news.naver.com/mnews/article/215/0001263230?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "“K-팝 가수 사랑, 돈으로 증명하라?!”…팬덤 줄 세우는 ‘패노메논’...",
-          "summary": "PC통신과 팬카페는 같은 가수를 좋아하는 사람들을 전국적으로 한데 모았고, 유튜브와 SNS는 국경 밖으로... 연계하는 정책이 시급하다“며 ”올림픽 금메달 따듯 단기 실적에 집착하는 20세기적 사고에서 벗어나 기초 …",
-          "press": "헤럴드경제",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 17:01",
-          "link": "https://n.news.naver.com/mnews/article/016/0002687021?sid=103",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'범정부 AIDC 추진단' 만든다...메가프로젝트 R&D사업 전담",
-          "summary": "22일 정부에 따르면 과학기술정보통신부와 정보통신기획평가원(IITP)은 'AIDC 국가전략산업 초격차 추진을... 과기정통부 관계자는 “올해는 당장 확보된 예산이 없기 때문에 정책연구 차원에서 검토하는 단계”라며..…",
-          "press": "전자신문",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 17:01",
-          "link": "https://n.news.naver.com/mnews/article/030/0003459417?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -286,17 +308,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "아이에이, AI용 모듈형 데이터센터 ‘네오큐브’ 공개…OCP 규격 개정 제...",
-          "summary": "그는 MDC의 냉각 방식과 전력 용량뿐 아니라 설비 효율을 측정하는 지표, 전력을 변환·배분하는 방식도... 전력반도체와 전력모듈, 클라우드 소프트웨어를 보유한 그룹사 역량도 네오큐브 사업에 결합한다. 그룹사...",
-          "press": "디지털데일리",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 14:56",
-          "link": "https://n.news.naver.com/mnews/article/138/0002238625?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "경북테크노파크, 7년 연속 스마트제조혁신 '최고등급'···AI 제조 전환...",
           "summary": "지역특화형 스마트공장 사업을 활용해 AI가 생산설비와 현장의 데이터를 바탕으로 작업을 수행할 수 있는... 해외 제조혁신 기관과의 협력 기반을 마련하는 동시에 AI 기술을 보유한 지역 기업의 해외시장 진출 지원에도.…",
           "press": "smartbizn.com",
@@ -325,17 +336,6 @@
           "date": "2026-08-22",
           "datetime": "2026-08-22 12:40",
           "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53687",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "“큰손들 AI 메모리株 떠난다”…‘150조 승부수’ 삼성·하이닉스 괜찮...",
-          "summary": "역대급 규모의 주주환원 정책을 잇따라 발표한 국내 반도체 '투톱'인 삼성전자와 SK하이닉스 주가가 이러한... 블룸버그통신에 따르면 퀀트 리서치 업체 머니플로우스의 알렉 영 수석 투자전략가는 “스마트머니...",
-          "press": "ekn.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 12:32",
-          "link": "https://www.ekn.kr/web/view.php?key=20260822028435246",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -385,28 +385,6 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "안부 전화 중대경보 [이문재의 발견]",
-          "summary": "광케이블, 데이터센터 그리고 학교, 유치원, 어린이집 그리고··· 아련한 추억과 연둣빛 꿈들 우리의 안과... 데이터센터가, 주식시장이 기후 붕괴를 막는가. 국가는 왜 있는가. 정치는 누구를 위한 것인가. 경보 수준…",
-          "press": "sisain.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 09:28",
-          "link": "https://n.news.naver.com/mnews/article/308/0000038664?sid=103",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "\"사실상 흑자전환\"… 오이솔루션 실적 회복 기대 커졌다",
-          "summary": "관련 실증사업이 본격화하면 통신장비와 광통신 부품에 대한 수요도 늘어날 가능성이 있다. 오이솔루션 입장에서는 그동안 부진했던 국내 매출이 회복되는 시점을 구체적으로 가늠할 수 있는 계기가 될 수 있다....",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 12:16",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479558",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "한미반도체, 1300억 들여 8공장 확보…\"장비 쇼티지 대비\"",
           "summary": "한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규모의 공장을 매입해 8공장으로 구축한다고 공시했다. 198…",
           "press": "econovill.com",
@@ -429,23 +407,34 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
+          "title": "안부 전화 중대경보 [이문재의 발견]",
+          "summary": "광케이블, 데이터센터 그리고 학교, 유치원, 어린이집 그리고··· 아련한 추억과 연둣빛 꿈들 우리의 안과... 데이터센터가, 주식시장이 기후 붕괴를 막는가. 국가는 왜 있는가. 정치는 누구를 위한 것인가. 경보 수준…",
+          "press": "sisain.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:28",
+          "link": "https://n.news.naver.com/mnews/article/308/0000038664?sid=103",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"사실상 흑자전환\"… 오이솔루션 실적 회복 기대 커졌다",
+          "summary": "관련 실증사업이 본격화하면 통신장비와 광통신 부품에 대한 수요도 늘어날 가능성이 있다. 오이솔루션 입장에서는 그동안 부진했던 국내 매출이 회복되는 시점을 구체적으로 가늠할 수 있는 계기가 될 수 있다....",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 12:16",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479558",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
           "title": "맛은 기본, 이제는 ‘빠르고 가성비 있게’…간편식 경쟁 기준 바뀐다 ...",
           "summary": "국내 가정간편식(HMR) 시장이 빠르게 성장하면서 소비자의 상품 선택 기준도 달라지고 있다. 맛과 품질이 상향 평준화된 가운데 얼마나 쉽고 빠르게 조리할 수 있는지, 가격 대비 만족도가 높은지가 새로운 경쟁 요소로.…",
           "press": "서울경제",
           "date": "2026-08-22",
           "datetime": "2026-08-22 12:01",
           "link": "https://n.news.naver.com/mnews/article/011/0004654112?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "더본코리아, 해외사업 판 넓힌다…빽다방·소스 ‘투트랙’",
-          "summary": "또한 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고 협력 기업이 보유한 생산·유통망을 활용해 일반 소비자 시장까지 사업 범위를 확대한다는...",
-          "press": "mediapen.com",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 11:22",
-          "link": "https://www.mediapen.com/news/view/1118201",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -462,12 +451,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "[NC푸드랩] 시대가 만든 'K-푸드'의 역작… 식문화 발명품 '삼겹살'",
-          "summary": "일본 수출 후 남은 복부 고기를 저렴하게 처분하려다 냉동육 구이가 탄생했다는 산업적 해석도 제기된다. 특정 지역의 기억과 산업화 시대의 정황이 결합해 구전된 결과물에 가깝다. 문서나 신문 광고 등 명확한 당대...",
-          "press": "nc.press",
+          "title": "더본코리아, 해외사업 판 넓힌다…빽다방·소스 ‘투트랙’",
+          "summary": "또한 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고 협력 기업이 보유한 생산·유통망을 활용해 일반 소비자 시장까지 사업 범위를 확대한다는...",
+          "press": "mediapen.com",
           "date": "2026-08-22",
-          "datetime": "2026-08-22 16:43",
-          "link": "https://www.nc.press/news/articleView.html?idxno=624416",
+          "datetime": "2026-08-22 11:22",
+          "link": "https://www.mediapen.com/news/view/1118201",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -506,12 +495,34 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
+          "title": "[NC푸드랩] 시대가 만든 'K-푸드'의 역작… 식문화 발명품 '삼겹살'",
+          "summary": "일본 수출 후 남은 복부 고기를 저렴하게 처분하려다 냉동육 구이가 탄생했다는 산업적 해석도 제기된다. 특정 지역의 기억과 산업화 시대의 정황이 결합해 구전된 결과물에 가깝다. 문서나 신문 광고 등 명확한 당대...",
+          "press": "nc.press",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 16:43",
+          "link": "https://www.nc.press/news/articleView.html?idxno=624416",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
           "title": "경남도, 농수산식품 수출부터 미래차 인재까지 '산업 영토' 넓힌다",
           "summary": "경남도와 진주·김해·하동·산청·함양 등 5개 시군이 처음으로 공동 참여해 K-푸드에 대한 관심을 경남 농식품의 구매와 브랜드 인지도 확대로 연결한다. 경남 농식품 수출액은 올해 상반기 역대 최대인 8억5200만...",
           "press": "industrynews.co.kr",
           "date": "2026-08-22",
           "datetime": "2026-08-22 00:54",
           "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84810",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘꽃게 할인’",
+          "summary": "전통시장 및 골목상권을 활성화 하겠다는 취지로 2012년 개정된 유통산업발전법에 따라 대형마트는 매달... 할인 대상은 라면, 즉석밥, 국수, 냉동식품, 두부, 김치 등 식사류를 비롯해 과자, 음료, 커피, 아이스크…",
+          "press": "bntnews.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 00:02",
+          "link": "https://www.bntnews.co.kr/article/view/bnt202608210284",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -537,5 +548,5 @@
       ]
     }
   ],
-  "total": 44
+  "total": 45
 }

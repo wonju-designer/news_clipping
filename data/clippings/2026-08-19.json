@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:50 소급 정리",
+  "generated_at": "2026-08-23 12:16 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,6 +10,61 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
+        {
+          "title": "LGU+망 알뜰폰 증가율 21.7%→0.4% 급락…\"현대차 회선 공급 사업자 KT로...",
+          "summary": "2019년부터 7년 연속 두 자릿수 성장을 이어온 LG유플러스 망 알뜰폰(MVNO)의 회선 증가세가 사실상 멈춰... 증가율 하락에는 일반 알뜰폰 가입자 수요 외에도 커넥티드카 회선 공급 구조 변화 등이 영향을...",
+          "press": "아이뉴스24",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 15:23",
+          "link": "https://n.news.naver.com/mnews/article/031/0001050823?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AI가 증명서 발급·병원 예약·결제까지…SKT, '모두의AI' 공모 참여",
+          "summary": "지난 6월 기준 SK텔레콤의 이동통신 회선은 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외하고 2249만8579회선이다. AI 챗봇서 '에이전트'로…공공서비스 신청·결제까지 SK텔레콤은 대화, 검색·요약, 문서·이미…",
+          "press": "뉴시스",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 08:57",
+          "link": "https://n.news.naver.com/mnews/article/003/0014134170?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, ‘모두의 AI’ 출사표...풀스택 역량 총동원",
+          "summary": "IoT와 알뜰폰 회선을 제외하고 약 2250만 규모의 이동통신 회선과 온오프라인 채널을 통해 AI 서비스를 빠르게 확산해 나갈 계획이다. AI 챗봇부터 생활 밀착 AI 에이전트로 확장 SK텔레콤은 이같은 역량을 바탕…",
+          "press": "지디넷코리아",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 08:52",
+          "link": "https://n.news.naver.com/mnews/article/092/0002434307?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, '모두의AI' 사업 공모 참여…풀스택 AI 역량 총결집",
+          "summary": "2026년 6월 기준 2249만8579회선(IoT·MVNO 제외) 규모의 이동통신 회선과 온·오프라인 채널을 통해 AI 서비스를 빠르게 확산해 나갈 계획이다. SKT는 이러한 역량을 바탕으로 대화, 검색·요약, 문서…",
+          "press": "아주경제",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 08:42",
+          "link": "https://www.ajunews.com/view/20260819083906595",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[전국 주요 신문 톱뉴스](19일 조간)",
+          "summary": "접는 알뜰폰 풀MVNO 동력 꺼질라 ▲ 파이낸셜뉴스 = 용산공원법 오늘 담판 그린벨트도 빗장 푼다 ▲ 한국경제 = 시대의 아웃사이더, 1970년대생 ▲ 전국매일신문 = 李대통령 \"전작권, 임기 내 차질없이 환수\" ▲…",
+          "press": "연합뉴스",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 08:00",
+          "link": "https://n.news.naver.com/mnews/article/001/0016257503?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
         {
           "title": "사진 백업했다고 끝이 아니다…휴대폰 바꾸기 전 '꼭 확인해야 하는 것...",
           "summary": "만약 스마트폰을 바꾸면서 전화번호나 알뜰폰 통신사까지 함께 변경하는 상황이라면, 본인 인증용 문자 메시지(SMS)를 정상적으로 수신할 수 있는 상태인지 미리 체크한 후에 2단계 인증 이전을 진행해야 차질이 생기지..…",
@@ -39,17 +94,6 @@
           "date": "2026-08-19",
           "datetime": "2026-08-19 15:56",
           "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423164",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+망 알뜰폰 증가율 21.7%→0.4% 급락…\"현대차 회선 공급 사업자 KT로...",
-          "summary": "2019년부터 7년 연속 두 자릿수 성장을 이어온 LG유플러스 망 알뜰폰(MVNO)의 회선 증가세가 사실상 멈춰... 증가율 하락에는 일반 알뜰폰 가입자 수요 외에도 커넥티드카 회선 공급 구조 변화 등이 영향을...",
-          "press": "아이뉴스24",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 15:23",
-          "link": "https://n.news.naver.com/mnews/article/031/0001050823?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -143,23 +187,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, '모두의AI' 사업 참여…서비스·모델·인프라 역량 결집",
-          "summary": "이는 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외한 수치로, 과학기술정보통신부의 무선통신서비스 가입 현황을 기준으로 했다. SKT는 약 2250만 회선과 온·오프라인 고객 접점을 활용해 AI 서비스의 접근성을 높인…",
-          "press": "businessplus.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:34",
-          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115619",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 정부 '모두의AI' 사업 도전…2250만 통신 회선 기반 AI 대중화 나선...",
           "summary": "과기정통부의 2026년 6월 무선통신서비스 가입 현황을 기준으로 IoT와 알뜰폰(MVNO)을 제외한 SKT 이동통신 회선은 2249만8579개다. SKT는 약 2250만 회선과 온·오프라인 채널을 활용해 AI 서비스…",
           "press": "eroun.net",
           "date": "2026-08-19",
           "datetime": "2026-08-19 09:34",
           "link": "https://www.eroun.net/news/articleView.html?idxno=87821",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, '모두의AI' 사업 참여…서비스·모델·인프라 역량 결집",
+          "summary": "이는 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외한 수치로, 과학기술정보통신부의 무선통신서비스 가입 현황을 기준으로 했다. SKT는 약 2250만 회선과 온·오프라인 고객 접점을 활용해 AI 서비스의 접근성을 높인…",
+          "press": "businessplus.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 09:34",
+          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115619",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -187,45 +231,56 @@
           "subgroup_label": ""
         },
         {
-          "title": "AI가 증명서 발급·병원 예약·결제까지…SKT, '모두의AI' 공모 참여",
-          "summary": "지난 6월 기준 SK텔레콤의 이동통신 회선은 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외하고 2249만8579회선이다. AI 챗봇서 '에이전트'로…공공서비스 신청·결제까지 SK텔레콤은 대화, 검색·요약, 문서·이미…",
-          "press": "뉴시스",
+          "title": "'모두의 AI' 뛰어든 통신 3사… 공공·플랫폼·메신저 파고든다",
+          "summary": "국내 이동통신3사가 국민 모두에게 제한없이 인공지능(AI) 챗봇과 공공 AI에이전트를 제공하는 '모두의 AI' 사업에 일제히 뛰어들었다. SK텔레콤은 자체 AI 서비스·모델·인프라를 아우르는 AI풀스택 역량, KT는…",
+          "press": "파이낸셜뉴스",
           "date": "2026-08-19",
-          "datetime": "2026-08-19 08:57",
-          "link": "https://n.news.naver.com/mnews/article/003/0014134170?sid=105",
+          "datetime": "2026-08-19 18:11",
+          "link": "https://n.news.naver.com/mnews/article/014/0005563652?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "SKT, ‘모두의 AI’ 출사표...풀스택 역량 총동원",
-          "summary": "IoT와 알뜰폰 회선을 제외하고 약 2250만 규모의 이동통신 회선과 온오프라인 채널을 통해 AI 서비스를 빠르게 확산해 나갈 계획이다. AI 챗봇부터 생활 밀착 AI 에이전트로 확장 SK텔레콤은 이같은 역량을 바탕…",
-          "press": "지디넷코리아",
+          "title": "5G 슬라이싱 시대…'망 중립성 가이드라인' 손질 나선 EU",
+          "summary": "국내 이동통신 3사 모두 연내 5G SA 도입을 앞두고 있다. 과학기술정보통신부는 지난 2월 5G SA 추진반의 첫 기획 회의를 열고 통신 3사의 안정적인 5G SA 전환과 SA 기반 혁신 서비스 창출 방안을 논의했…",
+          "press": "디지털데일리",
           "date": "2026-08-19",
-          "datetime": "2026-08-19 08:52",
-          "link": "https://n.news.naver.com/mnews/article/092/0002434307?sid=105",
+          "datetime": "2026-08-19 16:52",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238299?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "SKT, '모두의AI' 사업 공모 참여…풀스택 AI 역량 총결집",
-          "summary": "2026년 6월 기준 2249만8579회선(IoT·MVNO 제외) 규모의 이동통신 회선과 온·오프라인 채널을 통해 AI 서비스를 빠르게 확산해 나갈 계획이다. SKT는 이러한 역량을 바탕으로 대화, 검색·요약, 문서…",
-          "press": "아주경제",
+          "title": "전국민 쓰는 생활밀착 챗봇, 통신·금융·AI 기업 전방위 참전",
+          "summary": "지난 18일 마감된 공모에는 이들 3사 외에 엠케이디·이스트소프트·제논이 이름을 올렸다.... X K2’, 약 2250만 이동통신 회선이 기반이다. A.X K2는 정부 ‘독파모’ 사업 3단계에 오른 모델이다. SK텔…",
+          "press": "매일경제",
           "date": "2026-08-19",
-          "datetime": "2026-08-19 08:42",
-          "link": "https://www.ajunews.com/view/20260819083906595",
+          "datetime": "2026-08-19 16:16",
+          "link": "https://n.news.naver.com/mnews/article/009/0005722984?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "[전국 주요 신문 톱뉴스](19일 조간)",
-          "summary": "접는 알뜰폰 풀MVNO 동력 꺼질라 ▲ 파이낸셜뉴스 = 용산공원법 오늘 담판 그린벨트도 빗장 푼다 ▲ 한국경제 = 시대의 아웃사이더, 1970년대생 ▲ 전국매일신문 = 李대통령 \"전작권, 임기 내 차질없이 환수\" ▲…",
-          "press": "연합뉴스",
+          "title": "통신3사, '모두의 AI' 사업 출사표…차별화 전략은",
+          "summary": "국내 이동통신3사가 국민 모두에게 제한없이 인공지능(AI) 챗봇과 공공 AI에이전트를 제공하는 '모두의 AI' 사업에 일제히 뛰어들었다. SK텔레콤은 자체 AI 서비스·모델·인프라를 아우르는 AI풀스택 역량, KT는…",
+          "press": "파이낸셜뉴스",
           "date": "2026-08-19",
-          "datetime": "2026-08-19 08:00",
-          "link": "https://n.news.naver.com/mnews/article/001/0016257503?sid=102",
+          "datetime": "2026-08-19 16:05",
+          "link": "https://n.news.naver.com/mnews/article/014/0005563589?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독]원스토어, 내부 반발에도 '19금' AI챗 추진…부적절 소재 논란",
+          "summary": "한때 이동통신3사 통합 앱 마켓으로 전 국민에게 인지도가 높은 원스토어의 콘텐츠 플랫폼이 유해성 논란이 불가피한 성인물 위주로 개편된다는 점 때문이다. 현재 국내에서는 스캐터랩의 '제타', 뤼튼의 '크랙' 등이 AI…",
+          "press": "뉴스1",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 10:47",
+          "link": "https://n.news.naver.com/mnews/article/421/0009120564?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -237,17 +292,6 @@
           "date": "2026-08-19",
           "datetime": "2026-08-19 19:50",
           "link": "https://n.news.naver.com/mnews/article/079/0004180294?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'모두의 AI' 뛰어든 통신 3사… 공공·플랫폼·메신저 파고든다",
-          "summary": "국내 이동통신3사가 국민 모두에게 제한없이 인공지능(AI) 챗봇과 공공 AI에이전트를 제공하는 '모두의 AI' 사업에 일제히 뛰어들었다. SK텔레콤은 자체 AI 서비스·모델·인프라를 아우르는 AI풀스택 역량, KT는…",
-          "press": "파이낸셜뉴스",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 18:11",
-          "link": "https://n.news.naver.com/mnews/article/014/0005563652?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -295,50 +339,6 @@
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
-        },
-        {
-          "title": "[데일리픽] XRP 고액 거래 280% 폭발…청소년 전용 챗GPT 출시",
-          "summary": "이동통신 3사의 설비투자(CAPEX) 무게중심이 기지국 등 전통적인 통신망에서 AI 인프라로 이동하고 있다. [사진: 셔터스톡] ■ 통신망 넘어 AI DC로…이통3사 투자전략 재편 가속 이동통신 3사의 설비투자(CA…",
-          "press": "digitaltoday.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 17:06",
-          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694026",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "5G 슬라이싱 시대…'망 중립성 가이드라인' 손질 나선 EU",
-          "summary": "국내 이동통신 3사 모두 연내 5G SA 도입을 앞두고 있다. 과학기술정보통신부는 지난 2월 5G SA 추진반의 첫 기획 회의를 열고 통신 3사의 안정적인 5G SA 전환과 SA 기반 혁신 서비스 창출 방안을 논의했…",
-          "press": "디지털데일리",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 16:52",
-          "link": "https://n.news.naver.com/mnews/article/138/0002238299?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "전국민 무료 '모두의 AI'에 SKT·KT 등 6개사 참여...이달 말 업체 선정",
-          "summary": "국산 인공지능(AI) 모델을 활용해 대국민 AI 서비스를 무료로 제공하는 '모두의 AI' 프로젝트에 이동통신 3사와 카카오 등이 사업 참여를 신청했다. 과학기술정보통신부는 \"모두의 AI 프로젝트 참여 사업자 공모 결…",
-          "press": "starnewskorea.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 16:44",
-          "link": "https://n.news.naver.com/mnews/article/108/0003463389?sid=004",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "전국민 쓰는 생활밀착 챗봇, 통신·금융·AI 기업 전방위 참전",
-          "summary": "지난 18일 마감된 공모에는 이들 3사 외에 엠케이디·이스트소프트·제논이 이름을 올렸다.... X K2’, 약 2250만 이동통신 회선이 기반이다. A.X K2는 정부 ‘독파모’ 사업 3단계에 오른 모델이다. SK텔…",
-          "press": "매일경제",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 16:16",
-          "link": "https://n.news.naver.com/mnews/article/009/0005722984?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
         }
       ]
     },
@@ -381,6 +381,50 @@
           "date": "2026-08-19",
           "datetime": "2026-08-19 15:28",
           "link": "https://n.news.naver.com/mnews/article/003/0014135790?sid=104",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, 사업목적 추가…EV 전장·AI 전력 전문기업 도약",
+          "summary": "전원공급장치(SMPS) ▲전력전자부품·제어 소프트웨어(S/W) 등 12개 첨단 사업군으로 세분화·구체화했다.... Center) 시장 진입에 나설 계획이다. 회사는 이번에 인증을 획득한 서버 제품군을 공공기관 및 기…",
+          "press": "뉴시스",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 13:57",
+          "link": "https://n.news.naver.com/mnews/article/003/0014135402?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, 임시주총서 정관 전면 개편…'EV 전장·AI 전력 전문기업' 도약",
+          "summary": "전원공급장치(SMPS) △전력전자부품 및 제어 소프트웨어(S/W) 등 12개 첨단 사업군으로 구체화했다. 특히... Center) 시장 진입에 나설 계획이다. 회사는 이번에 인증을 획득한 서버 제품군을 공공기관 및 …",
+          "press": "머니투데이",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 13:31",
+          "link": "https://n.news.naver.com/mnews/article/008/0005401853?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, 임시주총서 정관 변경… “EV 전장·AI 전력 토털 플랫폼 도약”",
+          "summary": "전원공급장치(SMPS), 전력 전자 부품 및 제어 소프트웨어 등 12개 군으로 세분화했다. 제어 기술 및... 이를 기반으로 조달청 나라장터 등록을 추진하고 공공 데이터센터 및 에지 데이터센터 시장에도 진입한다는..…",
+          "press": "조선비즈",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 13:30",
+          "link": "https://n.news.naver.com/mnews/article/366/0001187095?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, 임시주총서 정관 전면 개편…'EV 전장·AI 전력 전문기업'으로...",
+          "summary": "데이터센터 시장을 공략할 계획이다. EV 전장 분야에서는 ICCU 모듈용 슬림형 플라나 트랜스의 800V 고전압 환경에서 97.7% 효율 검증을 완료했다. 성호전자와는 데이터센터용 SMPS 국산화를 위한 협력을 추진…",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 13:20",
+          "link": "https://n.news.naver.com/mnews/article/014/0005563438?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
@@ -441,26 +485,81 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "에이텀, 사업목적 추가…EV 전장·AI 전력 전문기업 도약",
-          "summary": "전원공급장치(SMPS) ▲전력전자부품·제어 소프트웨어(S/W) 등 12개 첨단 사업군으로 세분화·구체화했다.... Center) 시장 진입에 나설 계획이다. 회사는 이번에 인증을 획득한 서버 제품군을 공공기관 및 기…",
-          "press": "뉴시스",
+          "title": "머큐리, 한미반도체에 인천공장 560억 매각…광케이블 신규투자 실탄 확...",
+          "summary": "전문기업 머큐리가 인천 가좌동 공장 부지와 건물을 한미반도체에 560억원에 매각하며 광케이블 신규 투자와 주력 사업 고도화를 위한 유동성 확보에 나섰다. 머큐리는 인천광역시 가좌동 소재 토지 및 건물을 560억원에.…",
+          "press": "etoday.co.kr",
           "date": "2026-08-19",
-          "datetime": "2026-08-19 13:57",
-          "link": "https://n.news.naver.com/mnews/article/003/0014135402?sid=101",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
+          "datetime": "2026-08-19 08:18",
+          "link": "https://www.etoday.co.kr/news/view/2615723",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "'체질 개선' 에이텀, 정관 바꾸고 EV·AI 전력 시장 전면전",
-          "summary": "차량용 온보드차저(OBC)와 통합충전제어장치(ICCU), AI 데이터센터용 전원공급장치(SMPS) 등 고부가가치 라인업을 사업목적에 전면 배치했다. 특히 시장이 주목하는 대목은 '제어 S/W 및 펌웨어 개발업'의 신…",
-          "press": "fieldnews.kr",
+          "title": "머큐리, 인천공장 560억에 매각…광통신 성장투자 재원 확보",
+          "summary": "정보통신장비 전문기업 머큐리는 인천광역시 서해구 가좌동 소재 토지 및 건물을 560억원에 매각하는... 머큐리 관계자는 \"이번 유형자산 매각은 재무적 유연성을 높여 미래 성장에 투자하기 위한 전략적 결정\"이라며...",
+          "press": "머니투데이",
           "date": "2026-08-19",
-          "datetime": "2026-08-19 13:34",
-          "link": "http://www.fieldnews.kr/news/articleView.html?idxno=30832",
+          "datetime": "2026-08-19 10:07",
+          "link": "https://n.news.naver.com/mnews/article/008/0005401732?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "머큐리, 인천공장 토지·건물 560억원에 매각…광통신 성장투자 재원 확...",
+          "summary": "정보통신장비 전문기업 머큐리는 인천광역시 서해구 가좌동 소재 토지 및 건물을 560억원에 매각하는... 머큐리 관계자는 “이번 유형자산 매각은 재무적 유연성을 높여 미래 성장에 투자하기 위한 전략적 결정”...",
+          "press": "한국경제",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 09:46",
+          "link": "https://n.news.naver.com/mnews/article/015/0005322285?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "공장 확보한 한미반도체…재원 마련한 머큐리",
+          "summary": "같은 인천 소재 기업인 머큐리가 이 공장을 넘기면서, 560억원 규모 거래가 부지를 확장하는 쪽과 재원을... 19일 업계에 따르면 한미반도체는 정보통신장비 전문기업 머큐리와 인천 주안국가산업단지 내 공장 부지...",
+          "press": "incheonilbo.com",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 19:56",
+          "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1329958",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "코스피 폭락...반도체 · 광통신 · AI주 '출렁'",
+          "summary": "광통신주 중에서는 RF머티리얼즈(-6.12%) RFHIC(-2.84%) 라이콤(-5.61%) 머큐리(-3.57%) 성호전자(-8.21%) 등의 주가가 크게 떨어졌다. 또한 통신장비주 중에선 기가레인(-4.76%) 케…",
+          "press": "choicenews.co.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 16:20",
+          "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=170119",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, AI 장비 선제적 대응...1천300억 투자",
+          "summary": "한미반도체는 ㈜머큐리로부터 주안국가산업단지 내 부지 2만여㎡, 건물 2만 5천여㎡ 규모의 공장을 매입해 역대 최대 면적인 8공장을 구축한다고 19일 밝혔다. 이번 투자에는 매입비 560억 원을 포함해 총 1천300억…",
+          "press": "joongboo.com",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 14:20",
+          "link": "https://www.joongboo.com/news/articleView.html?idxno=363734206",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[2026 전남광주미래산업박람회] 에니트, AI 지능형 광센서 기반 도로 상...",
+          "summary": "e-DAS는 한 대의 계측기와 광섬유 케이블을 이용해 최대 50㎞ 구간의 진동을 측정하고 수집한 데이터를 AI... 고객과 시장의 요구를 제품 고도화와 신규 사업으로 연결해 광센서 기반 안전관리 솔루션의 사업 영역을…",
+          "press": "전자신문",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 10:47",
+          "link": "https://n.news.naver.com/mnews/article/030/0003458510?sid=102",
           "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "\"AI가 쏘아올린 전력망 특수…전선·ELECTRIC·아이앤디 'LS 삼총사'의 날...",
@@ -496,59 +595,15 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "기지국 전기만 아끼면 끝?...달라진 통신사 환경경영 기준",
-          "summary": "다만 녹색프리미엄 구매실적(284GWh)을 반영한 시장 기반 총배출량은 104만3431tCO2e로 오히려 전년 대비 1.6... 광케이블 기반 전환 등을 추진하고 있다. 데이터센터와 관련해서는 냉방 효율을 높이고 열…",
-          "press": "newspenguin.com",
+          "title": "더본코리아, 북미 사업 확대에 연일 오름세…8%↑[특징주]",
+          "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진한다. 현지 소비 방식과 입맛에 맞는 제품을 개발하고 협력사의 생산·유통망을 통해 외식뿐 아니라 일반 소비자 시장까지 공략한다는 구상이다. 백종원...",
+          "press": "이데일리",
           "date": "2026-08-19",
-          "datetime": "2026-08-19 11:02",
-          "link": "https://www.newspenguin.com/news/articleView.html?idxno=22046",
+          "datetime": "2026-08-19 09:09",
+          "link": "https://n.news.naver.com/mnews/article/018/0006353912?sid=101",
           "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "AI 데이터센터 '연결' 병목…성호전자 주목",
-          "summary": "이 때문에 수요가 늘어나며 글로벌 CPO 시장은 2030년 5억8000만달러 규모로 성장할 전망이다. 엔비디아도... 이들 기업은 광케이블과 광트랜시버를 개발하거나 공급하고 있다. CPO 제조 과정에 필요한 정렬 장…",
-          "press": "newstopkorea.com",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 10:52",
-          "link": "https://www.newstopkorea.com/news/articleView.html?idxno=47123",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[2026 전남광주미래산업박람회] 에니트, AI 지능형 광센서 기반 도로 상...",
-          "summary": "e-DAS는 한 대의 계측기와 광섬유 케이블을 이용해 최대 50㎞ 구간의 진동을 측정하고 수집한 데이터를 AI... 고객과 시장의 요구를 제품 고도화와 신규 사업으로 연결해 광센서 기반 안전관리 솔루션의 사업 영역을…",
-          "press": "전자신문",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 10:47",
-          "link": "https://n.news.naver.com/mnews/article/030/0003458510?sid=102",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "북미 ICT 시장 문 두드리는 K-통신·AI…KT, 협력사 6곳과 ISE EXPO 출격",
-          "summary": "주목할 부분은 북미 통신 인프라 시장 자체가 단순한 광케이블·기지국 구축에서 AI 데이터센터와 엣지 컴퓨팅까지 넓어지고 있다는 점이다. ISE EXPO 측도 올해 주요 의제로 AI 데이터센터 수요가 광섬유와 전력..…",
-          "press": "e-science.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 10:44",
-          "link": "https://www.e-science.co.kr/news/articleView.html?idxno=133746",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "머큐리, 한미반도체에 인천공장 560억 매각…광케이블 신규투자 실탄 확...",
-          "summary": "전문기업 머큐리가 인천 가좌동 공장 부지와 건물을 한미반도체에 560억원에 매각하며 광케이블 신규 투자와 주력 사업 고도화를 위한 유동성 확보에 나섰다. 머큐리는 인천광역시 가좌동 소재 토지 및 건물을 560억원에.…",
-          "press": "etoday.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 08:18",
-          "link": "https://www.etoday.co.kr/news/view/2615723",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "동원F&B, '케바삭'으로 냉동치킨 시장 출사표",
@@ -617,23 +672,34 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "더본코리아, 북미 사업 확대에 연일 오름세…8%↑[특징주]",
-          "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진한다. 현지 소비 방식과 입맛에 맞는 제품을 개발하고 협력사의 생산·유통망을 통해 외식뿐 아니라 일반 소비자 시장까지 공략한다는 구상이다. 백종원...",
-          "press": "이데일리",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:09",
-          "link": "https://n.news.naver.com/mnews/article/018/0006353912?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "더본코리아, 북미 시장 공략...캐나다 유통 확대·美 현지 생산 추진",
           "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 진행 중이다. 현지 소비 방식과 입맛을 반영한 제품을 만들고 협력 기업의 생산·유통망을 활용해 일반 소비자 시장까지 사업 영역을 확대한다는 구상이다. 백 대표는..…",
           "press": "ppss.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 07:34",
           "link": "https://www.ppss.kr/news/articleView.html?idxno=305901",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "'K-푸드 호황' 무색한 동원F&B…글로벌 비중 여전히 '3%대'",
+          "summary": "자본시장의 시선이 엇갈린다. 19일 금융감독원 전자공시시스템에 따르면 동원산업은 연결 기준 상반기... 기존 제1 사업장의 육가공 제품군에 더해, 제2 사업장을 냉장식품과 가정간편식(HMR) 생산 중심의 K-푸드..…",
+          "press": "news.tf.co.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 00:01",
+          "link": "https://n.news.naver.com/mnews/article/629/0000525423?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[CJ 북미 대도약]③ 슈완스 인수 7년…비비고 1위 이끈 보몬트 공장",
+          "summary": "넥스트 스텝은 '상온식품'… 2~3배 추가 성장 노린다 CJ슈완스는 냉동식품 시장에서 확보한 독보적 경쟁력을 바탕으로 이제 상온 식품 시장으로 영토를 확장하고 있다. 글로벌 시장조사기관 씨르카나(Circana)에 따…",
+          "press": "블로터",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 16:31",
+          "link": "https://n.news.naver.com/mnews/article/293/0000089272?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -681,5 +747,5 @@
       ]
     }
   ],
-  "total": 57
+  "total": 63
 }

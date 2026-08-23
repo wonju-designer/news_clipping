@@ -1,7 +1,7 @@
 {
   "date": "2026-08-09",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:50 소급 정리",
+  "generated_at": "2026-08-23 12:16 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -11,23 +11,23 @@
       "digest": "",
       "articles": [
         {
-          "title": "IPTV 없는 LG헬로비전, 독자 성장 '빨간불'",
-          "summary": "이중 LG헬로비전의 케이블TV 가입자 점유율은 9%대 수준이다. 사실상 유료 방송으로는 사업 확장이... 또 다른 사업인 알뜰폰의 경우도 상황은 마찬가지다. 가격 경쟁이 갈수록 치열해지는 상황에서 동일한 망을...",
-          "press": "metroseoul.co.kr",
-          "date": "2026-08-09",
-          "datetime": "2026-08-09 15:38",
-          "link": "http://www.metroseoul.co.kr/article/20260809500181",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "책·쇼핑·해외여행 내세워 정체기 돌파… 알뜰폰은 결합중",
           "summary": "KT엠모바일은 자사 애플리케이션을 통해 쿠팡에서 쇼핑하면 결제 금액의 1.8%를 캐시로 돌려주는 이벤트를 진행 중이다. 고객은 적립된 캐시로 월 최대 2만원까지 통신비를 할인받을 수 있다. 알뜰폰 업계는 과거에도..…",
           "press": "IT조선",
           "date": "2026-08-09",
           "datetime": "2026-08-09 09:00",
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167550",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "IPTV 없는 LG헬로비전, 독자 성장 '빨간불'",
+          "summary": "이중 LG헬로비전의 케이블TV 가입자 점유율은 9%대 수준이다. 사실상 유료 방송으로는 사업 확장이... 또 다른 사업인 알뜰폰의 경우도 상황은 마찬가지다. 가격 경쟁이 갈수록 치열해지는 상황에서 동일한 망을...",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-09",
+          "datetime": "2026-08-09 15:38",
+          "link": "http://www.metroseoul.co.kr/article/20260809500181",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

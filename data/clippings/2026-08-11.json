@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:50 소급 정리",
+  "generated_at": "2026-08-23 12:16 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,6 +10,72 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
+        {
+          "title": "라이즈·에이티즈·르세라핌·아일릿·리센느 출연 ‘K-WORLD DREAM AWARDS’...",
+          "summary": "코스닥 상장 통신 소프트웨어 전문기업 네이블이 운영하는 MVNO 브랜드 알비레오(Albireo)는 서비스 오픈을... 알비레오는 SK텔레콤 통신망을 기반으로 이동통신과 K-POP 콘텐츠를 결합한 새로운 형태의 MVN…",
+          "press": "서울신문",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 14:42",
+          "link": "https://n.news.naver.com/mnews/article/081/0003669398?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "Stop burner phones with a 'one-strike-out' policy",
+          "summary": "the MVNO industry and retailers are pushing back, arguing that it would be excessive to... The main point is to increase…",
+          "press": "IT조선",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 12:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167789",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 구글 AI 혜택 결합한 '초이스 요금제' 신규 라인업 출시",
+          "summary": "한편 KT의 알뜰폰 자회사 KT엠모바일은 25∼30GB 고용량 및 무제한 데이터 요금제를 포함해 모두 34종 요금제 가격을 인하했다고 이날 밝혔다. 대상 요금제는 LTE 22종, 5G 12종 등으로, 고용량 데이터 …",
+          "press": "연합뉴스",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 10:00",
+          "link": "https://n.news.naver.com/mnews/article/001/0016243937?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 알뜰폰 요금제 34종 인하…30GB도 1만원대",
+          "summary": "알뜰폰업체 KT엠모바일이 데이터 25~30GB 및 무제한 요금제를 포함한 총 34종 요금제의 월 이용료를 인하했다. 이번 요금제 개편에는 고용량·무제한 데이터 요금제까지 포함돼 최근 출시된 갤럭시Z8 시리즈 등...",
+          "press": "전자신문",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:32",
+          "link": "https://n.news.naver.com/mnews/article/030/0003456118?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"데이터 30GB가 1만 원대\"…KT엠모바일, 요금제 34종 가격 인하",
+          "summary": "알뜰폰 사업자 KT엠모바일은 고용량 및 무제한 데이터 요금제를 포함한 총 34종 요금제의 월 이용료를 인하했다고 11일 밝혔다. 대상 요금제는 LTE 22종, 5G 12종 등 총 34종이다. 이번 인하로 월 25~3…",
+          "press": "뉴스1",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:10",
+          "link": "https://n.news.naver.com/mnews/article/421/0009106981?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "비용 30% 줄여도 이익 72%↓…LG헬로비전 하반기도 '먹구름'",
+          "summary": "알뜰폰 역시 이동통신 시장의 저가 요금제 경쟁 심화로 매출이 줄었다. 다만 2분기 매출은 직전 분기와 비교하면 0.1% 증가한 368억 원으로 감소세가 일단 주춤했다. 유료방송 사업의 부진은 LG헬로비전만의 문제는.…",
+          "press": "뉴스1",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 06:20",
+          "link": "https://n.news.naver.com/mnews/article/421/0009106755?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
         {
           "title": "KT엠모바일, 25~30GB 요금제 1만원대로 인하",
           "summary": "KT엠모바일이 고용량 데이터부터 무제한 요금제까지 월 이용료를 낮춘다. KT엠모바일은 25~30GB 고용량 및... 한편 과학기술정보통신부는 알뜰폰 활성화 방안을 통해 이통 3사가 최근 출시한 신규 요금제(데이터..…",
@@ -77,28 +143,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "라이즈·에이티즈·르세라핌·아일릿·리센느 출연 ‘K-WORLD DREAM AWARDS’...",
-          "summary": "코스닥 상장 통신 소프트웨어 전문기업 네이블이 운영하는 MVNO 브랜드 알비레오(Albireo)는 서비스 오픈을... 알비레오는 SK텔레콤 통신망을 기반으로 이동통신과 K-POP 콘텐츠를 결합한 새로운 형태의 MVN…",
-          "press": "서울신문",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 14:42",
-          "link": "https://n.news.naver.com/mnews/article/081/0003669398?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "Stop burner phones with a 'one-strike-out' policy",
-          "summary": "the MVNO industry and retailers are pushing back, arguing that it would be excessive to... The main point is to increase…",
-          "press": "IT조선",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 12:00",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167789",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"고객 일상 속으로\"...인뱅 3사, '생활밀착형' 금융 서비스 경쟁",
           "summary": "앞두고 시장의 높은 기대감을 확인할 수 있었다. 금리는 기본금리 연 1.0%에 저금 횟수에 따라 우대금리가... 연동된 알뜰폰 브랜드 티플러스(tplus) 페이지를 통해 통신 3사의 알뜰폰 요금제 28종을 한눈에 비…",
           "press": "techm.kr",
@@ -154,28 +198,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "KT, 구글 AI 혜택 결합한 '초이스 요금제' 신규 라인업 출시",
-          "summary": "한편 KT의 알뜰폰 자회사 KT엠모바일은 25∼30GB 고용량 및 무제한 데이터 요금제를 포함해 모두 34종 요금제 가격을 인하했다고 이날 밝혔다. 대상 요금제는 LTE 22종, 5G 12종 등으로, 고용량 데이터 …",
-          "press": "연합뉴스",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 10:00",
-          "link": "https://n.news.naver.com/mnews/article/001/0016243937?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT엠모바일, 알뜰폰 요금제 34종 인하…30GB도 1만원대",
-          "summary": "알뜰폰업체 KT엠모바일이 데이터 25~30GB 및 무제한 요금제를 포함한 총 34종 요금제의 월 이용료를 인하했다. 이번 요금제 개편에는 고용량·무제한 데이터 요금제까지 포함돼 최근 출시된 갤럭시Z8 시리즈 등...",
-          "press": "전자신문",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 09:32",
-          "link": "https://n.news.naver.com/mnews/article/030/0003456118?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[위클리오늘] KT, KT엠모바일(8.11)",
           "summary": "알뜰폰 시장에서 데이터 사용량이 많은 이용자를 겨냥한 요금 경쟁이 이어지는 가운데 고용량 요금제까지 개편 대상에 포함해 선택 폭을 넓혔다. 이번 개편 대상은 LTE 22종과 5G 12종이다. 특히 25~30GB 구간…",
           "press": "weeklytoday.com",
@@ -187,34 +209,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "\"데이터 30GB가 1만 원대\"…KT엠모바일, 요금제 34종 가격 인하",
-          "summary": "알뜰폰 사업자 KT엠모바일은 고용량 및 무제한 데이터 요금제를 포함한 총 34종 요금제의 월 이용료를 인하했다고 11일 밝혔다. 대상 요금제는 LTE 22종, 5G 12종 등 총 34종이다. 이번 인하로 월 25~3…",
-          "press": "뉴스1",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 09:10",
-          "link": "https://n.news.naver.com/mnews/article/421/0009106981?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "KT엠모바일, 요금제 34종 인하…1만원대에 30GB 데이터",
           "summary": "알뜰폰(MVNO) 업체인 KT엠모바일은 고용량·무제한 데이터 요금제를 포함한 총 34종 요금제의 월 이용료를 인하했다고 11일 밝혔다. 이번 개편 대상 요금제는 LTE 22종, 5G 12종 등 총 34종이다. 이번 …",
           "press": "view.asiae.co.kr",
           "date": "2026-08-11",
           "datetime": "2026-08-11 09:08",
           "link": "https://n.news.naver.com/mnews/article/277/0005801330?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "비용 30% 줄여도 이익 72%↓…LG헬로비전 하반기도 '먹구름'",
-          "summary": "알뜰폰 역시 이동통신 시장의 저가 요금제 경쟁 심화로 매출이 줄었다. 다만 2분기 매출은 직전 분기와 비교하면 0.1% 증가한 368억 원으로 감소세가 일단 주춤했다. 유료방송 사업의 부진은 LG헬로비전만의 문제는.…",
-          "press": "뉴스1",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 06:20",
-          "link": "https://n.news.naver.com/mnews/article/421/0009106755?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -237,6 +237,28 @@
           "date": "2026-08-11",
           "datetime": "2026-08-11 15:12",
           "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423009",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 34종 요금제 인하…\"30GB도 1만원대\"",
+          "summary": "이에 따라 최근 출시된 갤럭시 Z8 시리즈 등 프리미엄 자급제 단말 이용 고객도 혜택을 누릴 수 있을 것으로 보인다. 개편 대상인 요금제는 LTE 22종, 5G 12종 등 총 34종이다. 이번 인하로 월 25~30G…",
+          "press": "디지털데일리",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:35",
+          "link": "https://n.news.naver.com/mnews/article/138/0002237324?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 데이터 최대 30GB도 1만원대…요금제 34종 인하",
+          "summary": "회사는 이번 요금제 개편으로 고용량·무제한 데이터 요금제가 포함돼 최근 출시된 갤럭시 Z8 시리즈 등 프리미엄 자급제 단말 이용 고객에게도 실질적인 혜택이 돌아갈 것으로 보고 있다. 이번 인하로 월 25~30GB..…",
+          "press": "뉴시스",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 08:50",
+          "link": "https://n.news.naver.com/mnews/article/003/0014119180?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -317,28 +339,6 @@
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
-        },
-        {
-          "title": "KT엠모바일, QoS 요금제 대폭 인하…RS도 준비",
-          "summary": "이번에 인하한 요금제는 KT엠모바일이 KT 망 도매대가를 기반으로 자체 구성한 종량형(RM) 방식의 요금제다. KT엠모바일은 정부가 추진하는 QoS 적용된 수익배분형(RS) 방식 요금제도 별도로 준비하고 있다. 최근…",
-          "press": "hansbiz.co.kr",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 10:36",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=855899",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "안전∙편의∙몰입 잡는다…LG∙KT∙삼성, 디지털 서비스 강화",
-          "summary": "KT는 구글과 협력해 생성형 AI 혜택을 결합한 '초이스' 요금제 신규 라인업 4종을 선보였다. 신규... 전시관에는 세계 최초 6K 게이밍 모니터 '오디세이 G8'을 비롯해 고성능 SSD '9100 PRO', '갤…",
-          "press": "kdfnews.com",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 10:18",
-          "link": "http://www.kdfnews.com/news/articleView.html?idxno=186355",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
         }
       ]
     },
@@ -397,6 +397,72 @@
           "subgroup_label": "파워넷"
         },
         {
+          "title": "머큐리, 히트펌프 사업 본격화… 리누오리터와 MOU 맺고 에너지 시장 공...",
+          "summary": "한편 머큐리는 유무선 공유기(AP), 광케이블, 스마트홈·IoT 장비를 전문으로 개발·제조하며 친환경 에너지 솔루션으로 사업 영역을 넓히고 있는 코스닥 상장 정보통신 전문 기업이다.",
+          "press": "머니투데이",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:25",
+          "link": "https://n.news.naver.com/mnews/article/008/0005398196?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "美 코히런트 쇼크...한국증시 광통신주 '장중 급락'",
+          "summary": "또 성호전자(-7.07%), RF머트리얼즈(-7.10%), 빛과전자(-5.94%), RFHIC(-4.41%), 라이콤(-5.46%), 한국첨단소재(-5.14%), 머큐리(-4.93%), 우리넷(-4.59%) 등도 급…",
+          "press": "choicenews.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:58",
+          "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=169627",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[더벨][i-point] 머큐리, 히트펌프 사업 본격화",
+          "summary": "머큐리는 국내 인증과 적용 실적을 확보하고, 기술 역량을 단계적으로 구축해 히트펌프 사업을 새로운 성장 동력으로 육성한다는 방침이다. 회사 관계자는 \"히트펌프 사업은 머큐리가 보유한 IoT 및 통신 기술 역량을...",
+          "press": "thebell.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:42",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608110913234600105435",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "머큐리, 히트펌프 사업 진출…IoT 접목해 친환경 에너지 시장 공략",
+          "summary": "머큐리는 국내 인증과 적용 실적을 확보하고 관련 기술 역량을 단계적으로 구축해 히트펌프 사업을 새로운 성장동력으로 육성할 계획이다. 머큐리 관계자는 \"히트펌프 사업은 머큐리가 보유한 IoT 및 통신 기술 역량을...",
+          "press": "etoday.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:18",
+          "link": "https://www.etoday.co.kr/news/view/2613065",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[유효상 칼럼] 왜 엔비디아는 '우로보로스(Ouroboros)의 딜레마'에 빠졌...",
+          "summary": "인공지능(AI) 혁명의 중심에 서 있는 엔비디아는 그래픽 처리 장치(GPU) 시장을 사실상 독점하며 전 세계... 닷컴 버블 당시에는 수천억 달러를 들여 전 세계 땅속과 해저에 매설한 대규모 광케이블이 대부분 사용되…",
+          "press": "머니투데이",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 06:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005398111?sid=110",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "글로벌 AI 허브, 국내 유치 경쟁 ‘후끈’",
+          "summary": "부산은 지난해 3월 AI 종합전략을 발표한 데 이어 올해 6월 부산연구원이 해저광케이블·전력 인프라와 항만... 인천은 5월 박찬대 시장이 송도 유치를 공약한 뒤 UN 아시아태평양 경제사회위원회(ESCAP) 등과 협…",
+          "press": "서울신문",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 05:02",
+          "link": "https://n.news.naver.com/mnews/article/081/0003669167?sid=102",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
           "title": "HS효성·코오롱인더, 상반기 호실적...하반기 전망은",
           "summary": "영업이익은 시장 전망치인 784억원을 26% 웃돌았다. 실적 개선은 화학사업이 주도했다. 2분기 화학 부문은... 코오롱인더스트리의 아라미드 사업은 광케이블과 하이브리드 타이어코드 수요 증가에 힘입어 생산·판매...",
           "press": "ekoreanews.co.kr",
@@ -436,50 +502,6 @@
           "date": "2026-08-11",
           "datetime": "2026-08-11 15:14",
           "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260811010003608",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "엔비디아, 월가 710조원 'AI 공장' 자금 플랫폼 띄운다",
-          "summary": "부채·신용시장을 여는 시도가 본격화됐다는 평가가 나온다. 엔비디아는 10일(현지시간) 아폴로글로벌... 데이터센터, 전력 인프라, 광케이블, AI 칩과 서버 등 전 영역에서 '투자 경쟁'이 벌어지는 셈이다. 월가 대…",
-          "press": "newsroad.co.kr",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 12:54",
-          "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=62699",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "SKT, 글로벌 통신사 데이터센터 확장 1위···소프트뱅크·NTT 제쳐",
-          "summary": "광케이블) 계약이, e&는 아랍에미리트(UAE) 푸자이라 스마트허브 증설과 세르비아 40MW 프로젝트가 선정... 대규모 투자 부담에 대한 시장의 우려도 있다. 박종석 SK텔레콤 최고재무책임자(CFO)는 지난 5일 …",
-          "press": "newsfreezone.co.kr",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 09:44",
-          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=703385",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "머큐리, 히트펌프 사업 본격화… 리누오리터와 MOU 맺고 에너지 시장 공...",
-          "summary": "한편 머큐리는 유무선 공유기(AP), 광케이블, 스마트홈·IoT 장비를 전문으로 개발·제조하며 친환경 에너지 솔루션으로 사업 영역을 넓히고 있는 코스닥 상장 정보통신 전문 기업이다.",
-          "press": "머니투데이",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 09:25",
-          "link": "https://n.news.naver.com/mnews/article/008/0005398196?sid=101",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[유효상 칼럼] 왜 엔비디아는 '우로보로스(Ouroboros)의 딜레마'에 빠졌...",
-          "summary": "인공지능(AI) 혁명의 중심에 서 있는 엔비디아는 그래픽 처리 장치(GPU) 시장을 사실상 독점하며 전 세계... 닷컴 버블 당시에는 수천억 달러를 들여 전 세계 땅속과 해저에 매설한 대규모 광케이블이 대부분 사용되…",
-          "press": "머니투데이",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 06:00",
-          "link": "https://n.news.naver.com/mnews/article/008/0005398111?sid=110",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -571,6 +593,28 @@
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "aT등 베트남 시장공략 성과 K-푸드 3538만불 수출 상담",
+          "summary": "농식품부와 aT는 박람회장에 통합한국관을 조성하고 국내 수출기업과 수출협의회 등 26개 업체의 베트남 시장 진출을 지원했다. 한국관에서는 떡볶이, 라면, 유자차, 홍삼·건강식품 등 다양한 K-푸드를 선보이며 현지..…",
+          "press": "jjn.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 17:58",
+          "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1049150",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "aT, 호주서 K-푸드 수출상담회…350만달러 규모 상담 성과",
+          "summary": "현지 대형 유통매장 20여 곳을 운영하는 수입사와 냉면·떡볶이 제품에 대해 100만달러 규모의 수출계약을 체결했으며, 주요 현지 수입사들과도 32만달러 규모의 업무협약(MOU)을 맺었다. 상담회에는 조용운...",
+          "press": "pointdaily.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 16:14",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315095",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
@@ -593,5 +637,5 @@
       ]
     }
   ],
-  "total": 49
+  "total": 53
 }

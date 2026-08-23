@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:50 소급 정리",
+  "generated_at": "2026-08-23 12:16 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,6 +10,28 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
+        {
+          "title": "3G 서비스 역사 속으로… SKT, 23년 만에 신규 가입 중단",
+          "summary": "KT도 정부와 3G 종료를 논의하고 있고, 두 회사가 3G 서비스를 끝내면 SK텔레콤과 KT망을 활용한 알뜰폰 사업자도 3G 운영을 잇따라 중단하게 된다. 통신 업계에선 3G 가입자와 트래픽 감소, LTE·5G 중심…",
+          "press": "세계일보",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 06:03",
+          "link": "https://n.news.naver.com/mnews/article/022/0004152524?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "3G ‘영상통화 시대’ 막 내린다",
+          "summary": "알뜰폰까지 포함해도 국내 3G 회선이 전체 이동통신 회선에서 차지하는 비중은 1%에 못 미친다. 남아 있는 3G 가입자가 LTE·5G로 옮길 경우에는 단말 교체와 요금 할인 등을 받을 수 있다. SK텔레콤은 지정 단…",
+          "press": "서울신문",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 05:03",
+          "link": "https://n.news.naver.com/mnews/article/081/0003672188?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
         {
           "title": "휴넥트, '모빈스 고객센터' 신규 구축",
           "summary": "서울 영등포구 문래동에 문을 연 모빈스 고객센터는 KT 휴대폰 안심케어 서비스 상담을 비롯해 KT그룹 알뜰폰 브랜드인 KT M모바일 고객 상담을 핵심 업무로 삼았다. 또 단말기 분실 및 파손 접수, 필수 서류 확인 …",
@@ -110,34 +132,122 @@
           "subgroup_label": ""
         },
         {
-          "title": "3G 서비스 역사 속으로… SKT, 23년 만에 신규 가입 중단",
-          "summary": "KT도 정부와 3G 종료를 논의하고 있고, 두 회사가 3G 서비스를 끝내면 SK텔레콤과 KT망을 활용한 알뜰폰 사업자도 3G 운영을 잇따라 중단하게 된다. 통신 업계에선 3G 가입자와 트래픽 감소, LTE·5G 중심…",
-          "press": "세계일보",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 06:03",
-          "link": "https://n.news.naver.com/mnews/article/022/0004152524?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "3G ‘영상통화 시대’ 막 내린다",
-          "summary": "알뜰폰까지 포함해도 국내 3G 회선이 전체 이동통신 회선에서 차지하는 비중은 1%에 못 미친다. 남아 있는 3G 가입자가 LTE·5G로 옮길 경우에는 단말 교체와 요금 할인 등을 받을 수 있다. SK텔레콤은 지정 단…",
-          "press": "서울신문",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 05:03",
-          "link": "https://n.news.naver.com/mnews/article/081/0003672188?sid=102",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "영화 개봉 150일 뒤 OTT 공개 ‘홀드백’ 추진… 시민단체 “소비자 배제...",
           "summary": "이어 “극장 측의 영화 티켓 가격 폭리, 이동통신사의 기만적인 영화 티켓 할인 마케팅, 영화계가 개선을 요구해 온 객단가 정상화와 할인 내역 투명성 강화는 문체부의 소극적 태도로 전혀 해결되지 않고 있다”고...",
           "press": "조선비즈",
           "date": "2026-08-21",
           "datetime": "2026-08-21 21:55",
           "link": "https://n.news.naver.com/mnews/article/366/0001187668?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AI-RAN 경쟁, 기술 넘어 검증으로…\"운영 역량이 승부처\"",
+          "summary": "ETRI를 비롯해 통신 3사와 한국정보통신기술협회(TTA), 대학 등이 참여한다. 프로젝트는 체계적으로 이동통신망 데이터를 수집하고 AI 모델을 학습시킨 뒤 AI 기반 RAN의 성능을 검증할 수 있는 가상 네트워크 …",
+          "press": "디지털데일리",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 16:36",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238583?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스타링크 넘어 모바일 시장으로?...스페이스X, 8조 원 주파수 '눈독'",
+          "summary": "이 주파수 대역은 미국 인구 대부분을 커버할 수 있어, 향후 위성 사업자가 지상 네트워크를 구축하고 독자적인 이동통신 서비스를 제공하는 데 핵심적인 자원으로 꼽힙니다. 그레인 매니지먼트 측은 이번 매각을 통해 약..…",
+          "press": "YTN",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 15:56",
+          "link": "https://n.news.naver.com/mnews/article/052/0002396375?sid=104",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이동통신 시장 직접 진출?…스페이스X, 8조원대 美주파수 군침",
+          "summary": "당초 미국 3대 이동통신사인 T-모바일이 스프린트를 인수하면서 승계·보유하고 있었지만, 그레인 매니지먼트와의 주파수 맞교환을 통해 시장에 나오게 됐다. 그레인 매니지먼트 측은 매각을 통해 60억 달러(약 8조원)를.…",
+          "press": "연합뉴스",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 15:10",
+          "link": "https://n.news.naver.com/mnews/article/001/0016263931?sid=104",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"삼성, 올해 애플 제치고 4년 만에 스마트폰 왕좌 탈환 전망\"",
+          "summary": "카운트포인트리서치의 양왕 수석 연구원은 \"삼성의 스마트폰 1위 복귀는 내부 부품 생산 역량, 폭넓은 제품 포트폴리오, 그리고 이동통신사 및 유통업체와 구축한 탄탄한 관계 덕분\"이라고 진단했다. 애플의 경우...",
+          "press": "아주경제",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 15:06",
+          "link": "https://www.ajunews.com/view/20260821142935104",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "한국농어촌공사, 캄보디아 논에 메탄 감축 시범사업 추진",
+          "summary": "또한 메탄 감축 효과의 측정·보고·검증(MRV) 체계를 마련해, 이동통신 앱을 통해 농가가 영농일지와 물관리 입증자료를 제출하도록 한다. 위성 기반 이행 검증 시스템도 개발·적용할 예정이다. 권영준 공사...",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 13:58",
+          "link": "https://n.news.naver.com/mnews/article/014/0005564653?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "법무법인 광장, ALB ‘2026 아시아 최고 사이버 보안·데이터 로펌’ 선...",
+          "summary": "대표적으로 5G 이동통신서비스 이용자들이 국내 이동통신 3사를 상대로 제기한 대규모 손해배상청구 소송에서 최근 전부 승소 판결을 이끌어냈다. 또 이용자들이 개인정보의 가명처리에 대한 처리 정지를...",
+          "press": "헤럴드경제",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 11:11",
+          "link": "https://n.news.naver.com/mnews/article/016/0002686649?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "법무법인 광장, ALB 아시아 사이버보안·데이터 탑 로펌 2026 선정",
+          "summary": "광장 TMT&DPC 그룹은 5G 이동통신서비스 이용자들이 국내 이동통신 3사를 상대로 제기한 대규모 손해배상청구 소송에서 최근 전부 승소 판결을 이끌어낸 바 있다. 이 밖에도 이용자들이 개인정보의...",
+          "press": "머니투데이",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 10:02",
+          "link": "https://n.news.naver.com/mnews/article/008/0005402878?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[로펌라운지] 광장, 'ALB Asia Top Cybersecurity & Data Law Firms 2026' 선...",
+          "summary": "특히 광장 TMT&DPC 그룹은 5G 이동통신서비스 이용자들이 국내 이동통신 3사를 상대로 제기한 대규모 손해배상청구 소송에서 최근 전부 승소 판결을 이끌어낸 바 있다. 이 밖에도 이용자들이 개인정보의...",
+          "press": "아주경제",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 09:24",
+          "link": "https://www.ajunews.com/view/20260821091901438",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"또 왔네\" 스팸 취급받을라…최적요금제 '6개월마다 고지' 실효성은",
+          "summary": "SK텔레콤(017670)·KT(030200)·LG유플러스(032640) 등 이동통신 3사가 대상이다. 제도 운영 방식을 담은 고시안에서는 후불요금제 이용자의 최근 6개월간 음성·문자·데이터 평균 이용량과 최대 이용량…",
+          "press": "뉴스1",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 06:16",
+          "link": "https://n.news.naver.com/mnews/article/421/0009124911?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신망에서 전력·냉각까지… 통신 3사, ‘AI 인프라 종합사업자’로 변...",
+          "summary": "국내 통신 3사가 본업인 이동통신을 넘어 AI데이터센터(AIDC)를 축으로 ‘AI 인프라 종합사업자’로 체질 개선에 나서고 있다. 기존 데이터센터가 서버 공간과 전력을 빌려주는 사업에 가까웠다면, AIDC는 전력..…",
+          "press": "이데일리",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 05:05",
+          "link": "https://n.news.naver.com/mnews/article/018/0006355343?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -187,28 +297,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "AI-RAN 경쟁, 기술 넘어 검증으로…\"운영 역량이 승부처\"",
-          "summary": "ETRI를 비롯해 통신 3사와 한국정보통신기술협회(TTA), 대학 등이 참여한다. 프로젝트는 체계적으로 이동통신망 데이터를 수집하고 AI 모델을 학습시킨 뒤 AI 기반 RAN의 성능을 검증할 수 있는 가상 네트워크 …",
-          "press": "디지털데일리",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 16:36",
-          "link": "https://n.news.naver.com/mnews/article/138/0002238583?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "스타링크 넘어 모바일 시장으로?...스페이스X, 8조 원 주파수 '눈독'",
-          "summary": "이 주파수 대역은 미국 인구 대부분을 커버할 수 있어, 향후 위성 사업자가 지상 네트워크를 구축하고 독자적인 이동통신 서비스를 제공하는 데 핵심적인 자원으로 꼽힙니다. 그레인 매니지먼트 측은 이번 매각을 통해 약..…",
-          "press": "YTN",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 15:56",
-          "link": "https://n.news.naver.com/mnews/article/052/0002396375?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "카운터포인트리서치 \"올해 글로벌 스마트폰 출하량 14%↓...삼성 선두 복...",
           "summary": "카운트포인트리서치 양 왕 수석연구원은 \"삼성의 스마트폰 1위 복귀는 내부 부품 생산 역량, 폭넓은 제품 포트폴리오, 그리고 이동통신사 및 유통업체와 구축한 탄탄한 관계 덕분\"이라고 설명했다. 실제 삼성전자는 이달..…",
           "press": "livebiz.today",
@@ -231,28 +319,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "이동통신 시장 직접 진출?…스페이스X, 8조원대 美주파수 군침",
-          "summary": "당초 미국 3대 이동통신사인 T-모바일이 스프린트를 인수하면서 승계·보유하고 있었지만, 그레인 매니지먼트와의 주파수 맞교환을 통해 시장에 나오게 됐다. 그레인 매니지먼트 측은 매각을 통해 60억 달러(약 8조원)를.…",
-          "press": "연합뉴스",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 15:10",
-          "link": "https://n.news.naver.com/mnews/article/001/0016263931?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"삼성, 올해 애플 제치고 4년 만에 스마트폰 왕좌 탈환 전망\"",
-          "summary": "카운트포인트리서치의 양왕 수석 연구원은 \"삼성의 스마트폰 1위 복귀는 내부 부품 생산 역량, 폭넓은 제품 포트폴리오, 그리고 이동통신사 및 유통업체와 구축한 탄탄한 관계 덕분\"이라고 진단했다. 애플의 경우...",
-          "press": "아주경제",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 15:06",
-          "link": "https://www.ajunews.com/view/20260821142935104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"보문단지 가면 한 끼는 여기서\"…경주 맷돌순두부, 국내산 순두부로 여...",
           "summary": "다만 이동통신·카드 소비 기반 빅데이터를 활용한 분석인 만큼 동일인의 중복 집계 가능성은 존재한다. 맷돌순두부 관계자는 \"여름철 경주와 보문단지를 찾는 방문객에게 지역 식재료를 활용한 순두부 메뉴를 제공하고...",
           "press": "newsroad.co.kr",
@@ -270,72 +336,6 @@
           "date": "2026-08-21",
           "datetime": "2026-08-21 14:38",
           "link": "https://futurechosun.com/?p=158150",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "한국농어촌공사, 캄보디아 논에 메탄 감축 시범사업 추진",
-          "summary": "또한 메탄 감축 효과의 측정·보고·검증(MRV) 체계를 마련해, 이동통신 앱을 통해 농가가 영농일지와 물관리 입증자료를 제출하도록 한다. 위성 기반 이행 검증 시스템도 개발·적용할 예정이다. 권영준 공사...",
-          "press": "파이낸셜뉴스",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 13:58",
-          "link": "https://n.news.naver.com/mnews/article/014/0005564653?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[미국 특징주] 스페이스X·AST '위성 직통' 800MHz 주파수 눈독",
-          "summary": "한 관계자는 800MHz 대역이 지금까지는 지상 이동통신 서비스 용도로만 사용돼 왔지만, 그레인은 위성 서비스와 지상 서비스가 이 대역에서 공존할 수 있다고 자신하고 있다고 전했다. FCC는 지상 통신망의 사각지대를…",
-          "press": "newspim.com",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 13:17",
-          "link": "https://www.newspim.com/news/view/20260821000548",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "CS, SK텔레콤과 5G 광중계기 등 공급 계약 체결",
-          "summary": "계약상대방인 SK텔레콤주식회사의 최근 매출액은 17,099,213,000,000원으로, 이동통신서비스를 주요 사업으로 한다. CS는 SK텔레콤주식회사와 최근 3년간 유사 계약을 이행한 바 있다고 공시했다. 향후 실적…",
-          "press": "topstarnews.net",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 12:32",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16169400",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "삼성전자 올해 애플 제치고 글로벌 스마트폰 출하량 1위 회복 전망, 조사...",
-          "summary": "삼성전자는 자체 부품 생산 역량과 폭넓은 제품군 및 이동통신사와 유통업체 판매망이 강점으로 꼽혔다. 올해 세계 스마트폰 전체 출하량은 지난해보다 14.3% 감소할 것으로 예상됐다. 세계 시장에서 메모리 반도체 품귀.…",
-          "press": "businesspost.co.kr",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 12:06",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445305",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "SK텔레콤, 美앤트로픽 투자 '회수'보다 '선용'…AIDC 성장판 키운다",
-          "summary": "통신업계에서는 SK텔레콤이 기존 이동통신 사업의 성장한계를 넘어설 새로운 축으로 AI 인프라를 키우는 과정에서 앤트로픽과의 관계가 중요한 자산이 될 것으로 보고 있다. 글로벌 AI 기업의 모델을 국내에...",
-          "press": "seouleconews.com",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 11:58",
-          "link": "http://www.seouleconews.com/news/articleView.html?idxno=93225",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "법무법인 광장, ALB ‘2026 아시아 최고 사이버 보안·데이터 로펌’ 선...",
-          "summary": "대표적으로 5G 이동통신서비스 이용자들이 국내 이동통신 3사를 상대로 제기한 대규모 손해배상청구 소송에서 최근 전부 승소 판결을 이끌어냈다. 또 이용자들이 개인정보의 가명처리에 대한 처리 정지를...",
-          "press": "헤럴드경제",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 11:11",
-          "link": "https://n.news.naver.com/mnews/article/016/0002686649?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -397,23 +397,34 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "AI ESS·로봇 붐 올라탄다 … 삼성SDI, 실탄 4.4조 확보 '광폭' 투자",
-          "summary": "배터리도 공급한 바 있다. 배터리 업계 관계자는 \"삼성SDI가 최근 AI 데이터센터 증가에 힘입어 전력용 ESS와 무정전 전원장치 사업을 비롯해 휴머노이드 및 우주항공 등 신규 시장에서도 성과를 내고 있다\"면서...",
-          "press": "biz.newdaily.co.kr",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 18:00",
-          "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100249.html",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "삼성SDI '실탄 4.5조원' 장전…美 생산라인, 전고체 등 투자확대",
           "summary": "0 솔루션 형태로 공급을 개시하는 게 목표다. 폭증하는 AI(인공지능) 데이터센터 시장을 겨냥한 무정전전원장치(UPS) 사업 등도 강화하고 있다. 배터리 업계 관계자는 \"휴머노이드와 우주항공 등 신규 시장까지...",
           "press": "머니투데이",
           "date": "2026-08-21",
           "datetime": "2026-08-21 17:04",
           "link": "https://n.news.naver.com/mnews/article/008/0005403126?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "1년 새 2배 늘어난 AIDC공사...전력·냉각 숙련공 없어 급제동 위기",
+          "summary": "막대한 전력을 안정적으로 공급하려면 수배전설비와 무정전전원장치(UPS), 발전기가 필요하다. GPU에서... 함께 공급하는 고부가가치 사업”이라며 “숙련 인력 확보 여부가 향후 AIDC 시장의 주도권을 가를 것”..…",
+          "press": "이데일리",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 05:05",
+          "link": "https://n.news.naver.com/mnews/article/018/0006355342?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "AI ESS·로봇 붐 올라탄다 … 삼성SDI, 실탄 4.4조 확보 '광폭' 투자",
+          "summary": "배터리도 공급한 바 있다. 배터리 업계 관계자는 \"삼성SDI가 최근 AI 데이터센터 증가에 힘입어 전력용 ESS와 무정전 전원장치 사업을 비롯해 휴머노이드 및 우주항공 등 신규 시장에서도 성과를 내고 있다\"면서...",
+          "press": "biz.newdaily.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 18:00",
+          "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100249.html",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
@@ -474,28 +485,6 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "[AI시승기] 양자가 기적 빌 때, AI는 확률 갱신한다···누가 진짜 슈퍼...",
-          "summary": "반도체와 AI 모델, 데이터센터, AI PC, 광케이블과 위성망은 지구의 연산 구조를 공학적으로 확장한 새로운 계층이다. AI는 생명과 분리된 기술이 아니라 지구가 이어온 연산의 연속선 위에 있다. 여성경제신문 'A…",
-          "press": "womaneconomy.co.kr",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 15:54",
-          "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257617",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[박정식의 국내 주식시황] 글로벌 증시 부진에도 삼성전자, SK하이닉스 ...",
-          "summary": "스콧 베선트 미 재무장관은 바이백 규모가 회당 40억 달러 이상으로 추가 확대될 수 있다고 밝혀 시장... ▷SK하이닉스, 차세대 광 연결 기술 'CPO' 로드맵 제시 속 광통신(광케이블/광섬유 등)/ 통신장비/ 5…",
-          "press": "newsquest.co.kr",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 08:16",
-          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272158",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "통신망에서 전력·냉각까지… 통신 3사, ‘AI 인프라 종합사업자’로 변...",
           "summary": "국내 통신 3사가 본업인 이동통신을 넘어 AI데이터센터(AIDC)를 축으로 ‘AI 인프라 종합사업자’로 체질... 통신사가 보유한 광케이블과 해저케이블 등 네트워크 자원도 경쟁력이다. 분산된 AIDC 사이에서 대규모…",
           "press": "이데일리",
@@ -518,23 +507,34 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
+          "title": "[AI시승기] 양자가 기적 빌 때, AI는 확률 갱신한다···누가 진짜 슈퍼...",
+          "summary": "반도체와 AI 모델, 데이터센터, AI PC, 광케이블과 위성망은 지구의 연산 구조를 공학적으로 확장한 새로운 계층이다. AI는 생명과 분리된 기술이 아니라 지구가 이어온 연산의 연속선 위에 있다. 여성경제신문 'A…",
+          "press": "womaneconomy.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 15:54",
+          "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257617",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[박정식의 국내 주식시황] 글로벌 증시 부진에도 삼성전자, SK하이닉스 ...",
+          "summary": "스콧 베선트 미 재무장관은 바이백 규모가 회당 40억 달러 이상으로 추가 확대될 수 있다고 밝혀 시장... ▷SK하이닉스, 차세대 광 연결 기술 'CPO' 로드맵 제시 속 광통신(광케이블/광섬유 등)/ 통신장비/ 5…",
+          "press": "newsquest.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 08:16",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272158",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
           "title": "위험은 요란하고 기회는 침묵한다…우리가 장기 투자를 놓치는 이유",
           "summary": "당시 정보통신 분야에서는 과잉 투자와 연쇄 파산으로 수십억 달러(약 수조 원)에 이르는 막대한 자본 손실이 발생해 비관론이 시장을 뒤덮었다. 바다 밑과 땅속에 묻힌 광케이블망은 21세기 디지털 경제의 핵심 혈관이..…",
           "press": "g-enews.com",
           "date": "2026-08-21",
           "datetime": "2026-08-21 04:26",
           "link": "https://www.g-enews.com/view.php?ud=20260820175806361fbbec65dfb_1",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "로빈후드 장중 12.98% 상승, 미 크립토주 강세",
-          "summary": "로빈후드와 코인베이스는 가상자산 거래 수요와 연결되는 종목으로 분류되고, 서클은 스테이블코인... 미국 증시에서 거래되는 SK하이닉스는 1.85%, 광통신 관련주 루멘텀($LITE)은 2.01% 상승했다. 가상자산.…",
-          "press": "tokenpost.kr",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 23:10",
-          "link": "https://www.tokenpost.kr/news/market/395157",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -549,6 +549,50 @@
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "반도체 병목 품은 韓…성호전자-ADS테크, 글로벌 증설 경쟁에 수혜",
+          "summary": "AI 데이터센터의 연결 병목 현상이 심화되고 글로벌 광통신 업체들의 증설 경쟁이 본격화됨에 따라, 광트랜시버 및 레이저 부품 업체를 넘어 정밀 제조 장비 업체로 시장의 수요가 확산되는 추세다. 시장조사업체...",
+          "press": "블로터",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 13:00",
+          "link": "https://n.news.naver.com/mnews/article/293/0000089362?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[특집/한국경제] 삼전닉스 호황은 언제까지 갈까",
+          "summary": "수요가 늘면 가격이 올라가고, 기업이 설비 투자를 확대하다 보면 공급 과잉이 일어난다. 이러면 다시... 장비-광통신 장비도 폭발적으로 늘어난다\"고 말했다. SK증권은 최신 반도체 보고서(2026년 5월 7일)에서.…",
+          "press": "조선일보",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 12:22",
+          "link": "https://monthly.chosun.com/news/articleView.html?idxno=71158",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "성호전자-ADS테크, 광통신 낙수효과 본격화…장비 수주 확대",
+          "summary": "인공지능(AI) 데이터센터 확장에 따른 광통신 시장의 성장세가 글로벌 주요 기업들의 실적 및 대규모... 1.6T 광모듈 확산과 초고출력 공동 패키징 광학(CPO) 레이저 수요 증가가 호실적을 이끌었다. 코히런트는.…",
+          "press": "블로터",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 09:55",
+          "link": "https://n.news.naver.com/mnews/article/293/0000089351?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "“처서 매직 온다는데”…복날 끝나도 ‘몸보신’ 열풍, 한우·장어 찾는...",
+          "summary": "서울드래곤시티는 토종닭과 흑삼, 흑화고를 넣은 ‘흑화고 토종 삼계탕’을 온라인 전용 가정간편식으로 출시했다. 호텔에서 먹던 보양 메뉴를 HMR 시장으로 옮긴 사례다. 처서를 기점으로 유통업계의 한우 마케팅은...",
+          "press": "세계일보",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 09:47",
+          "link": "https://n.news.naver.com/mnews/article/022/0004152565?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "건강·웰니스 트렌드와 함께한 2026년 홍콩 식품전시회 참관기",
@@ -595,17 +639,6 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "“처서 매직 온다는데”…복날 끝나도 ‘몸보신’ 열풍, 한우·장어 찾는...",
-          "summary": "서울드래곤시티는 토종닭과 흑삼, 흑화고를 넣은 ‘흑화고 토종 삼계탕’을 온라인 전용 가정간편식으로 출시했다. 호텔에서 먹던 보양 메뉴를 HMR 시장으로 옮긴 사례다. 처서를 기점으로 유통업계의 한우 마케팅은...",
-          "press": "세계일보",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 09:47",
-          "link": "https://n.news.naver.com/mnews/article/022/0004152565?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "더본코리아, 적자 75% 줄이고 북미로…글로벌 사업 기대감에 주가도 '들...",
           "summary": "북미 시장 공략에 속도를 내고 있다. 백종원 대표가 직접 미국과 캐나다 현지를 찾아 외식 브랜드 출점부터 기업간거래(B2B) 소스 유통·생산, 가정간편식(HMR)까지 사업 영역을 넓히면서 해외 사업을 새로운 성장축으…",
           "press": "news2day.co.kr",
@@ -637,6 +670,28 @@
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "무대서 매장으로…CJ, 美 소비를 흔들다",
+          "summary": "30조달러 美 시장, K컬처 시험대 CJ, K뷰티로 ‘주류화’ 승부수 왜 미국일까. 미국은 K콘텐츠와 K소비재가... 2018년 미국 물류기업 DSC로지스틱스, 2019년 냉동식품 기업 슈완스, 이후 글로벌 콘텐츠 …",
+          "press": "매일경제",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 14:16",
+          "link": "https://n.news.naver.com/mnews/article/024/0000107682?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "커진 몸집만으론 안 팔린다…프랜차이즈 M&A의 새 기준 [딜레터]",
+          "summary": "다만 국내 상권에 뿌리내린 외식 프랜차이즈와 해외 유통망·공급망이 관건인 식품 제조·수출업은 자본이 값을 매기는 잣대도, 떠안는 위험도 다른 사업이다. 이 둘을 같은 ‘K-푸드 열풍’으로 묶는 것은 편리한 서사일..…",
+          "press": "헤럴드경제",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 11:13",
+          "link": "https://n.news.naver.com/mnews/article/016/0002686654?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
@@ -659,5 +714,5 @@
       ]
     }
   ],
-  "total": 55
+  "total": 60
 }

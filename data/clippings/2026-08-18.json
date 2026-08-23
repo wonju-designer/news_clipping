@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:50 소급 정리",
+  "generated_at": "2026-08-23 12:16 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -17,6 +17,61 @@
           "date": "2026-08-18",
           "datetime": "2026-08-18 17:09",
           "link": "https://n.news.naver.com/mnews/article/092/0002434279?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'풀MVNO' 정책 암초…설비보유 알뜰폰 줄 이탈",
+          "summary": "정부가 자체 설비를 갖춘 독립형 알뜰폰(풀MVNO) 출현을 겨냥해 파격적인 육성책을 내놓았지만, 정작 시장이... 18일 업계에 따르면 알뜰폰 티플러스를 운영하는 KCT는 가입자위치등록장치(HLR) 운영을 중단하고 …",
+          "press": "전자신문",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 16:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003458303?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“수산물 시세 잡는다”…AI로 가격 예측·수급 이상 체크",
+          "summary": "‘얼굴만 보여주면 카드결제’…LG유플러스(032640), ‘페이스페이’ 결합 알뜰폰 요금제 5종 출시 - 핵심 요약: LG유플러스와 토스모바일이 얼굴인식 결제 서비스 ‘페이스페이’ 혜택을 결합한 알뜰폰 요금제를...",
+          "press": "서울경제",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 10:55",
+          "link": "https://n.news.naver.com/mnews/article/011/0004652568?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 벤츠와 손잡았다···S클래스서 28개 실시간 채널 제공",
+          "summary": "과학기술정보통신부의 무선통신서비스 통계에 따르면, 지난해 11월 기준 LG유플러스 IoT 회선 수는 937만5208개를 기록해 같은 기간 932만6830개를 기록한 MVNO 회선 수를 앞섰다. LG유플러스가 IoT …",
+          "press": "이뉴스투데이",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 09:41",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459982",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이즈비전, 상반기 매출·영업이익 동반 성장",
+          "summary": "알뜰폰(MVNO) 브랜드 '아이즈모바일'을 운영하는 아이즈비전이 상반기 연결 기준 매출액 1000억원, 영업이익... 상반기 연결 실적 개선에는 MVNO 가입자 증가와 디바이스 유통 판매 확대, 자회사 머큐리의 광통…",
+          "press": "머니투데이",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 09:11",
+          "link": "https://n.news.naver.com/mnews/article/008/0005401101?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "모아데이타, 글로벌 통신 SW 강자 넷크래커와 손잡다...통신망에 ‘AI 두...",
+          "summary": "모아데이타는 국내 첫 성공사례(레퍼런스)를 확보하는 대로 타 이동통신사, 통신 계열사, 알뜰폰(MVNO) 사업자 등으로 시장 영토를 다각도로 넓혀갈 방침이다. 모아데이타 관계자는 “글로벌 통신 시장에서 검증된...",
+          "press": "이데일리",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 08:33",
+          "link": "https://n.news.naver.com/mnews/article/018/0006353187?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -39,17 +94,6 @@
           "date": "2026-08-18",
           "datetime": "2026-08-18 16:54",
           "link": "https://www.insidevina.com/news/articleView.html?idxno=43846",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'풀MVNO' 정책 암초…설비보유 알뜰폰 줄 이탈",
-          "summary": "정부가 자체 설비를 갖춘 독립형 알뜰폰(풀MVNO) 출현을 겨냥해 파격적인 육성책을 내놓았지만, 정작 시장이... 18일 업계에 따르면 알뜰폰 티플러스를 운영하는 KCT는 가입자위치등록장치(HLR) 운영을 중단하고 …",
-          "press": "전자신문",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 16:01",
-          "link": "https://n.news.naver.com/mnews/article/030/0003458303?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -88,45 +132,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "“수산물 시세 잡는다”…AI로 가격 예측·수급 이상 체크",
-          "summary": "‘얼굴만 보여주면 카드결제’…LG유플러스(032640), ‘페이스페이’ 결합 알뜰폰 요금제 5종 출시 - 핵심 요약: LG유플러스와 토스모바일이 얼굴인식 결제 서비스 ‘페이스페이’ 혜택을 결합한 알뜰폰 요금제를...",
-          "press": "서울경제",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 10:55",
-          "link": "https://n.news.naver.com/mnews/article/011/0004652568?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "KS인더스트리, 주인 바뀌자 외부감사 '의견거절'...이유는?",
           "summary": "시장에서는 이 같은 의견거절 사유에 대해 감사인이 회계감사를 통해 KS인더스트리의 지속가능한 경영... 그런데 실제 자금집행은 알뜰폰 사업 등을 영위하는 코스닥 상장사 인스코비(현 프리티) 인수에 집중됐다....",
           "press": "financialreview.co.kr",
           "date": "2026-08-18",
           "datetime": "2026-08-18 09:48",
           "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=44242",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+, 벤츠와 손잡았다···S클래스서 28개 실시간 채널 제공",
-          "summary": "과학기술정보통신부의 무선통신서비스 통계에 따르면, 지난해 11월 기준 LG유플러스 IoT 회선 수는 937만5208개를 기록해 같은 기간 932만6830개를 기록한 MVNO 회선 수를 앞섰다. LG유플러스가 IoT …",
-          "press": "이뉴스투데이",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 09:41",
-          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459982",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "아이즈비전, 상반기 매출·영업이익 동반 성장",
-          "summary": "알뜰폰(MVNO) 브랜드 '아이즈모바일'을 운영하는 아이즈비전이 상반기 연결 기준 매출액 1000억원, 영업이익... 상반기 연결 실적 개선에는 MVNO 가입자 증가와 디바이스 유통 판매 확대, 자회사 머큐리의 광통…",
-          "press": "머니투데이",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 09:11",
-          "link": "https://n.news.naver.com/mnews/article/008/0005401101?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -165,12 +176,45 @@
           "subgroup_label": ""
         },
         {
-          "title": "모아데이타, 글로벌 통신 SW 강자 넷크래커와 손잡다...통신망에 ‘AI 두...",
-          "summary": "모아데이타는 국내 첫 성공사례(레퍼런스)를 확보하는 대로 타 이동통신사, 통신 계열사, 알뜰폰(MVNO) 사업자 등으로 시장 영토를 다각도로 넓혀갈 방침이다. 모아데이타 관계자는 “글로벌 통신 시장에서 검증된...",
-          "press": "이데일리",
+          "title": "이재명 1호 공약 '모두의 AI' 프로젝트…이통3사·카카오 등 참여",
+          "summary": "연말까지 본 서비스 모델 출시가 목표인 가운데, 국내 이동통신사와 카카오, 이스트소프트 등을 주축으로 한 총 6개 컨소시엄이 참여의사를 밝혔다. 18일 과학기술정보통신부와 정보통신산업진흥원(nipa)는 '전 국민..…",
+          "press": "머니투데이",
           "date": "2026-08-18",
-          "datetime": "2026-08-18 08:33",
-          "link": "https://n.news.naver.com/mnews/article/018/0006353187?sid=101",
+          "datetime": "2026-08-18 19:12",
+          "link": "https://n.news.naver.com/mnews/article/008/0005401539?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[경제일보] 통신보다 AI가 더 큰다…이통3사, 데이터센터에 미래 건다",
+          "summary": "com 정재헌 SKT CEO가 3일 오후 3시에 경남 진주 경상대에서 진행된 ‘영남권 첨단산업 육성전략 국민보고회’에서 AI 데이터센터 투자 계획을 발표하고 있다.[사진=SK텔레콤] [경제일보] 이동통신 3사의 실적…",
+          "press": "아주경제",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 09:44",
+          "link": "https://www.ajunews.com/view/20260817023352018",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'6000원에 즐기는 디자인 축제'…DDP디자인페어 티켓 18일 오픈",
+          "summary": "핀카와 MNO, 퀘스처너스, 풀밭 등 서울디자인재단이 운영하는 서울디자인창업센터 출신 브랜드와 DDP디자인스토어 입점 브랜드도 참여한다. 대학생 디자이너와 기업을 연결하는 '영디자이너 특별관'도 운영한다....",
+          "press": "뉴스1",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 06:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009117864?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "2026 DDP 디자인페어 '슈퍼얼리버드' 티켓 판매 시작",
+          "summary": "핀카, MNO, 퀘스처너스, 풀밭 등 서울디자인재단이 운영하는 '서울디자인창업센터' 출신 브랜드와 'DDP 디자인스토어' 브랜드도 참여한다. DDP 디자인페어는 10월 14∼25일 DDP와 서울 곳곳에서 개최되는 디…",
+          "press": "연합뉴스",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 06:00",
+          "link": "https://n.news.naver.com/mnews/article/001/0016255241?sid=102",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -198,17 +242,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "이재명 1호 공약 '모두의 AI' 프로젝트…이통3사·카카오 등 참여",
-          "summary": "연말까지 본 서비스 모델 출시가 목표인 가운데, 국내 이동통신사와 카카오, 이스트소프트 등을 주축으로 한 총 6개 컨소시엄이 참여의사를 밝혔다. 18일 과학기술정보통신부와 정보통신산업진흥원(nipa)는 '전 국민..…",
-          "press": "머니투데이",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 19:12",
-          "link": "https://n.news.naver.com/mnews/article/008/0005401539?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "80여 개 브랜드 한자리에 《2026 DDP디자인페어》 10월 개최",
           "summary": "핀카, MNO, 퀘스처너스, 풀밭 등의 브랜드가 제품과 브랜드 성장 과정을 선보일 예정이다. 대학생 디자이너를 위한 프로그램도 마련된다. '영디자이너 특별관'에는 20개 디자인대학팀, 100여 명의 대학생 디자이너가…",
           "press": "handmk.com",
@@ -231,45 +264,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "[경제일보] 통신보다 AI가 더 큰다…이통3사, 데이터센터에 미래 건다",
-          "summary": "com 정재헌 SKT CEO가 3일 오후 3시에 경남 진주 경상대에서 진행된 ‘영남권 첨단산업 육성전략 국민보고회’에서 AI 데이터센터 투자 계획을 발표하고 있다.[사진=SK텔레콤] [경제일보] 이동통신 3사의 실적…",
-          "press": "아주경제",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 09:44",
-          "link": "https://www.ajunews.com/view/20260817023352018",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "2026 DDP 디자인페어 '슈퍼얼리버드' 티켓 판매 시작",
-          "summary": "핀카, MNO, 퀘스처너스, 풀밭 등 서울디자인재단이 운영하는 '서울디자인창업센터' 출신 브랜드와 'DDP 디자인스토어' 브랜드도 참여한다. DDP 디자인페어는 10월 14∼25일 DDP와 서울 곳곳에서 개최되는 디…",
-          "press": "연합뉴스",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 06:00",
-          "link": "https://n.news.naver.com/mnews/article/001/0016255241?sid=102",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'6000원에 즐기는 디자인 축제'…DDP디자인페어 티켓 18일 오픈",
-          "summary": "핀카와 MNO, 퀘스처너스, 풀밭 등 서울디자인재단이 운영하는 서울디자인창업센터 출신 브랜드와 DDP디자인스토어 입점 브랜드도 참여한다. 대학생 디자이너와 기업을 연결하는 '영디자이너 특별관'도 운영한다....",
-          "press": "뉴스1",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 06:00",
-          "link": "https://n.news.naver.com/mnews/article/421/0009117864?sid=102",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "소비자단체 “KT 2000억 규모 공공사업 참여 재검토해야”",
           "summary": "서울YMCA가 파악한 KT의 공공사업 수주 규모는 지난해 4월부터 올해 7월까지 15개 분야, 2000억원 이상이다. 이 가운데 경찰청의 바디캠 도입 사업(약 195억원), 국방부의 국방 5G 인프라 시범사업(약 2…",
           "press": "디지털타임스",
           "date": "2026-08-18",
           "datetime": "2026-08-18 17:44",
           "link": "https://n.news.naver.com/mnews/article/029/0003042919?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "오늘이엔엠, 상반기 매출 96억…전년比 36%↑",
+          "summary": "오늘이엔엠 관계자는 \"글로벌 5G 투자 확대 기조에 맞춰 미국 법인과 본사 안테나 사업부의 수주가 꾸준히 증가하고 있다\"며 \"특히 KT 공급계약 모멘텀을 통해 올 하반기 및 연말 실적 향상이 크게 기대되는 만큼, 성…",
+          "press": "뉴시스",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 09:20",
+          "link": "https://n.news.naver.com/mnews/article/003/0014131952?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -325,17 +336,6 @@
           "date": "2026-08-18",
           "datetime": "2026-08-18 16:20",
           "link": "https://news.dealsitetv.com/articles/174882",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "GS, 발전소·부지 앞세워 AIDC 진입…임차인 확보한 통신사와 다른 방식...",
-          "summary": "SK텔레콤은 AWS와 울산 AIDC 건립 계약을 먼저 체결한 뒤 데이터센터 구축에 나섰고 LG유플러스도 경기 파주... 증권가 역시 GS의 AIDC 사업이 본격화될 경우 실적에도 영향을 줄 것으로 보고 있다. 장기적…",
-          "press": "popcornnews.net",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 16:02",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=130026",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -464,13 +464,68 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "산업硏,「AI 시대 주목받는 광섬유, 한국의 현주소와 과제」보고서 발표",
-          "summary": "AI가 키운 프리미엄 광섬유 시장, 한국은 범용에 머물러 고부가 프리폼 제조역량 확보 시급 - 2025년 AI용 케이블 수요 전년 대비 77% 증가, 2029년까지 연평균 26% 성장 전망, 글로벌 광섬유 가격지수도…",
-          "press": "ifs.or.kr",
+          "title": "한미반도체 AI발 수요 대비 6천여평 최대규모 공장 매입",
+          "summary": "한미반도체는 인천 주안국가산업단지에 위치한 6230평 규모 공장을 (주)머큐리로부터 매입해 8공장으로 구축한다고 18일 밝혔다. 한미반도체가 보유한 공장 가운데 가장 큰 규모다. 8공장에는 공장 매입 비용 560억원…",
+          "press": "매일경제",
           "date": "2026-08-18",
-          "datetime": "2026-08-18 21:00",
-          "link": "http://www.ifs.or.kr/bbs/board.php?bo_table=research&wr_id=11364",
-          "badge": "산업",
+          "datetime": "2026-08-18 18:03",
+          "link": "https://n.news.naver.com/mnews/article/009/0005722540?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, 1300억 들여 신규 팹 구축",
+          "summary": "이날 한미반도체는 인천 주안국가산업단지에 있는 통신기기 제조사 머큐리의 공장을 매입한다고 공시했다. 공장 크기는 2만600㎡다. 한미반도체는 이 공장을 리모델링해 첨단 반도체 장비를 생산하는 신공장(8공장)...",
+          "press": "한국경제",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 17:38",
+          "link": "https://n.news.naver.com/mnews/article/015/0005322057?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, 1300억 투입해 대규모 신규 팹 구축",
+          "summary": "이날 한미반도체는 인천 주안국가산업단지에 있는 통신기기 제조사 머큐리의 공장을 매입한다고 공시했다. 공장 크기는 2만600㎡(약 6230평)다. 한미반도체는 이 공장을 리모델링해 첨단 반도체 장비를 생산하는...",
+          "press": "한국경제",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 16:17",
+          "link": "https://n.news.naver.com/mnews/article/015/0005322000?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "영국이 띄운 ‘AI 성장구역’…3억파운드·3400개 일자리",
+          "summary": "델도 라나크셔 AI 혁신단지의 머큐리하우스로 스코틀랜드팀을 이전한다. 델은 현지 AI 기업·기관과 협력을 확대하고 고객사의 AI 도입을 지원할 계획이다. 영국 정부는 델 이전으로 고숙련 일자리가 생길 것이라고...",
+          "press": "이데일리",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 16:13",
+          "link": "https://n.news.naver.com/mnews/article/018/0006353598?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, 인천 제8공장 부지 6230평 '1300억원' 매입",
+          "summary": "한미반도체는 머큐리로부터 인천 주안국가산업단지에 위치한 토지면적 6230평 규모의 공장을 매입해 8공장으로 구축한다고 밝혔다. 이는 한미반도체가 보유한 공장 중에서 역대 최대 면적이다. 8공장에는 매입 비용...",
+          "press": "전자신문",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 16:06",
+          "link": "https://n.news.naver.com/mnews/article/030/0003458312?sid=105",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, 창사 최대 규모 2만㎡ 공장 부지 매입... \"장비 공급 적기에...",
+          "summary": "한미반도체는 ㈜머큐리로부터 인천 주안국가산업단지 부지 2만여 ㎡, 건물 면적 2만5,000여 ㎡ 공장을 매입해 8공장으로 구축한다고 밝혔다. 한미반도체 공장 중 역대 최대 면적이다. 한미반도체는 매입 비용 560억.…",
+          "press": "한국일보",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 15:28",
+          "link": "https://n.news.naver.com/mnews/article/469/0000948625?sid=105",
+          "badge": "자사",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
@@ -481,39 +536,6 @@
           "date": "2026-08-18",
           "datetime": "2026-08-18 16:23",
           "link": "https://n.news.naver.com/mnews/article/138/0002238142?sid=105",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "광섬유 수요 폭증하는데 프리미엄은 해외 의존…‘광망 강국’의 역설",
-          "summary": "프리미엄 시장으로 올라오고 있다. 국내에서는 LS전선과 대한광통신이 주요 광섬유 생산업체다. 이 가운데 프리폼부터 광섬유와 광케이블까지 일관 생산할 수 있는 곳은 사실상 대한광통신 한 곳이다. LS전선은...",
-          "press": "thepowernews.co.kr",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 15:40",
-          "link": "https://www.thepowernews.co.kr/view.php?ud=202608181510224694de3f0aa1be_7",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "AI 투자 확산에 '광섬유' 수요 크게 늘었으나 韓 경쟁력은 '미비'",
-          "summary": "실제로 광섬유 케이블 시장은 상위 5개사(프리즈미안·코닝·스미토모·후루카와·YOFC)가 2025년 매출의 약 45%를 점유하는 과점 구조를 가진 것으로 나타났다. 반면 국내에서 프리폼 생산이 가능한 기업은 대한광통신…",
-          "press": "todaykorea.co.kr",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 10:56",
-          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=405005",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "2000억달러 대미투자 협상 난항…관세 리스크 커지나",
-          "summary": "일본의 정부 부채 비율은 국내총생산(GDP)의 260%를 웃돌아 세계 최고 수준이며, 17일 일본 채권시장에서... 광케이블 수요는 지난해 77% 성장한 데 이어 2029년까지 연평균 26% 성장할 것으로 전망됐다.…",
-          "press": "서울경제",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 10:55",
-          "link": "https://n.news.naver.com/mnews/article/011/0004652571?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -530,37 +552,26 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "대한광통신, 올 2분기 영업익 9억 기록...흑자전환 성공",
-          "summary": "이어 \"하반기에는 864심 광케이블 매출 인식이 확대되고 추가 인상된 판매 가격도 반영될 예정\"이라며 \"증가하는 시장 수요에 대응해 실적 성장세를 이어갈 것\"이라고 덧붙였다.",
-          "press": "newspim.com",
+          "title": "2000억달러 대미투자 협상 난항…관세 리스크 커지나",
+          "summary": "일본의 정부 부채 비율은 국내총생산(GDP)의 260%를 웃돌아 세계 최고 수준이며, 17일 일본 채권시장에서... 광케이블 수요는 지난해 77% 성장한 데 이어 2029년까지 연평균 26% 성장할 것으로 전망됐다.…",
+          "press": "서울경제",
           "date": "2026-08-18",
-          "datetime": "2026-08-18 10:52",
-          "link": "https://www.newspim.com/news/view/20260818000566",
+          "datetime": "2026-08-18 10:55",
+          "link": "https://n.news.naver.com/mnews/article/011/0004652571?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "대한광통신, 연속 오름세",
-          "summary": "대한광통신은 광섬유와 광케이블 등을 주요 사업 영역으로 두고 있다. 광통신 관련주는 통신망 고도화와 데이터센터 투자, 초고속 네트워크 구축 등 통신 인프라 투자 흐름에 따라 시장에서 움직임이 커지는 경우가...",
-          "press": "cbci.co.kr",
+          "title": "대한광통신, 2Q 영업익·순익 흑자전환…북미 매출 비중 46%",
+          "summary": "광섬유·광케이블 전문기업 대한광통신(010170)이 북미 시장 매출 확대와 광섬유 판매가격 상승에 힘입어 올해 2분기 영업이익과 당기순이익을 흑자전환했다고 18일 밝혔다. 대한광통신 CI.(사진=대한광통신)...",
+          "press": "이데일리",
           "date": "2026-08-18",
-          "datetime": "2026-08-18 10:24",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=598917",
+          "datetime": "2026-08-18 10:18",
+          "link": "https://n.news.naver.com/mnews/article/018/0006353326?sid=101",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "더본코리아, 캐나다 썬레이그룹과 외식사업 협력…'탕수육 소스' 美 생...",
-          "summary": "이밖에 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진하고, 현지 소비 방식과 입맛을 반영한 제품 개발, 협력 기업이 보유한 생산·유통망을 활용한 북미 일반 소비자 시장까지 사업 범위를 넓히겠다는 다양한..…",
-          "press": "newsworks.co.kr",
-          "date": "2026-08-18",
-          "datetime": "2026-08-18 22:20",
-          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850735",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "[위클리AI] 오픈AI, 챗GPT 광고 한국 포함 5개국으로 확대 외",
@@ -585,56 +596,89 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "더본코리아, 캐나다 외식매장 연다⋯美선 '홍콩반점 소스' 현지 생산",
-          "summary": "소스에서 한발 더 나아가 북미 시장용 가정간편식(HMR)도 공동 개발하고 있다. 현지 소비 방식과 입맛을 반영한 제품을 만들고 협력 기업의 생산·유통망을 활용해 일반 소비자 시장까지 사업 범위를 넓히는 구상이다...…",
-          "press": "autodaily.co.kr",
+          "title": "올 들어 K푸드 FDA 통관 거부 급증.. 식품업계, 美 영토 확장 빨간불",
+          "summary": "현재 CJ제일제당, 풀무원 등 주요 식품 기업들은 북미 시장 주도권을 확보하기 위해 공격적인 투자를... 수입 거부 결정이 내려진 품목은 냉동 간편식(HMR)부터 주스, 팽이버섯 등 신선·가공식품 전반에 걸쳐 폭넓게…",
+          "press": "파이낸셜뉴스",
           "date": "2026-08-18",
-          "datetime": "2026-08-18 18:26",
-          "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546714",
+          "datetime": "2026-08-18 14:16",
+          "link": "https://n.news.naver.com/mnews/article/014/0005562892?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "[유통가 NOW] CJ제일제당 케이콘 비비고 부스·하이트진로 다저스 시구…...",
-          "summary": "미국 시장 인기 제품인 비비고 미니완톤과 스파이시 김치라면, K-소스 3종을 시식 메뉴로 제공했다. 글로벌... 탕수육 소스를 첫 생산 품목으로 정했고 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 협의 중이다…",
-          "press": "ekn.kr",
+          "title": "백종원 '더본코리아', 북미사업 확대에 장 초반 25% 급등",
+          "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고, 협력 기업이 보유한 생산·유통망을 활용해 북미 일반 소비자 시장까지 사업 범위를 넓힌다는...",
+          "press": "뉴시스",
           "date": "2026-08-18",
-          "datetime": "2026-08-18 18:02",
-          "link": "https://www.ekn.kr/web/view.php?key=20260818020173796",
+          "datetime": "2026-08-18 10:11",
+          "link": "https://n.news.naver.com/mnews/article/003/0014132172?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "제주 메밀, 간편식 시장 노린다",
-          "summary": "내년에는 올해 개발한 조리법과 제주 향토음식을 토대로 밀키트 개발에 나선다. 도민과 관광객을 대상으로 수요를 조사하고 국내외 메밀 가공품 시장과 소비 동향을 분석해 시제품 3건을 개발할 계획이다. 이후 기호도와...",
-          "press": "fsnews.co.kr",
+          "title": "더본코리아, 캐나다 썬레이그룹과 MOU…외식·소스 시장 공략",
+          "summary": "또 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고, 협력 기업의 생산·유통망을 활용해 일반 소비자 시장으로 사업 범위를 넓힌다는 구상이다. 백...",
+          "press": "연합뉴스",
           "date": "2026-08-18",
-          "datetime": "2026-08-18 17:30",
-          "link": "http://www.fsnews.co.kr/news/articleView.html?idxno=61922",
+          "datetime": "2026-08-18 10:11",
+          "link": "https://n.news.naver.com/mnews/article/001/0016255679?sid=103",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "흑자 흐름 굳힌 컬리…다시 떠오른 IPO 가능성",
-          "summary": "주력 사업인 마켓컬리 거래액은 신선식품과 가정간편식(HMR) 판매 증가에 힘입어 25.7% 증가했다. 뷰티컬리... 컬리는 4조원대 기업가치를 인정받으며 IPO 시장의 대어로 주목받았지만 이커머스 시장 부진과 투자심…",
-          "press": "lkp.news",
+          "title": "더본코리아, 북미 사업 확대 나선다… 캐나다 매장 출점·TBK 소스 유통",
+          "summary": "캐나다 시장에서 TBK 소스의 유통 기반을 확보한다는 계획이다. 미국에서는 현지 종합식품기업과 협력해... 북미 소비자를 겨냥한 가정간편식(HMR) 공동 개발도 추진한다. 현지 소비 방식과 입맛에 맞춘 제품을 개발하…",
+          "press": "조선비즈",
           "date": "2026-08-18",
-          "datetime": "2026-08-18 17:18",
-          "link": "http://www.lkp.news/news/articleView.html?idxno=83016",
+          "datetime": "2026-08-18 09:47",
+          "link": "https://n.news.naver.com/mnews/article/366/0001186767?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "컬리, 실적 성장세 '흑자 안착'···IPO 향해 \"몸집 키운다\"",
-          "summary": "신선식품과 가정간편식(HMR) 등의 판매량 증가가 거래액 확대에 영향을 미쳤다는 게 회사 측 설명이다. 뷰티... 컬리는 2022년 유가증권시장 상장을 추진해 한국거래소의 상장예비심사를 통과했지만 이듬해 증시 부진과…",
-          "press": "finomy.com",
+          "title": "더본코리아, 캐나다 썬레이그룹과 MOU…북미사업 실행 단계 돌입",
+          "summary": "또한 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고, 협력 기업이 보유한 생산·유통망을 활용해 북미 일반 소비자 시장까지 사업 범위를 넓힌다는...",
+          "press": "아이뉴스24",
           "date": "2026-08-18",
-          "datetime": "2026-08-18 17:04",
-          "link": "http://www.finomy.com/news/articleView.html?idxno=259350",
+          "datetime": "2026-08-18 09:27",
+          "link": "https://n.news.naver.com/mnews/article/031/0001050279?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "백종원 대표, 캐나다 기업과 손 잡았다…북미 사업 속도",
+          "summary": "더본코리아는 해당 기업의 미국 생산시설을 북미 시장 확대를 위한 공급 거점으로 활용할 방침이다. 북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진 중이다. 더본코리아 관계자는 \"더본코리아의 브랜드와 제품...",
+          "press": "디지털데일리",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 09:24",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238061?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "더본코리아, 북미 소스 사업 본격화 기대에 17%↑[특징주]",
+          "summary": "북미 소비자를 겨냥한 가정간편식(HMR) 공동개발도 추진한다. 현지 소비 방식과 입맛에 맞는 제품을 개발하고 협력사의 생산·유통망을 통해 외식뿐 아니라 일반 소비자 시장까지 공략한다는 구상이다. 백종원...",
+          "press": "이데일리",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 09:18",
+          "link": "https://n.news.naver.com/mnews/article/018/0006353256?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "캐나다 찍고 미국 가더니…백종원, 북미에서 '소스사업' 판 키운다",
+          "summary": "북미 소비자를 겨냥한 HMR(가정간편식) 공동 개발도 추진한다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고 협력 기업의 생산·유통망을 활용해 일반 소비자 시장까지 사업을 확대할 계획이다. 더본코리아 관계자는..…",
+          "press": "머니투데이",
+          "date": "2026-08-18",
+          "datetime": "2026-08-18 09:09",
+          "link": "https://n.news.naver.com/mnews/article/008/0005401096?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -660,5 +704,5 @@
       ]
     }
   ],
-  "total": 55
+  "total": 59
 }

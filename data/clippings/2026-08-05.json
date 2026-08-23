@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:50 소급 정리",
+  "generated_at": "2026-08-23 12:16 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,6 +10,17 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
+        {
+          "title": "해킹 비용 털어낸 SKT, 2분기 영업익 67% ↑…AI 데이터센터 매출 92.5% 급...",
+          "summary": "알뜰폰을 제외한 가입자당평균매출(ARPU)은 2만9098원으로 전년 동기보다 0.1% 증가했다. 전 분기 2만9103원과 비교하면 사실상 제자리걸음 수준이다. 휴대전화 가입자는 2197만명으로 전년 동기 대비 1만4…",
+          "press": "뉴시스",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 09:38",
+          "link": "https://n.news.naver.com/mnews/article/003/0014108933?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
         {
           "title": "[통신 브리핑] SK텔레콤·KT·LG유플러스",
           "summary": "AI 데이터센터(DC) 사업은 SKT 사업 영역 중 가장 빠르게 성장하고 있다. 2분기 AI DC 매출은 전년 동기 대비... [사진 = LG유플러스 제공] ◇ LG유플러스, 알뜰폰 전용 혜택 프로그램 '알닷클럽' …",
@@ -121,17 +132,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "해킹 비용 털어낸 SKT, 2분기 영업익 67% ↑…AI 데이터센터 매출 92.5% 급...",
-          "summary": "알뜰폰을 제외한 가입자당평균매출(ARPU)은 2만9098원으로 전년 동기보다 0.1% 증가했다. 전 분기 2만9103원과 비교하면 사실상 제자리걸음 수준이다. 휴대전화 가입자는 2197만명으로 전년 동기 대비 1만4…",
-          "press": "뉴시스",
-          "date": "2026-08-05",
-          "datetime": "2026-08-05 09:38",
-          "link": "https://n.news.naver.com/mnews/article/003/0014108933?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "비수기 뚫고 번호이동 60만 건… 갤Z8·아이폰 출격에 경쟁 격화 예고",
           "summary": "◆엇갈린 이통 3사 성적표… SKT 순증 1위, KT는 이탈 가속화 지난달 통신사별 성적표는 엇갈렸다. SK텔레콤과... ◆알뜰폰, '데이터 안심옵션' 도매 제공으로 대응 및 반격 나서 이통3사의 프로모션과 요금제 …",
           "press": "ftoday.co.kr",
@@ -149,6 +149,28 @@
           "date": "2026-08-05",
           "datetime": "2026-08-05 07:26",
           "link": "https://www.newsway.co.kr/news/view?ud=2026080417203287741",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[아주증시포커스] 단일종목 레버리지 규제 '풍선효과'? 모처럼 훈풍 불...",
+          "summary": "- 8월과 9월은 각각 작년 SKT 통신요금 인하 기저효과와 추석 영향으로 소비자물가 상승률이 3.4%와 3.1%로 올라설 전망. - 4분기 들어 원유 도입 가격 하락과 운송비 안정화로 소비자물가 상승률이 2.5% …",
+          "press": "아주경제",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 07:42",
+          "link": "https://www.ajunews.com/view/20260804170647014",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "물가 2%대 내렸는데…근원물가 31개월 최고, 한은 '8월 연속 인상' 기로",
+          "summary": "이어 \"8~9월 물가 상승률은 작년 통신요금 인하의 기저효과, 추석 영향으로 각각 3.4%, 3.1%까지 올라설 전망이나, 4분기 들어 원유 도입 가격 하락 등에 따라 2.5% 수준까지 내려올 것\"이라고 예상했다. …",
+          "press": "뉴스1",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 06:05",
+          "link": "https://n.news.naver.com/mnews/article/421/0009097368?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -242,28 +264,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "[아주증시포커스] 단일종목 레버리지 규제 '풍선효과'? 모처럼 훈풍 불...",
-          "summary": "- 8월과 9월은 각각 작년 SKT 통신요금 인하 기저효과와 추석 영향으로 소비자물가 상승률이 3.4%와 3.1%로 올라설 전망. - 4분기 들어 원유 도입 가격 하락과 운송비 안정화로 소비자물가 상승률이 2.5% …",
-          "press": "아주경제",
-          "date": "2026-08-05",
-          "datetime": "2026-08-05 07:42",
-          "link": "https://www.ajunews.com/view/20260804170647014",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "물가 2%대 내렸는데…근원물가 31개월 최고, 한은 '8월 연속 인상' 기로",
-          "summary": "이어 \"8~9월 물가 상승률은 작년 통신요금 인하의 기저효과, 추석 영향으로 각각 3.4%, 3.1%까지 올라설 전망이나, 4분기 들어 원유 도입 가격 하락 등에 따라 2.5% 수준까지 내려올 것\"이라고 예상했다. …",
-          "press": "뉴스1",
-          "date": "2026-08-05",
-          "datetime": "2026-08-05 06:05",
-          "link": "https://n.news.naver.com/mnews/article/421/0009097368?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "우리은행, 갤럭시 자급제 전용 요금제 출시…최대 60만원 혜택 제공",
           "summary": "이번 요금제의 핵심은 자급제 갤럭시 스마트폰을 등록한 구매자에게 요금제에 따라 매월 최대 2만5000 삼성월렛 포인트를 24개월간 제공한다는 점이다. 구매자는 총 60만원 상당의 혜택을 단말 구매 시점뿐 아니라 이용…",
           "press": "bizwnews.com",
@@ -297,6 +297,17 @@
       "digest": "",
       "articles": [
         {
+          "title": "글로벌 EV 완성차 투자 재개 기대… 2차전지 밸류체인 일제히 '환호성'",
+          "summary": "파워넷, 한빛레이저, 레몬, 새빗켐, 메가터치, 솔브레인, 인텍플러스, TCC스틸, 에이프로, 한솔케미칼 등 핵심... 단순한 유동성 장세를 넘어 향후 본격화될 주요 셀업체들의 CAPEX(설비투자) 집행 재개 시 실…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 10:58",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474526",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
           "title": "젠슨 황 찜한 'CPO' 세계 1위… 성호전자 ADS테크, 美서 235억원 수주 '전...",
           "summary": "액티브 얼라인먼트는 광섬유, 렌즈, 레이저를 고도로 정렬하는 핵심 공정으로, ADS테크가 글로벌 시장... 성호전자는 콘덴서 및 전원공급장치(PSU) 전문기업으로, 세계 1위 액티브 얼라인먼트 기술력을 보유한 광통신…",
           "press": "머니투데이",
@@ -319,17 +330,6 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "글로벌 EV 완성차 투자 재개 기대… 2차전지 밸류체인 일제히 '환호성'",
-          "summary": "파워넷, 한빛레이저, 레몬, 새빗켐, 메가터치, 솔브레인, 인텍플러스, TCC스틸, 에이프로, 한솔케미칼 등 핵심... 단순한 유동성 장세를 넘어 향후 본격화될 주요 셀업체들의 CAPEX(설비투자) 집행 재개 시 실…",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-05",
-          "datetime": "2026-08-05 10:58",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474526",
-          "badge": "자사",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "솔루엠, AI 데이터센터용 파워 사업 본격 확대…전성호 대표 “지속 성...",
           "summary": "생성형 AI 확산으로 데이터센터의 전력 수요가 급증하는 가운데, 솔루엠은 800Vdc급 고전압 직류(HVDC) DC-DC 컨버터를 개발하고 있으며, 글로벌 하이퍼스케일 데이터센터 사업자용 공급망 진입을 추진 중이다.…",
           "press": "전자신문",
@@ -341,13 +341,13 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "[급등락주 짚어보기] 美 규제로 광통신 훈풍 탄 코스닥⋯빛과전자·오이...",
-          "summary": "유티아이(2665원)의 주가가 가격제한폭까지 치솟았다. 유티아이는 이날 약 30억원 규모의 운영자금을... 광통신은 빛을 이용해 데이터를 전송하는 통신 기술로, 광섬유와 광케이블을 통해 대용량 데이터를 고속...",
-          "press": "etoday.co.kr",
+          "title": "초고속 광통신·RF 부품·위성통신 모멘텀 가속… 통신장비 관련주 '함박...",
+          "summary": "통신용 반도체 및 광모듈 관련 기업인 자람테크놀로지, 우리로, 빛샘전자, 머큐리, 기가레인, RFHIC 등도 강한 상승 곡선을 그리고 있다. AI 데이터센터 내부 통신 트래픽 급증 및 글로벌 통신망 투자 재개 기대감…",
+          "press": "pinpointnews.co.kr",
           "date": "2026-08-05",
-          "datetime": "2026-08-05 17:12",
-          "link": "https://www.etoday.co.kr/news/view/2611419",
-          "badge": "산업",
+          "datetime": "2026-08-05 09:40",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474479",
+          "badge": "자사",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
@@ -358,6 +358,17 @@
           "date": "2026-08-05",
           "datetime": "2026-08-05 15:29",
           "link": "https://n.news.naver.com/mnews/article/023/0003991474?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[급등락주 짚어보기] 美 규제로 광통신 훈풍 탄 코스닥⋯빛과전자·오이...",
+          "summary": "유티아이(2665원)의 주가가 가격제한폭까지 치솟았다. 유티아이는 이날 약 30억원 규모의 운영자금을... 광통신은 빛을 이용해 데이터를 전송하는 통신 기술로, 광섬유와 광케이블을 통해 대용량 데이터를 고속...",
+          "press": "etoday.co.kr",
+          "date": "2026-08-05",
+          "datetime": "2026-08-05 17:12",
+          "link": "https://www.etoday.co.kr/news/view/2611419",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -392,17 +403,6 @@
           "datetime": "2026-08-05 00:40",
           "link": "https://www.cbci.co.kr/news/articleView.html?idxno=594533",
           "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "초고속 광통신·RF 부품·위성통신 모멘텀 가속… 통신장비 관련주 '함박...",
-          "summary": "통신용 반도체 및 광모듈 관련 기업인 자람테크놀로지, 우리로, 빛샘전자, 머큐리, 기가레인, RFHIC 등도 강한 상승 곡선을 그리고 있다. AI 데이터센터 내부 통신 트래픽 급증 및 글로벌 통신망 투자 재개 기대감…",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-05",
-          "datetime": "2026-08-05 09:40",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474479",
-          "badge": "자사",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
         }

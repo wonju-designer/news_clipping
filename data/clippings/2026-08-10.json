@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:50 소급 정리",
+  "generated_at": "2026-08-23 12:16 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,6 +10,28 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
+        {
+          "title": "대포폰 막자 '원스트라이크아웃'… 알뜰폰·유통점 \"처벌만이 능사냐\"",
+          "summary": "줄어들겠느냐\"며 \"일부 알뜰폰 사업자와 판매점이 문제를 일으킨 것은 맞지만 업계 전체를 대상으로 제재를 강화하는 방향은 옳지 않다\"고 말했다. 휴대폰 유통점 관계자도 \"처벌만이 능사는 아니다\"며 \"시장 활성화...",
+          "press": "IT조선",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 16:44",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167722",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"번호이동 시장 '폴드8'이 살린다\"···더 뜨거워지는 8월 통신업계",
+          "summary": "갤럭시Z8 흥행이 단순한 단말기 판매 증가를 넘어 이동통신 3사의 가입자 점유율 경쟁으로 번지는 셈이다. 알뜰폰 업계도 신형 폴더블 스마트폰 출시 효과를 기대하고 있다. 최근 정부가 알뜰폰의 경쟁력을 높이기 위한..…",
+          "press": "이뉴스투데이",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 14:20",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457493",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
         {
           "title": "[금융] iM뱅크 어린이 미술대회 / iM뱅크 고졸 취업지원 / 미래에셋증권...",
           "summary": "글로벌 휴머노이드 출하량 1위 기업 애지봇과 라이다 시장 선도기업 로보센스를 현지 취재하고, 주요... ◼︎ 우리은행, 청년 알뜰폰 요금제 혜택 확대 우리은행이 알뜰폰 서비스 '우리WON모바일'의 청년 고객을...",
@@ -66,34 +88,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "대포폰 막자 '원스트라이크아웃'… 알뜰폰·유통점 \"처벌만이 능사냐\"",
-          "summary": "줄어들겠느냐\"며 \"일부 알뜰폰 사업자와 판매점이 문제를 일으킨 것은 맞지만 업계 전체를 대상으로 제재를 강화하는 방향은 옳지 않다\"고 말했다. 휴대폰 유통점 관계자도 \"처벌만이 능사는 아니다\"며 \"시장 활성화...",
-          "press": "IT조선",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 16:44",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167722",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "알뜰폰 5G 도매대가 내린다더니…고가 요금제는 '쏙'",
           "summary": "이번 알뜰폰 대책은 앙꼬 없는 찐빵인 셈\"이라고 말했다.■ 부분·풀 MVNO 키운다지만…도매대가 기준은 빠져현재 정부의 알뜰폰 육성 계획도 구체적인 지원 내용이 드러나지 않아 아쉬운 상황이다. 정부는 일부 통신...",
           "press": "news.mtn.co.kr",
           "date": "2026-08-10",
           "datetime": "2026-08-10 16:28",
           "link": "https://news.mtn.co.kr/news-detail/2026081014160469372",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"번호이동 시장 '폴드8'이 살린다\"···더 뜨거워지는 8월 통신업계",
-          "summary": "갤럭시Z8 흥행이 단순한 단말기 판매 증가를 넘어 이동통신 3사의 가입자 점유율 경쟁으로 번지는 셈이다. 알뜰폰 업계도 신형 폴더블 스마트폰 출시 효과를 기대하고 있다. 최근 정부가 알뜰폰의 경쟁력을 높이기 위한..…",
-          "press": "이뉴스투데이",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 14:20",
-          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457493",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -286,6 +286,50 @@
           "subgroup_label": "파워넷"
         },
         {
+          "title": "고성능 RF 부품 수요 폭발… RF머트리얼즈, 통신 반도체 수혜 기대",
+          "summary": "5G 및 6G 통신 인프라와 방산용 고성능 통신 장비 시장이 확대되면서, 고출력·고주파 환경을 견뎌내는 RF... 센서뷰, 피노, RFHIC, 코위버, 빛샘전자, 쏘닉스, 우리로, 서진시스템, 머큐리, 케이엠더블유,…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 11:14",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475867",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[특징주] 대한광통신, 美 중국산 광트랜시버 규제 추진에 23%대 급등",
+          "summary": "같은 테마로 묶이는 성호전자, RF머트리얼즈, 서울바이오시스, 파이버프로, RFHIC, 머큐리, LS, 우리넷 등도 동반 강세다. 주가를 자극한 것은 미국 연방통신위원회(FCC)가 중국산 신형 광트랜시버의 미국 수입…",
+          "press": "tokenpost.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 10:48",
+          "link": "https://www.tokenpost.kr/news/economy/387320",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[특징주] 美 중국산 광트랜시버 규제 추진에 대한광통신 등 광통신株 강...",
+          "summary": "이와함께 RFHIC는 전 거래일 대비 9.60%(4650원) 오른 5만3100원에 거래되고 있으며 머큐리(6.04%), LS(5.84%), 우리넷(5.16%) 등 광통신 및 통신장비 관련 종목이 동반 강세를 나타내고…",
+          "press": "etoday.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 10:12",
+          "link": "https://www.etoday.co.kr/news/view/2612680",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "글로벌 통신망·데이터센터 증설 열풍… 광통신 밸류체인 수급 몰렸다",
+          "summary": "자람테크놀로지, 한국첨단소재, 우리넷, 머큐리, 티엠씨, 라이콤, 빛과전자 등이 일제히 우상향 곡선을 그리며 거래를 이어가는 중이다. AI 데이터센터 내부 서버 간 연결뿐만 아니라 5G·6G 네트워크 고도화에 따른 …",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 10:04",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475823",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
           "title": "상반기 中 생성형 AI 분야 신설 기업 28% 증가",
           "summary": "중국 시장감독관리총국이 발표한 자료에 따르면 상반기 중국에 신설된 ‘8대 신흥산업+9대 미래산업’... 그중 우주선 및 운반로켓 제조업의 신설 기업은 185.7% 증가했고, 광섬유·광케이블 제조업은 129.4% 늘었…",
           "press": "kr.people.com.cn",
@@ -352,34 +396,23 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "대한광통신·광전자 동반 주가 급등…AI 데이터센터 '구리에서 빛으로'...",
-          "summary": "특히 시장의 관심은 단순 광케이블을 넘어 '실리콘 포토닉스'와 CPO(Co-Packaged Optics·공동패키징광학) 분야로 확대되고 있다. 실리콘 포토닉스는 반도체 제조 기술을 활용해 빛을 생성·전송·변조하는 광…",
-          "press": "cbci.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 14:04",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=596691",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "티엠씨, 코닝·암페놀 AI 데이터센터 프로젝트 협의 지속…광케이블 생...",
-          "summary": "이에 따라 AI 데이터센터 구축에 필요한 광통신 네트워크와 광케이블 시장도 함께 성장할 것으로 업계는 보고 있다. 티엠씨는 올해 암페놀에 광통신 케이블 초도 물량을 공급하며 미국 광통신 공급망에 진입했다. 미국...",
-          "press": "financialpost.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 14:02",
-          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269788",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "AMD, 반도체에 AI 가중치 새기는 ‘탈라스’ 인수··· 추론·피지컬AI ...",
           "summary": "자동화 밀키트에 가깝다. 일반 AI 가속기는 주문이 들어올때마다 창고에 가서 식재료를 하나하나 옮겨온... 앤트로픽 미토스나 오픈AI 아스트라처럼 시장의 흐름을 근본적으로 전환하는 모델이 몇 개월 단위로...",
           "press": "동아일보",
           "date": "2026-08-10",
           "datetime": "2026-08-10 18:58",
           "link": "https://it.donga.com/109332/",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "매출 300억 식자재 유통사 매물로",
+          "summary": "연 매출 300억원의 온라인 식자재 유통업체 A사가 인수합병(M&A) 시장에 매물로 나왔다. 매각 주관사는... 이마트·애슐리 등 검증된 기업 간 거래(B2B) 채널을 갖고 있고, 최근엔 밀키트 등 기업과 소비자간 …",
+          "press": "한국경제",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 15:56",
+          "link": "https://n.news.naver.com/mnews/article/015/0005319155?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -418,17 +451,6 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "매출 300억 식자재 유통사 매물로",
-          "summary": "연 매출 300억원의 온라인 식자재 유통업체 A사가 인수합병(M&A) 시장에 매물로 나왔다. 매각 주관사는... 이마트·애슐리 등 검증된 기업 간 거래(B2B) 채널을 갖고 있고, 최근엔 밀키트 등 기업과 소비자간 …",
-          "press": "한국경제",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 15:56",
-          "link": "https://n.news.naver.com/mnews/article/015/0005319155?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "완도군, 전복 가공식품으로 소비 확대…어가 판로 넓힌다",
           "summary": "제품군도 자숙 전복과 전복 절편, 전복죽 밀키트, 찐 전복 슬라이스, 전복장 등 간편하게 조리하거나 바로... 특히 1~2인 가구 증가와 간편식 시장 확대에 맞춰 손질 부담을 줄인 제품이 전복 소비 확대의 새로운 판…",
           "press": "thefairnews.co.kr",
@@ -451,12 +473,34 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
+          "title": "aT, 베트남 시장 공략…K-푸드 수출상담 3538만弗 달성",
+          "summary": "농식품부와 aT는 박람회장에 통합한국관을 조성하고 국내 수출기업과 수출협의회 등 26개 업체의 베트남 시장 진출을 지원했다. 한국관에서는 떡볶이와 라면, 유자차, 홍삼·건강식품 등 다양한 K-푸드를 선보였다....",
+          "press": "뉴시스",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 15:23",
+          "link": "https://n.news.naver.com/mnews/article/003/0014118307?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
           "title": "농수산식품유통공사(aT), 'K-푸드' 베트남 호치민 식음료박람회서 3538만...",
           "summary": "농식품부와 aT는 현장에 통합한국관을 구성해 국내 수출기업과 수출협의회 등 26개 업체의 베트남 시장 개척을 지원했다. 한국관에서는 떡볶이, 라면, 유자차, 홍삼·건강식품 등 다채로운 K-푸드가 전면에 배치돼...",
           "press": "cstimes.com",
           "date": "2026-08-10",
           "datetime": "2026-08-10 21:20",
           "link": "https://www.cstimes.com/news/articleView.html?idxno=716303",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "“신선과일부터 건강식품까지”…베트남시장 사로잡은 K-푸드",
+          "summary": "농식품부와 aT는 박람회장에 통합한국관을 조성하고 국내 수출기업과 수출협의회 등 26곳의 베트남 시장 진출을 지원했다. 한국관에서는 떡볶이·라면·유자차·홍삼 등 다양한 케이푸드(K-Food·한국식품)를 선보이며...",
+          "press": "nongmin.com",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 18:42",
+          "link": "https://n.news.naver.com/mnews/article/662/0000101585?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -482,5 +526,5 @@
       ]
     }
   ],
-  "total": 39
+  "total": 43
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:50 소급 정리",
+  "generated_at": "2026-08-23 12:16 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -28,17 +28,6 @@
           "date": "2026-08-16",
           "datetime": "2026-08-16 08:00",
           "link": "https://n.news.naver.com/mnews/article/008/0005400665?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "통신 본업에 AI까지…LG유플러스가 달라졌다",
-          "summary": "실적 개선을 투자뿐 아니라 주주에게도 돌려주겠다는 의지를 분명히 한 셈이다. 시장에서는 LG유플러스가 통신회사라는 기존 이미지에서 벗어나고 있다는 평가가 나온다. 통신사업의 안정적인 이익에 데이터센터와...",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-16",
-          "datetime": "2026-08-16 16:34",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477848",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -72,6 +61,17 @@
           "date": "2026-08-16",
           "datetime": "2026-08-16 13:00",
           "link": "https://n.news.naver.com/mnews/article/003/0014130162?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 본업에 AI까지…LG유플러스가 달라졌다",
+          "summary": "실적 개선을 투자뿐 아니라 주주에게도 돌려주겠다는 의지를 분명히 한 셈이다. 시장에서는 LG유플러스가 통신회사라는 기존 이미지에서 벗어나고 있다는 평가가 나온다. 통신사업의 안정적인 이익에 데이터센터와...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 16:34",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477848",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -165,6 +165,17 @@
       "digest": "",
       "articles": [
         {
+          "title": "새 판 짜기 돌입한 삼성SDI…불붙는 韓 ESS 3차 입찰 [위클리배터리]",
+          "summary": "삼성SDI는 말레이시아와 천안 공장에서 생산하는 원통형 배터리를 서버용 배터리백업유닛(BBU) 등에 공급하고 있습니다. 삼성SDI는 무정전전원장치(UPS)와 BBU 시장에서 각각 40~50% 수준의 점유율을 확보했다…",
+          "press": "디지털데일리",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 09:01",
+          "link": "https://n.news.naver.com/mnews/article/138/0002237973?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
           "title": "전기차 밖으로 나온 K-배터리…AI 데이터센터 전력시장 공략",
           "summary": "전기차 중심이던 사업 영역을 에너지저장장치(ESS)와 무정전전원장치(UPS) 등 전력 인프라로 넓히는... 회사는 UPS뿐 아니라 서버 랙에 직접 전력을 공급하는 배터리백업유닛(BBU)용 초고출력 배터리를 사업...",
           "press": "m-i.kr",
@@ -182,17 +193,6 @@
           "date": "2026-08-16",
           "datetime": "2026-08-16 10:00",
           "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60340",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "새 판 짜기 돌입한 삼성SDI…불붙는 韓 ESS 3차 입찰 [위클리배터리]",
-          "summary": "삼성SDI는 말레이시아와 천안 공장에서 생산하는 원통형 배터리를 서버용 배터리백업유닛(BBU) 등에 공급하고 있습니다. 삼성SDI는 무정전전원장치(UPS)와 BBU 시장에서 각각 40~50% 수준의 점유율을 확보했다…",
-          "press": "디지털데일리",
-          "date": "2026-08-16",
-          "datetime": "2026-08-16 09:01",
-          "link": "https://n.news.naver.com/mnews/article/138/0002237973?sid=105",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
@@ -218,6 +218,39 @@
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "“가격 인상에 소비자는 힘든데” 오너 급여 올린 농심·오뚜기",
+          "summary": "하지만 풀무원은 지난 13일부터 총 7개 제품군(간식·김치·냉동볶음밥·소스·계란가공·만두·면 밀키트)... 위한 결정이었는지 의심스럽다”며 “시장 지배력을 활용한 가격 결정은 아닌지 우려된다”고 지적했다.",
+          "press": "한국경제",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 10:56",
+          "link": "https://n.news.naver.com/mnews/article/050/0000109713?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "해외서 벌고 국내 가격은 올린 식품기업들…경영진 월급도 인상",
+          "summary": "면 밀키트) 30개 품목의 소비자 가격을 평균 6.7% 올렸다. 이 밖에 올해 제품 가격을 올리지 않은 삼양식품, 빙그레, 오리온, 롯데웰푸드, 남양유업, 매일유업 등도 내수 시장 침체에도 K푸드의 인기에 힘입어 해…",
+          "press": "연합뉴스",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 06:01",
+          "link": "https://n.news.naver.com/mnews/article/001/0016253469?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "'3대째 닭한마리 운영' 할머니 울상…폭염·고물가에 \"복날 특수 없었다...",
+          "summary": "올해 폭염에 손님이 3분의 1은 줄어든 것 같아.\" 말복을 맞은 지난 14일, 서울 종로구 신진시장에서 3대째... 관념은 많이 없어지고 있고, 물가로 인해 외식보단 집에서 만드는 밀키트 등을 먹는 경우도 있다\"고 …",
+          "press": "뉴스1",
+          "date": "2026-08-16",
+          "datetime": "2026-08-16 06:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009115992?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "한끼 때우는 간편식?…\"내 입맛대로\" 달라진 트렌드",
@@ -286,17 +319,6 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "“가격 인상에 소비자는 힘든데” 오너 급여 올린 농심·오뚜기",
-          "summary": "하지만 풀무원은 지난 13일부터 총 7개 제품군(간식·김치·냉동볶음밥·소스·계란가공·만두·면 밀키트)... 위한 결정이었는지 의심스럽다”며 “시장 지배력을 활용한 가격 결정은 아닌지 우려된다”고 지적했다.",
-          "press": "한국경제",
-          "date": "2026-08-16",
-          "datetime": "2026-08-16 10:56",
-          "link": "https://n.news.naver.com/mnews/article/050/0000109713?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "식품업계 수익성 개선에도 가격인상…경영진 보수↑",
           "summary": "면 밀키트) 30개 품목의 소비자 가격을 평균 6.7% 올렸습니다. 이 밖에 올해 제품 가격을 올리지 않은 삼양식품, 빙그레, 오리온, 롯데웰푸드, 남양유업, 매일유업 등도 내수 시장 침체에도 K푸드의 인기에 힘입어…",
           "press": "biz.sbs.co.kr",
@@ -328,5 +350,5 @@
       ]
     }
   ],
-  "total": 25
+  "total": 27
 }

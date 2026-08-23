@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:50 소급 정리",
+  "generated_at": "2026-08-23 12:16 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,6 +10,193 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
+        {
+          "title": "[비즈&] 삼성 갤럭시 Z 폴드8·플립8 내일 공식 출시 外",
+          "summary": "▶ KT, AI 실시간 스팸차단 서비스 전 고객 확대 KT가 AI 기반 실시간 스팸 차단 서비스를 KT 알뜰폰 이용자를 포함한 모든 고객으로 확대 적용했습니다. 이 서비스는 KT가 자체 개발한 것으로, 신규 변종 스…",
+          "press": "연합뉴스TV",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 17:28",
+          "link": "https://n.news.naver.com/mnews/article/422/0000893120?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+ 역대 분기 최다 영업익…AIDC에 2조원 투자(종합2보)",
+          "summary": "이동통신(MNO) 가입 회선은 2천244만2천여개, 알뜰폰(MVNO) 가입 회선은 902만5천여개로 각각 7.2%, 0.4% 증가했다. LG유플러스는 통합요금제와 '올인원' 상품으로 복잡한 통신 상품을 간추려 고객 …",
+          "press": "연합뉴스",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 17:09",
+          "link": "https://n.news.naver.com/mnews/article/001/0016238145?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'분기 최대 영업익' 기록 세운 LGU+, \"AIDC에 2조 투자\"[IR종합]",
+          "summary": "MNO 가입회선은 2244만 2000여 개, MVNO 가입회선은 902만 5000여 개로 각각 7.2%, 0.4% 증가했다. 5G 핸드셋 가입자는 954만 8000명으로 늘었고 보급률은 84.9%를 기록했다. 올해 …",
+          "press": "뉴스1",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 16:12",
+          "link": "https://n.news.naver.com/mnews/article/421/0009101294?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 기업인프라 호조에 최대 영업익…외부 조달 없이 AIDC 확대(종합)",
+          "summary": "이동통신(MNO) 가입자는 2244만2000명으로 7.2%, 알뜰폰(MVNO) 가입자는 902만5000명으로 0.4% 증가했다. 5G 가입자는 954만8000명으로 전체 핸드셋 가입자의 84.9%를 차지했다. 스마트…",
+          "press": "디지털데일리",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 16:00",
+          "link": "https://n.news.naver.com/mnews/article/138/0002236884?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"AI로 신종 스팸도 철통방어\"...KT, AI 스팸차단 서비스 전 고객 확대",
+          "summary": "KT 알뜰폰 고객을 포함해 KT 고객이라면 누구나 무료로 이용할 수 있다. AI 스팸차단은 24시간 운영되며, 도입 이후 지난 7월 29일부터 8월 3일까지 오차단율 0.003%, 관련 고객 문의(VOC) 0건을 기…",
+          "press": "AI타임스",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:56",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213619",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "모바일 잡더니 AIDC 완판까지…조용히 강했던 LG유플러스",
+          "summary": "이동통신(MNO)이 2244만2000여개, 알뜰폰(MVNO)이 902만5000여개다. 5G 가입자는 954만 8000명으로, 5G 보급률은 84.9%를 나타냈다. 스마트홈 부문 수익은 인터넷(IP)TV와 초고속 인터…",
+          "press": "매일경제",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:53",
+          "link": "https://n.news.naver.com/mnews/article/009/0005717572?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2분기 역대 최대 실적…수익성 기반 AIDC 투자 확대(종합)",
+          "summary": "MNO 가입회선은 2244만 2000여개, MVNO 가입회선은 902만 5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만 8000명으로, 전체 …",
+          "press": "아주경제",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:06",
+          "link": "https://www.ajunews.com/view/20260806145442087",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+ 2분기 영업이익 3,445억원…역대 분기 최대",
+          "summary": "이동통신(MNO) 가입 회선은 2,244만2천여개, 알뜰폰(MVNO) 가입 회선은 902만5천여개로 각각 7.2%, 0.4% 증가했습니다. LG유플러스는 통합요금제와 '올인원' 상품으로 복잡한 통신 상품을 간추려 고…",
+          "press": "연합뉴스TV",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 14:29",
+          "link": "https://n.news.naver.com/mnews/article/422/0000893021?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 역대 최대 영업익...기업인프라 매출 급성장",
+          "summary": "특히 MNO 중심의 성장이 눈에 띈다. MNO 가입회선 수는 2244만 2000, MVNO 회선 수는 902만 5000으로 각각 전년 동기 대비 7.2%, 0.4% 늘어난 수치다. 5G 핸드셋 가입자는 954만 80…",
+          "press": "지디넷코리아",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:51",
+          "link": "https://n.news.naver.com/mnews/article/092/0002433187?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "영업이익 3445억원…LGU+, 역대 최대 분기 실적",
+          "summary": "이동통신(MNO) 가입회선은 2244만2000여개, 알뜰폰(MVNO) 가입회선은 902만5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 가입자는 954만 8000명으로, 전체 가입자 대비 5G …",
+          "press": "헤럴드경제",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:38",
+          "link": "https://n.news.naver.com/mnews/article/016/0002680397?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"AIDC 돈 되네\"…LGU+, 2분기 분기 최대 실적 경신(종합)",
+          "summary": "MNO 가입회선은 2244만 2000여 개, MVNO 가입회선은 902만 5000여 개로 각각 7.2%, 0.4% 증가했다. 5G 핸드셋 가입자는 954만 8000명으로 늘었고 보급률은 84.9%를 기록했다. 스마트…",
+          "press": "뉴스1",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:07",
+          "link": "https://n.news.naver.com/mnews/article/421/0009100256?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2Q 영업이익 3445억원 '분기 최대 실적'",
+          "summary": "이 중 MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 집계됐다. 5G 핸드셋 가입자는 954만8000명으로 전체 핸드셋 가입자 대비 5G 보급률은 84.9%에 달했다. 스마트홈 부…",
+          "press": "IT조선",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:06",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167432",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AIDC 덕에 날았다...LG유플러스, 2분기 역대 최대 영업익 기록",
+          "summary": "이 가운데 자사망을 쓰는 MNO 회선은 7.2% 늘어난 2244만2000회선, 알뜰폰(MVNO) 회선은 0.4% 증가한 902만5000회선이다. 5G 핸드셋 가입자는 6.9% 늘어난 954만8000명으로, 전체 핸드…",
+          "press": "매일경제",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:45",
+          "link": "https://n.news.naver.com/mnews/article/009/0005717382?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 2분기 역대 최대 분기 영업익 달성…AIDC 급성장",
+          "summary": "통신(MNO) 가입회선은 2244만2000개, 알뜰폰(MVNO) 가입회선은 902만5000개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만8000명으로,…",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:41",
+          "link": "https://n.news.naver.com/mnews/article/014/0005558020?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스 2분기 영업익 3445억원…전년 比 13.1↑",
+          "summary": "MNO 가입회선은 2244만 2000여개, MVNO 가입회선은 902만 5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만 8000명으로, 전체 …",
+          "press": "아주경제",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:40",
+          "link": "https://www.ajunews.com/view/20260806101019455",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2분기 영업이익 3445억원…역대 분기 최대",
+          "summary": "같은 기간 이동통신(MNO) 가입회선은 2244만2000여개, 알뜰폰(MVNO) 가입회선은 902만5000여개로 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 증가했고, 전체 …",
+          "press": "디지털타임스",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:39",
+          "link": "https://n.news.naver.com/mnews/article/029/0003041019?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "상품권 경쟁에 갈라진 알뜰폰… 자회사·중소업체 충돌",
+          "summary": "특히 정부가 통신3사 알뜰폰 자회사 태동 당시 이들이 자본력을 앞세워 시장을 장악하지 못하게 중소 알뜰폰보다 더 낮은 요금제를 내놓지 못하도록 했는데(도매대가 이하 요금제 출시 불가 조항 신설) 이를 편법으로...",
+          "press": "IT조선",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 06:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167363",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
         {
           "title": "LGU+, 2분기 영업익 3445억 '역대 최대'…AIDC 성장·효율화 결실",
           "summary": "이동통신(MNO) 가입 회선은 2244만2000개, 알뜰폰(MVNO) 가입 회선은 902만5000개로 각각 7.2%, 0.4% 증가했다. 스마트홈 부문 수익 역시 IPTV와 초고속인터넷 가입자가 증가해 4.3% 늘어…",
@@ -55,17 +242,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "[비즈&] 삼성 갤럭시 Z 폴드8·플립8 내일 공식 출시 外",
-          "summary": "▶ KT, AI 실시간 스팸차단 서비스 전 고객 확대 KT가 AI 기반 실시간 스팸 차단 서비스를 KT 알뜰폰 이용자를 포함한 모든 고객으로 확대 적용했습니다. 이 서비스는 KT가 자체 개발한 것으로, 신규 변종 스…",
-          "press": "연합뉴스TV",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 17:28",
-          "link": "https://n.news.naver.com/mnews/article/422/0000893120?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "KT, AI 스팸차단 전 고객 확대... 변형 스팸까지 실시간 탐지",
           "summary": "KT는 자체 개발한 'AI 기반 실시간 스팸차단' 기능을 기존 스팸차단 서비스에 적용해 KT와 KT알뜰폰 이용자를 포함한 전 고객에게 제공한다고 6일 밝혔다. AI 스팸차단은 AI가 신규·변형 스팸의 패턴을 실시간으…",
           "press": "thefirstmedia.net",
@@ -83,17 +259,6 @@
           "date": "2026-08-06",
           "datetime": "2026-08-06 17:20",
           "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206168",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+ 역대 분기 최다 영업익…AIDC에 2조원 투자(종합2보)",
-          "summary": "이동통신(MNO) 가입 회선은 2천244만2천여개, 알뜰폰(MVNO) 가입 회선은 902만5천여개로 각각 7.2%, 0.4% 증가했다. LG유플러스는 통합요금제와 '올인원' 상품으로 복잡한 통신 상품을 간추려 고객 …",
-          "press": "연합뉴스",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 17:09",
-          "link": "https://n.news.naver.com/mnews/article/001/0016238145?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -143,56 +308,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "'분기 최대 영업익' 기록 세운 LGU+, \"AIDC에 2조 투자\"[IR종합]",
-          "summary": "MNO 가입회선은 2244만 2000여 개, MVNO 가입회선은 902만 5000여 개로 각각 7.2%, 0.4% 증가했다. 5G 핸드셋 가입자는 954만 8000명으로 늘었고 보급률은 84.9%를 기록했다. 올해 …",
-          "press": "뉴스1",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 16:12",
-          "link": "https://n.news.naver.com/mnews/article/421/0009101294?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LGU+, 기업인프라 호조에 최대 영업익…외부 조달 없이 AIDC 확대(종합)",
-          "summary": "이동통신(MNO) 가입자는 2244만2000명으로 7.2%, 알뜰폰(MVNO) 가입자는 902만5000명으로 0.4% 증가했다. 5G 가입자는 954만8000명으로 전체 핸드셋 가입자의 84.9%를 차지했다. 스마트…",
-          "press": "디지털데일리",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 16:00",
-          "link": "https://n.news.naver.com/mnews/article/138/0002236884?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"AI로 신종 스팸도 철통방어\"...KT, AI 스팸차단 서비스 전 고객 확대",
-          "summary": "KT 알뜰폰 고객을 포함해 KT 고객이라면 누구나 무료로 이용할 수 있다. AI 스팸차단은 24시간 운영되며, 도입 이후 지난 7월 29일부터 8월 3일까지 오차단율 0.003%, 관련 고객 문의(VOC) 0건을 기…",
-          "press": "AI타임스",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:56",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213619",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "KT 박윤영, 취임 후 첫 AIDC 점검…'인프라부터 고객보호까지' AX 속도",
           "summary": "KT는 자체 개발한 'AI 기반 실시간 스팸차단 서비스'를 지난 7월 29일부터 KT알뜰폰을 포함한 전 고객에게 무료로 제공하고 있다. 이 서비스는 특수문자나 변형된 표현을 활용해 기존 차단망을 우회하는 신규 스팸을…",
           "press": "biztribune.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 15:54",
           "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357070",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "모바일 잡더니 AIDC 완판까지…조용히 강했던 LG유플러스",
-          "summary": "이동통신(MNO)이 2244만2000여개, 알뜰폰(MVNO)이 902만5000여개다. 5G 가입자는 954만 8000명으로, 5G 보급률은 84.9%를 나타냈다. 스마트홈 부문 수익은 인터넷(IP)TV와 초고속 인터…",
-          "press": "매일경제",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:53",
-          "link": "https://n.news.naver.com/mnews/article/009/0005717572?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -215,127 +336,6 @@
           "date": "2026-08-06",
           "datetime": "2026-08-06 15:44",
           "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690624",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스 \"AIDC 투자 확대…외부 자금조달 없이 추진\"(종합)",
-          "summary": "MNO 가입회선은 2244만 2000여개, MVNO 가입회선은 902만5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만8000명으로, 전체 핸드…",
-          "press": "dailian.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:35",
-          "link": "https://n.news.naver.com/mnews/article/119/0003119102?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 2분기 영업익 3,445억원 '역대 최대'… AI·기업인프라 성장...",
-          "summary": "세부적으로는 MNO 가입 회선이 2,244만 2,000여 개(7.2% 증가), MVNO 가입 회선이 902만 5,000여 개(0.4% 증가)로 집계됐다. 5G 핸드셋 가입자는 954만 8,000명(6.9% 증가)으로…",
-          "press": "smarttimes.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:34",
-          "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47935",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 2Q 영업익 3445억 '역대 최대'",
-          "summary": "MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 특히 5G 핸드셋 가입자는 954만8000명으로 전년 대비 6.9% 확대되고, 전체…",
-          "press": "kfenews.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:32",
-          "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=662001",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 2분기 영업익 3445억원…전년비 13.1%↑ '역대 분기 최대'",
-          "summary": "MNO(이동통신) 가입회선은 2244만2000여개, MVNO(알뜰폰) 가입회선은 902만5000개로 전년 동기 대비 각각 7.2%, 0.4% 증가했다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만8000…",
-          "press": "industrynews.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:28",
-          "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84130",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[부캐 키우는 금융사] ③ KB국민은행은 왜 알뜰폰을 파나",
-          "summary": "정지수 메리츠증권 연구원은 상반기 통신업종 분석 리포트에서 망 도매대가 개선과 전파사용료 감면을 알뜰폰 업계의 핵심 과제로 짚었다. 망 도매대가는 알뜰폰 사업자가 이동통신사에 내는 통신망 사용료다. 이...",
-          "press": "straightnews.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:14",
-          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308458",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 매출 줄었지만 영업익은 역대 최대…AIDC가 끌었다",
-          "summary": "이동통신사업자(MNO) 회선은 2244만2000여개, 알뜰폰(MVNO) 회선은 902만5000여개로 각각 7.2%, 0.4% 늘었다. 5G 휴대전화 가입자는 954만8000명으로 지난해 같은 기간보다 6.9% 증가했…",
-          "press": "wolyo.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:12",
-          "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=316119",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG유플러스, 2분기 역대 최대 실적…수익성 기반 AIDC 투자 확대(종합)",
-          "summary": "MNO 가입회선은 2244만 2000여개, MVNO 가입회선은 902만 5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만 8000명으로, 전체 …",
-          "press": "아주경제",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:06",
-          "link": "https://www.ajunews.com/view/20260806145442087",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG U+, 2분기 영업익 3445억원…분기 기준 역대 최대",
-          "summary": "이동통신(MNO) 가입 회선은 2244만2000여개로 7.2%, 알뜰폰(MVNO) 가입 회선은 902만5000여개로 0.4% 각각 증가했다. 스마트홈 부문 수익은 IPTV와 초고속인터넷 가입자 증가에 힘입어 4.3%…",
-          "press": "delighti.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:06",
-          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119894",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT, AI 기반 실시간 스팸차단 서비스 전 고객으로 확대",
-          "summary": "(사진=KT) KT는 인공지능(AI) 기반 실시간 스팸차단 서비스를 KT와 KT알뜰폰을 포함한 전 고객으로 확대 적용했다고 6일 밝혔다. 최근 스팸은 특수문자를 활용하거나 키워드를 변형하는 등 수법이 갈수록 정교해지…",
-          "press": "delighti.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 14:56",
-          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119888",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT, '멤버십·보안·캐릭터' 강화로 고객 신뢰 잡는다",
-          "summary": "알뜰폰(MVNO, 이동전화재판매)도 포함이다. AI 스팸차단은 24시간 운영한다. KT가 파악한 7월29일부터 8월3일까지 스팸차단 서비스 오차단율은 0.003%다. 전체 스팸차단 건수는 3.5% 증가했다. KT는 …",
-          "press": "techm.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 14:52",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=154051",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "AIDC 효과 누린 LG유플러스…2분기 영업익 '역대 최대'",
-          "summary": "MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만8000명으로, 전체 핸드셋…",
-          "press": "sidae.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 14:49",
-          "link": "https://n.news.naver.com/mnews/article/417/0001154555?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -367,6 +367,50 @@
       "title": "경쟁사 동향",
       "digest": "",
       "articles": [
+        {
+          "title": "\"AI로 경·공매 정보 탐색\" 케이뱅크, '땅집고옥션' 제휴 서비스 출시",
+          "summary": "‘캐시백 받는 통신비 비교’는 케이뱅크 앱에서 연동된 알뜰폰 브랜드 티플러스(tplus) 페이지를 통해 통신 3사의 알뜰폰 요금제 28종을 한눈에 비교하고 가입할 수 있는 서비스다. 가입 후 통신비 자동이체 계좌를.…",
+          "press": "조선일보",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 13:30",
+          "link": "https://realty.chosun.com/site/data/html_dir/2026/08/06/2026080601713.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "케이뱅크, 통신비 다이어트부터 ‘AI 경매’까지…생활밀착 금융 확장",
+          "summary": "‘캐시백 받는 통신비 비교’는 케이뱅크 앱을 통해 알뜰폰 브랜드 티플러스(tplus)의 요금제 28종을 한눈에 비교하고 가입할 수 있는 서비스다. 통신 3사망을 모두 지원해 고객의 선택권을 넓혔다. 파격적인 리워드 …",
+          "press": "디지털타임스",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:37",
+          "link": "https://n.news.naver.com/mnews/article/029/0003040998?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "케이뱅크, 통신비 절감·AI 경매 서비스 확대…‘생활밀착 금융’ 강화",
+          "summary": "케이뱅크 앱에서 연동된 알뜰폰 브랜드 ‘티플러스’ 페이지를 통해 확인할 수 있다. 가입 후 통신비 자동이체 계좌를 케이뱅크 계좌로 등록 후 요금을 내면 케이뱅크 전용 혜택이 제공된다. 가입 다음 달부터 6개월간...",
+          "press": "이데일리",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:17",
+          "link": "https://n.news.naver.com/mnews/article/018/0006345592?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[게시판] 케이뱅크, 생활비 절약·자산관리 제휴 서비스",
+          "summary": "통신비 비교는 케이뱅크 앱에서 연동된 알뜰폰 브랜드 티플러스(tplus) 페이지를 통해 통신 3사의 알뜰폰 요금제 28종을 한눈에 비교하고 가입할 수 있는 서비스다. 통신비 자동이체 계좌를 케이뱅크 계좌로 등록하면.…",
+          "press": "연합뉴스",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:12",
+          "link": "https://n.news.naver.com/mnews/article/001/0016236450?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
         {
           "title": "케이뱅크, 생활 밀착형·재테크 제휴 서비스 2종 출시",
           "summary": "먼저 캐시백 받는 통신비 비교는 케이뱅크 앱에서 연동된 알뜰폰 브랜드 티플러스(tplus) 페이지를 통해 통신 3사의 알뜰폰 요금제 28종을 한눈에 비교하고 가입할 수 있는 서비스다. 가입 후 통신비 자동이체 계좌를…",
@@ -478,56 +522,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "\"AI로 경·공매 정보 탐색\" 케이뱅크, '땅집고옥션' 제휴 서비스 출시",
-          "summary": "‘캐시백 받는 통신비 비교’는 케이뱅크 앱에서 연동된 알뜰폰 브랜드 티플러스(tplus) 페이지를 통해 통신 3사의 알뜰폰 요금제 28종을 한눈에 비교하고 가입할 수 있는 서비스다. 가입 후 통신비 자동이체 계좌를.…",
-          "press": "조선일보",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 13:30",
-          "link": "https://realty.chosun.com/site/data/html_dir/2026/08/06/2026080601713.html",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "케이뱅크, 알뜰폰 비교·AI 경매정보 서비스 출시",
           "summary": "캐시백 받는 통신비 비교는 케이뱅크 앱과 연동된 알뜰폰 브랜드 티플러스 페이지에서 이동통신 3사망 기반 알뜰폰 요금제 28종을 비교하고 가입할 수 있는 서비스다. 가입 후 통신비 자동이체 계좌를 케이뱅크 계좌로...",
           "press": "popcornnews.net",
           "date": "2026-08-06",
           "datetime": "2026-08-06 12:30",
           "link": "http://www.popcornnews.net/news/articleView.html?idxno=128863",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "케이뱅크, 알뜰폰 비교·AI 경매 서비스 출시",
-          "summary": "첫 번째 서비스인 '캐시백 받는 통신비 비교'는 케이뱅크 앱에서 알뜰폰 브랜드 티플러스(tplus) 페이지를 통해 통신 3사의 알뜰폰 요금제 28종을 한눈에 비교하고 가입할 수 있다. 가입 후 통신비 자동이체 계좌를…",
-          "press": "pointdaily.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 11:06",
-          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314515",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "저축은행·인터넷은행, 생활비·소액 재테크 겨냥…고금리 통장·제휴 서...",
-          "summary": "케이뱅크 앱에서 연동되는 티플러스 페이지를 통해 통신3사의 알뜰폰 요금제 28종을 비교·가입할 수 있는 '캐시백 받는 통신비 비교' 서비스를 운영하고, 통신비 자동이체 계좌를 케이뱅크로 등록해 요금을 납부하면...",
-          "press": "kdfnews.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 11:04",
-          "link": "http://www.kdfnews.com/news/articleView.html?idxno=186165",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "케이뱅크, 생활비 절약·자산관리 '투트랙' 강화…신규 제휴 서비스",
-          "summary": "'캐시백 받는 통신비 비교' 서비스는 케이뱅크 앱을 통해 알뜰폰 브랜드 티플러스(tplus)의 통신 3사 알뜰폰 요금제 28종을 비교하고 가입할 수 있도록 지원한다. 이용자가 가입 후 통신비 자동이체 계좌를 케이뱅크…",
-          "press": "g-enews.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 10:52",
-          "link": "https://www.g-enews.com/view.php?ud=202608060856152693cd0bfacc1c_1",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -552,28 +552,6 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "중국산 광트랜시버 수입 규제…마벨·루멘텀 주목",
-          "summary": "광트랜시버는 데이터센터에서 전기 신호를 빛으로 바꿔 광섬유로 전달하는 부품이다. 미국 정부는 중국... 이후 6인치 인화인듐 웨이퍼 가격은 250% 오른 5000달러에 이르렀다. 중국의 인듐 수출은 통제후 전 세계 …",
-          "press": "naeil.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 13:04",
-          "link": "https://www.naeil.com/news/read/597922?ref=naver",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "베트남 광섬유 케이블 시장동향",
-          "summary": "중국산 제품은 가격 경쟁력과 대규모 생산능력, 베트남과 인접한 지리적 여건을 바탕으로 범용 광섬유 케이블 시장에서 높은 점유율을 확보한 것으로 분석된다. 미국과 일본은 각각 2위와 3위 공급국으로...",
-          "press": "dream.kotra.or.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 11:28",
-          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243249",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "머큐리, 롯데리아에 IoT 기반 주방자동소화장치 공급",
           "summary": "등 다양한 상업시설의 안전관리 수요에 대응해 나갈 계획\"이라고 설명했다. 한편 머큐리는 2000년 8월 설립됐으며 최대주주는 아이즈비전이다. 아울러 최근 CB(전환사채) 발행을 통해 120억원 규모 자금을 조달에 성…",
           "press": "머니투데이",
@@ -592,6 +570,28 @@
           "datetime": "2026-08-06 10:00",
           "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=169429",
           "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "중국산 광트랜시버 수입 규제…마벨·루멘텀 주목",
+          "summary": "광트랜시버는 데이터센터에서 전기 신호를 빛으로 바꿔 광섬유로 전달하는 부품이다. 미국 정부는 중국... 이후 6인치 인화인듐 웨이퍼 가격은 250% 오른 5000달러에 이르렀다. 중국의 인듐 수출은 통제후 전 세계 …",
+          "press": "naeil.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 13:04",
+          "link": "https://www.naeil.com/news/read/597922?ref=naver",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "베트남 광섬유 케이블 시장동향",
+          "summary": "중국산 제품은 가격 경쟁력과 대규모 생산능력, 베트남과 인접한 지리적 여건을 바탕으로 범용 광섬유 케이블 시장에서 높은 점유율을 확보한 것으로 분석된다. 미국과 일본은 각각 2위와 3위 공급국으로...",
+          "press": "dream.kotra.or.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:28",
+          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243249",
+          "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
