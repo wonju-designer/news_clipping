@@ -1,0 +1,411 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24 08:18",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "여행객 ‘e심’ 사용 확산… 통신사 로밍 사업에 빨간불",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/023/0003994446?sid=105"
+    },
+    {
+      "rank": 2,
+      "headline": "통신3사 새 먹거리 'AI 데이터센터'",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/009/0005724534?sid=105"
+    },
+    {
+      "rank": 3,
+      "headline": "[기자수첩] 소비자 일상 바꾸던 통신 경쟁의 빈자리",
+      "category": "산업",
+      "link": "http://www.metroseoul.co.kr/article/20260823500236"
+    },
+    {
+      "rank": 4,
+      "headline": "무선 수익으로 AI 인프라 장전… 통신 3사, AIDC 총력전",
+      "category": "산업",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=225526"
+    },
+    {
+      "rank": 5,
+      "headline": "무선 성장 멈추자 AI로…통신 3사, AIDC에 승부 건다",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/001/0016265114?sid=105"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. 가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. 5G 전환율이 정점에 도달한 가운데, 알뜰폰과 중저가 요금제 확산 등이 영향을 미쳤기 때문이다. 5G 전환율이 정점에 도달한 데다 알뜰폰·중저가 요금제 확산, 단통법 폐지 이후에도 보조금 경쟁이 재현되지 않으면서 기존 무선 사업만으로는 성장을 기대하기 어…. 알뜰폰(MVNO) 이용 회선이 1000만개를 넘어섰지만 이동통신3사와 달리 정작 가입자가 자신의 이용 패턴에 가장.",
+      "articles": [
+        {
+          "title": "여행객 ‘e심’ 사용 확산… 통신사 로밍 사업에 빨간불",
+          "summary": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. FDM CCS에 따르면 …",
+          "press": "조선일보",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 00:34",
+          "link": "https://n.news.naver.com/mnews/article/023/0003994446?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "여행객 e심 사용 급증… 통신사 알짜 로밍 매출에 ‘빨간불’",
+          "summary": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. FDM CCS에 따르면 …",
+          "press": "조선일보",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 08:01",
+          "link": "https://n.news.naver.com/mnews/article/023/0003994321?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사 새 먹거리 'AI 데이터센터'",
+          "summary": "5G 전환율이 정점에 도달한 가운데, 알뜰폰과 중저가 요금제 확산 등이 영향을 미쳤기 때문이다. 통신3사는 새로운 수익원으로 일제히 AIDC를 점찍었다. SK…",
+          "press": "매일경제",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 17:09",
+          "link": "https://n.news.naver.com/mnews/article/009/0005724534?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "무선 성장 멈추자 AI로…통신 3사, AIDC에 승부 건다",
+          "summary": "5G 전환율이 정점에 도달한 데다 알뜰폰·중저가 요금제 확산, 단통법 폐지 이후에도 보조금 경쟁이 재현되지 않으면서 기존 무선 사업만으로는 성장을 기대하기 어…",
+          "press": "연합뉴스",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 07:33",
+          "link": "https://n.news.naver.com/mnews/article/001/0016265114?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "싼 통신요금 찾아온 고객, '최적 요금제' 안내는 왜 못받을까",
+          "summary": "알뜰폰(MVNO) 이용 회선이 1000만개를 넘어섰지만 이동통신3사와 달리 정작 가입자가 자신의 이용 패턴에 가장... 시행되지만 알뜰폰은 해당되지 않기 때문…",
+          "press": "이뉴스투데이",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:00",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461700",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[기자수첩] 소비자 일상 바꾸던 통신 경쟁의 빈자리",
+          "summary": "알뜰폰 시장의 성장과 대규모 해킹 등 대외 변수에도 20년이 넘도록 SK텔레콤·KT·LG유플러스의 점유율 순위는 바뀌지 않았다. 정부가 제4 이동통신사를 추진…",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 15:38",
+          "link": "http://www.metroseoul.co.kr/article/20260823500236",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "무선 수익으로 AI 인프라 장전… 통신 3사, AIDC 총력전",
+          "summary": "5G 보급률이 상한선에 도달한 데다 중저가 요금제 및 알뜰폰 확산, 보조금 경쟁 완화 등이 복합적으로 작용하면서 무선 본업을 통한 외형 확장이 한계에 부딪힌 …",
+          "press": "youthdaily.co.kr",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 09:32",
+          "link": "https://www.youthdaily.co.kr/news/article.html?no=225526",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK텔레콤, 23년 만에 3G 종료···KT도 종료 예정",
+          "summary": "이 중 SK텔레콤 가입자가 13만4413명으로 가장 많으며, KT는 5만8948명, 알뜰폰(MVNO)은 13만4763명이다. SK텔레콤은 3G 가입자들의 원활…",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423225",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[기획] 과징금보다 큰 신뢰 비용…KT 피해구제는 끝나지 않았다 (하)",
+          "summary": "YTN이 2025년 9월15일 보도한 KT 통신망 이용 알뜰폰 가입자 A씨 사례를 보면 피해 통지 과정의 문제도 드러난다. A씨의 휴대전화에서는 2025년 8…",
+          "press": "rightknow.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 18:34",
+          "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34559",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "역사 속으로 사라지는 3G…관건은 '정부 승인'과 '이용자 보호'",
+          "summary": "실제로 과학기술정보통신부가 최근 발표한 '유·무선통신서비스 가입 현황 및 무선데이터 트래픽 통계'를 살펴보면 지난 6월 말 기준 3G 서비스 휴대전화 회선(알…",
+          "press": "newsway.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 17:16",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026082115433985823",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "3G 가고 6G 온다…통신망 세대교체 본격화",
+          "summary": "알뜰폰 사업자 역시 이통사 망을 임차해 3G 서비스를 제공하고 있다. ▲ 경제성 문제로 3G 종료 3G 가입자는 이미 전체 이동통신 시장에서 사실상 사라지는 …",
+          "press": "hansbiz.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 16:30",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858580",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 납부자 주민번호 위법 수집…LG유플 자회사 미디어로그 제재",
+          "summary": "알뜰폰 사업 등을 하는 LG유플러스 자회사 '미디어로그'가 정부 당국으로부터 개인정보보호법 위반으로 제재를 받을 위기에 몰렸습니다. 알뜰폰 해지 고객 정보를 …",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 16:14",
+          "link": "https://n.news.naver.com/mnews/article/374/0000528721?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "단통법 사라져도 번호이동 2.5%↑… 통신시장 왜 잠잠했나",
+          "summary": "자급제 단말기를 구입한 뒤 원하는 이동통신사나 알뜰폰 요금제를 선택하는 소비자가 늘면서 통신사의 단말기 지원금이 가입자를 움직이는 영향력도 과거와 달라졌다. …",
+          "press": "the-biz.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 13:58",
+          "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726591",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "저물어가는 3G 서비스…SKT 이어 KT도 곧 신규 가입 중단",
+          "summary": "SKT와 KT가 3G 서비스를 종료하면 해당 망을 사용하는 알뜰폰(MVNO)도 자연히 서비스 종료 수순을 밟게... 사업자별로 보면 SKT(13만4413개),…",
+          "press": "ebn.co.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 12:22",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721195",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[기업&나눔] KB금융, '빚 독촉' 대신 재기 돕는다…17조 포용금융",
+          "summary": "국민은행의 이동통신서비스 KB리브모바일은 장애인과 국가유공자, 기초생활수급자, 기초연금수급자, 차상위계층 등을 대상으로 '나눔할인'을 운영해 누적 40억원 규…",
+          "press": "newsworks.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 07:26",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=849929",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "변환기 시장은 제품 용도에 따라 유통경로가 다르게 형성되어 있다. 데이터센터용 전원공급장치 등을 사업목적에 반영했다고 보도했다. 파주 AIDC에는 LG전자의 액체냉각 솔루션과 LG에너지솔루션의 고성능 무정전전원장치(UPS) 배터리.",
+        "mercury": "한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규…. 반도체업계에 따르면 한미반도체는 인천 주안국가산업단지에 위치한 ㈜머큐리의 6230평 규모 공장을 매입해 8공장으로 구축하기로 했다. 수도 딜리(Dili) 국제공항 확장과 해저 광케이블 연결 등 인프라 개선도 진행되고 있다.",
+        "encreative": "25일에는 장군본가의 '복숭아 불고기 밀키트'와 오누이농장의 '못난이 파프리카'가 소비자를 만난다. 한국산 닭고기가 유럽 시장에서 폭발적인 성장세를 타면서 새로운 수출 효자 품목으로 떠오르고 있다. 한국산 닭고기가 유럽 시장에서 폭발적인 성장세를 타면서 새로운 수출 효자 품목으로 떠오르고 있다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "멕시코 정지형 변환기 시장동향",
+          "summary": "변환기 시장은 제품 용도에 따라 유통경로가 다르게 형성되어 있다. 산업용 전원공급장치와 모터제어용 변환기는 글로벌 제조사의 현지법인이나 공인 대리점, 전기·전…",
+          "press": "dream.kotra.or.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 17:29",
+          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243529",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, 11·22㎾ 충전제어 부품 개발 추진",
+          "summary": "데이터센터용 전원공급장치 등을 사업목적에 반영했다고 보도했다. 당시 회사는 전기차 전장부품과 AI... 완성차 시장으로 확대할 수 있는 중요한 계기가 될 것”…",
+          "press": "tokenpost.kr",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 13:54",
+          "link": "https://www.tokenpost.kr/news/market/394830",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "LG유플러스, 탄탄한 통신 이익에 AIDC 신사업 본궤도[스타즈 IR]",
+          "summary": "파주 AIDC에는 LG전자의 액체냉각 솔루션과 LG에너지솔루션의 고성능 무정전전원장치(UPS) 배터리... “최근 공급보다 수요가 많아 상면 단가가 지속해서 …",
+          "press": "서울경제",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 17:47",
+          "link": "https://n.news.naver.com/mnews/article/011/0004654278?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "(FAPECA 2026) \"AI 데이터센터 확산 속 핵심은 전력…전기공사업계에 새...",
+          "summary": "뒤따르고, 데이터센터가 늘어나면 전력·냉각·변전·변압·송전·에너지저장장치(ESS)·무정전전원장치... 데이터센터 유치 경쟁이 활발한 싱가포르, 방콕, 자카르타…",
+          "press": "electimes.com",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 15:22",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=371536",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "한미반도체, 1300억 들여 8공장 확보…\"장비 쇼티지 대비\"",
+          "summary": "한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규…",
+          "press": "econovill.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 11:36",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=748644",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, 8공장 구축 속도···HBM 넘어 시스템반도체 패키징 공략",
+          "summary": "반도체업계에 따르면 한미반도체는 인천 주안국가산업단지에 위치한 ㈜머큐리의 6230평 규모 공장을 매입해 8공장으로 구축하기로 했다. 한미반도체가 확보한 단일 …",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 10:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423203",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "아세안의 새로운 실험, 동티모르…한국도 '동반자'가 된다면 [더 라이프...",
+          "summary": "수도 딜리(Dili) 국제공항 확장과 해저 광케이블 연결 등 인프라 개선도 진행되고 있다. 아세안이라는 우산은 이 작은 나라에 시장과 신뢰, 그리고 협상력을 …",
+          "press": "한국경제",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 14:02",
+          "link": "https://n.news.naver.com/mnews/article/015/0005323598?sid=110",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "광통신 테마에 20배 뛴 이노인스트루먼트[급등주 지금은]",
+          "summary": "머리카락보다 얇은 유리섬유(광섬유) 안에 빛을 쏴 데이터를 전송하는 방식으로, 기존 구리선에 비해... 거래 재개 이후 6일과 7일에도 재차 가격제한폭까지 치…",
+          "press": "뉴시스",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 11:00",
+          "link": "https://n.news.naver.com/mnews/article/003/0014142209?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[르포]독일 거장건축가 설계 그대로 살린 디지털리얼티 데이터센터[AIDC...",
+          "summary": "하지만 국가 산업 경쟁력을 좌우하는 핵심 인프라라는 공통된 인식에도 AI 데이터센터(AIDC) 확장까지... 단일 데이터센터를 넘어 프랑크푸르트 전체를 아우르…",
+          "press": "view.asiae.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 06:30",
+          "link": "https://n.news.naver.com/mnews/article/277/0005806178?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[논현광장-박승찬의 미·중 신냉전, 대결과 공존사이] 56. 정상회담 前 ...",
+          "summary": "미 연방통신위원회(FCC)와 국토안보부는 중국산 드론, 소비자용 라우터, 해저 광케이블 등에 대한 제한 조치... 9월 정상회담에서도 시장에서 기대하는 빅딜은…",
+          "press": "etoday.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 06:02",
+          "link": "https://www.etoday.co.kr/news/view/2617172",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "강원혁신센터, 소상공인 6개사 네이버 라이브커머스 지원",
+          "summary": "25일에는 장군본가의 '복숭아 불고기 밀키트'와 오누이농장의 '못난이 파프리카'가 소비자를 만난다. 마지막... 이해정 강원혁신센터 대표는 “소상공인이 온라인…",
+          "press": "전자신문",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 08:08",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459570?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "유럽 검역장벽 넘은 K닭고기… 수출량 1년반 만에 9배 급증",
+          "summary": "한국산 닭고기가 유럽 시장에서 폭발적인 성장세를 타면서 새로운 수출 효자 품목으로 떠오르고 있다.... 최근엔 주요 식품 기업들이 냉동 닭고기 가정간편식(HM…",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 18:45",
+          "link": "https://n.news.naver.com/mnews/article/014/0005565147?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "검역 장벽 뚫은 'K닭고기', 유럽서 훨훨.. 상반기 수출액 전년 연간치 2...",
+          "summary": "한국산 닭고기가 유럽 시장에서 폭발적인 성장세를 타면서 새로운 수출 효자 품목으로 떠오르고 있다.... 최근엔 주요 식품 기업들이 냉동 닭고기 가정간편식(HM…",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 13:07",
+          "link": "https://n.news.naver.com/mnews/article/014/0005565022?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "강원창조경제혁신센터, 소상공인 6곳 네이버 라이브커머스 지원",
+          "summary": "강원지역 소상공인 6곳이 네이버 라이브커머스를 통해 양구 펀치볼 사과주스와 복숭아 불고기 밀키트... 이해정 강원창조경제혁신센터 대표이사는 \"소상공인이 온라인…",
+          "press": "kado.net",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 11:04",
+          "link": "https://n.news.naver.com/mnews/article/654/0000196416?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 29
+}
