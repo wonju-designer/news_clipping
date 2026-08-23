@@ -78,6 +78,56 @@ def _groq(system: str, user: str) -> str:
         return ""
 
 
+# 섹션별 관련성 판단 기준 (AI에게 주는 맥락)
+RELEVANCE_CONTEXT = {
+    "industry": "국내 이동통신·알뜰폰(MVNO)·통신 시장/정책/요금/단말 동향",
+    "own": "아이즈비전·아이즈모바일(알뜰폰 사업자)의 소식",
+    "competitor": "알뜰폰(MVNO) 경쟁사의 통신 사업 소식",
+    "powernet": "파워넷(전원공급장치·SMPS 제조사)의 사업·실적 소식",
+    "mercury": "머큐리/머큐리광통신(광케이블·광통신 장비 제조사)의 사업·실적 소식",
+    "encreative": "이엔크리에이티브(국민학교 떡볶이·밀키트·간편식 브랜드)의 사업 소식",
+    "ritco": "리트코(미세먼지 저감·전기집진 환경설비 기업)의 사업 소식",
+}
+
+
+def relevance_filter(articles: list, ctx_key: str, batch: int = 20) -> list:
+    """AI로 각 기사가 해당 주제와 실제 관련 있는지 판단해 무관한 기사를 제거.
+    제목·요약만으로 판단. AI 실패 시 원본 유지(보수적)."""
+    if not articles or not GROQ_KEY:
+        return articles
+    topic = RELEVANCE_CONTEXT.get(ctx_key)
+    if not topic:
+        return articles
+    kept = []
+    for i in range(0, len(articles), batch):
+        chunk = articles[i:i + batch]
+        lines = []
+        for idx, a in enumerate(chunk):
+            t = (a.get("title", "") or "")[:80]
+            d = (a.get("desc", a.get("summary", "")) or "")[:100]
+            lines.append(f"{idx}. {t} / {d}")
+        system = (
+            "너는 뉴스 관련성 판별기다. 각 기사가 주어진 주제와 '직접' 관련 있는지만 판단한다. "
+            "회사명·키워드가 스치듯 언급될 뿐 주제가 다르면 관련 없음으로 본다. "
+            "예: 통신 주제인데 언론사명(AP통신 등)·위성통신·정치·연예 기사면 관련 없음. "
+            "간편식 브랜드 주제인데 타사의 기부·행사에 밀키트가 잠깐 나오면 관련 없음. "
+            'JSON만 출력: {"irrelevant":[관련없는 기사 번호 목록]}'
+        )
+        user = f"주제: {topic}\n\n기사 목록:\n" + "\n".join(lines)
+        out = _groq(system, user)
+        data = _parse_json(out)
+        bad = set()
+        if isinstance(data, dict) and isinstance(data.get("irrelevant"), list):
+            for n in data["irrelevant"]:
+                if isinstance(n, int) and 0 <= n < len(chunk):
+                    bad.add(n)
+        kept += [a for idx, a in enumerate(chunk) if idx not in bad]
+    removed = len(articles) - len(kept)
+    if removed:
+        print(f"    [관련성 필터] {ctx_key}: {removed}건 제외 ({len(articles)}→{len(kept)})")
+    return kept
+
+
 def _gemini(prompt: str) -> str:
     try:
         r = requests.post(
