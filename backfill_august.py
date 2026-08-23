@@ -83,8 +83,11 @@ def _art_json(a):
     }
 
 
-def _purge_old_backfill():
-    """기존 백필 파일(backfill_note 있는 것)만 삭제. 매일 클리핑은 보존."""
+def _purge_old_backfill(start=None, end=None):
+    """기존 백필 파일(backfill_note 있는 것) 삭제. 매일 클리핑은 보존.
+    start·end를 주면 그 기간 안의 백필 파일만 삭제(부분 재생성 가능)."""
+    s = f"{start:%Y-%m-%d}" if start else None
+    e = f"{end:%Y-%m-%d}" if end else None
     removed = 0
     for path in glob.glob(os.path.join(dashboard.CLIP_DIR, "*.json")):
         try:
@@ -92,12 +95,16 @@ def _purge_old_backfill():
                 data = json.load(f)
         except Exception:
             continue
-        # backfill_note가 있거나 kind가 monthly면 소급분 → 삭제
-        if data.get("backfill_note") or data.get("kind") == "monthly":
-            os.remove(path)
-            removed += 1
+        if not (data.get("backfill_note") or data.get("kind") == "monthly"):
+            continue                      # 매일 클리핑 → 보존
+        day = data.get("date", "")
+        if s and e and not (s <= day <= e):
+            continue                      # 지정 기간 밖의 백필분 → 보존
+        os.remove(path)
+        removed += 1
     if removed:
-        print(f"[백필] 기존 소급분 {removed}건 삭제 (매일 클리핑은 보존)")
+        scope = f" ({s}~{e})" if s and e else ""
+        print(f"[백필] 기존 소급분 {removed}건 삭제{scope} (매일 클리핑은 보존)")
     else:
         print("[백필] 삭제할 기존 소급분 없음")
 
@@ -106,8 +113,8 @@ def run():
     start, end = _month_range()
     print(f"[백필] 기간: {start:%Y-%m-%d} ~ {end:%Y-%m-%d} (실제 발행일 기준)")
 
-    # 기존 소급분(backfill_note) 정리 후 새로 생성 — 매일 클리핑은 건드리지 않음
-    _purge_old_backfill()
+    # 기존 소급분(backfill_note) 정리 후 새로 생성 — 지정 기간만, 매일 클리핑은 보존
+    _purge_old_backfill(start, end)
 
     # 1) 섹션별 기사 수집 (기존과 동일)
     section_arts = {}   # cat_id -> [arts]
