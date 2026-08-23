@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 12:42 소급 정리",
+  "generated_at": "2026-08-23 12:54 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -215,17 +215,6 @@
           "date": "2026-08-22",
           "datetime": "2026-08-22 17:00",
           "link": "https://www.tokenpost.kr/news/cryptocurrency/395615",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "정근모 시의원, 대전선 5.7㎞ 지상도시철도 제안…4개 중간역 신설 구상",
-          "summary": "정근모 대전시의원이 21일 열린 '대전선 지상도시철도 신설 정책토론회'에서 대전선 활용과 본도심 재생... 반영될 수 있도록 대전선 지상도시철도 신설 현실화를 위해 노력하겠다\"고 강조했다. 민영뉴스통신사 국제뉴스",
-          "press": "gukjenews.com",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 16:56",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3671503",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -515,5 +504,5 @@
       ]
     }
   ],
-  "total": 42
+  "total": 41
 }
