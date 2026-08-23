@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:13 소급 정리",
+  "generated_at": "2026-08-23 10:20 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -462,23 +462,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 연세대와 맞손…AI-RAN 네트워크 전환 기술 검증",
-          "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 그래픽처리장치(GPU) 기반 AI-RAN 시험망을 연동하는 방식으로 진행됐다. 산업용 모바일 기기 전문기업 포인트모바일의 'PM95' 단말을 활용…",
-          "press": "m-i.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 15:20",
-          "link": "https://www.m-i.kr/news/articleView.html?idxno=1403796",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스, AI-RAN 생태계 확산 나선다…연세대와 기술검증 성공",
           "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 그래픽처리장치(GPU) 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망을 벗어나 5G망으…",
           "press": "socialvalue.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 15:20",
           "link": "https://www.socialvalue.kr/news/view/1065588681898351",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 연세대와 맞손…AI-RAN 네트워크 전환 기술 검증",
+          "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 그래픽처리장치(GPU) 기반 AI-RAN 시험망을 연동하는 방식으로 진행됐다. 산업용 모바일 기기 전문기업 포인트모바일의 'PM95' 단말을 활용…",
+          "press": "m-i.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 15:20",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1403796",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -880,23 +880,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 연세대와 5G·AI-RAN 망 전환 서비스 연속성 검증",
-          "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망을 벗어나 5G망으로 이동하거나, …",
-          "press": "it-b.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 11:34",
-          "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89541",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스·연세대, AI-RAN 환경서 네트워크 전환 기술 검증",
           "summary": "검증에는 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망이 활용됐다. 양측은 피지컬 AI 장비가 AI-RAN 시험망에서 5G망으로 이동하거나 반대로 5G망에서 AI-RAN 시…",
           "press": "ziksir.com",
           "date": "2026-08-19",
           "datetime": "2026-08-19 11:34",
           "link": "https://www.ziksir.com/news/articleView.html?idxno=143574",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 연세대와 5G·AI-RAN 망 전환 서비스 연속성 검증",
+          "summary": "이번 검증은 LG유플러스의 5G망과 연세대학교가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망을 벗어나 5G망으로 이동하거나, …",
+          "press": "it-b.co.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 11:34",
+          "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89541",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -979,23 +979,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG U+, 연세대와 AI-RAN 환경서 네트워크 전환 기술 검증",
-          "summary": "이번 검증은 LG유플러스의 5G망과 연세대가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망에서 5G망으로 이동하거나 반대로 5G…",
-          "press": "delighti.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 11:08",
-          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120397",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "로봇·드론 이동해도 연결 유지…LG유플러스, AI-RAN 기술 검증",
           "summary": "LG유플러스가 연세대학교와 AI-RAN 시험망과 상용 5G망을 연동해 네트워크 전환 과정에서도 연결이 끊기지 않는 기술을 검증했다고 19일 밝혔다. 양측은 로봇과 드론 등 피지컬 AI 장비가 서로 다른 네트워크 영역…",
           "press": "bizwork.co.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 11:08",
           "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=418314",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG U+, 연세대와 AI-RAN 환경서 네트워크 전환 기술 검증",
+          "summary": "이번 검증은 LG유플러스의 5G망과 연세대가 자체 개발한 엔비디아 GPU 기반 AI-RAN 시험망을 연동해 진행됐다. 양측은 로봇·드론 등 피지컬 AI 장비가 AI-RAN 시험망에서 5G망으로 이동하거나 반대로 5G…",
+          "press": "delighti.co.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 11:08",
+          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120397",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1706,23 +1706,23 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "“공기로는 못 식힌다”…물길 따라 돌아가는 7656개 AI 두뇌",
-          "summary": "외부 전력망에서 들어오는 전력은 이중 수전·변전 설비와 무정전전원장치(UPS)를 거쳐 GPU 서버에 공급된다. 전력 공급이 끊기는 만일의 사태에도 대비했다. 열차 앞코처럼 생긴 비상 발전기에는 롤스로이스...",
-          "press": "etoday.co.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:00",
-          "link": "https://www.etoday.co.kr/news/view/2615611",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "서울 도심에 숨은 'AI 공장'…NHN팩토리X 서울 가보니",
           "summary": "두 변전소 모두 문제가 생길 경우에는 무정전전원공급장치(UPS)와 배터리가 먼저 전력을 이어받고, 이후... 입주한 데이터센터는 애초 공기로 서버의 열을 식히는 공랭식 냉각을 기준으로 설계됐지만, NHN은 B200.…",
           "press": "newsway.co.kr",
           "date": "2026-08-19",
           "datetime": "2026-08-19 09:00",
           "link": "https://www.newsway.co.kr/news/view?ud=2026081816511645444",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "“공기로는 못 식힌다”…물길 따라 돌아가는 7656개 AI 두뇌",
+          "summary": "외부 전력망에서 들어오는 전력은 이중 수전·변전 설비와 무정전전원장치(UPS)를 거쳐 GPU 서버에 공급된다. 전력 공급이 끊기는 만일의 사태에도 대비했다. 열차 앞코처럼 생긴 비상 발전기에는 롤스로이스...",
+          "press": "etoday.co.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 09:00",
+          "link": "https://www.etoday.co.kr/news/view/2615611",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"

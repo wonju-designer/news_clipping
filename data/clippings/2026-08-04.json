@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:13 소급 정리",
+  "generated_at": "2026-08-23 10:20 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -209,23 +209,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "수익성 개선…롯데하이마트 2분기 영업익 9억·총매출액 7339억",
-          "summary": "자체 요금제와 중고 모바일 사업 확대에 힘입어 중고폰 매입 고객의 신제품 구매 연계율은 지난 3월 5%에서 7월 말 16%까지 상승했다. 구매 주기가 짧은 상품을 중심으로 유입된 고객이 대형가전과 서비스 구매로...",
-          "press": "asiatime.co.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 17:12",
-          "link": "https://www.asiatime.co.kr/article/20260804500203",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[2026 2분기 실적] 롯데하이마트, 매출 회복 전환…6월 매출 8% 증가",
           "summary": "회사는 ‘Hi-mart 요금제’ 출시 및 중고 모바일 사업 확대를 적극 추진하고 있으며, 중고폰 판매 고객의 신제품 연동 구매율은 7월 말 16%로 상승했고 월 매입량도 1000대를 넘어섰습니다. 2분기 영업이익은 …",
           "press": "inthenews.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 17:12",
           "link": "https://www.inthenews.co.kr/news/article.html?no=90161",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "수익성 개선…롯데하이마트 2분기 영업익 9억·총매출액 7339억",
+          "summary": "자체 요금제와 중고 모바일 사업 확대에 힘입어 중고폰 매입 고객의 신제품 구매 연계율은 지난 3월 5%에서 7월 말 16%까지 상승했다. 구매 주기가 짧은 상품을 중심으로 유입된 고객이 대형가전과 서비스 구매로...",
+          "press": "asiatime.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 17:12",
+          "link": "https://www.asiatime.co.kr/article/20260804500203",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -737,23 +737,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "[TOP's Pick] [통신] KT, 연세의료원과 의료 데이터 고도화 협력 外",
-          "summary": "내달 6일까지 기존 중고폰을 반납하면 기종과 상태에 따라 최대 100만원을 보상하기로. 제휴카드 이용 고객에게 조건에 따라 최대 96만원의 캐시백과 요금 할인 혜택도 제공. 부모가 기존 휴대전화를 만 13세 이하..…",
-          "press": "topdaily.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 11:31",
-          "link": "https://www.topdaily.kr/articles/111279",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 갤럭시 Z 폴드8 개통 시작…“사전예약 2040 비중 65%”",
           "summary": "또한 다음달 6일까지 ‘T안심보상 with 민팃’ 프로그램으로 새 폴더블 모델을 구매하고 쓰던 중고폰을 반납하면 모델과 상태에 따라 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준)까지 보상한다. 카드 혜택도…",
           "press": "매일경제",
           "date": "2026-08-04",
           "datetime": "2026-08-04 11:31",
           "link": "https://n.news.naver.com/mnews/article/009/0005716348?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[TOP's Pick] [통신] KT, 연세의료원과 의료 데이터 고도화 협력 外",
+          "summary": "내달 6일까지 기존 중고폰을 반납하면 기종과 상태에 따라 최대 100만원을 보상하기로. 제휴카드 이용 고객에게 조건에 따라 최대 96만원의 캐시백과 요금 할인 혜택도 제공. 부모가 기존 휴대전화를 만 13세 이하..…",
+          "press": "topdaily.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 11:31",
+          "link": "https://www.topdaily.kr/articles/111279",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1144,23 +1144,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "이통3사 '갤럭시 Z 폴드8·플립8' 개통 시작… 고객 유치 경쟁",
-          "summary": "오는 9월 6일까지는 T안심보상 with민팃을 통해 최대 100만원의 중고폰 보상을 지원하며 'T PREMIUM 삼성카드' 및 'T&Life 신한카드' 등 제휴카드 할인을 통해 구매 부담을 대폭 낮췄다. 만 13세 …",
-          "press": "newscj.com",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 10:14",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3422267",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"플립보다 폴드\"…갤럭시 Z 폴드8, 대화면이 흥행 이끌었다",
           "summary": "이동통신3사도 단순한 공시지원금 경쟁에서 벗어나 온라인동영상서비스(OTT), 중고폰 보상, 장기 할부 등... 단말 구매 부담을 낮추기 위해 중고폰 보상도 강화했다. SK텔레콤은 9월 6일까지 기존 스마트폰의 모델과…",
           "press": "itdaily.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:14",
           "link": "https://www.itdaily.kr/news/articleView.html?idxno=240770",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사 '갤럭시 Z 폴드8·플립8' 개통 시작… 고객 유치 경쟁",
+          "summary": "오는 9월 6일까지는 T안심보상 with민팃을 통해 최대 100만원의 중고폰 보상을 지원하며 'T PREMIUM 삼성카드' 및 'T&Life 신한카드' 등 제휴카드 할인을 통해 구매 부담을 대폭 낮췄다. 만 13세 …",
+          "press": "newscj.com",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:14",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3422267",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1177,17 +1177,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "갤럭시 Z 폴드8 개통 시작…통신3사, '폴드 대세' 속 혜택 경쟁",
-          "summary": "이와 함께 중고폰 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준) 보상과 제휴카드 할인 등 구매 지원... 회사는 프리미엄 스마트폰 가격 부담을 낮추기 위한 할인 쿠폰과 무이자 할부, 중고폰 추가 보상 프로…",
-          "press": "popcornnews.net",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 10:10",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=128583",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SK텔레콤, 넷플릭스와 협력해 사전예약 고객 혜택 강화",
           "summary": "8월 4일부터 9월 6일까지 T안심보상with민팃을 통해 중고폰 반납 시 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준)까지 보상이 제공된다. 'T PREMIUM 삼성카드' 할부 결제 시 최대 96만원, '…",
           "press": "newsquest.co.kr",
@@ -1199,12 +1188,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "통신 3사, '갤럭시Z8 시리즈' 개통 시작…\"대화면 폴드8 인기\"",
-          "summary": "이날부터 다음 달 6일까지 T안심보상with민팃 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만 원(갤럭시 Z 폴드7 256GB A급 기준)까지 …",
-          "press": "newsway.co.kr",
+          "title": "갤럭시 Z 폴드8 개통 시작…통신3사, '폴드 대세' 속 혜택 경쟁",
+          "summary": "이와 함께 중고폰 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준) 보상과 제휴카드 할인 등 구매 지원... 회사는 프리미엄 스마트폰 가격 부담을 낮추기 위한 할인 쿠폰과 무이자 할부, 중고폰 추가 보상 프로…",
+          "press": "popcornnews.net",
           "date": "2026-08-04",
-          "datetime": "2026-08-04 10:08",
-          "link": "https://www.newsway.co.kr/news/view?ud=2026080409363051041",
+          "datetime": "2026-08-04 10:10",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=128583",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1216,6 +1205,17 @@
           "date": "2026-08-04",
           "datetime": "2026-08-04 10:08",
           "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251885",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사, '갤럭시Z8 시리즈' 개통 시작…\"대화면 폴드8 인기\"",
+          "summary": "이날부터 다음 달 6일까지 T안심보상with민팃 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만 원(갤럭시 Z 폴드7 256GB A급 기준)까지 …",
+          "press": "newsway.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 10:08",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026080409363051041",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1320,23 +1320,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "물가 상승률 3개월 만에 2%대…정부 \"추석 전 먹거리 가격 잡는다\"",
-          "summary": "지난달 소비자물가 상승률이 3개월 만에 2%대로 내려선 가운데 정부는 7차 최고가격 인하 조치가 물가... 다만 통신비 기저효과와 이상기후, 식품 가격 상승 가능성은 향후 물가를 자극할 요인으로 지목했다. 정부는..…",
-          "press": "kyeonggi.com",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 09:17",
-          "link": "https://n.news.naver.com/mnews/article/666/0000117758?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "정부 \"석유 최고가격제로 7월 물가 0.3%p↓…상방압력 최소화\"",
           "summary": "이에 대해 이 차관은 “역대 최대 할인지원 등 민생물가 안정대책 추진, (석유제품) 최고가격 인하 등... 지난해 통신비 일시 할인에 따른 기저효과, 폭염 등 이상기후 영향, 식품가격 등 물가 상방리스크가 상존하고 …",
           "press": "kookje.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 09:17",
           "link": "https://n.news.naver.com/mnews/article/658/0000151359?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "물가 상승률 3개월 만에 2%대…정부 \"추석 전 먹거리 가격 잡는다\"",
+          "summary": "지난달 소비자물가 상승률이 3개월 만에 2%대로 내려선 가운데 정부는 7차 최고가격 인하 조치가 물가... 다만 통신비 기저효과와 이상기후, 식품 가격 상승 가능성은 향후 물가를 자극할 요인으로 지목했다. 정부는..…",
+          "press": "kyeonggi.com",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 09:17",
+          "link": "https://n.news.naver.com/mnews/article/666/0000117758?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1397,6 +1397,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "재경차관 \"최고가격제, 7월 물가 0.3%p 완화…상방압력 최소화\"",
+          "summary": "이투데이=세종=정호영 기자 | 이형일 재정경제부 차관은 4일 \"7차 석유 최고가격 인하가 7월 물가상승률을 약... 특히 \"중동전쟁 불확실성과 함께 작년 통신비 일시 할인에 따른 기저효과, 폭염 등 이상기후 영향, …",
+          "press": "etoday.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 09:06",
+          "link": "https://www.etoday.co.kr/news/view/2610668",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "정부 “석유 최고가격제, 7월 물가 0.3%p 낮춰…상방 위험 상존”",
           "summary": "이어 “역대 최대 규모의 할인지원 등 민생물가 안정 대책과 최고가격 인하 정책에 힘입어 농축수산물과... 이어 “중동 전쟁에 따른 불확실성과 지난해 통신비 일시 할인에 따른 기저효과, 폭염 등 이상기후, 식품 가격.…",
           "press": "디지털타임스",
@@ -1414,17 +1425,6 @@
           "date": "2026-08-04",
           "datetime": "2026-08-04 09:06",
           "link": "https://n.news.naver.com/mnews/article/014/0005556802?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "재경차관 \"최고가격제, 7월 물가 0.3%p 완화…상방압력 최소화\"",
-          "summary": "이투데이=세종=정호영 기자 | 이형일 재정경제부 차관은 4일 \"7차 석유 최고가격 인하가 7월 물가상승률을 약... 특히 \"중동전쟁 불확실성과 함께 작년 통신비 일시 할인에 따른 기저효과, 폭염 등 이상기후 영향, …",
-          "press": "etoday.co.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 09:06",
-          "link": "https://www.etoday.co.kr/news/view/2610668",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1529,23 +1529,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "정부 \"최고가격제로 7월 물가상승률 0.3%p 낮춰…물가안정 총력\"",
-          "summary": "지난달 소비자물가 상승률이 3개월 만에 2%대로 내려온 가운데, 정부의 7차 최고가격 인하 조치가... 불확실성과 통신비 기저효과, 폭염 등 이상기후 영향, 식품 가격 등 물가 상방 위험이 상존하고 있다\"고 말했다.…",
-          "press": "뉴시스",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 08:00",
-          "link": "https://n.news.naver.com/mnews/article/003/0014106174?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "“7차 석유최고가격, 7월 물가상승률 0.3%p 완화 효과”",
           "summary": "7차 최고가격 인하 효과로 7월 물가상승률이 0.3%p 내린 걸로 추산됐습니다. 이형일 재정경제부 1차관은 오늘... 작년 통신비 일시 할인에 따른 기저효과, 폭염 등 이상기후 영향, 식품 가격 등 물가 상방 리스크…",
           "press": "news.kbs.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 08:00",
           "link": "https://n.news.naver.com/mnews/article/056/0012230745?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "정부 \"최고가격제로 7월 물가상승률 0.3%p 낮춰…물가안정 총력\"",
+          "summary": "지난달 소비자물가 상승률이 3개월 만에 2%대로 내려온 가운데, 정부의 7차 최고가격 인하 조치가... 불확실성과 통신비 기저효과, 폭염 등 이상기후 영향, 식품 가격 등 물가 상방 위험이 상존하고 있다\"고 말했다.…",
+          "press": "뉴시스",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 08:00",
+          "link": "https://n.news.naver.com/mnews/article/003/0014106174?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

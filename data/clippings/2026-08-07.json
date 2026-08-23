@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:13 소급 정리",
+  "generated_at": "2026-08-23 10:20 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -378,23 +378,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "\"전자책 무한 제공\"…LG헬로비전 헬로모바일, 2040 겨냥 '교보문고 요금...",
-          "summary": "LG헬로비전의 알뜰폰 사업 부문 헬로모바일은 교보문고와 손잡고, 매월 9900원 상당의 혜택을 제공하는 '교보문고 유심·휴대폰 요금제' 6종을 출시했다고 7일 밝혔다. 알뜰폰 핵심 소비층인 2040 세대를 중심으로 …",
-          "press": "financialpost.co.kr",
-          "date": "2026-08-07",
-          "datetime": "2026-08-07 13:40",
-          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269544",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "헬로모바일, '교보문고 요금제' 6종 출시",
           "summary": "김예현 LG헬로비전 모바일사업담당은 \"자기계발과 독서 라이프를 즐기는 알뜰폰 고객을 위해 교보문고와 제휴 요금제를 제공하게 됐다\"며 \"앞으로도 생활밀착 제휴를 지속 확대해 통신을 넘어 라이프스타일 전반에서...",
           "press": "datanet.co.kr",
           "date": "2026-08-07",
           "datetime": "2026-08-07 13:40",
           "link": "https://www.datanet.co.kr/news/articleView.html?idxno=213626",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"전자책 무한 제공\"…LG헬로비전 헬로모바일, 2040 겨냥 '교보문고 요금...",
+          "summary": "LG헬로비전의 알뜰폰 사업 부문 헬로모바일은 교보문고와 손잡고, 매월 9900원 상당의 혜택을 제공하는 '교보문고 유심·휴대폰 요금제' 6종을 출시했다고 7일 밝혔다. 알뜰폰 핵심 소비층인 2040 세대를 중심으로 …",
+          "press": "financialpost.co.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 13:40",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269544",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -598,23 +598,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG헬로비전 헬로모바일, 교보문고 제휴 혜택 담은 알뜰폰 요금제 출시",
-          "summary": "사진=LG헬로비전 LG헬로비전이 교보문고 전자책 구독과 도서 구매 혜택을 결합한 알뜰폰 요금제를 선보인다. LG헬로비전 헬로모바일은 교보문고와 제휴해 '교보문고 유심·휴대폰 요금제' 6종을 출시했다고 7일...",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-07",
-          "datetime": "2026-08-07 08:14",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475157",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG헬로비전 헬로모바일, 교보문고 손잡고 '도서 제휴 요금제' 출시",
           "summary": "헬로모바일은 알뜰폰 주요 이용층인 2040세대를 비롯해 독서와 자기계발에 관심이 높은 고객을 대상으로 차별화된 혜택을 제공한다는 계획이다. 가입 고객은 매월 교보문고 sam무제한 이용권과 온라인 전용...",
           "press": "popcornnews.net",
           "date": "2026-08-07",
           "datetime": "2026-08-07 08:14",
           "link": "http://www.popcornnews.net/news/articleView.html?idxno=128941",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG헬로비전 헬로모바일, 교보문고 제휴 혜택 담은 알뜰폰 요금제 출시",
+          "summary": "사진=LG헬로비전 LG헬로비전이 교보문고 전자책 구독과 도서 구매 혜택을 결합한 알뜰폰 요금제를 선보인다. LG헬로비전 헬로모바일은 교보문고와 제휴해 '교보문고 유심·휴대폰 요금제' 6종을 출시했다고 7일...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-07",
+          "datetime": "2026-08-07 08:14",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475157",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

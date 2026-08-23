@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:13 소급 정리",
+  "generated_at": "2026-08-23 10:20 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -1001,23 +1001,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, ‘3G 신규 가입’ 23년 만에 중단…단말 교체·요금 할인 지원",
-          "summary": "에스케이텔레콤은 20일부터 3세대 통신 단말과 3세대 통신망으로 음성 통화가 이뤄지는 엘티이(LTE) 단말을 대상으로 신규 가입과 번호 이동, 기기 변경(유심 기변 포함)을 중단한다고 밝혔다. 회사는 3세대 통신 가…",
-          "press": "한겨레",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 11:34",
-          "link": "https://n.news.naver.com/mnews/article/028/0002819332?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 3G 서비스 종료 추진…오늘부터 신규 가입 중단",
           "summary": "이에 따라 3G 단말과 HD Voice를 지원하지 않는 LTE 단말을 이용한 신규 가입과 번호이동, 기기변경이 이날부터 중단된다. HD Voice 미지원 LTE 단말은 음성통화에 3G망을 이용하기 때문에 3G 서비스…",
           "press": "kdfnews.com",
           "date": "2026-08-20",
           "datetime": "2026-08-20 11:34",
           "link": "http://www.kdfnews.com/news/articleView.html?idxno=186806",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, ‘3G 신규 가입’ 23년 만에 중단…단말 교체·요금 할인 지원",
+          "summary": "에스케이텔레콤은 20일부터 3세대 통신 단말과 3세대 통신망으로 음성 통화가 이뤄지는 엘티이(LTE) 단말을 대상으로 신규 가입과 번호 이동, 기기 변경(유심 기변 포함)을 중단한다고 밝혔다. 회사는 3세대 통신 가…",
+          "press": "한겨레",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 11:34",
+          "link": "https://n.news.naver.com/mnews/article/028/0002819332?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1518,17 +1518,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 3G 신규 가입 중단…23년 만에 서비스 종료 수순",
-          "summary": "세 번째는 24개월간 가입 요금제 월정액의 최대 70%(최대 70만원)를 할인하는 방식이다. 프로그램을... 스마트기기 회선은 단말 구매 지원금 최대 19만원과 24개월간 월 요금 최대 6000원 할인, 또는 24개…",
-          "press": "delighti.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 09:50",
-          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120451",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[TOP's Pick] [통신] SK텔레콤, 3G 서비스 신규 가입 중단 外",
           "summary": "SKT는 3G 가입자와 트래픽 감소, 단말·장비 노후화, 차세대 네트워크 중심의 통신환경 변화 등을 종료 추진... 만 65세 이상 고객은 LTE·5G 전환 이후에도 월 9900원의 뉴실버요금제를 이용할 수 있음. …",
           "press": "topdaily.kr",
@@ -1546,6 +1535,17 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 09:50",
           "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93955",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 신규 가입 중단…23년 만에 서비스 종료 수순",
+          "summary": "세 번째는 24개월간 가입 요금제 월정액의 최대 70%(최대 70만원)를 할인하는 방식이다. 프로그램을... 스마트기기 회선은 단말 구매 지원금 최대 19만원과 24개월간 월 요금 최대 6000원 할인, 또는 24개…",
+          "press": "delighti.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:50",
+          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120451",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1579,6 +1579,17 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 09:48",
           "link": "https://www.techm.kr/news/articleView.html?idxno=154444",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK텔레콤, 3G 신규 가입 중단",
+          "summary": "SKT는 3G 이용자와 데이터 사용량이 줄어드는 가운데 가입자 감소, 단말·통신장비 노후화 등 통신 환경 변화하면서 서비스 종료하게 됐다고 설명했다. SKT는 기존 고객이 LTE·5G 전환을 지원하고, 향후...",
+          "press": "newsinside.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:48",
+          "link": "https://www.newsinside.kr/news/articleView.html?idxno=4934564",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1727,17 +1738,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 3G 신규 가입 오늘부터 중단… 서비스 종료 추진",
-          "summary": "할인 ▲24개월간 요금제 월정액 최대 70% 할인 중 하나를 선택할 수 있다. 만 65세 이상 3G 가입자가 LTE·5G로... 윤재웅 SKT 프로덕트&브랜드본부장은 “3G를 오랫동안 이용해 오신 고객 한 분 한 분…",
-          "press": "조선일보",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 09:21",
-          "link": "https://n.news.naver.com/mnews/article/023/0003993949?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"SKT, 23년 만에 3G 서비스 종료\"…이날부터 신규 가입 중단",
           "summary": "할인 △24개월간 요금제 월정액 최대 70% 할인 중 하나를 선택할 수 있다. 만 65세 이상 3G 가입자가 LTE·5G로 전환할 경우에는 기존 월 9900원의 뉴실버요금제에 가입할 수 있다. 전환 지원 프로그램을 …",
           "press": "daejonilbo.com",
@@ -1749,12 +1749,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 3G 서비스 '신규 가입 중단'...23년 만에 종료 추진",
-          "summary": "SKT가 2003년부터 시작한 3G 서비스 종료를 위해 신규 가입을 중단하고, 서비스 전환 지원 프로그램을... 또 24개월간 가입 요금제 월정액의 최대 70%, 총 최대 70만원을 할인받는 방안도 선택할 수 있다.…",
-          "press": "moneystorm.kr",
+          "title": "SKT, 3G 신규 가입 오늘부터 중단… 서비스 종료 추진",
+          "summary": "할인 ▲24개월간 요금제 월정액 최대 70% 할인 중 하나를 선택할 수 있다. 만 65세 이상 3G 가입자가 LTE·5G로... 윤재웅 SKT 프로덕트&브랜드본부장은 “3G를 오랫동안 이용해 오신 고객 한 분 한 분…",
+          "press": "조선일보",
           "date": "2026-08-20",
-          "datetime": "2026-08-20 09:20",
-          "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5835",
+          "datetime": "2026-08-20 09:21",
+          "link": "https://n.news.naver.com/mnews/article/023/0003993949?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1766,6 +1766,17 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 09:20",
           "link": "https://www.etoday.co.kr/news/view/2616240",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 3G 서비스 '신규 가입 중단'...23년 만에 종료 추진",
+          "summary": "SKT가 2003년부터 시작한 3G 서비스 종료를 위해 신규 가입을 중단하고, 서비스 전환 지원 프로그램을... 또 24개월간 가입 요금제 월정액의 최대 70%, 총 최대 70만원을 할인받는 방안도 선택할 수 있다.…",
+          "press": "moneystorm.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:20",
+          "link": "https://www.moneystorm.kr/news/articleView.html?idxno=5835",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1793,23 +1804,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SK하이닉스·SKT, 차세대 AI 인프라 'CPO' 네이처 일렉트로닉스에 게재·...",
-          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다. 또 선택하는 프로그램에... 기존 '뉴실버요금제(월 9900원)'에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으면…",
-          "press": "wsobi.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 09:16",
-          "link": "http://www.wsobi.com/news/articleView.html?idxno=316715",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"굿바이 3G\" SKT, 3G 서비스 신규 가입 중단…LTE·5G 전환 지원",
           "summary": "SKT는 만 65세 이상 3G 가입 고객이 LTE·5G로 전환하는 경우 기존 '뉴실버요금제(월 9,900원)'에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으면 해당 요금제를 계속 이용할 수 있다.…",
           "press": "itdaily.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 09:16",
           "link": "https://www.itdaily.kr/news/articleView.html?idxno=241090",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK하이닉스·SKT, 차세대 AI 인프라 'CPO' 네이처 일렉트로닉스에 게재·...",
+          "summary": "가입 요금제 월정액 최대 70% 할인(최대 70만원) 중 하나를 선택할 수 있다. 또 선택하는 프로그램에... 기존 '뉴실버요금제(월 9900원)'에 가입할 수 있도록 했다. 가입 이후 다른 요금제로 변경하지 않으면…",
+          "press": "wsobi.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 09:16",
+          "link": "http://www.wsobi.com/news/articleView.html?idxno=316715",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -2002,23 +2013,23 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "전기차 캐즘에 ESS 뜨자···K 배터리, 공장 쓰임새 바꾼다",
-          "summary": "중장기 공급계약도 체결했다. 해당 소재는 SPE에서 생산할 ESS용 배터리에 사용된다. ESS 확대는 실적에도 영향을 미치기 시작했다. 삼성SDI는 상반기 전력용 ESS와 무정전전원장치(UPS), 배터리백업유닛(BB…",
-          "press": "sisajournal-e.com",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 15:18",
-          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423183",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "'AI 시대' 전력저장 뜬다…'ESS' K-배터리 돌파구",
           "summary": "국내 배터리업계가 전 세계 전기차 배터리 시장에서 중국에 밀리자, 에너지저장장치(ESS)를 돌파구로... 무정전전원장치(UPS)용 배터리를 공급하는 등 그룹 내 전력 인프라를 바탕으로 초기 적용 경험을 쌓을 수 있을…",
           "press": "newsprime.co.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 15:18",
           "link": "http://www.newsprime.co.kr/news/article.html?no=744487",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "전기차 캐즘에 ESS 뜨자···K 배터리, 공장 쓰임새 바꾼다",
+          "summary": "중장기 공급계약도 체결했다. 해당 소재는 SPE에서 생산할 ESS용 배터리에 사용된다. ESS 확대는 실적에도 영향을 미치기 시작했다. 삼성SDI는 상반기 전력용 ESS와 무정전전원장치(UPS), 배터리백업유닛(BB…",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 15:18",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423183",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
@@ -2398,23 +2409,23 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "홍콩 사로잡은 K-푸드…수출상담 2900만달러",
-          "summary": "단감 수출기업 관계자는 \"정부의 다각적인 노력 덕분에 K-단감이 수출시장을 효과적으로 확대할 수 있게 되었다.\"라며 \"이번 상담회를 통해 인연을 맺은 중화권 바이어와 실질적인 수출 성과를 이뤄낼 수 있도록...",
-          "press": "newsfarm.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 22:26",
-          "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102043",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "미국 치맥축제서 K-푸드 매력…소스·스낵·웰니스 선봬",
           "summary": "전기찬 aT 수출식품이사는 \"한국의 대중적인 외식문화인 '치맥'을 통해 현지 소비자들에게 다양한 한국식품을 자연스럽게 소개할 수 있었다\"며 \"앞으로도 한국 식문화와 연계한 체험형 홍보를 확대해 K-푸드의...",
           "press": "newsfarm.co.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 22:26",
           "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102044",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "홍콩 사로잡은 K-푸드…수출상담 2900만달러",
+          "summary": "단감 수출기업 관계자는 \"정부의 다각적인 노력 덕분에 K-단감이 수출시장을 효과적으로 확대할 수 있게 되었다.\"라며 \"이번 상담회를 통해 인연을 맺은 중화권 바이어와 실질적인 수출 성과를 이뤄낼 수 있도록...",
+          "press": "newsfarm.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 22:26",
+          "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=102043",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -2627,5 +2638,5 @@
       ]
     }
   ],
-  "total": 234
+  "total": 235
 }

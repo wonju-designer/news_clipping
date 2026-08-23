@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:13 소급 정리",
+  "generated_at": "2026-08-23 10:20 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -771,23 +771,23 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "aT, 수산식품 수출기업 간담회…규제 대응 전략 공유",
-          "summary": "이어진 수산식품 수출 혁신 간담회에서는 김·해조류 가공식품, 선어·활어 및 냉동 수산물, 수산가공식품 및 HMR·밀키트 등 품목별로 시장 동향과 현장 정보를 공유하고 판로 확대 방안을 논의했다. 전기찬 aT...",
-          "press": "newsfarm.co.kr",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 11:30",
-          "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101929",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "파나마 냉동식품 시장, K-푸드 제품군 확대와 유통 변화",
           "summary": "냉동 김밥, 핫도그, 김말이, 냉동 밀키트, 냉동 디저트 등 간편성과 다양성을 갖춘 제품은 현지 소비자의 관심이 계속 확대될 것으로 예상됩니다. 파나마의 냉동식품 시장은 간편식 소비 증가와 K-푸드...",
           "press": "dream.kotra.or.kr",
           "date": "2026-08-11",
           "datetime": "2026-08-11 11:30",
           "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243343",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "aT, 수산식품 수출기업 간담회…규제 대응 전략 공유",
+          "summary": "이어진 수산식품 수출 혁신 간담회에서는 김·해조류 가공식품, 선어·활어 및 냉동 수산물, 수산가공식품 및 HMR·밀키트 등 품목별로 시장 동향과 현장 정보를 공유하고 판로 확대 방안을 논의했다. 전기찬 aT...",
+          "press": "newsfarm.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 11:30",
+          "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101929",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"

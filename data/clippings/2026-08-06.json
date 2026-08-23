@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 10:13 소급 정리",
+  "generated_at": "2026-08-23 10:20 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -77,23 +77,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "KT, 'AI 기반 실시간 스팸차단 서비스' 전 고객 확대 적용",
-          "summary": "[KT]  KT가 신종 및 변형 스팸 문자에 대응하기 위해 개발한 'AI 기반 실시간 스팸차단 서비스'를 알뜰폰 사용자를 포함한 전 고객 대상으로 확대 적용했다고 6일 밝혔다. 최근 스팸 문자는 특수문자를 섞거나 패…",
-          "press": "ziksir.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 17:28",
-          "link": "https://www.ziksir.com/news/articleView.html?idxno=142371",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[비즈&] 삼성 갤럭시 Z 폴드8·플립8 내일 공식 출시 外",
           "summary": "▶ KT, AI 실시간 스팸차단 서비스 전 고객 확대 KT가 AI 기반 실시간 스팸 차단 서비스를 KT 알뜰폰 이용자를 포함한 모든 고객으로 확대 적용했습니다. 이 서비스는 KT가 자체 개발한 것으로, 신규 변종 스…",
           "press": "연합뉴스TV",
           "date": "2026-08-06",
           "datetime": "2026-08-06 17:28",
           "link": "https://n.news.naver.com/mnews/article/422/0000893120?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 'AI 기반 실시간 스팸차단 서비스' 전 고객 확대 적용",
+          "summary": "[KT]  KT가 신종 및 변형 스팸 문자에 대응하기 위해 개발한 'AI 기반 실시간 스팸차단 서비스'를 알뜰폰 사용자를 포함한 전 고객 대상으로 확대 적용했다고 6일 밝혔다. 최근 스팸 문자는 특수문자를 섞거나 패…",
+          "press": "ziksir.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 17:28",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=142371",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -429,23 +429,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG U+, 2분기 영업익 3445억원…분기 기준 역대 최대",
-          "summary": "이동통신(MNO) 가입 회선은 2244만2000여개로 7.2%, 알뜰폰(MVNO) 가입 회선은 902만5000여개로 0.4% 각각 증가했다. 스마트홈 부문 수익은 IPTV와 초고속인터넷 가입자 증가에 힘입어 4.3%…",
-          "press": "delighti.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 15:06",
-          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119894",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스, 2분기 역대 최대 실적…수익성 기반 AIDC 투자 확대(종합)",
           "summary": "MNO 가입회선은 2244만 2000여개, MVNO 가입회선은 902만 5000여개로 전년 동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 전년 대비 6.9% 늘어난 954만 8000명으로, 전체 …",
           "press": "아주경제",
           "date": "2026-08-06",
           "datetime": "2026-08-06 15:06",
           "link": "https://www.ajunews.com/view/20260806145442087",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG U+, 2분기 영업익 3445억원…분기 기준 역대 최대",
+          "summary": "이동통신(MNO) 가입 회선은 2244만2000여개로 7.2%, 알뜰폰(MVNO) 가입 회선은 902만5000여개로 0.4% 각각 증가했다. 스마트홈 부문 수익은 IPTV와 초고속인터넷 가입자 증가에 힘입어 4.3%…",
+          "press": "delighti.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 15:06",
+          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=119894",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -957,23 +957,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2분기 영업익 3445억원 '역대 최대'…AIDC 성장·비용 효율화...",
-          "summary": "이 가운데 이동통신망사업자(MNO) 가입회선은 2244만2000여개로 7.2% 증가했고, 알뜰폰(MVNO) 가입회선은 902만5000여개로 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 전년 대비 6.…",
-          "press": "newslock.co.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 11:08",
-          "link": "http://www.newslock.co.kr/news/articleView.html?idxno=134004",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스, 2분기 영업이익 3445억 달성...AIDC 매출 29% 상승",
           "summary": "자체 회선(MNO)은 2244만2000여개, 알뜰폰(MVNO) 회선은 902만5000여개로 각각 7.2%, 0.4% 증가했다. 5G 핸드셋 가입자는 954만8000명으로 전년 대비 6.9% 늘었고, 전체 핸드셋 가입…",
           "press": "dizzotv.com",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:08",
           "link": "https://www.dizzotv.com/site/data/html_dir/2026/08/06/2026080680065.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2분기 영업익 3445억원 '역대 최대'…AIDC 성장·비용 효율화...",
+          "summary": "이 가운데 이동통신망사업자(MNO) 가입회선은 2244만2000여개로 7.2% 증가했고, 알뜰폰(MVNO) 가입회선은 902만5000여개로 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 전년 대비 6.…",
+          "press": "newslock.co.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:08",
+          "link": "http://www.newslock.co.kr/news/articleView.html?idxno=134004",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1001,23 +1001,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2분기 영업이익 역대 최대…\"AIDC 등 신사업 성장\"",
-          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개, 알뜰폰사업자(MVNO) 가입회선은 902만5000여개로 각각 7.2%, 0.4% 증가했다. 5G 휴대폰 가입자는 954만8000명으로 6.9% 늘었고, 전체 …",
-          "press": "socialvalue.kr",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 11:06",
-          "link": "https://www.socialvalue.kr/news/view/1065577447953003",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG유플러스, 2Q 영업이익 3445억원 '분기 최대 실적'",
           "summary": "이 중 MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 집계됐다. 5G 핸드셋 가입자는 954만8000명으로 전체 핸드셋 가입자 대비 5G 보급률은 84.9%에 달했다. 스마트홈 부…",
           "press": "IT조선",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:06",
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167432",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2분기 영업이익 역대 최대…\"AIDC 등 신사업 성장\"",
+          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개, 알뜰폰사업자(MVNO) 가입회선은 902만5000여개로 각각 7.2%, 0.4% 증가했다. 5G 휴대폰 가입자는 954만8000명으로 6.9% 늘었고, 전체 …",
+          "press": "socialvalue.kr",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:06",
+          "link": "https://www.socialvalue.kr/news/view/1065577447953003",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1034,23 +1034,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2분기 영업이익 3445억원...\"역대 분기 최대 실적\"",
-          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개로 7.2% 증가했고, 알뜰폰(MVNO) 가입회선은 902만5000여개로 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 증가했다. 전체 핸…",
-          "press": "seouleconews.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 11:02",
-          "link": "http://www.seouleconews.com/news/articleView.html?idxno=92884",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LGU+, AIDC·스마트홈 성장에 2분기 영업익 역대 최대",
           "summary": "이동통신사업자(MNO) 가입 회선은 2244만2000여개, 알뜰폰(MVNO) 가입 회선은 902만5000여개로 전년동기 대비 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 늘었…",
           "press": "sentv.co.kr",
           "date": "2026-08-06",
           "datetime": "2026-08-06 11:02",
           "link": "https://www.sentv.co.kr/article/view/sentv202608060075",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2분기 영업이익 3445억원...\"역대 분기 최대 실적\"",
+          "summary": "이동통신사업자(MNO) 가입회선은 2244만2000여개로 7.2% 증가했고, 알뜰폰(MVNO) 가입회선은 902만5000여개로 0.4% 늘었다. 5G 핸드셋 가입자는 954만8000명으로 6.9% 증가했다. 전체 핸…",
+          "press": "seouleconews.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 11:02",
+          "link": "http://www.seouleconews.com/news/articleView.html?idxno=92884",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1199,23 +1199,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스, 2분기 영업이익 3445억원..역대 최대 분기 기록 달성",
-          "summary": "MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 6.9% 늘어난 954만8000명이다. 전체 핸드셋 가입자 대비 5G 보급률은…",
-          "press": "kpenews.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 10:38",
-          "link": "https://kpenews.com/View.aspx?No=4176460",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LGU+, 2분기 영업익 '역대 최대'…AI 데이터센터가 효자(종합)",
           "summary": "이동통신사업자(MNO) 가입회선은 2244만2000개, 알뜰폰(MVNO) 가입회선은 902만5000개로 각각 7.2%, 0.4% 증가했다. 5G 핸드셋 가입자는 954만8000명으로 전년 대비 6.9% 늘었다. 전체…",
           "press": "widedaily.com",
           "date": "2026-08-06",
           "datetime": "2026-08-06 10:38",
           "link": "https://www.widedaily.com/news/articleView.html?idxno=298970",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2분기 영업이익 3445억원..역대 최대 분기 기록 달성",
+          "summary": "MNO 가입회선은 2244만2000여개, MVNO 가입회선은 902만5000여개로 각각 7.2%, 0.4% 늘었다. 5G 핸드셋 가입자는 6.9% 늘어난 954만8000명이다. 전체 핸드셋 가입자 대비 5G 보급률은…",
+          "press": "kpenews.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 10:38",
+          "link": "https://kpenews.com/View.aspx?No=4176460",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1419,17 +1419,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "갤럭시 Z8·워치9 내일 공식 출시…폴더블 사전판매 144만대 흥행",
-          "summary": "삼성닷컴에서 자급제 모델을 사전구매한 고객 가운데 절반은 'New(뉴) 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐다. 스마트 스위치와 퀵 셰어를 통해 iOS 기기와의 데이터 이전·공유 편의성을 높이고, 삼성월렛의…",
-          "press": "widedaily.com",
-          "date": "2026-08-06",
-          "datetime": "2026-08-06 09:48",
-          "link": "https://www.widedaily.com/news/articleView.html?idxno=298927",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "갤럭시Z 시리즈 144만대 사전판매 '역대 최대'…내일 국내 출시",
           "summary": "자급제 모델 사전 구매자 2명 중 1명은 '뉴 갤럭시 AI 구독클럽'에도 가입했다. 새로운 갤럭시 Z 시리즈는 사용 목적에 따라 제품군을 세분화한 것이 특징이다. '갤럭시 Z 폴드8 울트라'는 대화면과 고성능을 앞세…",
           "press": "nocutnews.co.kr",
@@ -1441,12 +1430,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "삼성전자, 갤럭시 Z 폴드8·플립8·워치9 국내 출시…사전판매 144만대 신...",
-          "summary": "자급제 구매 고객 2명 중 1명은 '뉴 갤럭시 AI 구독클럽'에 가입했다. 함께 출시되는 갤럭시 워치 울트라2와 워치9도 전작 대비 사전판매가 각각 두 자릿수 증가했다. 특히 워치 울트라2는 여성 구매 비중이 전작보…",
-          "press": "cnbizm.com",
+          "title": "갤럭시 Z8·워치9 내일 공식 출시…폴더블 사전판매 144만대 흥행",
+          "summary": "삼성닷컴에서 자급제 모델을 사전구매한 고객 가운데 절반은 'New(뉴) 갤럭시 AI 구독클럽'에 가입한 것으로 집계됐다. 스마트 스위치와 퀵 셰어를 통해 iOS 기기와의 데이터 이전·공유 편의성을 높이고, 삼성월렛의…",
+          "press": "widedaily.com",
           "date": "2026-08-06",
-          "datetime": "2026-08-06 09:46",
-          "link": "https://www.cnbizm.com/news/articleView.html?idxno=310735",
+          "datetime": "2026-08-06 09:48",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=298927",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -1458,6 +1447,17 @@
           "date": "2026-08-06",
           "datetime": "2026-08-06 09:46",
           "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251946",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 갤럭시 Z 폴드8·플립8·워치9 국내 출시…사전판매 144만대 신...",
+          "summary": "자급제 구매 고객 2명 중 1명은 '뉴 갤럭시 AI 구독클럽'에 가입했다. 함께 출시되는 갤럭시 워치 울트라2와 워치9도 전작 대비 사전판매가 각각 두 자릿수 증가했다. 특히 워치 울트라2는 여성 구매 비중이 전작보…",
+          "press": "cnbizm.com",
+          "date": "2026-08-06",
+          "datetime": "2026-08-06 09:46",
+          "link": "https://www.cnbizm.com/news/articleView.html?idxno=310735",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
