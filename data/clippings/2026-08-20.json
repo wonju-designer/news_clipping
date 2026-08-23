@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:45 소급 정리",
+  "generated_at": "2026-08-23 11:50 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -374,23 +374,23 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "'AI 시대' 전력저장 뜬다…'ESS' K-배터리 돌파구",
-          "summary": "국내 배터리업계가 전 세계 전기차 배터리 시장에서 중국에 밀리자, 에너지저장장치(ESS)를 돌파구로... 무정전전원장치(UPS)용 배터리를 공급하는 등 그룹 내 전력 인프라를 바탕으로 초기 적용 경험을 쌓을 수 있을…",
-          "press": "newsprime.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 15:18",
-          "link": "http://www.newsprime.co.kr/news/article.html?no=744487",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "전기차 캐즘에 ESS 뜨자···K 배터리, 공장 쓰임새 바꾼다",
           "summary": "중장기 공급계약도 체결했다. 해당 소재는 SPE에서 생산할 ESS용 배터리에 사용된다. ESS 확대는 실적에도 영향을 미치기 시작했다. 삼성SDI는 상반기 전력용 ESS와 무정전전원장치(UPS), 배터리백업유닛(BB…",
           "press": "sisajournal-e.com",
           "date": "2026-08-20",
           "datetime": "2026-08-20 15:18",
           "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423183",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "'AI 시대' 전력저장 뜬다…'ESS' K-배터리 돌파구",
+          "summary": "국내 배터리업계가 전 세계 전기차 배터리 시장에서 중국에 밀리자, 에너지저장장치(ESS)를 돌파구로... 무정전전원장치(UPS)용 배터리를 공급하는 등 그룹 내 전력 인프라를 바탕으로 초기 적용 경험을 쌓을 수 있을…",
+          "press": "newsprime.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 15:18",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=744487",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"

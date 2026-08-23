@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:45 소급 정리",
+  "generated_at": "2026-08-23 11:50 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -319,23 +319,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LG유플러스 '알닷', 토스모바일 손잡고 '페이스페이' 결합 알뜰폰 요금...",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장 내에서도 차별화된 고객 경험에 대한 수요가 커지고 있다\"며, \"여러 파트너사와의 협력을 기반으로 고객 일상에 실질적 가치를 더하는 상품을 지속 출시하겠다\"고...",
-          "press": "pointe.co.kr",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:00",
-          "link": "https://www.pointe.co.kr/news/articleView.html?idxno=83261",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "[위클리오늘] 이동통신 소식_KT, LG유플러스(8.17)",
           "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
           "press": "weeklytoday.com",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:00",
           "link": "http://www.weeklytoday.com/news/articleView.html?idxno=790483",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 토스모바일과 생활밀착형 알뜰폰 요금제 확대",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"LG유플러스는 다양한 파트너사와 협력을 확대해 통신 서비스를 넘어...",
+          "press": "ziksir.com",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:00",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=143309",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

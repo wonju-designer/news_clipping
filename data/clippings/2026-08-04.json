@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:45 소급 정리",
+  "generated_at": "2026-08-23 11:50 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -297,23 +297,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "[2026 2분기 실적] 롯데하이마트, 매출 회복 전환…6월 매출 8% 증가",
-          "summary": "회사는 ‘Hi-mart 요금제’ 출시 및 중고 모바일 사업 확대를 적극 추진하고 있으며, 중고폰 판매 고객의 신제품 연동 구매율은 7월 말 16%로 상승했고 월 매입량도 1000대를 넘어섰습니다. 2분기 영업이익은 …",
-          "press": "inthenews.co.kr",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 17:12",
-          "link": "https://www.inthenews.co.kr/news/article.html?no=90161",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "수익성 개선…롯데하이마트 2분기 영업익 9억·총매출액 7339억",
           "summary": "자체 요금제와 중고 모바일 사업 확대에 힘입어 중고폰 매입 고객의 신제품 구매 연계율은 지난 3월 5%에서 7월 말 16%까지 상승했다. 구매 주기가 짧은 상품을 중심으로 유입된 고객이 대형가전과 서비스 구매로...",
           "press": "asiatime.co.kr",
           "date": "2026-08-04",
           "datetime": "2026-08-04 17:12",
           "link": "https://www.asiatime.co.kr/article/20260804500203",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[2026 2분기 실적] 롯데하이마트, 매출 회복 전환…6월 매출 8% 증가",
+          "summary": "회사는 ‘Hi-mart 요금제’ 출시 및 중고 모바일 사업 확대를 적극 추진하고 있으며, 중고폰 판매 고객의 신제품 연동 구매율은 7월 말 16%로 상승했고 월 매입량도 1000대를 넘어섰습니다. 2분기 영업이익은 …",
+          "press": "inthenews.co.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 17:12",
+          "link": "https://www.inthenews.co.kr/news/article.html?no=90161",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
