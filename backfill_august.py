@@ -11,6 +11,7 @@
 결과: data/clippings/2026-08-monthly.json 생성 → dashboard.build()로 대시보드 갱신
 """
 
+import glob
 import json
 import os
 from datetime import datetime, timedelta
@@ -82,9 +83,31 @@ def _art_json(a):
     }
 
 
+def _purge_old_backfill():
+    """기존 백필 파일(backfill_note 있는 것)만 삭제. 매일 클리핑은 보존."""
+    removed = 0
+    for path in glob.glob(os.path.join(dashboard.CLIP_DIR, "*.json")):
+        try:
+            with open(path, encoding="utf-8") as f:
+                data = json.load(f)
+        except Exception:
+            continue
+        # backfill_note가 있거나 kind가 monthly면 소급분 → 삭제
+        if data.get("backfill_note") or data.get("kind") == "monthly":
+            os.remove(path)
+            removed += 1
+    if removed:
+        print(f"[백필] 기존 소급분 {removed}건 삭제 (매일 클리핑은 보존)")
+    else:
+        print("[백필] 삭제할 기존 소급분 없음")
+
+
 def run():
     start, end = _month_range()
     print(f"[백필] 기간: {start:%Y-%m-%d} ~ {end:%Y-%m-%d} (실제 발행일 기준)")
+
+    # 기존 소급분(backfill_note) 정리 후 새로 생성 — 매일 클리핑은 건드리지 않음
+    _purge_old_backfill()
 
     # 1) 섹션별 기사 수집 (기존과 동일)
     section_arts = {}   # cat_id -> [arts]
