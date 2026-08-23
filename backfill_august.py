@@ -93,7 +93,7 @@ def run():
         if cat.get("subgroups"):
             arts = []
             for sg in cat["subgroups"]:
-                sgx = sg.get("exclude", ())
+                sgx = tuple(sg.get("exclude", ())) + tuple(config.SPORTS_EXCLUDE)
                 own = _collect_terms(sg["keywords"], "자사", start, end, seen,
                                      extra_exclude=sgx, require_any=sg.get("require_own", ()))
                 ind = _collect_terms(sg.get("industry_keywords", []), "산업", start, end, seen,
@@ -164,4 +164,3 @@ def run():
 
 if __name__ == "__main__":
     run()
-      
