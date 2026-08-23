@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 13:03 소급 정리",
+  "generated_at": "2026-08-23 13:15 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -242,6 +242,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT알파, 상반기 매출 줄었지만 취급고 9%↑…영업익 262억원",
+          "summary": "KT알파가 올 상반기 직매입 비중을 줄이고 위수탁 중심으로 사업 구조를 조정하면서 매출은 소폭... 통신 요금제·부가서비스와 연계한 구독형 상품과 통합상품권 브랜드 제휴도 확대했다. 기업간거래(B2B) 영역에서는..…",
+          "press": "디지털데일리",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 16:58",
+          "link": "https://n.news.naver.com/mnews/article/138/0002237600?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "칩플레이션에 스마트폰·가전 구독 시대 ‘활짝’",
           "summary": "12일 삼성전자에 따르면 이달 공식 판매에 들어간 삼성전자 신제품 폴더블폰 ‘갤럭시 Z 8 시리즈’를... 스마트폰을 자급제로 구매한 소비자는 계약 기간 동안 매달 이용료를 낸 뒤, 약정 종료 후 기기를 반납하면 최…",
           "press": "경향신문",
@@ -303,17 +314,6 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 17:02",
           "link": "https://www.econovill.com/news/articleView.html?idxno=747806",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT, 2분기 영업익 6483억…AX·성장사업 확대",
-          "summary": "KT는 5G-LTE 통합요금제와 초이스 더블 요금제 신규 라인업을 출시하며 요금제 경쟁력을 강화했다. 인터넷 사업 매출은 기가 인터넷 가입자 증가와 부가서비스 이용 확대에 힘입어 1.1% 성장했다. 미디어 사업...",
-          "press": "straightnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:58",
-          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308823",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -616,17 +616,6 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "치킨 의존 탈출 쉽지 않네…BBQ, 적자 외식 계열사 수혈 속내",
-          "summary": "이종우 남서울대 유통마케팅학과 교수는 “돈카츠나 떡볶이 등은 이미 시장에 자리 잡은 브랜드가 많고 HMR(가정간편식) 제품도 다양하게 출시돼 있어 메뉴 경쟁력이 떨어진다. 결국엔 트렌디한 신규 아이템이...",
-          "press": "ilyo.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:56",
-          "link": "https://ilyo.co.kr/?ac=article_view&entry_id=512248",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "“시금치 한 단 사기도 겁나”…폭염에 채소값 뛰고 가공식품도 줄인상",
           "summary": "전통시장에서도 미나리와 청오이가 한 달 전보다 각각 8000원, 6000원씩 대폭 뛰었다. 한국은행은 현재... 풀무원은 13일부터 주요 유통 채널에서 판매하는 간식·김치·만두·면 밀키트 등 30개 품목의 소비자가격…",
           "press": "segyebiz.com",
@@ -688,6 +677,17 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 10:18",
           "link": "https://n.news.naver.com/mnews/article/215/0001262078?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "시금치 85%·깻잎 41%↑…폭염에 채소값 들썩, 가공식품도 줄인상",
+          "summary": "전통시장에서도 오름세가 두드러졌다. 한국물가정보에 따르면 미나리는 1㎏에 1만 6000원으로 한 달... 풀무원은 13일부터 간식·김치·냉동볶음밥·소스·계란가공품·만두·면 밀키트 등 7개 제품군 30개 품목의...",
+          "press": "newscj.com",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 10:16",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3424445",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
