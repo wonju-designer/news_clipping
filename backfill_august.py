@@ -171,14 +171,28 @@ def run():
                 capped = []
                 for sg in cat["subgroups"]:
                     sg_arts = [a for a in arts if a.get("subgroup") == sg["id"]]
-                    # 계열사 기사엔 회사명이 다 들어있으므로, 핵심 사업어(priority_ind) 유무로 우선순위
                     p_ind = tuple(sg.get("priority_ind", ()))
                     def _tier_sg(a, pi=p_ind):
                         low = (a.get("title", "") + " " + a.get("desc", "")).lower()
                         if pi and any(t.lower() in low for t in pi): return 0
                         return 1
-                    sg_arts = sorted(sg_arts, key=lambda a: (_tier_sg(a), -(a["pub"].timestamp() if a.get("pub") else 0)))
-                    capped += sg_arts[:config.ARCHIVE_MAX_PER_COMPANY]
+                    # 자사·산업 각각 정렬(사업어 → 주요일간지 → 최신순) 후 개별 할당
+                    def _key(a):
+                        return (_tier_sg(a),
+                                0 if a.get("is_major") else 1,
+                                -(a["pub"].timestamp() if a.get("pub") else 0))
+                    own = sorted([a for a in sg_arts if a.get("badge") == "자사"], key=_key)
+                    ind = sorted([a for a in sg_arts if a.get("badge") != "자사"], key=_key)
+                    # 유연 할당: 자사 6 + 산업 4 목표, 한쪽이 적으면 다른 쪽이 남은 자리 채움 (총 10)
+                    total_cap = config.ARCHIVE_MAX_PER_COMPANY
+                    n_own = min(len(own), config.ARCHIVE_OWN_PER_COMPANY)
+                    n_ind = min(len(ind), config.ARCHIVE_IND_PER_COMPANY)
+                    left = total_cap - (n_own + n_ind)
+                    if left > 0:                                  # 남은 자리 채우기
+                        n_own += min(left, len(own) - n_own)
+                        left = total_cap - (n_own + n_ind)
+                        n_ind += min(left, len(ind) - n_ind)
+                    capped += own[:n_own] + ind[:n_ind]           # 자사 먼저 노출
                 arts = capped
             else:
                 # 산업·자사·경쟁사 — 알뜰폰·MVNO 최우선 → priority_terms → 나머지
@@ -189,7 +203,11 @@ def run():
                     if any(t.lower() in low for t in top): return 0
                     if pt and any(t.lower() in low for t in pt): return 1
                     return 2
-                arts = sorted(arts, key=lambda a: (_tier(a), -(a["pub"].timestamp() if a.get("pub") else 0)))
+                arts = sorted(arts, key=lambda a: (
+                    _tier(a),
+                    0 if a.get("is_major") else 1,
+                    -(a["pub"].timestamp() if a.get("pub") else 0),
+                ))
                 cap = config.ARCHIVE_MAX_BY_SECTION.get(cat["id"], config.ARCHIVE_MAX_PER_SECTION)
                 arts = arts[:cap]
             sec = {
