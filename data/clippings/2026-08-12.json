@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 12:54 소급 정리",
+  "generated_at": "2026-08-23 13:03 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -242,17 +242,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "KT알파, 상반기 매출 줄었지만 취급고 9%↑…영업익 262억원",
-          "summary": "KT알파가 올 상반기 직매입 비중을 줄이고 위수탁 중심으로 사업 구조를 조정하면서 매출은 소폭... 통신 요금제·부가서비스와 연계한 구독형 상품과 통합상품권 브랜드 제휴도 확대했다. 기업간거래(B2B) 영역에서는..…",
-          "press": "디지털데일리",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:58",
-          "link": "https://n.news.naver.com/mnews/article/138/0002237600?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "칩플레이션에 스마트폰·가전 구독 시대 ‘활짝’",
           "summary": "12일 삼성전자에 따르면 이달 공식 판매에 들어간 삼성전자 신제품 폴더블폰 ‘갤럭시 Z 8 시리즈’를... 스마트폰을 자급제로 구매한 소비자는 계약 기간 동안 매달 이용료를 낸 뒤, 약정 종료 후 기기를 반납하면 최…",
           "press": "경향신문",
@@ -314,6 +303,17 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 17:02",
           "link": "https://www.econovill.com/news/articleView.html?idxno=747806",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 2분기 영업익 6483억…AX·성장사업 확대",
+          "summary": "KT는 5G-LTE 통합요금제와 초이스 더블 요금제 신규 라인업을 출시하며 요금제 경쟁력을 강화했다. 인터넷 사업 매출은 기가 인터넷 가입자 증가와 부가서비스 이용 확대에 힘입어 1.1% 성장했다. 미디어 사업...",
+          "press": "straightnews.co.kr",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 16:58",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308823",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
