@@ -35,7 +35,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 <html lang="ko"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>아이즈비전 뉴스 클리핑 대시보드</title>
+<title>아이즈비전 뉴스클리핑</title>
 <style>
   :root{
     --navy:#0C447C; --navy2:#185FA5; --accent:#185FA5;
@@ -110,7 +110,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 </style></head>
 <body>
 <header>
-  <div class="ttl">아이즈비전 뉴스 클리핑 대시보드</div>
+  <div class="ttl">아이즈비전 뉴스클리핑</div>
   <div class="sub" id="hsub"></div>
 </header>
 <div class="wrap">
