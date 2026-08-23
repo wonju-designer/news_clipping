@@ -135,19 +135,24 @@ let query = "";
 const esc = s => (s||"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 function renderDays(){
-  const daily = DATA.filter(d=>!d.backfill_note && d.kind!=="monthly");
-  const back  = DATA.filter(d=>d.backfill_note || d.kind==="monthly");
-  const btn = d=>{
-    const name = d.kind==="monthly" ? "📚 "+(d.label||d.date) : d.date;
-    return `<button class="daybtn ${d.date===curDay&&!query?'on':''}" onclick="pickDay('${d.date}')">
-      <span>${esc(name)}</span><span class="cnt">${d.total}건</span></button>`;
-  };
+  // 최근 2일(오늘+어제)은 '매일 클리핑', 그보다 오래된 날짜는 '지난 소식'
+  const RECENT_DAYS = 2;
+  const today = new Date();
+  const cutoff = new Date(today.getFullYear(), today.getMonth(), today.getDate() - (RECENT_DAYS - 1));
+  const asDate = s => { const m=/^(\d{4})-(\d{2})-(\d{2})/.exec(s); return m ? new Date(+m[1], +m[2]-1, +m[3]) : null; };
+  const recent = [], older = [];
+  DATA.forEach(d=>{
+    const dt = asDate(d.date);
+    (dt && dt >= cutoff ? recent : older).push(d);
+  });
+  const btn = d=>`<button class="daybtn ${d.date===curDay&&!query?'on':''}" onclick="pickDay('${d.date}')">
+      <span>${esc(d.date)}</span><span class="cnt">${d.total}건</span></button>`;
   let html = "";
-  if(daily.length){
-    html += `<div class="dgrp">매일 클리핑</div>` + daily.map(btn).join("");
+  if(recent.length){
+    html += `<div class="dgrp">매일 클리핑</div>` + recent.map(btn).join("");
   }
-  if(back.length){
-    html += `<div class="dgrp back">소급 아카이브 <span class="dgrp-x">(과거 일괄 정리)</span></div>` + back.map(btn).join("");
+  if(older.length){
+    html += `<div class="dgrp back">지난 소식</div>` + older.map(btn).join("");
   }
   document.getElementById("days").innerHTML = html || '<div class="hit">데이터 없음</div>';
 }
@@ -169,12 +174,8 @@ function artHTML(a){
 function renderDay(){
   const d = DATA.find(x=>x.date===curDay);
   if(!d){ document.getElementById("view").innerHTML='<div class="empty">선택한 날짜 데이터가 없습니다.</div>'; return; }
-  const isMonthly = d.kind==="monthly";
-  const headTitle = isMonthly ? esc(d.label||d.date) : `${d.date} 뉴스 클리핑`;
-  let headMeta = isMonthly
-    ? `${esc(d.generated_at)} · 실제 발행일 기준 · 총 ${d.total}건`
-    : `생성 ${esc(d.generated_at)} · 총 ${d.total}건`;
-  if(d.backfill_note) headMeta += ` · ${esc(d.backfill_note)}`;
+  const headTitle = `${d.date} 뉴스 클리핑`;
+  let headMeta = `생성 ${esc(d.generated_at)} · 총 ${d.total}건`;
   let h = `<div class="card"><div class="hd"><div class="d">${headTitle}</div>
     <div class="m">${headMeta}</div></div>`;
   if(d.top5 && d.top5.length){
