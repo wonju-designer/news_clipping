@@ -175,9 +175,7 @@ function renderDay(){
   const d = DATA.find(x=>x.date===curDay);
   if(!d){ document.getElementById("view").innerHTML='<div class="empty">선택한 날짜 데이터가 없습니다.</div>'; return; }
   const headTitle = `${d.date} 뉴스 클리핑`;
-  let headMeta = `생성 ${esc(d.generated_at)} · 총 ${d.total}건`;
-  let h = `<div class="card"><div class="hd"><div class="d">${headTitle}</div>
-    <div class="m">${headMeta}</div></div>`;
+  let h = `<div class="card"><div class="hd"><div class="d">${headTitle}</div></div>`;
   if(d.top5 && d.top5.length){
     h += `<div class="top5"><div class="lb">🔥 오늘의 핵심 Top 5</div>`;
     h += d.top5.map(t=>`<div class="row"><span class="n">${t.rank}</span>${
