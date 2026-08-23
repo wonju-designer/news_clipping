@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:11 소급 정리",
+  "generated_at": "2026-08-23 11:45 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -11,23 +11,45 @@
       "digest": "",
       "articles": [
         {
-          "title": "‘감성 사진용’ 중고 아이폰 판매 뒤 잠적…경찰 수사 착수",
-          "summary": "[김OO/중고폰 피해자/음성변조 : \"오래된 아이폰이라고 해서 감성적으로 사진 나오게 찍는 게 유행이어서…. 2월부터 안 보내주셔서.\"] 한국소비자원도 해당 업체에 대해 소비자 피해 주의를 당부했습니다. 지난 6월까…",
-          "press": "news.kbs.co.kr",
+          "title": "KT, 2년 만에 MVNO 1위…현대차 차량관제 수주 효과",
+          "summary": "KT가 올해 2분기 가상이동통신망(MVNO) 회선 수에서 LG유플러스를 제치고 1위에 올랐습니다. 2년 만에... 이통통신 3사의 가상이동통신망(MVNO) 회선 순위가 2년여 만에 뒤바뀌었습니다. 올해 2분기 KT망…",
+          "press": "sentv.co.kr",
           "date": "2026-08-14",
-          "datetime": "2026-08-14 23:44",
-          "link": "https://n.news.naver.com/mnews/article/056/0012238358?sid=102",
+          "datetime": "2026-08-14 17:16",
+          "link": "https://www.sentv.co.kr/article/view/sentv202608140087",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "‘감성 사진용’ 중고 아이폰 판매 뒤 잠적…경찰 수사 착수 [제보K]",
-          "summary": "[김OO/중고폰 피해자/음성변조 : \"오래된 아이폰이라고 해서 감성적으로 사진 나오게 찍는 게 유행이어서…. 2월부터 안 보내주셔서.\"] 한국소비자원도 해당 업체에 대해 소비자 피해 주의를 당부했습니다. 지난 6월까…",
-          "press": "news.kbs.co.kr",
+          "title": "4대 시중은행, 배달·통신 잇는 생활밀착형 서비스 '확대'",
+          "summary": "현대경제신문 정준기 기자 | 4대 시중은행( KB국민·신한·하나·우리은행)이 배달앱과 알뜰폰 등 생활밀착형... 통신에서는 KB국민은행의 경우, 리브모바일 가입자가 지난해 말 44만2000명에서 올 상반기 42만90…",
+          "press": "finomy.com",
           "date": "2026-08-14",
-          "datetime": "2026-08-14 21:49",
-          "link": "https://n.news.naver.com/mnews/article/056/0012238221?sid=102",
+          "datetime": "2026-08-14 17:02",
+          "link": "http://www.finomy.com/news/articleView.html?idxno=259283",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "롯데하이마트, 모토로라 품고 모바일 판 키운다",
+          "summary": "다만 스마트폰 가격 상승으로 소비자 부담이 높아지는 가운데 30만~40만원대 단말과 자급제·알뜰폰을 묶은 시장은 모토로라가 파고들 수 있는 틈새로 꼽힌다. 롯데하이마트 역시 이런 수요를 모바일 사업 확대에...",
+          "press": "4th.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 11:32",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2116368",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "고가 스마트폰에 휴대폰보험 수요↑…카카오페이손보, 이벤트 연장",
+          "summary": "단말기와 알뜰폰 이용자도 혜택을 받을 수 있다. 보험업계에서는 과거 캐롯손보가 2020년 휴대폰 액정... 8월 4일부터 10일까지 신규 가입자의 기종별 비중은 Z폴드8 75%, Z폴드8 울트라 20%, Z플립8 5…",
+          "press": "lcnews.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 08:38",
+          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206542",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -77,17 +99,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "[위클리 시그널] 이통3사, 무선사업 성장 '주춤'…장기고객 잡기 경쟁",
-          "summary": "이통3사의 올해 2분기 실적 발표 결과, 가입자는 증가했지만 무선사업 매출은 크게 늘지 않은 것으로... 현재 SKT는 장기고객 초청 행사를 'T 장기고객 데이'로 통합 운영하고 있다. 다음 혜택 프로모션은 '어드벤…",
-          "press": "itdaily.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 17:22",
-          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241023",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "이통사 CEO 상반기 보수 공개…정재헌 17억·홍범식 18억",
           "summary": "급여에는 고객 신뢰 회복 및 AX를 통한 MNO 사업 경쟁력 강화, 그룹의 AI 인프라 사업 주도, AI B2B 사업에서 구체적인 성과를 창출한 점 등이 고려됐다고 회사는 밝혔다. 상여에는 울산 AI 데이터센터(AI…",
           "press": "연합뉴스",
@@ -99,34 +110,56 @@
           "subgroup_label": ""
         },
         {
-          "title": "KT, 2년 만에 MVNO 1위…현대차 차량관제 수주 효과",
-          "summary": "KT가 올해 2분기 가상이동통신망(MVNO) 회선 수에서 LG유플러스를 제치고 1위에 올랐습니다. 2년 만에... 이통통신 3사의 가상이동통신망(MVNO) 회선 순위가 2년여 만에 뒤바뀌었습니다. 올해 2분기 KT망…",
-          "press": "sentv.co.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 17:16",
-          "link": "https://www.sentv.co.kr/article/view/sentv202608140087",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "4대 시중은행, 배달·통신 잇는 생활밀착형 서비스 '확대'",
-          "summary": "현대경제신문 정준기 기자 | 4대 시중은행( KB국민·신한·하나·우리은행)이 배달앱과 알뜰폰 등 생활밀착형... 통신에서는 KB국민은행의 경우, 리브모바일 가입자가 지난해 말 44만2000명에서 올 상반기 42만90…",
-          "press": "finomy.com",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 17:02",
-          "link": "http://www.finomy.com/news/articleView.html?idxno=259283",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "정재헌 SKT 대표, 상반기 보수 17억원…상여 10억원",
           "summary": "고객 신뢰 회복과 인공지능 전환(AX)을 통한 이동통신(MNO) 사업 경쟁력 강화, 그룹 AI 인프라 사업 주도, AI 기업간거래(B2B) 사업 성과 등을 고려했다. 상여 10억원은 작년 경영 성과를 반영해 올 초 …",
           "press": "sentv.co.kr",
           "date": "2026-08-14",
           "datetime": "2026-08-14 16:42",
           "link": "https://www.sentv.co.kr/article/view/sentv202608140176",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "정재헌 SKT 대표, 상반기 17억500만원 수령⋯전년比 13.3%↑",
+          "summary": "정 대표를 비롯해 강종렬 경영고문, 정석근 CIC장(현 SK하이퍼 대표), 한명진 사내이사 겸 MNO CIC장이 이름을 올렸다. 강 경영고문은 12억300만원, 정 CIC장은 9억4400만원, 한 MNO CIC장은 …",
+          "press": "아이뉴스24",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 07:06",
+          "link": "https://n.news.naver.com/mnews/article/031/0001049678?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "‘감성 사진용’ 중고 아이폰 판매 뒤 잠적…경찰 수사 착수",
+          "summary": "[김OO/중고폰 피해자/음성변조 : \"오래된 아이폰이라고 해서 감성적으로 사진 나오게 찍는 게 유행이어서…. 2월부터 안 보내주셔서.\"] 한국소비자원도 해당 업체에 대해 소비자 피해 주의를 당부했습니다. 지난 6월까…",
+          "press": "news.kbs.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 23:44",
+          "link": "https://n.news.naver.com/mnews/article/056/0012238358?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "‘감성 사진용’ 중고 아이폰 판매 뒤 잠적…경찰 수사 착수 [제보K]",
+          "summary": "[김OO/중고폰 피해자/음성변조 : \"오래된 아이폰이라고 해서 감성적으로 사진 나오게 찍는 게 유행이어서…. 2월부터 안 보내주셔서.\"] 한국소비자원도 해당 업체에 대해 소비자 피해 주의를 당부했습니다. 지난 6월까…",
+          "press": "news.kbs.co.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 21:49",
+          "link": "https://n.news.naver.com/mnews/article/056/0012238221?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리 시그널] 이통3사, 무선사업 성장 '주춤'…장기고객 잡기 경쟁",
+          "summary": "이통3사의 올해 2분기 실적 발표 결과, 가입자는 증가했지만 무선사업 매출은 크게 늘지 않은 것으로... 현재 SKT는 장기고객 초청 행사를 'T 장기고객 데이'로 통합 운영하고 있다. 다음 혜택 프로모션은 '어드벤…",
+          "press": "itdaily.kr",
+          "date": "2026-08-14",
+          "datetime": "2026-08-14 17:22",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241023",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -182,17 +215,6 @@
           "date": "2026-08-14",
           "datetime": "2026-08-14 11:37",
           "link": "https://n.news.naver.com/mnews/article/366/0001186288?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "롯데하이마트, 모토로라 품고 모바일 판 키운다",
-          "summary": "다만 스마트폰 가격 상승으로 소비자 부담이 높아지는 가운데 30만~40만원대 단말과 자급제·알뜰폰을 묶은 시장은 모토로라가 파고들 수 있는 틈새로 꼽힌다. 롯데하이마트 역시 이런 수요를 모바일 사업 확대에...",
-          "press": "4th.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 11:32",
-          "link": "http://www.4th.kr/news/articleView.html?idxno=2116368",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -259,28 +281,6 @@
           "date": "2026-08-14",
           "datetime": "2026-08-14 08:42",
           "link": "https://n.news.naver.com/mnews/article/421/0009113578?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "고가 스마트폰에 휴대폰보험 수요↑…카카오페이손보, 이벤트 연장",
-          "summary": "단말기와 알뜰폰 이용자도 혜택을 받을 수 있다. 보험업계에서는 과거 캐롯손보가 2020년 휴대폰 액정... 8월 4일부터 10일까지 신규 가입자의 기종별 비중은 Z폴드8 75%, Z폴드8 울트라 20%, Z플립8 5…",
-          "press": "lcnews.co.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 08:38",
-          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206542",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "정재헌 SKT 대표, 상반기 17억500만원 수령⋯전년比 13.3%↑",
-          "summary": "정 대표를 비롯해 강종렬 경영고문, 정석근 CIC장(현 SK하이퍼 대표), 한명진 사내이사 겸 MNO CIC장이 이름을 올렸다. 강 경영고문은 12억300만원, 정 CIC장은 9억4400만원, 한 MNO CIC장은 …",
-          "press": "아이뉴스24",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 07:06",
-          "link": "https://n.news.naver.com/mnews/article/031/0001049678?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -541,17 +541,6 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "이엔크리에이티브, 창고형 할인점 맞춤형 ‘국민학교 떡볶이’ 실온 대...",
-          "summary": "이투데이=조남호 기자 | 6인분·1260g 규격 롯데마트 맥스 맞춤 기획…보관 편의성 제고 기존 시그니처 냉동 맛 실온으로 구현…채널별 차별화 전략 가속 ‘국민학교 떡볶이’를 운영하는 이엔크리에이티브가 창고형 할인점…",
-          "press": "etoday.co.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 09:14",
-          "link": "https://www.etoday.co.kr/news/view/2614506",
-          "badge": "자사",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "오세훈 \"서울시만 잘 나가 견제받는 느낌\" '톱5' 매출액 어땠길래",
           "summary": "오세훈 서울시장이 14일 서울 중구 동대문디자인플라자 3층 디자인홀에서 열린 '넥스트로컬 지역상생... 2020년 2기로 참여한 밀키트 개발업체 '마스플래닛'은 지난해 기준 6억원의 매출을 냈으며 누적 기준으로는..…",
           "press": "weekly.hankooki.com",
@@ -574,34 +563,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "벨라루스, 건강한 식생활 관심 증가",
-          "summary": "하루 5끼의 균형식을 제공하고, 영양사가 메뉴를 구성하며, 산업용 반조리식품·팜유·냉동식품을... 기능성 식품과 관련하여 한국기업이 수출 유망한 품목은 프로바이오틱스·비타민 D 결합 발효유 또는 상온...",
-          "press": "dream.kotra.or.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 17:19",
-          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243428",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "김남정 동원그룹 회장의 '넥스트 참치'는 비비드키친·프로틴 넥서스",
           "summary": "이 냉동치킨 역시 프로틴 넥서스에서 생산되며 가정간편식(HMR) 형태로 출시될 예정이다. 동원그룹은 수산... 비비드키친은 국내 시장에서도 영역을 넓히고 있다. 지난 6월에는 신제품 소스 5종으로 구성된 '저당 딜라…",
           "press": "insightkorea.co.kr",
           "date": "2026-08-14",
           "datetime": "2026-08-14 16:48",
           "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=252522",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "홍시궁 “한국적인 과일인 홍시로 K-푸드 지형을 확대하고 싶어요” [농...",
-          "summary": "이 구조 덕분에 홍시궁은 오프라인 매장 외에도 온라인, 신선식품 플랫폼, 홈쇼핑, 해외수출까지 판로를... 홍시궁의 주력 제품이었던 홍시찹쌀떡, 홍시크림떡, 홍시식혜, 홍시떡볶이는 대체로 냉장이나 냉동 유통이...",
-          "press": "동아일보",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 15:42",
-          "link": "https://it.donga.com/109358/",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -660,105 +627,6 @@
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "[전국 인터뷰] 김정민 JM그룹 회장 \"남도 K-푸드, R&D부터 수출까지 연결...",
-          "summary": "현재 JM그룹은 정관장 등 한국 브랜드를 베트남에 수입·유통하는 한편 자체 브랜드 건강기능식품과 의료기기... 냉장·냉동창고뿐 아니라 냉장·냉동 차량까지 갖춰져야 한다. 과거 논산 딸기를 베트남에 수출한 경험이...",
-          "press": "news.dealsitetv.com",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 11:38",
-          "link": "https://news.dealsitetv.com/articles/174758",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "비비고 '왕교자'·빙그레 '싸만코', 美 코스트코 해외 식품 '톱5'",
-          "summary": "특히 2019년 미국 냉동식품업체 슈완스(Schwan's) 지분 70% 인수가 전환점이 됐다. 코스트코 등 일부 채널에... 코스트코 입점 물량은 상당 부분 국내에서 수출하는 구조다. 회사는 지난 6월 미국 뉴욕 자…",
-          "press": "theguru.co.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 09:58",
-          "link": "https://www.theguru.co.kr/news/article.html?no=105824",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "[인터뷰] ‘즐겁게 요리하는 날’ 만든 이윤아 이사, 80년 전통 샘표의...",
-          "summary": "대표 제품인 '샘표 간장'은 지난해 국내 간장 시장에서 판매액 기준 50% 이상의 점유율을 차지했으며... 코로나 시기를 거치며 배달이나 밀키트가 보편화되고 있지만 직접 요리하는 것이 환경과 신체 건강은 물론 정서에…",
-          "press": "womennews.co.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 09:11",
-          "link": "https://n.news.naver.com/mnews/article/310/0000139156?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "폭염에 채솟값 뛰고 가공식품도 줄인상…8월 지갑 얇아진다",
-          "summary": "전통시장에서도 채소류를 중심으로 가격 오름세가 나타났다. 한국물가정보에 따르면 미나리는 1㎏에... 면 밀키트 등 7개 제품군 30개 품목의 소비자가격을 평균 6.7% 인상한다. 대표적으로 평양냉면(2인)은...",
-          "press": "kbsm.net",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 09:08",
-          "link": "https://www.kbsm.net/news/view.php?idx=530178",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "\"장 보러 안 가요\"…홈플러스 문 닫자 벌어진 '뜻밖의 상황' [마트 갈 이...",
-          "summary": "컬리가 온라인 신선식품 시장을 선점한 데 이어 쿠팡도 로켓프레시를 앞세워 식품 경쟁력을 강화하는... 주력 사업인 마켓컬리 거래액도 신선식품과 가정간편식(HMR) 판매 호조에 힘입어 25.7% 증가했다. 쿠팡 역시 …",
-          "press": "한국경제",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 09:01",
-          "link": "https://n.news.naver.com/mnews/article/015/0005320837?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "\"급식 강자서 글로벌 도전장\"…면사랑, 냉동면·파스타로 영토 넓힌다",
-          "summary": "학교 급식과 외식 프랜차이즈, 식자재 유통망을 중심으로 성장해온 전통적인 B2B 기업에서 벗어나 냉동면과 가정간편식(HMR), 해외 프리미엄 파스타, 글로벌 시장까지 사업 포트폴리오를 확장하며 새로운 성장 전략을..…",
-          "press": "ftoday.co.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 08:42",
-          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363581",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "[Who Is ?] 주진우 사조그룹 회장",
-          "summary": "사조대림은 해산물 요리 밀키트 4종을 선보이며 2021년 12월 수산 가정간편식(HMR) 시장에 발을 들였다. 사조대림이 출시한 해산물 요리 밀키트는 HMR 브랜드 '24/7'(이사칠)을 통해 선보인 '고소한 곤이알…",
-          "press": "businesspost.co.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 07:00",
-          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444313",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "메트로신문 8월 14일 한줄뉴스",
-          "summary": "카트에는 가공식품과 냉동식품, 우유, 초밥 등이 담겨 있었다. 김씨는 재개장 기념으로 할인 판매하는... ▲국내 의료진의 임상 역량은 세계 최고 수준으로 평가받지만 현장 중심 새로운 아이디어가 실제 기술수출, 투자.…",
-          "press": "metroseoul.co.kr",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 06:02",
-          "link": "http://www.metroseoul.co.kr/article/20260813500582",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "복날 소비 달라졌다…치킨에 ‘집보양’ 간편식 불티",
-          "summary": "면요리 가정간편식(HMR) 판매도 증가하는 추세다. 서울 시내 대형마트에서 시민들이 간편식, 밀키트 제품... 이에 상대적으로 가격 부담이 덜한 치킨이나 간편식으로 눈을 돌리는 있다는 해석이다. 가정간편식 시장에서.…",
-          "press": "이데일리",
-          "date": "2026-08-14",
-          "datetime": "2026-08-14 05:58",
-          "link": "https://n.news.naver.com/mnews/article/018/0006351478?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
@@ -781,5 +649,5 @@
       ]
     }
   ],
-  "total": 66
+  "total": 54
 }

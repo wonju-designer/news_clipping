@@ -1,7 +1,7 @@
 {
   "date": "2026-08-02",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:11 소급 정리",
+  "generated_at": "2026-08-23 11:45 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -17,17 +17,6 @@
           "date": "2026-08-02",
           "datetime": "2026-08-02 15:48",
           "link": "https://n.news.naver.com/mnews/article/421/0009092684?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "애플, 시리 AI 유료화 저울질…새 구독시장 열릴까",
-          "summary": "시리 AI 역시 사용량에 따라 아이클라우드+ 상위 요금제 가입을 유도하는 방식으로 설계될 전망이다.... 업계에서는 애플이 아이폰 생태계에 축적된 개인 정보를 얼마나 효과적으로 활용하느냐가 경쟁력을 좌우할...",
-          "press": "디지털타임스",
-          "date": "2026-08-02",
-          "datetime": "2026-08-02 15:27",
-          "link": "https://n.news.naver.com/mnews/article/029/0003040214?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -77,17 +66,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "통신 3사, 8월부터 멤버십·요금제 혜택 확대…고객 체감 할인율 높여",
-          "summary": "가계 통신비 부담을 완화하기 위한 요금제 신규 가입 프로모션도 실시한다. 2일 통신업계에 따르면, KT·SK텔레콤·LG유플러스가 8월부터 멤버십·요금제·로밍 등 주요 서비스에 대한 고객 혜택을 일제히 확대한다. 이는…",
-          "press": "metroseoul.co.kr",
-          "date": "2026-08-02",
-          "datetime": "2026-08-02 11:12",
-          "link": "http://www.metroseoul.co.kr/article/20260802500061",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "통신 3사, 장기 결합 할인 '얕고 넓게' 개편…AI 투자 여력 확보될까",
           "summary": "인터넷 커뮤니티에서는 \"알뜰폰보다 비싸도 부모·자녀를 생각해 SKT를 썼는데 장점이 사라졌다\", \"혜택에 따라 통신사를 갈아타는 '메뚜기족'으로 살겠다\" 등의 반응이 보인다. SKT는 1~2인 가구가 늘어나는 인구 …",
           "press": "머니투데이",
@@ -99,23 +77,45 @@
           "subgroup_label": ""
         },
         {
-          "title": "리스 확산의 숨은 숙제… 스마트폰 소비방식도 바뀐다",
-          "summary": "사진=AI 이미지 2일 업계에 따르면 애플은 최근 미국에서 아이폰과 아이패드, 맥, 애플워치를 일정 기간 빌려... 애플처럼 제품을 빌려주는 방식은 아니며, 소비자가 자급제 스마트폰을 먼저 구매한 뒤 월 구독료를 내…",
-          "press": "mediapen.com",
-          "date": "2026-08-02",
-          "datetime": "2026-08-02 09:42",
-          "link": "https://www.mediapen.com/news/view/1113782",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "풀MVNO에 '대역폭 과금제' 연다…알뜰폰 메기 출현 승부수",
           "summary": "정부의 알뜰폰 경쟁력 강화 대책 중 독립형 알뜰폰(풀MVNO)에 적용될 망 용량 기반의 '대역폭 과금 방식'이 게임체인저가 될 전망이다. 자체 설비를 갖춘 풀MVNO에게 독자적 상품설계 권한과 규모의 경제 효과를 부…",
           "press": "전자신문",
           "date": "2026-08-02",
           "datetime": "2026-08-02 09:31",
           "link": "https://n.news.naver.com/mnews/article/030/0003453308?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "애플, 시리 AI 유료화 저울질…새 구독시장 열릴까",
+          "summary": "시리 AI 역시 사용량에 따라 아이클라우드+ 상위 요금제 가입을 유도하는 방식으로 설계될 전망이다.... 업계에서는 애플이 아이폰 생태계에 축적된 개인 정보를 얼마나 효과적으로 활용하느냐가 경쟁력을 좌우할...",
+          "press": "디지털타임스",
+          "date": "2026-08-02",
+          "datetime": "2026-08-02 15:27",
+          "link": "https://n.news.naver.com/mnews/article/029/0003040214?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사, 8월부터 멤버십·요금제 혜택 확대…고객 체감 할인율 높여",
+          "summary": "가계 통신비 부담을 완화하기 위한 요금제 신규 가입 프로모션도 실시한다. 2일 통신업계에 따르면, KT·SK텔레콤·LG유플러스가 8월부터 멤버십·요금제·로밍 등 주요 서비스에 대한 고객 혜택을 일제히 확대한다. 이는…",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-02",
+          "datetime": "2026-08-02 11:12",
+          "link": "http://www.metroseoul.co.kr/article/20260802500061",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "리스 확산의 숨은 숙제… 스마트폰 소비방식도 바뀐다",
+          "summary": "사진=AI 이미지 2일 업계에 따르면 애플은 최근 미국에서 아이폰과 아이패드, 맥, 애플워치를 일정 기간 빌려... 애플처럼 제품을 빌려주는 방식은 아니며, 소비자가 자급제 스마트폰을 먼저 구매한 뒤 월 구독료를 내…",
+          "press": "mediapen.com",
+          "date": "2026-08-02",
+          "datetime": "2026-08-02 09:42",
+          "link": "https://www.mediapen.com/news/view/1113782",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

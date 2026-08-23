@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:31 소급 정리",
+  "generated_at": "2026-08-23 11:45 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -11,12 +11,34 @@
       "digest": "",
       "articles": [
         {
-          "title": "[위클립] 8월 3주",
-          "summary": "또 \"국책은행 3사는 경제 위기의 방파제 역할을 수행하고 중소기업과 수출기업 지원을 통해 대한민국 경제를... 지부에 따르면 새 시스템을 졸속 도입하면서 현장에서 통신 장애가 속출하고 있고, 출동 편성 시스템 역시.…",
-          "press": "laborplus.co.kr",
+          "title": "싼 통신요금 찾아온 고객, '최적 요금제' 안내는 왜 못받을까",
+          "summary": "알뜰폰(MVNO) 이용 회선이 1000만개를 넘어섰지만 이동통신3사와 달리 정작 가입자가 자신의 이용 패턴에 가장... 시행되지만 알뜰폰은 해당되지 않기 때문이다. 알뜰폰이 가계통신비 부담을 낮추는 이동통신 시장의 …",
+          "press": "이뉴스투데이",
           "date": "2026-08-22",
-          "datetime": "2026-08-22 23:21",
-          "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41354",
+          "datetime": "2026-08-22 09:00",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461700",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK텔레콤, 23년 만에 3G 종료···KT도 종료 예정",
+          "summary": "이 중 SK텔레콤 가입자가 13만4413명으로 가장 많으며, KT는 5만8948명, 알뜰폰(MVNO)은 13만4763명이다. SK텔레콤은 3G 가입자들의 원활한 세대 전환을 위해 지원 프로그램을 가동한다. 대상 고객…",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423225",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "여행객 e심 사용 급증… 통신사 알짜 로밍 매출에 ‘빨간불’",
+          "summary": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. FDM CCS에 따르면 기존 이동통신사들은 전체 매출의 3~5%를 로밍 서비스에서…",
+          "press": "조선일보",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 08:01",
+          "link": "https://n.news.naver.com/mnews/article/023/0003994321?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -28,6 +50,127 @@
           "date": "2026-08-22",
           "datetime": "2026-08-22 20:01",
           "link": "https://n.news.naver.com/mnews/article/011/0004654146?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "자동차 안드로이드 업데이트 악용…광고 사기·프록시 봇넷에 악용",
+          "summary": "SIM 카드나 이동통신 기능을 갖춘 차량용 헤드유닛이 사이버범죄자들에게 새로운 봇넷 자원으로 활용될 수 있다는 의미다. 배드박스 공격 조직과 연계 카스퍼스키는 이번 공격을 높은 신뢰도로 '모유 그룹'과 연결했다...…",
+          "press": "dailysecu.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 16:42",
+          "link": "https://www.dailysecu.com/news/articleView.html?idxno=208148",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "화웨이, 모바일 AI 시대 겨냥 '싱글랜 22.1' 출시…AI 에이전트 네트워크...",
+          "summary": "화웨이 무선 네트워크 솔루션 부문 허윈루 부사장의 발표 모습(사진:화웨이) 화웨이가 인공지능(AI) 에이전트 확산에 대응하기 위한 차세대 이동통신 네트워크 소프트웨어를 공개했다. 화웨이(Huawei)는 지난 20일.…",
+          "press": "aitimes.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 16:10",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41555",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "2030 女 푹 빠졌다…190만명 몰린 '강남 핫플' 파격 변신",
+          "summary": "LG유플러스는 이동통신사 최초로 프리즈 서울과 협업해 기술·예술을 결합한 고객 경험을 선보인다. AI로 새로운 전시 경험도 제공한다. 관람객마다 작품 해설을 달리 제공하는 맞춤형 'AI 도슨트'를 도입한 것....",
+          "press": "한국경제",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 13:01",
+          "link": "https://n.news.naver.com/mnews/article/015/0005323497?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "카운터포인트 \"올해 스마트폰 출하량 14%↓...삼성, 유일한 출하량 증가...",
+          "summary": "메모리 등 주요 부품 가격이 급등하는 상황에서 자체적인 부품 역량을 활용해 원가 상승에 대응할 수 있고, 다양한 가격대의 제품을 갖춘 포트폴리오와 이동통신사 및 유통업체와 구축한 폭넓은 판매망도 강점으로 작용할...",
+          "press": "AI타임스",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 12:40",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214245",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"사실상 흑자전환\"… 오이솔루션 실적 회복 기대 커졌다",
+          "summary": "AI RAN은 인공지능을 이동통신 무선접속망에 적용하는 기술이다. 통신망 운영 효율을 높이고 AI 기반 서비스를 확대하기 위해 필요한 핵심 인프라 가운데 하나로 꼽힌다. 관련 실증사업이 본격화하면 통신장비와 광통신.…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 12:16",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479558",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[긁기 전에] 추석 기차표 '광클' 전 잠깐…할인부터 '꼼꼼히' 챙기세요",
+          "summary": "커피전문점 10%, 편의점·이동통신요금·백화점 5% 할인 등도 제공한다. 연회비는 해외겸용 기준 1만원이다. 신용카드가 부담스러운 청년층이라면 KB국민카드 '트래블러스 체크카드'도 살펴볼 만하다. 코레일에서...",
+          "press": "newsworks.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 12:00",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=851064",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신리뷰] SKT, '모두의AI' 사업 참여…풀스택 역량 총집결(8월3주차)",
+          "summary": "약 2250만 규모의 이동통신 회선과 온·오프라인 채널을 통해 AI 서비스를 빠르게 확산해 나갈 계획이다. SKT는 이러한 역량을 바탕으로 대화, 검색·요약, 문서·이미지 분석, 일정 관리 등을 지원하는 AI 챗봇을…",
+          "press": "theguru.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:20",
+          "link": "https://www.theguru.co.kr/news/article.html?no=106137",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "경주 맷돌순두부 방문 이어져…보문단지 찾는 관광객 증가",
+          "summary": "다만 해당 자료는 이동통신 및 카드 소비 기반의 빅데이터로 동일인의 중복 집계 가능성이 있다. 맷돌순두부 관계자는 \"여름철 경주와 보문단지를 찾는 방문객에게 지역 식재료를 활용한 순두부 메뉴를 제공하고 있다\"며...",
+          "press": "fntoday.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:00",
+          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=391054",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[아프리카인물열전] (34)통신 재벌에서 자선가로…수단 모 이브라힘",
+          "summary": "이동통신 사업으로 일군 富를 아프리카 거버넌스 개혁 위해 투자 '모 이브라힘 상' 제정…모범적 지도자 육성과 리더십 혁신 도모 아프리카 수단 출신의 영국 기업가이자 자선가인 모 이브라힘은 아프리카에서 돈을 버는...",
+          "press": "연합뉴스",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 08:00",
+          "link": "https://n.news.naver.com/mnews/article/001/0016264642?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "일론 머스크의 스페이스X, 정부 계약 대거 수주…국가 안보 사업 핵심 ...",
+          "summary": "또한, 연방통신위원회(FCC)는 지난 5월 스페이스X의 위성 휴대전화 연결용 주파수 사용권 구매를 승인하고, 전국 이동통신 서비스 유지 의무 등 일부 요건을 면제했다. FCC는 이 같은 조치가 스페이스X의 네트워크 …",
+          "press": "cbci.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 07:00",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=599939",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클립] 8월 3주",
+          "summary": "또 \"국책은행 3사는 경제 위기의 방파제 역할을 수행하고 중소기업과 수출기업 지원을 통해 대한민국 경제를... 지부에 따르면 새 시스템을 졸속 도입하면서 현장에서 통신 장애가 속출하고 있고, 출동 편성 시스템 역시.…",
+          "press": "laborplus.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 23:21",
+          "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41354",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -121,34 +264,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "자동차 안드로이드 업데이트 악용…광고 사기·프록시 봇넷에 악용",
-          "summary": "SIM 카드나 이동통신 기능을 갖춘 차량용 헤드유닛이 사이버범죄자들에게 새로운 봇넷 자원으로 활용될 수 있다는 의미다. 배드박스 공격 조직과 연계 카스퍼스키는 이번 공격을 높은 신뢰도로 '모유 그룹'과 연결했다...…",
-          "press": "dailysecu.com",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 16:42",
-          "link": "https://www.dailysecu.com/news/articleView.html?idxno=208148",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "AI 인프라에 수조원 쏟아부은 통신 3사··· 두 자릿수 성장 \"수익성 청...",
           "summary": "글로벌 빅테크 기업들의 막대한 인공지능 데이터센터(AIDC) 및 인프라 지출에 비해 실질적인 수익화 속도가 시장 기대에 미치지 못한다는 우려가 커지고 있는 가운데 국내 통신 3사가 기업시장에서 투자 성과를...",
           "press": "greenpostkorea.co.kr",
           "date": "2026-08-22",
           "datetime": "2026-08-22 16:16",
           "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307326",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "화웨이, 모바일 AI 시대 겨냥 '싱글랜 22.1' 출시…AI 에이전트 네트워크...",
-          "summary": "화웨이 무선 네트워크 솔루션 부문 허윈루 부사장의 발표 모습(사진:화웨이) 화웨이가 인공지능(AI) 에이전트 확산에 대응하기 위한 차세대 이동통신 네트워크 소프트웨어를 공개했다. 화웨이(Huawei)는 지난 20일.…",
-          "press": "aitimes.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 16:10",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41555",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -187,34 +308,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "2030 女 푹 빠졌다…190만명 몰린 '강남 핫플' 파격 변신",
-          "summary": "LG유플러스는 이동통신사 최초로 프리즈 서울과 협업해 기술·예술을 결합한 고객 경험을 선보인다. AI로 새로운 전시 경험도 제공한다. 관람객마다 작품 해설을 달리 제공하는 맞춤형 'AI 도슨트'를 도입한 것....",
-          "press": "한국경제",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 13:01",
-          "link": "https://n.news.naver.com/mnews/article/015/0005323497?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "법무부, 외국인 계절근로자 인권침해 실태점검 결과 총 663건 지적…24개...",
           "summary": "점검 결과에 따르면 △인권·근로 분야에서는 근로계약서에서 정한 근로장소·근로시간 미준수 56건, 타인에게 임금지급 17건, 휴무일 이동·통신 제한 등 14건, 임금체불 5건 등 총 97건으로 나타났다. △계절근로자 …",
           "press": "lawissue.co.kr",
           "date": "2026-08-22",
           "datetime": "2026-08-22 12:42",
           "link": "http://www.lawissue.co.kr/view.php?ud=2026082212372098189a8c8bf58f_12",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "카운터포인트 \"올해 스마트폰 출하량 14%↓...삼성, 유일한 출하량 증가...",
-          "summary": "메모리 등 주요 부품 가격이 급등하는 상황에서 자체적인 부품 역량을 활용해 원가 상승에 대응할 수 있고, 다양한 가격대의 제품을 갖춘 포트폴리오와 이동통신사 및 유통업체와 구축한 폭넓은 판매망도 강점으로 작용할...",
-          "press": "AI타임스",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 12:40",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214245",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -237,259 +336,6 @@
           "date": "2026-08-22",
           "datetime": "2026-08-22 12:32",
           "link": "https://www.ekn.kr/web/view.php?key=20260822028435246",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"사실상 흑자전환\"… 오이솔루션 실적 회복 기대 커졌다",
-          "summary": "AI RAN은 인공지능을 이동통신 무선접속망에 적용하는 기술이다. 통신망 운영 효율을 높이고 AI 기반 서비스를 확대하기 위해 필요한 핵심 인프라 가운데 하나로 꼽힌다. 관련 실증사업이 본격화하면 통신장비와 광통신.…",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 12:16",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479558",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[긁기 전에] 추석 기차표 '광클' 전 잠깐…할인부터 '꼼꼼히' 챙기세요",
-          "summary": "커피전문점 10%, 편의점·이동통신요금·백화점 5% 할인 등도 제공한다. 연회비는 해외겸용 기준 1만원이다. 신용카드가 부담스러운 청년층이라면 KB국민카드 '트래블러스 체크카드'도 살펴볼 만하다. 코레일에서...",
-          "press": "newsworks.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 12:00",
-          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=851064",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[주말N골프] 카드결제 시대 앞둔 골프장, 골퍼도 현장도 머뭇거리는 이...",
-          "summary": "‘골퍼’들이 진짜 원하는 것 골퍼들이 원하는 것은 ‘카드 의무화’가 아니다 여기서 정책이 놓치지 말아야... 고령층 캐디나 디지털 결제에 익숙하지 않은 종사자의 불편, 카드 단말기와 PG 시스템 비용, 통신 장애 때…",
-          "press": "geconomy.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 11:48",
-          "link": "https://www.geconomy.co.kr/news/article.html?no=323000",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[VC's Pick]\"데이터 바로 연산\"…AI 반도체 투자 유치",
-          "summary": "기존 폴리머 가공 공정에 별도의 추가 설비 없이 적용할 수 있는 마스터 배치로 그래핀 도입 부담을 낮추고... 기술을 보유하고 있다는 점에 주목했다. 또 승용차와 상용차를 넘어 목적기반차량(PBV), 로봇·무인 이동…",
-          "press": "이데일리",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 11:10",
-          "link": "https://n.news.naver.com/mnews/article/018/0006356071?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "12조 넣고 58조 벌었다...미국 정부가 인텔 주식을 쓸어 담는 진짜 이유",
-          "summary": "반도체는 산업통상자원부, AI는 과학기술정보통신부, 양자는 개별 R&D 프로젝트로 쪼개져 각개전투 양상을 띠고 있다는 지적이 제기된다. 다만 이 진단을 정책적 결론으로 못 박기 전에, 최근 예산 배정과 사업 집행..…",
-          "press": "the-today.com",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 11:10",
-          "link": "https://www.the-today.com/news/articleView.html?idxno=88762",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "키신저와 반백년 해로한 부인 낸시, 92세 일기로 별세",
-          "summary": "21일(현지시간) AP 통신에 따르면 낸시는 코네티컷주(州) 켄트에 있는 자택에서 전날(20일) 숨을 거뒀다.... 당시 유족의 초청을 받은 정몽준 아산정책연구원 명예이사장이 행사에 참석해 키신저의 타계를 애도하고.…",
-          "press": "세계일보",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 11:06",
-          "link": "https://n.news.naver.com/mnews/article/022/0004152764?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"연료 확보만으로는 부족\"…전기화 시대 '전력안보' 부상",
-          "summary": "단순히 필요한 연료를 확보하는 차원을 넘어 발전설비부터 송·배전망, 통신·제어 시스템, 핵심 기자재 공급망까지 전력 시스템 전반의 안정성을 확보해야 한다는 의미다. 에너지안보는 그동안 한국 에너지 정책과 기술...",
-          "press": "daily.hankooki.com",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 11:00",
-          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1397544",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "케이엠더블유, 내년 이익 폭증한다… \"의심할 필요 없어\"",
-          "summary": "통신장비 업종은 통신사의 설비투자 규모에 따라 실적이 크게 좌우된다. 통신사들이 신규 네트워크 구축에... 케이엠더블유가 보유한 통신장비 관련 기술력과 미국 시장 진출 가능성을 감안하면 업황 회복기에 전략적...",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 10:36",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479529",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-          "summary": "외교정책 목표를 지원할 것\"이라고 설명했다. 전문보기: https://www.yna.co.kr/view/AKR20260822003500071 ■ \"폰... 블룸버그 통신은 21일(현지시간) 중국 국가시장관리총국이 전…",
-          "press": "연합뉴스",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 10:30",
-          "link": "https://n.news.naver.com/mnews/article/001/0016264719?sid=103",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "엔비디아가 주목한 LG의 기술력…로봇·스마트팩토리·車 정조준",
-          "summary": "대신증권은 최근 보고서에서 이번 협력이 LG가 보유한 스마트팩토리와 차량용 인포테인먼트, 로봇 기술의... 제조 설비와 생산 데이터를 AI가 분석하고 이를 바탕으로 생산성을 높이는 방식이다. 여기서 LG가 그동안..…",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 10:16",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479523",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"왜 이렇게 아이폰이 많아요?\"의 반전…아이폰 충성고객도, 갤럭시 Z 폴...",
-          "summary": "LG유플러스로 번호이동하는 경우로 중위값 105만 원에 형성됐다. SK텔레콤에서 KT로 옮길 때에는 108만 원, 타 통신사에서 SK텔레콤으로 번호이동 시에는 121만 원에 구매가 가능하다. 통신사를 그대로 유지하는…",
-          "press": "thepublic.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 10:02",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=315679",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[통신리뷰] SKT, '모두의AI' 사업 참여…풀스택 역량 총집결(8월3주차)",
-          "summary": "약 2250만 규모의 이동통신 회선과 온·오프라인 채널을 통해 AI 서비스를 빠르게 확산해 나갈 계획이다. SKT는 이러한 역량을 바탕으로 대화, 검색·요약, 문서·이미지 분석, 일정 관리 등을 지원하는 AI 챗봇을…",
-          "press": "theguru.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 09:20",
-          "link": "https://www.theguru.co.kr/news/article.html?no=106137",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "싼 통신요금 찾아온 고객, '최적 요금제' 안내는 왜 못받을까",
-          "summary": "알뜰폰(MVNO) 이용 회선이 1000만개를 넘어섰지만 이동통신3사와 달리 정작 가입자가 자신의 이용 패턴에 가장... 시행되지만 알뜰폰은 해당되지 않기 때문이다. 알뜰폰이 가계통신비 부담을 낮추는 이동통신 시장의 …",
-          "press": "이뉴스투데이",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 09:00",
-          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461700",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "SK텔레콤, 23년 만에 3G 종료···KT도 종료 예정",
-          "summary": "이 중 SK텔레콤 가입자가 13만4413명으로 가장 많으며, KT는 5만8948명, 알뜰폰(MVNO)은 13만4763명이다. SK텔레콤은 3G 가입자들의 원활한 세대 전환을 위해 지원 프로그램을 가동한다. 대상 고객…",
-          "press": "sisajournal-e.com",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 09:00",
-          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423225",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "경주 맷돌순두부 방문 이어져…보문단지 찾는 관광객 증가",
-          "summary": "다만 해당 자료는 이동통신 및 카드 소비 기반의 빅데이터로 동일인의 중복 집계 가능성이 있다. 맷돌순두부 관계자는 \"여름철 경주와 보문단지를 찾는 방문객에게 지역 식재료를 활용한 순두부 메뉴를 제공하고 있다\"며...",
-          "press": "fntoday.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 09:00",
-          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=391054",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "중국 통신 3사, AI 매출 성장에 '토큰 공장' 전략 베팅",
-          "summary": "[사진: 디지털투데이] 중국 국영 통신 3사가 AI 토큰 과금 사업을 새 성장축으로 키우고 있다. 중국 내 AI 도입과 컴퓨팅 수요가 빠르게 늘면서 차이나모바일, 차이나텔레콤, 차이나유니콤은 이달 공개한 상반기...",
-          "press": "digitaltoday.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 08:48",
-          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694792",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "아파트 경비부터 제철소까지…IT서비스업계 ‘피지컬 AI’ 본격화",
-          "summary": "포스코DX가 보유한 로봇 시뮬레이션·제어 기술과 NC AI의 AI 모델을 결합해 다양한 산업용 로봇이 작업... 현장 설비에 AI 연산 기능을 직접 구축해 외부 데이터센터를 거치지 않고 영상 등 현장 데이터를 실시간…",
-          "press": "sentv.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 08:02",
-          "link": "https://www.sentv.co.kr/article/view/sentv202608210108",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "여행객 e심 사용 급증… 통신사 알짜 로밍 매출에 ‘빨간불’",
-          "summary": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. FDM CCS에 따르면 기존 이동통신사들은 전체 매출의 3~5%를 로밍 서비스에서…",
-          "press": "조선일보",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 08:01",
-          "link": "https://n.news.naver.com/mnews/article/023/0003994321?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[아프리카인물열전] (34)통신 재벌에서 자선가로…수단 모 이브라힘",
-          "summary": "이동통신 사업으로 일군 富를 아프리카 거버넌스 개혁 위해 투자 '모 이브라힘 상' 제정…모범적 지도자 육성과 리더십 혁신 도모 아프리카 수단 출신의 영국 기업가이자 자선가인 모 이브라힘은 아프리카에서 돈을 버는...",
-          "press": "연합뉴스",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 08:00",
-          "link": "https://n.news.naver.com/mnews/article/001/0016264642?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "다음주 한은 금통위 개최…기준금리 '백투백' 인상되나",
-          "summary": "8월에는 지난해 '통신비 인하' 기저효과로 다시 3%대로 오를 가능성이 높다. 한은의 최우선 과제가 물가 안정인 만큼 추가 인상 가능성이 열려있다. 통상 금리가 오르면 대출 비용이 증가해 기업의 투자와 가계의...",
-          "press": "newsworks.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 08:00",
-          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=851088",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"투자 집중 vs 임금 인상\"…KT, 본업 둔화 속 노사 교섭 '진통'",
-          "summary": "2분기 무선서비스 매출은 1조6천749억원으로 전년 동기 대비 1.8% 감소했고, 가입자당 평균매출(ARPU)은 3만4천412원으로 2.3% 하락했다. KT는 지난해 발생한 펨토셀 해킹 이후 고객보답 프로그램과 위약…",
-          "press": "youthdaily.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 08:00",
-          "link": "https://www.youthdaily.co.kr/news/article.html?no=225492",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "일론 머스크의 스페이스X, 정부 계약 대거 수주…국가 안보 사업 핵심 ...",
-          "summary": "또한, 연방통신위원회(FCC)는 지난 5월 스페이스X의 위성 휴대전화 연결용 주파수 사용권 구매를 승인하고, 전국 이동통신 서비스 유지 의무 등 일부 요건을 면제했다. FCC는 이 같은 조치가 스페이스X의 네트워크 …",
-          "press": "cbci.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 07:00",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=599939",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "법무부, 외국인 계절근로자 인권침해 위반사항 663건 적발",
-          "summary": "타인에게 임금 지급(17건), 휴무일 이동·통신 제한(14건), 임금 체불(5건) 등이 뒤를 이었다. 주거 분야는 소방시설 미비(442건), 과다한 숙식비 징수(47건), 냉난방 설비 미흡(29건) 등 순이었다. 각…",
-          "press": "news.tvchosun.com",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 01:33",
-          "link": "https://n.news.naver.com/mnews/article/448/0000635002?sid=102",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -539,6 +385,28 @@
           "subgroup_label": "파워넷"
         },
         {
+          "title": "안부 전화 중대경보 [이문재의 발견]",
+          "summary": "광케이블, 데이터센터 그리고 학교, 유치원, 어린이집 그리고··· 아련한 추억과 연둣빛 꿈들 우리의 안과... 데이터센터가, 주식시장이 기후 붕괴를 막는가. 국가는 왜 있는가. 정치는 누구를 위한 것인가. 경보 수준…",
+          "press": "sisain.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:28",
+          "link": "https://n.news.naver.com/mnews/article/308/0000038664?sid=103",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"사실상 흑자전환\"… 오이솔루션 실적 회복 기대 커졌다",
+          "summary": "관련 실증사업이 본격화하면 통신장비와 광통신 부품에 대한 수요도 늘어날 가능성이 있다. 오이솔루션 입장에서는 그동안 부진했던 국내 매출이 회복되는 시점을 구체적으로 가늠할 수 있는 계기가 될 수 있다....",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 12:16",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479558",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
           "title": "한미반도체, 1300억 들여 8공장 확보…\"장비 쇼티지 대비\"",
           "summary": "한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규모의 공장을 매입해 8공장으로 구축한다고 공시했다. 198…",
           "press": "econovill.com",
@@ -561,39 +429,6 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "\"사실상 흑자전환\"… 오이솔루션 실적 회복 기대 커졌다",
-          "summary": "관련 실증사업이 본격화하면 통신장비와 광통신 부품에 대한 수요도 늘어날 가능성이 있다. 오이솔루션 입장에서는 그동안 부진했던 국내 매출이 회복되는 시점을 구체적으로 가늠할 수 있는 계기가 될 수 있다....",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 12:16",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479558",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "안부 전화 중대경보 [이문재의 발견]",
-          "summary": "광케이블, 데이터센터 그리고 학교, 유치원, 어린이집 그리고··· 아련한 추억과 연둣빛 꿈들 우리의 안과... 데이터센터가, 주식시장이 기후 붕괴를 막는가. 국가는 왜 있는가. 정치는 누구를 위한 것인가. 경보 수준…",
-          "press": "sisain.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 09:28",
-          "link": "https://n.news.naver.com/mnews/article/308/0000038664?sid=103",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[NC푸드랩] 시대가 만든 'K-푸드'의 역작… 식문화 발명품 '삼겹살'",
-          "summary": "일본 수출 후 남은 복부 고기를 저렴하게 처분하려다 냉동육 구이가 탄생했다는 산업적 해석도 제기된다. 특정 지역의 기억과 산업화 시대의 정황이 결합해 구전된 결과물에 가깝다. 문서나 신문 광고 등 명확한 당대...",
-          "press": "nc.press",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 16:43",
-          "link": "https://www.nc.press/news/articleView.html?idxno=624416",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "맛은 기본, 이제는 ‘빠르고 가성비 있게’…간편식 경쟁 기준 바뀐다 ...",
           "summary": "국내 가정간편식(HMR) 시장이 빠르게 성장하면서 소비자의 상품 선택 기준도 달라지고 있다. 맛과 품질이 상향 평준화된 가운데 얼마나 쉽고 빠르게 조리할 수 있는지, 가격 대비 만족도가 높은지가 새로운 경쟁 요소로.…",
           "press": "서울경제",
@@ -611,6 +446,28 @@
           "date": "2026-08-22",
           "datetime": "2026-08-22 11:22",
           "link": "https://www.mediapen.com/news/view/1118201",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "“밀키트집 다 어디 갔지?”…무인점포 빈자리 채운 ‘뽑기샵’",
+          "summary": "한때 무인점포의 대표주자였던 밀키트 전문점이 빠르게 자취를 감추고 있다. 그 빈자리는 오락실과 뽑기샵... 무인점포 시장의 주력 업종도 바뀌고 있다. 22일 삼성카드 데이터랩이 삼성카드 결제·가맹점 데이터를...",
+          "press": "이데일리",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 07:02",
+          "link": "https://n.news.naver.com/mnews/article/018/0006356006?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[NC푸드랩] 시대가 만든 'K-푸드'의 역작… 식문화 발명품 '삼겹살'",
+          "summary": "일본 수출 후 남은 복부 고기를 저렴하게 처분하려다 냉동육 구이가 탄생했다는 산업적 해석도 제기된다. 특정 지역의 기억과 산업화 시대의 정황이 결합해 구전된 결과물에 가깝다. 문서나 신문 광고 등 명확한 당대...",
+          "press": "nc.press",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 16:43",
+          "link": "https://www.nc.press/news/articleView.html?idxno=624416",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -638,17 +495,6 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "“밀키트집 다 어디 갔지?”…무인점포 빈자리 채운 ‘뽑기샵’",
-          "summary": "한때 무인점포의 대표주자였던 밀키트 전문점이 빠르게 자취를 감추고 있다. 그 빈자리는 오락실과 뽑기샵... 무인점포 시장의 주력 업종도 바뀌고 있다. 22일 삼성카드 데이터랩이 삼성카드 결제·가맹점 데이터를...",
-          "press": "이데일리",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 07:02",
-          "link": "https://n.news.naver.com/mnews/article/018/0006356006?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "티니핑 입히니 지퍼백도 텀블러도 ‘소장템’…생활용품업계 캐릭터 전...",
           "summary": "밀폐용기와 지퍼백, 텀블러처럼 실용성이 구매 기준이던 생활용품 시장에 캐릭터가 빠르게 파고들고 있다.... ‘바로한끼 간편조리 용기’는 내열유리와 실리콘 캡을 적용하고 스팀홀과 실리콘 트레이를 갖춰 냉동식품이...",
           "press": "세계일보",
@@ -666,17 +512,6 @@
           "date": "2026-08-22",
           "datetime": "2026-08-22 00:54",
           "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84810",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘꽃게 할인’",
-          "summary": "전통시장 및 골목상권을 활성화 하겠다는 취지로 2012년 개정된 유통산업발전법에 따라 대형마트는 매달... 할인 대상은 라면, 즉석밥, 국수, 냉동식품, 두부, 김치 등 식사류를 비롯해 과자, 음료, 커피, 아이스크…",
-          "press": "bntnews.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 00:02",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202608210284",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -702,5 +537,5 @@
       ]
     }
   ],
-  "total": 59
+  "total": 44
 }

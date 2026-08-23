@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:11 소급 정리",
+  "generated_at": "2026-08-23 11:45 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -28,28 +28,6 @@
           "date": "2026-08-10",
           "datetime": "2026-08-10 17:50",
           "link": "https://www.asiatime.co.kr/article/20260810500365",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[ICT 종합] 캐논코리아 및 비댁스 소식 외",
-          "summary": "-글로벌 테크 액세서리 브랜드 벨킨(Belkin)이 삼성 갤럭시 Z8 시리즈에 최적화된 액정 보호필름과 마그네틱... 엔터프라이즈 요금제 도입 문의도 함께 급증하고 있다. 만들어지는 영상의 성격도 달라졌다. 모픽 내…",
-          "press": "gamevu.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 17:48",
-          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59928",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"싸게 팔지 않겠다\"…애플 퇴짜·딥시크 가격인상",
-          "summary": "그래도 애플은 아이폰과 맥북을 포함한 여러 제품군에서 CXMT의 메모리를 테스트하고 있는 것으로... 특히 딥시크 같은 저가 AI에 대응하기 위해 두 가지 요금제를 내놨습니다. AI 피드백을 제공하는 조건으로 출력 …",
-          "press": "한국경제TV",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 17:43",
-          "link": "https://n.news.naver.com/mnews/article/215/0001261839?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -88,17 +66,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "\"갤Z폴드8 256GB로 변경하면 지원금 추가\"",
-          "summary": "뉴스토마토 = 이지은 기자 | 갤럭시Z폴드8 512GB 모델의 재고 부족이 이어지면서 일부 이동통신 유통망이... 취소하거나 자급제폰 등으로 이탈할 가능성도 있습니다. 이에 유통망에서는 재고가 남아 있는 256GB로…",
-          "press": "newstomato.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 17:04",
-          "link": "http://www.newstomato.com/ReadNews.aspx?no=1309789&inflow=N",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "대포폰 막자 '원스트라이크아웃'… 알뜰폰·유통점 \"처벌만이 능사냐\"",
           "summary": "줄어들겠느냐\"며 \"일부 알뜰폰 사업자와 판매점이 문제를 일으킨 것은 맞지만 업계 전체를 대상으로 제재를 강화하는 방향은 옳지 않다\"고 말했다. 휴대폰 유통점 관계자도 \"처벌만이 능사는 아니다\"며 \"시장 활성화...",
           "press": "IT조선",
@@ -116,6 +83,83 @@
           "date": "2026-08-10",
           "datetime": "2026-08-10 16:28",
           "link": "https://news.mtn.co.kr/news-detail/2026081014160469372",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"번호이동 시장 '폴드8'이 살린다\"···더 뜨거워지는 8월 통신업계",
+          "summary": "갤럭시Z8 흥행이 단순한 단말기 판매 증가를 넘어 이동통신 3사의 가입자 점유율 경쟁으로 번지는 셈이다. 알뜰폰 업계도 신형 폴더블 스마트폰 출시 효과를 기대하고 있다. 최근 정부가 알뜰폰의 경쟁력을 높이기 위한..…",
+          "press": "이뉴스투데이",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 14:20",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457493",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[경제소식] 신한금융, 그룹 공동 자산관리 포럼 첫 개최",
+          "summary": "사진=우리은행 우리WON모바일 청년드림요금제 이벤트…일부 요금제 체감가 0원 우리은행은 알뜰폰 서비스... 미래에셋증권은 로보센스의 글로벌 라이다 시장 점유율이 1위이며 국내 미디어의 현지 취재는 이번이...",
+          "press": "4th.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 11:52",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2116055",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[상반기 테크업종 리포트] ④통신",
+          "summary": "통신3사, 본업 정체 뚫을 해법은 ‘AI 인프라’…SKT·LGU+ 실적 개선 3사 합산 AI 인프라 투자 ‘조 단위’... 5G 보급률이 80%를 넘어서고 알뜰폰과 중저가 요금제 확산으로 통신 본업의 고성장이 어려워…",
+          "press": "dnews.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 05:40",
+          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608081508572440257",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"갤Z폴드8 256GB로 변경하면 지원금 추가\"",
+          "summary": "뉴스토마토 = 이지은 기자 | 갤럭시Z폴드8 512GB 모델의 재고 부족이 이어지면서 일부 이동통신 유통망이... 취소하거나 자급제폰 등으로 이탈할 가능성도 있습니다. 이에 유통망에서는 재고가 남아 있는 256GB로…",
+          "press": "newstomato.com",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 17:04",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1309789&inflow=N",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신사, 집토끼 사수 경쟁 '후끈'...'미식·파티·공연' 혜택 다양화",
+          "summary": "지난 2분기 SK텔레콤과 LG유플러스 이동통신(MNO) 해지율은 각각 0.8%와 1.1%다. 각각 전기대비 0.1%포인트(p) 감소했다. KT는 지난 1분기 해지율 1.7%를 기록했다. 전기대비 0.7%p 증가했다.…",
+          "press": "techm.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 13:16",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154145",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[ICT 종합] 캐논코리아 및 비댁스 소식 외",
+          "summary": "-글로벌 테크 액세서리 브랜드 벨킨(Belkin)이 삼성 갤럭시 Z8 시리즈에 최적화된 액정 보호필름과 마그네틱... 엔터프라이즈 요금제 도입 문의도 함께 급증하고 있다. 만들어지는 영상의 성격도 달라졌다. 모픽 내…",
+          "press": "gamevu.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 17:48",
+          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59928",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"싸게 팔지 않겠다\"…애플 퇴짜·딥시크 가격인상",
+          "summary": "그래도 애플은 아이폰과 맥북을 포함한 여러 제품군에서 CXMT의 메모리를 테스트하고 있는 것으로... 특히 딥시크 같은 저가 AI에 대응하기 위해 두 가지 요금제를 내놨습니다. AI 피드백을 제공하는 조건으로 출력 …",
+          "press": "한국경제TV",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 17:43",
+          "link": "https://n.news.naver.com/mnews/article/215/0001261839?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -143,45 +187,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "\"번호이동 시장 '폴드8'이 살린다\"···더 뜨거워지는 8월 통신업계",
-          "summary": "갤럭시Z8 흥행이 단순한 단말기 판매 증가를 넘어 이동통신 3사의 가입자 점유율 경쟁으로 번지는 셈이다. 알뜰폰 업계도 신형 폴더블 스마트폰 출시 효과를 기대하고 있다. 최근 정부가 알뜰폰의 경쟁력을 높이기 위한..…",
-          "press": "이뉴스투데이",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 14:20",
-          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457493",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "갤럭시 Z8, 주력은 기본 '폴드8'…국내 예약 70% 차지",
           "summary": "실제 삼성닷컴에서 Z8 시리즈 자급제 모델을 사전 구매한 고객의 절반은 'New 갤럭시 AI 구독클럽'에 가입했다. 일반 스마트폰과 플립 이용자의 유입이 실제 판매에서도 이어질지가 폴드8의 소비층 확대 여부를 가를.…",
           "press": "itdaily.kr",
           "date": "2026-08-10",
           "datetime": "2026-08-10 14:04",
           "link": "https://www.itdaily.kr/news/articleView.html?idxno=240890",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "통신사, 집토끼 사수 경쟁 '후끈'...'미식·파티·공연' 혜택 다양화",
-          "summary": "지난 2분기 SK텔레콤과 LG유플러스 이동통신(MNO) 해지율은 각각 0.8%와 1.1%다. 각각 전기대비 0.1%포인트(p) 감소했다. KT는 지난 1분기 해지율 1.7%를 기록했다. 전기대비 0.7%p 증가했다.…",
-          "press": "techm.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 13:16",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=154145",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[경제소식] 신한금융, 그룹 공동 자산관리 포럼 첫 개최",
-          "summary": "사진=우리은행 우리WON모바일 청년드림요금제 이벤트…일부 요금제 체감가 0원 우리은행은 알뜰폰 서비스... 미래에셋증권은 로보센스의 글로벌 라이다 시장 점유율이 1위이며 국내 미디어의 현지 취재는 이번이...",
-          "press": "4th.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 11:52",
-          "link": "http://www.4th.kr/news/articleView.html?idxno=2116055",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -218,17 +229,6 @@
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
-        },
-        {
-          "title": "[상반기 테크업종 리포트] ④통신",
-          "summary": "통신3사, 본업 정체 뚫을 해법은 ‘AI 인프라’…SKT·LGU+ 실적 개선 3사 합산 AI 인프라 투자 ‘조 단위’... 5G 보급률이 80%를 넘어서고 알뜰폰과 중저가 요금제 확산으로 통신 본업의 고성장이 어려워…",
-          "press": "dnews.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 05:40",
-          "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608081508572440257",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
         }
       ]
     },
@@ -253,23 +253,23 @@
       "digest": "",
       "articles": [
         {
-          "title": "[디지키 테크포럼] USB-C로 5V에서 최대 3A(15W) 전원을 공급받는 방법은...",
-          "summary": "특히 기존 USB 규격의 USB-A 수형과 USB-C 변환 케이블을 사용하면 태블릿이나 노트북, 구형 전원 어댑터가 감당할 수 있는 것보다 많은 전류를 요구할 수 있다. 오래된 전원 공급 장치나 USB 허브에는 전류…",
-          "press": "epnc.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 15:00",
-          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405259",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "성호전자 주가, 급등세... 왜?",
           "summary": "성호전자 역시 이 같은 시장 분위기 속에서 관련 종목으로 묶이며 주가가 강세를 나타내고 있다. 다만 성호전자의 주력 사업은 광트랜시버 제조가 아니라 전원공급장치(PSU)와 필름콘덴서 등 전자부품의 제조·판매다....",
           "press": "ggilbo.com",
           "date": "2026-08-10",
           "datetime": "2026-08-10 13:50",
           "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174444",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[디지키 테크포럼] USB-C로 5V에서 최대 3A(15W) 전원을 공급받는 방법은...",
+          "summary": "특히 기존 USB 규격의 USB-A 수형과 USB-C 변환 케이블을 사용하면 태블릿이나 노트북, 구형 전원 어댑터가 감당할 수 있는 것보다 많은 전류를 요구할 수 있다. 오래된 전원 공급 장치나 USB 허브에는 전류…",
+          "press": "epnc.co.kr",
+          "date": "2026-08-10",
+          "datetime": "2026-08-10 15:00",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405259",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
@@ -284,50 +284,6 @@
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
-        },
-        {
-          "title": "고성능 RF 부품 수요 폭발… RF머트리얼즈, 통신 반도체 수혜 기대",
-          "summary": "5G 및 6G 통신 인프라와 방산용 고성능 통신 장비 시장이 확대되면서, 고출력·고주파 환경을 견뎌내는 RF... 센서뷰, 피노, RFHIC, 코위버, 빛샘전자, 쏘닉스, 우리로, 서진시스템, 머큐리, 케이엠더블유,…",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 11:14",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475867",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[특징주] 대한광통신, 美 중국산 광트랜시버 규제 추진에 23%대 급등",
-          "summary": "같은 테마로 묶이는 성호전자, RF머트리얼즈, 서울바이오시스, 파이버프로, RFHIC, 머큐리, LS, 우리넷 등도 동반 강세다. 주가를 자극한 것은 미국 연방통신위원회(FCC)가 중국산 신형 광트랜시버의 미국 수입…",
-          "press": "tokenpost.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 10:48",
-          "link": "https://www.tokenpost.kr/news/economy/387320",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[특징주] 美 중국산 광트랜시버 규제 추진에 대한광통신 등 광통신株 강...",
-          "summary": "이와함께 RFHIC는 전 거래일 대비 9.60%(4650원) 오른 5만3100원에 거래되고 있으며 머큐리(6.04%), LS(5.84%), 우리넷(5.16%) 등 광통신 및 통신장비 관련 종목이 동반 강세를 나타내고…",
-          "press": "etoday.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 10:12",
-          "link": "https://www.etoday.co.kr/news/view/2612680",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "글로벌 통신망·데이터센터 증설 열풍… 광통신 밸류체인 수급 몰렸다",
-          "summary": "자람테크놀로지, 한국첨단소재, 우리넷, 머큐리, 티엠씨, 라이콤, 빛과전자 등이 일제히 우상향 곡선을 그리며 거래를 이어가는 중이다. AI 데이터센터 내부 서버 간 연결뿐만 아니라 5G·6G 네트워크 고도화에 따른 …",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 10:04",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475823",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
           "title": "상반기 中 생성형 AI 분야 신설 기업 28% 증가",
@@ -418,50 +374,6 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "대한광통신 주가, 급등세... 왜?",
-          "summary": "통신망 구축에 사용되는 광섬유·광케이블과 관련 소재 등을 개발·생산·판매하며, 초고속 인터넷망과 이동통신망, 데이터센터, FTTH(광가입자망) 등 다양한 광통신 인프라 시장에 제품을 공급하고 있다. 국내외...",
-          "press": "ggilbo.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 11:26",
-          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174398",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "AI 데이터센터, 구리선 대체하는 광 상호연결 시장 폭발 전망",
-          "summary": "변환해 광섬유로 전송하며, 서버 랙 내부 칩 간 연결(Scale-up)과 랙 간 연결(Scale-out)망 모두에 적용된다. 다만 앙쿠르 싱글라 루미렌스 CEO는 인터뷰에서 \"현재 구리선은 광학 장비보다 가격이 훨씬…",
-          "press": "g-enews.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 06:04",
-          "link": "https://www.g-enews.com/view.php?ud=202608100532224309fbbec65dfb_1",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[중국증시 주간 포인트] ②CPEO 2026 개최, 중국산 C919 최초 국제선, 전...",
-          "summary": "서비스 가격 큰 폭 인상\" △8월 중순 재사용로켓 '주췌3호-야오2' 발사 △빌 게이츠 방한, 한국... SH), 광섬유 커넥터와 광수동 부품 개발업체 태진광통신(太辰光∙T&S 300570.SZ), 중고급 전자 등급…",
-          "press": "newspim.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 00:00",
-          "link": "https://www.newspim.com/news/view/20260809000136",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "농수산식품유통공사(aT), 'K-푸드' 베트남 호치민 식음료박람회서 3538만...",
-          "summary": "농식품부와 aT는 현장에 통합한국관을 구성해 국내 수출기업과 수출협의회 등 26개 업체의 베트남 시장 개척을 지원했다. 한국관에서는 떡볶이, 라면, 유자차, 홍삼·건강식품 등 다채로운 K-푸드가 전면에 배치돼...",
-          "press": "cstimes.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 21:20",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=716303",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "AMD, 반도체에 AI 가중치 새기는 ‘탈라스’ 인수··· 추론·피지컬AI ...",
           "summary": "자동화 밀키트에 가깝다. 일반 AI 가속기는 주문이 들어올때마다 창고에 가서 식재료를 하나하나 옮겨온... 앤트로픽 미토스나 오픈AI 아스트라처럼 시장의 흐름을 근본적으로 전환하는 모델이 몇 개월 단위로...",
           "press": "동아일보",
@@ -473,45 +385,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "“신선과일부터 건강식품까지”…베트남시장 사로잡은 K-푸드",
-          "summary": "농식품부와 aT는 박람회장에 통합한국관을 조성하고 국내 수출기업과 수출협의회 등 26곳의 베트남 시장 진출을 지원했다. 한국관에서는 떡볶이·라면·유자차·홍삼 등 다양한 케이푸드(K-Food·한국식품)를 선보이며...",
-          "press": "nongmin.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 18:42",
-          "link": "https://n.news.naver.com/mnews/article/662/0000101585?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "배민, 착한가격업소 활성화 속도...소상공인 지원 나서",
           "summary": "지난달에는 전국상인연합회와 '전국특가 전통시장 기획전'을 열고 △부천 중동사랑시장 협동조합 △전국상인연합회 충남지회 △울산수암상가시장 등의 밀키트와 지역 특산물 가공식품 등 36종을 판매했다. 앞서 지난해...",
           "press": "finomy.com",
           "date": "2026-08-10",
           "datetime": "2026-08-10 18:16",
           "link": "http://www.finomy.com/news/articleView.html?idxno=258874",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "aT, '베트남서 3538만 달러 상담'... K-푸드 수출 확대",
-          "summary": "aT와 농림축산식품부는 박람회장에 통합한국관을 조성하고 국내 수출기업과 수출협의회 등 26개 업체가 현지 유통망과 소비자를 만날 수 있도록 시장 진출 활동을 지원했다. 한국관에서는 떡볶이와 라면, 유자차, 홍삼...",
-          "press": "newsworker.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 17:00",
-          "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=440536",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "aT, '2026 베트남 호치민 식음료박람회' 한국관 운영 성료",
-          "summary": "한국관에서는 떡볶이, 라면을 비롯해 유자차, 홍삼 등 건강식품에 이르기까지 다채로운 K-푸드가 선보여 현지 방문객들의 눈길을 사로잡았다. 특히 실질적인 수출 확대로 이어질 수 있도록 현지 유력 식품 바이어...",
-          "press": "daily.hankooki.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 16:48",
-          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1394398",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -550,72 +429,6 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "K-푸드, 베트남 식음료박람회서 3538만 달러 수출상담",
-          "summary": "농식품부•aT는 행사장에 통합한국관을 마련하고 국내 수출업체와 수출협의회 소속 기업 등 26개사의 현지 판로 확대를 지원했다. 한국관에는 떡볶이•라면•유자차•홍삼과 건강식품 등 다양한 제품이 전시됐다....",
-          "press": "viva100.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 15:54",
-          "link": "https://www.viva100.com/article/20260810501066",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "한국관, 베트남 호치민 식음료박람회서 3538만달러 수출상담 성과",
-          "summary": "농식품부와 aT는 국내 26개 수출기업과 수출협의회가 참여하는 통합한국관을 운영했다. 한국관에서는 떡볶이, 라면, 유자차, 홍삼 및 건강식품 등 다양한 K-푸드 제품이 소개됐으며, 현지 바이어와 소비자를 대상으로..…",
-          "press": "gukjenews.com",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 15:44",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3660623",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "\"떡볶이 넘어 샤인머스켓까지\"…베트남 사로잡은 K-푸드",
-          "summary": "농식품부와 aT는 통합한국관을 마련하고 국내 수출기업과 수출협의회 등 26개 업체의 현지 시장 진출을 지원했다. 한국관에는 떡볶이와 라면, 유자차를 비롯해 홍삼·건강식품 등 다양한 제품이 전시돼 현지 바이어와...",
-          "press": "dongponews.net",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 15:32",
-          "link": "https://www.dongponews.net/news/articleView.html?idxno=59779",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "aT, 베트남 시장 공략…K-푸드 수출상담 3538만弗 달성",
-          "summary": "농식품부와 aT는 박람회장에 통합한국관을 조성하고 국내 수출기업과 수출협의회 등 26개 업체의 베트남 시장 진출을 지원했다. 한국관에서는 떡볶이와 라면, 유자차, 홍삼·건강식품 등 다양한 K-푸드를 선보였다....",
-          "press": "뉴시스",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 15:23",
-          "link": "https://n.news.naver.com/mnews/article/003/0014118307?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "'호치민 식음료박람회'서 3538만 달러 규모 K-푸드 수출상담",
-          "summary": "농림축산식품부(장관 송미령)와 한국농수산식품유통공사(aT, 사장 홍문표)는 박람회장에 통합한국관을 조성, 국내 수출기업과 수출협의회 등 26개사의 베트남 진출을 지원했다. 한국관에서는 떡볶이, 라면, 유자차...",
-          "press": "foodnews.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 15:20",
-          "link": "http://www.foodnews.co.kr/news/articleView.html?idxno=119707",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "aT, 베트남 식음료박람회서 3천538만 달러 수출상담 성과",
-          "summary": "공사는 박람회장에 통합한국관을 조성해 국내 수출기업 등 26개 업체의 베트남 시장 진출을 지원했으며, 떡볶이와 라면, 유자차, 홍삼 등 다양한 K-푸드를 선보였습니다. 특히 현지 유력 식품 바이어 146명을 초청한 …",
-          "press": "news.bbsi.co.kr",
-          "date": "2026-08-10",
-          "datetime": "2026-08-10 15:14",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4099965",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "완도군, 전복 가공식품으로 소비 확대…어가 판로 넓힌다",
           "summary": "제품군도 자숙 전복과 전복 절편, 전복죽 밀키트, 찐 전복 슬라이스, 전복장 등 간편하게 조리하거나 바로... 특히 1~2인 가구 증가와 간편식 시장 확대에 맞춰 손질 부담을 줄인 제품이 전복 소비 확대의 새로운 판…",
           "press": "thefairnews.co.kr",
@@ -638,12 +451,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "BGF리테일 민승배, 다음 스텝은 ‘글로벌 K-편의점’ 왕좌 [CEO 포커스下...",
-          "summary": "라면과 스낵, 델라페 등 800여 종의 K-푸드를 판매하는 것은 물론 떡볶이와 닭강정, 핫도그 등 즉석조리... 또 몽골 CU 전용 마스크팩을 생산·수출하는 등 상품경쟁력을 지속적으로 키워나가는 중이다. CU는 단순…",
-          "press": "fntimes.com",
+          "title": "농수산식품유통공사(aT), 'K-푸드' 베트남 호치민 식음료박람회서 3538만...",
+          "summary": "농식품부와 aT는 현장에 통합한국관을 구성해 국내 수출기업과 수출협의회 등 26개 업체의 베트남 시장 개척을 지원했다. 한국관에서는 떡볶이, 라면, 유자차, 홍삼·건강식품 등 다채로운 K-푸드가 전면에 배치돼...",
+          "press": "cstimes.com",
           "date": "2026-08-10",
-          "datetime": "2026-08-10 00:02",
-          "link": "https://www.fntimes.com/html/view.php?ud=202608061543149323b5b890e35c_18",
+          "datetime": "2026-08-10 21:20",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=716303",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -669,5 +482,5 @@
       ]
     }
   ],
-  "total": 56
+  "total": 39
 }

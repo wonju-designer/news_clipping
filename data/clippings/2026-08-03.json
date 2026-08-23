@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:11 소급 정리",
+  "generated_at": "2026-08-23 11:45 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,28 +10,6 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
-        {
-          "title": "개인정보 유출 후폭풍… 통신 3사 희비 가른 7개월",
-          "summary": "이에 따라 저가 요금제를 유지했던 가입자의 요금제 변경 여부와 추가 번호이동 가능성이 하반기 시장의... 삼성전자 폴더블 신제품에 이어 애플 아이폰 신작 출시를 앞두고 번호이동 경쟁이 다시 치열해질 것이라는...",
-          "press": "newscj.com",
-          "date": "2026-08-03",
-          "datetime": "2026-08-03 23:48",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3422224",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "신한투자증권, 국내 금융사 최초 'AI 에이전트부' 신설 外",
-          "summary": "확인할 수 있다. 차민정 하나증권 연금전략실장은 \"연금은 장기적인 자산관리인 만큼 손님들이 쉽고... 토스모바일, 얼굴로 결제하고 통신비도 아끼는 '페이스페이 제휴 요금제' 출시 비바리퍼블리카(토스)의 통신...",
-          "press": "rcast.co.kr",
-          "date": "2026-08-03",
-          "datetime": "2026-08-03 21:34",
-          "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31384",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
         {
           "title": "SKT, 올해 번호이동 15.7만명 순증…KT는 23.3만명 순감",
           "summary": "알뜰폰 사업자도 2만5588명 순증했다. 특히 1월 KT에서 SK텔레콤으로 이동한 가입자는 22만명을 넘은 것으로 집계됐다. SK텔레콤이 올해 기록한 누적 순증의 대부분이 KT 위약금 면제 기간에 발생한 셈이다. 1…",
@@ -66,50 +44,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "애플, AI 시리 유료화하나",
-          "summary": "차세대 시리도 일정 사용량을 초과하면 상위 iCloud+ 요금제 가입을 통해 추가 기능이나 더 많은 AI 사용량을... 간단한 요청은 아이폰 등 기기에서 직접 처리하지만, 복잡한 작업은 애플 서버와 클라우드 인프라를…",
-          "press": "todayeconomic.com",
-          "date": "2026-08-03",
-          "datetime": "2026-08-03 17:26",
-          "link": "https://www.todayeconomic.com/news/article.html?no=31588",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "단통법 폐지 1년…\"깜깜이 지원금만 키웠다\"",
-          "summary": "법 폐지로 당시 정부가 기대했던 통신비 인하 효과는 나타나지 않은 가운데, 부작용이 생기면서 제도의 개편이 필요하다는 주장이 힘을 얻는다. 안정상 중앙대 커뮤니케이션대학원 겸임교수는 단통법 폐지 1년을...",
-          "press": "지디넷코리아",
-          "date": "2026-08-03",
-          "datetime": "2026-08-03 17:22",
-          "link": "https://n.news.naver.com/mnews/article/092/0002432861?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "단통법 폐지 1년…\"지원금 경쟁 대신 '고가폰·고가요금제' 구조만 강화...",
-          "summary": "실질적인 통신비 인하로 보기 어렵다고 분석했습니다. 번호이동 증가 폭도 제한적이었습니다. 한국통신사업자연합회(KTOA)에 따르면 단통법 폐지 직후인 지난해 8월부터 올해 7월까지 번호이동은 761만3969건으로, 폐…",
-          "press": "newstomato.com",
-          "date": "2026-08-03",
-          "datetime": "2026-08-03 16:56",
-          "link": "http://www.newstomato.com/ReadNews.aspx?no=1309073&inflow=N",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'단통법 폐지 1년' 휴대폰 번호이동 2.5% 증가 그쳐",
-          "summary": "전문가들은 고액 지원금을 앞세워 고가 단말과 고가 요금제를 결합 판매하는 구조가 유지되는 한 통신비 인하 효과를 기대하기 어렵다고 본다. 대안으로 거론되는 방식이 '절충형(부분적) 완전자급제'다. 제조사는...",
-          "press": "전자신문",
-          "date": "2026-08-03",
-          "datetime": "2026-08-03 16:01",
-          "link": "https://n.news.naver.com/mnews/article/030/0003453763?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "번호이동 2개월 연속 60만건 돌파…SKT 가입자 순증 1위",
           "summary": "알뜰폰도 1895명의 고객이 유출됐다. 개인정보 유출 사고 여파로 KT를 이탈한 고객을 SKT와 LG유플러스가 상당 부분 흡수한 것으로 풀이된다. 업계에서는 이달부터 번호이동 시장이 요동칠 가능성이 클 것으로 본다.…",
           "press": "digitaltoday.co.kr",
@@ -127,17 +61,6 @@
           "date": "2026-08-03",
           "datetime": "2026-08-03 13:32",
           "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608031249160240108915",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[ASIA BIZ] '아이폰 왕국' 日, 폴더블 갤럭시에 들썩…통신 4사 첫 총출동",
-          "summary": "애플이 압도적 우위를 점한 일본 시장에서 통신 4사를 한 자리에 불러 모은 제품은 뜻밖에도 아이폰이... 외부에서도 동영상을 자주 보게 되면 데이터 사용량이 늘고, 자연스럽게 무제한 요금제를 선택할 가능성도...",
-          "press": "아주경제",
-          "date": "2026-08-03",
-          "datetime": "2026-08-03 12:02",
-          "link": "https://www.ajunews.com/view/20260802123200134",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -209,6 +132,28 @@
           "subgroup_label": ""
         },
         {
+          "title": "풀MVNO 수백억 투자 문턱 낮춘다, 정부가 꺼낸 'MVNE' [IT백과]",
+          "summary": "통신 인프라를 구축한 사업자가 이를 여러 알뜰폰 사업자에게 재제공할 수 있도록 제도화해, 풀 MVNO 육성의 가장 큰 걸림돌로 꼽혀온 설비투자 부담을 낮추겠다는 것이 핵심이다. 관건은 투자 유인을 만들 수...",
+          "press": "디지털데일리",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 05:00",
+          "link": "https://n.news.naver.com/mnews/article/138/0002236292?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "결합할인 얇고 넓게… 이통3사 혜택 개편",
+          "summary": "인터넷 커뮤니티에서는 \"알뜰폰보다 비싸도 부모·자녀를 생각해 SKT를 썼는데 장점이 사라졌다\" \"혜택에 따라 통신사를 갈아타는 '메뚜기족'으로 살겠다\" 등의 반응이 보인다. SKT는 1~2인가구가 늘어나는 인구구조의…",
+          "press": "머니투데이",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 04:11",
+          "link": "https://n.news.naver.com/mnews/article/008/0005394527?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "메트로신문 8월 3일자 한줄뉴스",
           "summary": "▲ 이동통신 3사가 여름 휴가철을 맞아 8월 한 달간 고객 혜택을 대폭 확대한다. 가계 통신비 부담을 완화하기 위한 요금제 신규 가입 프로모션도 실시한다. /유혜온 기자",
           "press": "metroseoul.co.kr",
@@ -242,23 +187,78 @@
           "subgroup_label": ""
         },
         {
-          "title": "풀MVNO 수백억 투자 문턱 낮춘다, 정부가 꺼낸 'MVNE' [IT백과]",
-          "summary": "통신 인프라를 구축한 사업자가 이를 여러 알뜰폰 사업자에게 재제공할 수 있도록 제도화해, 풀 MVNO 육성의 가장 큰 걸림돌로 꼽혀온 설비투자 부담을 낮추겠다는 것이 핵심이다. 관건은 투자 유인을 만들 수...",
-          "press": "디지털데일리",
+          "title": "개인정보 유출 후폭풍… 통신 3사 희비 가른 7개월",
+          "summary": "이에 따라 저가 요금제를 유지했던 가입자의 요금제 변경 여부와 추가 번호이동 가능성이 하반기 시장의... 삼성전자 폴더블 신제품에 이어 애플 아이폰 신작 출시를 앞두고 번호이동 경쟁이 다시 치열해질 것이라는...",
+          "press": "newscj.com",
           "date": "2026-08-03",
-          "datetime": "2026-08-03 05:00",
-          "link": "https://n.news.naver.com/mnews/article/138/0002236292?sid=105",
+          "datetime": "2026-08-03 23:48",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3422224",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "결합할인 얇고 넓게… 이통3사 혜택 개편",
-          "summary": "인터넷 커뮤니티에서는 \"알뜰폰보다 비싸도 부모·자녀를 생각해 SKT를 썼는데 장점이 사라졌다\" \"혜택에 따라 통신사를 갈아타는 '메뚜기족'으로 살겠다\" 등의 반응이 보인다. SKT는 1~2인가구가 늘어나는 인구구조의…",
-          "press": "머니투데이",
+          "title": "신한투자증권, 국내 금융사 최초 'AI 에이전트부' 신설 外",
+          "summary": "확인할 수 있다. 차민정 하나증권 연금전략실장은 \"연금은 장기적인 자산관리인 만큼 손님들이 쉽고... 토스모바일, 얼굴로 결제하고 통신비도 아끼는 '페이스페이 제휴 요금제' 출시 비바리퍼블리카(토스)의 통신...",
+          "press": "rcast.co.kr",
           "date": "2026-08-03",
-          "datetime": "2026-08-03 04:11",
-          "link": "https://n.news.naver.com/mnews/article/008/0005394527?sid=105",
+          "datetime": "2026-08-03 21:34",
+          "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31384",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "애플, AI 시리 유료화하나",
+          "summary": "차세대 시리도 일정 사용량을 초과하면 상위 iCloud+ 요금제 가입을 통해 추가 기능이나 더 많은 AI 사용량을... 간단한 요청은 아이폰 등 기기에서 직접 처리하지만, 복잡한 작업은 애플 서버와 클라우드 인프라를…",
+          "press": "todayeconomic.com",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 17:26",
+          "link": "https://www.todayeconomic.com/news/article.html?no=31588",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "단통법 폐지 1년…\"깜깜이 지원금만 키웠다\"",
+          "summary": "법 폐지로 당시 정부가 기대했던 통신비 인하 효과는 나타나지 않은 가운데, 부작용이 생기면서 제도의 개편이 필요하다는 주장이 힘을 얻는다. 안정상 중앙대 커뮤니케이션대학원 겸임교수는 단통법 폐지 1년을...",
+          "press": "지디넷코리아",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 17:22",
+          "link": "https://n.news.naver.com/mnews/article/092/0002432861?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "단통법 폐지 1년…\"지원금 경쟁 대신 '고가폰·고가요금제' 구조만 강화...",
+          "summary": "실질적인 통신비 인하로 보기 어렵다고 분석했습니다. 번호이동 증가 폭도 제한적이었습니다. 한국통신사업자연합회(KTOA)에 따르면 단통법 폐지 직후인 지난해 8월부터 올해 7월까지 번호이동은 761만3969건으로, 폐…",
+          "press": "newstomato.com",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 16:56",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1309073&inflow=N",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'단통법 폐지 1년' 휴대폰 번호이동 2.5% 증가 그쳐",
+          "summary": "전문가들은 고액 지원금을 앞세워 고가 단말과 고가 요금제를 결합 판매하는 구조가 유지되는 한 통신비 인하 효과를 기대하기 어렵다고 본다. 대안으로 거론되는 방식이 '절충형(부분적) 완전자급제'다. 제조사는...",
+          "press": "전자신문",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 16:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003453763?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[ASIA BIZ] '아이폰 왕국' 日, 폴더블 갤럭시에 들썩…통신 4사 첫 총출동",
+          "summary": "애플이 압도적 우위를 점한 일본 시장에서 통신 4사를 한 자리에 불러 모은 제품은 뜻밖에도 아이폰이... 외부에서도 동영상을 자주 보게 되면 데이터 사용량이 늘고, 자연스럽게 무제한 요금제를 선택할 가능성도...",
+          "press": "아주경제",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 12:02",
+          "link": "https://www.ajunews.com/view/20260802123200134",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -365,17 +365,6 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "광통신·광반도체주 오전 주가 장중 강세…대한광통신 11%대 상승, 빛과...",
-          "summary": "대한광통신이 두 자릿수 상승률을 기록한 가운데 빛과전자와 성호전자, 머큐리, 서울바이오시스 등도 비교적 큰 폭으로 올랐다. 이날 오젼 현재 대한광통신은 전 거래일보다 960원(11.25%) 오른 9,490원에...",
-          "press": "cbci.co.kr",
-          "date": "2026-08-03",
-          "datetime": "2026-08-03 11:06",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=594054",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "192억달러 KKR 인프라 펀드, 데이터센터·전력 겨냥",
           "summary": "다만 이번 펀드는 크립토 가격이나 채굴 기업 실적에 직접 영향을 주는 투자보다 전력 집약형 디지털 인프라로 민간자본이 이동하는 사례에 가깝다. KKR은 2026년 인프라 전망에서 데이터센터와 광섬유망...",
           "press": "tokenpost.kr",
@@ -427,6 +416,17 @@
           "datetime": "2026-08-03 08:18",
           "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=270906",
           "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "광통신·광반도체주 오전 주가 장중 강세…대한광통신 11%대 상승, 빛과...",
+          "summary": "대한광통신이 두 자릿수 상승률을 기록한 가운데 빛과전자와 성호전자, 머큐리, 서울바이오시스 등도 비교적 큰 폭으로 올랐다. 이날 오젼 현재 대한광통신은 전 거래일보다 960원(11.25%) 오른 9,490원에...",
+          "press": "cbci.co.kr",
+          "date": "2026-08-03",
+          "datetime": "2026-08-03 11:06",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=594054",
+          "badge": "자사",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
         }

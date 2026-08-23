@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:11 소급 정리",
+  "generated_at": "2026-08-23 11:45 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,6 +10,28 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
+        {
+          "title": "[통신리뷰] KT, AI 기반 실시간 스팸차단 서비스…전 고객 확대 적용(8월...",
+          "summary": "KT알뜰폰 포함 전 고객을 대상으로 AI 스팸차단 기능을 확대 적용했다. 스팸차단 서비스는 KT 고객이라면... ◇SKT, 순천향대와 'AI 그림일기'로 교육 현장 AX 이끌고 미래 인재 육성 나선다 SK텔레콤(SK…",
+          "press": "theguru.co.kr",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 07:56",
+          "link": "https://www.theguru.co.kr/news/article.html?no=105549",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[와이파이] 8월 2주, 알뜰폰 OTT·외식 혜택…LGU+ 외 2가지 통신 서비스",
+          "summary": "LG유플러스는 알뜰폰 이용자를 위한 전용 혜택을 선보이고 KT는 외국인 이용자를 대상으로 인터넷 할인 프로그램을 도입한다. LG헬로비전은 교보문고와 손잡고 도서 혜택을 결합한 요금제를 마련했다. ◇LGU+, 알뜰폰.…",
+          "press": "shinailbo.co.kr",
+          "date": "2026-08-08",
+          "datetime": "2026-08-08 07:00",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049136",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
         {
           "title": "\"30대에 집도 샀는데\"...월 690만원 맞벌이, 남는 건 20만원뿐 [머니설계...",
           "summary": "하지만 어렵게 집을 구했다고 가계의 모든 걱정이 끝나는 것은 아니다. 집은 자산으로 남지만 주택담보대출... 주택담보대출 원리금처럼 당장 줄이기 어려운 비용과 보험료·통신비·자동차 비용처럼 조정 가능한 항목...",
@@ -39,28 +61,6 @@
           "date": "2026-08-08",
           "datetime": "2026-08-08 14:40",
           "link": "https://www.econovill.com/news/articleView.html?idxno=747477",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[통신리뷰] KT, AI 기반 실시간 스팸차단 서비스…전 고객 확대 적용(8월...",
-          "summary": "KT알뜰폰 포함 전 고객을 대상으로 AI 스팸차단 기능을 확대 적용했다. 스팸차단 서비스는 KT 고객이라면... ◇SKT, 순천향대와 'AI 그림일기'로 교육 현장 AX 이끌고 미래 인재 육성 나선다 SK텔레콤(SK…",
-          "press": "theguru.co.kr",
-          "date": "2026-08-08",
-          "datetime": "2026-08-08 07:56",
-          "link": "https://www.theguru.co.kr/news/article.html?no=105549",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[와이파이] 8월 2주, 알뜰폰 OTT·외식 혜택…LGU+ 외 2가지 통신 서비스",
-          "summary": "LG유플러스는 알뜰폰 이용자를 위한 전용 혜택을 선보이고 KT는 외국인 이용자를 대상으로 인터넷 할인 프로그램을 도입한다. LG헬로비전은 교보문고와 손잡고 도서 혜택을 결합한 요금제를 마련했다. ◇LGU+, 알뜰폰.…",
-          "press": "shinailbo.co.kr",
-          "date": "2026-08-08",
-          "datetime": "2026-08-08 07:00",
-          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049136",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

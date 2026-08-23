@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 11:11 소급 정리",
+  "generated_at": "2026-08-23 11:45 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,6 +10,193 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
+        {
+          "title": "SKT, 가입자 순감 폭은 줄였지만…영업익 67% 뒤엔 기저효과와 소송 리스...",
+          "summary": "한국통신사업자연합회(KTOA) 통계 기준 올 상반기 번호이동 시장에서 SKT는 15만3055명 순증해 3사 중 가장 큰 폭의 순증세를 보였다. 즉 타사에서 옮겨오는 경쟁에서는 우위를 점하고 있지만, 알뜰폰 전환이나 …",
+          "press": "ezyeconomy.com",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 17:24",
+          "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=238665",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] LG헬로비전, 올해 연봉 2.9% 인상",
+          "summary": "방송은 VOD 매출 감소, 알뜰폰은 이동통신 시장 저가 요금제 경쟁이 실적 하락의 주요 원인으로 꼽혔다. 렌탈 부문은 성수기 가전시장 경쟁이 치열해진 탓에 전년 동기 대비 31.7% 감소했다. 지역기반사업은 사업..…",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 17:19",
+          "link": "https://n.news.naver.com/mnews/article/014/0005560700?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 2.0 뜨자…은행권도 통신비 '0원' 경쟁 불붙었다",
+          "summary": "은행권이 이처럼 알뜰폰 혜택을 잇달아 강화하는 배경에는 지난달 31일 과학기술정통부가 발표한 '알뜰폰 2.0' 정책으로 시장 자체가 확대될 수 있다는 기대가 있다. 특히 정부는 자체 설비를 보유한 '서비스형 MVNO…",
+          "press": "머니투데이",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 16:44",
+          "link": "https://n.news.naver.com/mnews/article/008/0005399167?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사, 통신망 정체에 ‘AI 데이터센터’로 승부 건다",
+          "summary": "이동통신 시장 자체가 이미 포화된 데다 알뜰폰 확산 등으로 본업의 성장 여력이 제한됐다. 그 사이에 AIDC가 새로운 성장 사업으로 부상한 것이다. SK텔레콤의 2분기 매출은 4조3591억 원으로 지난해 대비 0.5…",
+          "press": "동아일보",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 16:39",
+          "link": "https://n.news.naver.com/mnews/article/020/0003740388?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "배달라이더 주유·보험료 할인…체크카드가 직업을 묻기 시작했다",
+          "summary": "올해에는 특정 플랫폼과 맺은 제휴에서 한 걸음 더 나아가 은행, 카드, 보험, 알뜰폰을 그룹 단위로... 이런 흐름은 발급은 줄었는데 이용액은 늘어난 체크카드 시장에서, 여행·청년·긱워커처럼 소비 맥락이 선명한...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 16:02",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476689",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이동통신 3사, AI 데이터센터로 승부 \"본업 성장 끝났다\"",
+          "summary": "전 분기와 비교해도 5.3% 늘었지만, 이동통신 매출은 알뜰폰 확산과 요금제 경쟁 심화로 전년 동기 대비... 신한투자증권 김아람 애널리스트는 \"데이터센터 증설 계획만으로는 시장의 기업가치 재평가를 기대하기...",
+          "press": "bizhankook.com",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 15:36",
+          "link": "https://bizhankook.com/articles/telco-ai-data-center-expansion.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'해킹 여진 끝?' 2분기 실적 공개한 통신3사...'버텨낸 SKT' '반등한 KT' ...",
+          "summary": "전체 MNO 가입자 수는 제자리걸음을 하는 모양새지만 알뜰폰 등에서 버텨낸 것으로 풀이된다. 5G... 1분기 감소세였던 MNO 가입자가 증가세로 돌아섰다. 전체 가입자 수도 지속 확대되고 있다. MNO의 공백을..…",
+          "press": "techm.kr",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 11:48",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154234",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT 박윤영호 첫 성적표…2분기 영업익 전년比 36%↓(종합)",
+          "summary": "전체 무선 가입자는 2951만명으로 7.3% 늘었지만, 증가분은 알뜰폰(MVNO)이 주도했다. 알뜰폰 가입자가 904만8000명으로 18.3% 급증한 반면, MNO 가입자는 3.1% 증가에 그쳤다. 5G 가입자는 1…",
+          "press": "디지털데일리",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 11:47",
+          "link": "https://n.news.naver.com/mnews/article/138/0002237539?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 통신요금제에 AI 넣는다…스팸차단·구글 AI 결합",
+          "summary": "KT는 지난달 29일부터 KT알뜰폰을 포함한 전 고객에게 'AI 기반 실시간 스팸차단' 기능을 확대 적용했다. 특수문자를 섞거나 문구를 바꾸는 등 기존 필터링 방식을 우회하는 변형 스팸이 늘면서 신규·변형...",
+          "press": "cstimes.com",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 07:52",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=716432",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[인터뷰] 전성훈 플랜티넷 CFO \"'AI 데이터'로 퀀텀점프…연말 PBR 1배 달...",
+          "summary": "하지만 유선망 중심 사업의 한계로 인해 성장이 정체됐다는 시장의 평가도 공존했다. 전 CFO는 본업의... 모아진은 KT 알뜰폰 요금제 연계, LG유플러스 프리미엄 요금제 번들링 및 삼성전자와의 파트너십을 바탕으로.…",
+          "press": "ebn.co.kr",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 06:00",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719903",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 2분기 영업이익 6483억원…성장사업 확대",
+          "summary": "KT는 5세대 이동통신과 엘티이 통합요금제, 초이스 더블 요금제 등을 출시해 고객 선택권을 넓혔다. 인공지능 전환 사업 매출은 22.3% 증가했다. 상반기 금융권 인공지능 전환 사업 22건을 수주했으며, KT클라우드…",
+          "press": "webeconomy.co.kr",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 17:46",
+          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2264585",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, '통신' 떼고 'AI' 달았다…B2B·데이터센터가 2분기 실적 갈라",
+          "summary": "［뉴시안= 조현선 기자］국내 이동통신3사의 올해 2분기 실적이 모두 공개됐다. 지난해 일회성 요인과... SKT·LG유플러스, AIDC 폭풍 성장에 '함박웃음' AIDC 사업에서 가장 두각을 나타낸 곳은 SK텔레콤이…",
+          "press": "newsian.co.kr",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 15:46",
+          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93649",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[카드사 풍향계] 신한카드, 쓸수록 적립률 높아지는 카드 출시 外",
+          "summary": "12일 신한카드에 따르면 '하이포인트 플랜 플러스'는 전월 실적에 따라 마트(롯데마트·이마트), 주유(SK에너지·GS칼텍스), 카페(스타벅스·이디야·커피빈·투썸플레이스·폴바셋·메가커피), 이동통신요금(SKT·LG U…",
+          "press": "ekn.kr",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 14:56",
+          "link": "https://www.ekn.kr/web/view.php?key=20260812022562047",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'휴대폰 장사 시들한데'…이통사 실적 이끈 '효자' 정체",
+          "summary": "이동통신사들이 AI 인프라를 미래 먹거리로 점찍고 사업 확장에 나선 가운데 실적에서도 성장세가 본격적으로 확인되고 있다는 평가다. SKT AIDC 매출 92.5% 급증…2029년 5GW 목표 12일 이동통신업계에 따…",
+          "press": "한국경제",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 14:36",
+          "link": "https://n.news.naver.com/mnews/article/015/0005320036?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 2분기 영업익 6483억원…시장 전망치 7% 웃돌아",
+          "summary": "이동통신(MNO) 가입자는 2045만3000명으로 전분기보다 4만명 늘었다. 해지율은 1분기 1.7%에서 2분기 0.9%로 낮아졌다. 5G 가입자 비중은 전체 핸드셋 가입자의 83.2%를 기록했다. 유선 사업 매출은…",
+          "press": "ekn.kr",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 13:46",
+          "link": "https://www.ekn.kr/web/view.php?key=20260812025122016",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "해킹 악재 털고가는 KT…AX·클라우드 두자릿수 성장(종합)",
+          "summary": "2분기 무선 가입자는 2950만 1000명으로 전 분기 대비 1.2% 증가했고 MNO 가입자도 2045만 3000명으로 4만 명 늘었다. 해지율은 1분기 1.7%에서 0.9%로 낮아졌다. 유선 사업 매출은 1조 31…",
+          "press": "뉴스1",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 11:11",
+          "link": "https://n.news.naver.com/mnews/article/421/0009109696?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "박윤영 체제 첫 KT 실적, '수익성 개선' 증명했다",
+          "summary": "이 가운데 MNO 가입자는 2045만 3000명, 5G 핸드셋 가입자는 1114만 7000명이다. 5G 가입자 비중은 83.2%에 달했다. 1분기 위약금 면제로 가입자가 줄었으나 2분기 들어 지난해 4분기 수준으로 …",
+          "press": "지디넷코리아",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 10:59",
+          "link": "https://n.news.naver.com/mnews/article/092/0002433728?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
         {
           "title": "칩플레이션에…백색가전 넘어 휴대폰·PC로 ‘구독’ 확산",
           "summary": "12일 삼성전자에 따르면 이달 공식 판매에 들어간 삼성전자 신제품 폴더블폰 ‘갤럭시 Z 8 시리즈’를... 스마트폰을 자급제로 구매한 소비자는 계약 기간 매달 이용료를 낸 뒤, 약정 종료 후 기기를 반납하면 최대 5…",
@@ -28,17 +215,6 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 18:08",
           "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=250020",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT, 2분기 영업이익 6483억원…성장사업 확대",
-          "summary": "KT는 5세대 이동통신과 엘티이 통합요금제, 초이스 더블 요금제 등을 출시해 고객 선택권을 넓혔다. 인공지능 전환 사업 매출은 22.3% 증가했다. 상반기 금융권 인공지능 전환 사업 22건을 수주했으며, KT클라우드…",
-          "press": "webeconomy.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:46",
-          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2264585",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -77,34 +253,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, 가입자 순감 폭은 줄였지만…영업익 67% 뒤엔 기저효과와 소송 리스...",
-          "summary": "한국통신사업자연합회(KTOA) 통계 기준 올 상반기 번호이동 시장에서 SKT는 15만3055명 순증해 3사 중 가장 큰 폭의 순증세를 보였다. 즉 타사에서 옮겨오는 경쟁에서는 우위를 점하고 있지만, 알뜰폰 전환이나 …",
-          "press": "ezyeconomy.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:24",
-          "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=238665",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "상반기 매출 1조…통신3사 ‘효자’ 된 AIDC",
           "summary": "전체 실적은 뒷걸음쳤지만 미래 성장 사업으로 키우는 AI·클라우드 등 AX 사업은 두 자릿수 성장했다.... 김준섭 KB증권 애널리스트는 “데이터센터의 실적을 좌우하는 변수는 준공 이후 임차인 확보 기간”이라며...",
           "press": "서울경제",
           "date": "2026-08-12",
           "datetime": "2026-08-12 17:23",
           "link": "https://n.news.naver.com/mnews/article/011/0004651095?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[단독] LG헬로비전, 올해 연봉 2.9% 인상",
-          "summary": "방송은 VOD 매출 감소, 알뜰폰은 이동통신 시장 저가 요금제 경쟁이 실적 하락의 주요 원인으로 꼽혔다. 렌탈 부문은 성수기 가전시장 경쟁이 치열해진 탓에 전년 동기 대비 31.7% 감소했다. 지역기반사업은 사업..…",
-          "press": "파이낸셜뉴스",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:19",
-          "link": "https://n.news.naver.com/mnews/article/014/0005560700?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -165,28 +319,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "알뜰폰 2.0 뜨자…은행권도 통신비 '0원' 경쟁 불붙었다",
-          "summary": "은행권이 이처럼 알뜰폰 혜택을 잇달아 강화하는 배경에는 지난달 31일 과학기술정통부가 발표한 '알뜰폰 2.0' 정책으로 시장 자체가 확대될 수 있다는 기대가 있다. 특히 정부는 자체 설비를 보유한 '서비스형 MVNO…",
-          "press": "머니투데이",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:44",
-          "link": "https://n.news.naver.com/mnews/article/008/0005399167?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "통신 3사, 통신망 정체에 ‘AI 데이터센터’로 승부 건다",
-          "summary": "이동통신 시장 자체가 이미 포화된 데다 알뜰폰 확산 등으로 본업의 성장 여력이 제한됐다. 그 사이에 AIDC가 새로운 성장 사업으로 부상한 것이다. SK텔레콤의 2분기 매출은 4조3591억 원으로 지난해 대비 0.5…",
-          "press": "동아일보",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:39",
-          "link": "https://n.news.naver.com/mnews/article/020/0003740388?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "칩플레이션에 스마트폰·가전 구독 시대 ‘활짝’",
           "summary": "12일 삼성전자에 따르면 이달 공식 판매에 들어간 삼성전자 신제품 폴더블폰 ‘갤럭시 Z 8 시리즈’를... 스마트폰을 자급제로 구매한 소비자는 계약 기간 동안 매달 이용료를 낸 뒤, 약정 종료 후 기기를 반납하면 최…",
           "press": "경향신문",
@@ -198,232 +330,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "배달라이더 주유·보험료 할인…체크카드가 직업을 묻기 시작했다",
-          "summary": "올해에는 특정 플랫폼과 맺은 제휴에서 한 걸음 더 나아가 은행, 카드, 보험, 알뜰폰을 그룹 단위로... 이런 흐름은 발급은 줄었는데 이용액은 늘어난 체크카드 시장에서, 여행·청년·긱워커처럼 소비 맥락이 선명한...",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:02",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476689",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "쓸수록 느는 포인트…신한, 하이포인트 카드 리뉴얼 [코주부]",
           "summary": "통신사(SKT·LG U+·KT 자동납부) 등에서 플랜 플러스는 최대 6%, 플랜은 최대 5%를 적립해 준다. 월 최대... 플랜 플러스는 3000 포인트, 플랜은 1000 포인트를 전월 실적과 관계 없이 월 1회 적…",
           "press": "서울경제",
           "date": "2026-08-12",
           "datetime": "2026-08-12 15:59",
           "link": "https://n.news.naver.com/mnews/article/011/0004651045?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "이통3사, '통신' 떼고 'AI' 달았다…B2B·데이터센터가 2분기 실적 갈라",
-          "summary": "［뉴시안= 조현선 기자］국내 이동통신3사의 올해 2분기 실적이 모두 공개됐다. 지난해 일회성 요인과... SKT·LG유플러스, AIDC 폭풍 성장에 '함박웃음' AIDC 사업에서 가장 두각을 나타낸 곳은 SK텔레콤이…",
-          "press": "newsian.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:46",
-          "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93649",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "이동통신 3사, AI 데이터센터로 승부 \"본업 성장 끝났다\"",
-          "summary": "전 분기와 비교해도 5.3% 늘었지만, 이동통신 매출은 알뜰폰 확산과 요금제 경쟁 심화로 전년 동기 대비... 신한투자증권 김아람 애널리스트는 \"데이터센터 증설 계획만으로는 시장의 기업가치 재평가를 기대하기...",
-          "press": "bizhankook.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:36",
-          "link": "https://bizhankook.com/articles/telco-ai-data-center-expansion.html",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[카드 NOW] 신한카드·BC카드·하나카드",
-          "summary": "영역, SKT·LG유플러스·KT 자동납부 등 통신요금이다. 포인트를 다시 적립해주는 '포인트 리필 서비스'도 제공한다. 카드로 마이신한포인트를 1만 포인트 이상 사용하면 전월 실적과 관계없이 월 1회 재적립된다. 플…",
-          "press": "wikileaks-kr.org",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:12",
-          "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190863",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[카드사 풍향계] 신한카드, 쓸수록 적립률 높아지는 카드 출시 外",
-          "summary": "12일 신한카드에 따르면 '하이포인트 플랜 플러스'는 전월 실적에 따라 마트(롯데마트·이마트), 주유(SK에너지·GS칼텍스), 카페(스타벅스·이디야·커피빈·투썸플레이스·폴바셋·메가커피), 이동통신요금(SKT·LG U…",
-          "press": "ekn.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:56",
-          "link": "https://www.ekn.kr/web/view.php?key=20260812022562047",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"카드 많이 쓸수록 혜택 쑥쑥\" 신한카드, 포인트특화 'Hi-Point Plan' 2종 출...",
-          "summary": "매장 ▲SKT·LG U+·KT 통신요금 자동납부다. 혜택 구조는 상위 등급인 플랜 플러스와 기본 플랜으로 나뉜다. 하이포인트 플랜 플러스는 전월 실적에 따라 일상 밀착 가맹점에서 이용 금액의 최대 6%를 특별 적립해…",
-          "press": "catchnews.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:55",
-          "link": "https://www.catchnews.kr/news/articleView.html?idxno=127254",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'휴대폰 장사 시들한데'…이통사 실적 이끈 '효자' 정체",
-          "summary": "이동통신사들이 AI 인프라를 미래 먹거리로 점찍고 사업 확장에 나선 가운데 실적에서도 성장세가 본격적으로 확인되고 있다는 평가다. SKT AIDC 매출 92.5% 급증…2029년 5GW 목표 12일 이동통신업계에 따…",
-          "press": "한국경제",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:36",
-          "link": "https://n.news.naver.com/mnews/article/015/0005320036?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[비즈 인사이트] 통신 3사 2분기 희비…SKT 영업익 67%↑·KT 36%↓",
-          "summary": "SKT 매출 0.5% 늘 때 영업익 5660억원…AI 데이터센터 매출 92.5%↑ LG유플러스 영업익 3445억원 ‘분기... 3% 늘어 [서울타임즈뉴스 = 최남주 기자] 통신 3사의 올해 2분기 실적이 갈렸다. S…",
-          "press": "seoultimes.news",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:00",
-          "link": "https://www.seoultimes.news/news/article.html?no=2000098744",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT, 2분기 영업익 6483억원…시장 전망치 7% 웃돌아",
-          "summary": "이동통신(MNO) 가입자는 2045만3000명으로 전분기보다 4만명 늘었다. 해지율은 1분기 1.7%에서 2분기 0.9%로 낮아졌다. 5G 가입자 비중은 전체 핸드셋 가입자의 83.2%를 기록했다. 유선 사업 매출은…",
-          "press": "ekn.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 13:46",
-          "link": "https://www.ekn.kr/web/view.php?key=20260812025122016",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "신한카드, 생활 밀착 가맹점 최대 6% 적립 'Hi-Point Plan' 출시",
-          "summary": "가맹점과 SKT·LG유플러스·KT 자동납부 통신요금 등이다. 국내외 모든 가맹점에서는 '하이포인트 플랜... '하이포인트 플랜 플러스'는 월 1회 최대 3000포인트, '하이포인트 플랜'은 최대 1000포인트를 전월…",
-          "press": "cnbizm.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 13:42",
-          "link": "https://www.cnbizm.com/news/articleView.html?idxno=311291",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'해킹 여진 끝?' 2분기 실적 공개한 통신3사...'버텨낸 SKT' '반등한 KT' ...",
-          "summary": "전체 MNO 가입자 수는 제자리걸음을 하는 모양새지만 알뜰폰 등에서 버텨낸 것으로 풀이된다. 5G... 1분기 감소세였던 MNO 가입자가 증가세로 돌아섰다. 전체 가입자 수도 지속 확대되고 있다. MNO의 공백을..…",
-          "press": "techm.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:48",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=154234",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "엇갈린 통신3사 실적, AI는 나란히 성장…네트워크와 투자 배분은 ‘과...",
-          "summary": "◆ 무선 실적도 희비…SKT·KT 매출 감소, LGU+ 성장 통신 본업에서도 희비는 엇갈렸다. SK텔레콤과 KT의 무선 서비스 매출이 나란히 감소한 반면 LG유플러스는 가입자와 매출 모두 성장세를 이어갔다. SK텔레…",
-          "press": "디지털데일리",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:48",
-          "link": "https://n.news.naver.com/mnews/article/138/0002237540?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT 박윤영호 첫 성적표…2분기 영업익 전년比 36%↓(종합)",
-          "summary": "전체 무선 가입자는 2951만명으로 7.3% 늘었지만, 증가분은 알뜰폰(MVNO)이 주도했다. 알뜰폰 가입자가 904만8000명으로 18.3% 급증한 반면, MNO 가입자는 3.1% 증가에 그쳤다. 5G 가입자는 1…",
-          "press": "디지털데일리",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:47",
-          "link": "https://n.news.naver.com/mnews/article/138/0002237539?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "통신 3사 2분기 영업익 1.5조…KT 감소에 합산 이익 뒷걸음(종합)",
-          "summary": "국내 통신 3사의 2분기 실적에서 희비가 엇갈렸다. SK텔레콤과 LG유플러스는 수익성이 개선된 반면 KT는... 특히 AI 데이터센터(DC) 사업은 SKT 사업 영역 중 가장 빠른 성장세를 보였다. 2분기 AIDC …",
-          "press": "dailian.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:40",
-          "link": "https://n.news.naver.com/mnews/article/119/0003120996?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "해킹 악재 털고가는 KT…AX·클라우드 두자릿수 성장(종합)",
-          "summary": "2분기 무선 가입자는 2950만 1000명으로 전 분기 대비 1.2% 증가했고 MNO 가입자도 2045만 3000명으로 4만 명 늘었다. 해지율은 1분기 1.7%에서 0.9%로 낮아졌다. 유선 사업 매출은 1조 31…",
-          "press": "뉴스1",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:11",
-          "link": "https://n.news.naver.com/mnews/article/421/0009109696?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "‘AI 토건사업’ 3대 메가프로젝트, 청구서가 밀려온다",
-          "summary": "예컨대, 경부고속도로는 무리한 공기 단축이 낳은 인명 희생과 국토 불균형을, 정보고속도로는 통신 재벌 특혜와 세계 최고 수준의 가계통신비 부담을 남겼다. 국가 인프라 구축을 통한 성장과 발전은 그만큼 우리 사회...",
-          "press": "h21.hani.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:06",
-          "link": "https://n.news.naver.com/mnews/article/036/0000054029?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "박윤영 체제 첫 KT 실적, '수익성 개선' 증명했다",
-          "summary": "이 가운데 MNO 가입자는 2045만 3000명, 5G 핸드셋 가입자는 1114만 7000명이다. 5G 가입자 비중은 83.2%에 달했다. 1분기 위약금 면제로 가입자가 줄었으나 2분기 들어 지난해 4분기 수준으로 …",
-          "press": "지디넷코리아",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:59",
-          "link": "https://n.news.naver.com/mnews/article/092/0002433728?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "통신3사, 2분기 'AI 전환' 시발점 … 성과 가시화 시작됐다",
-          "summary": "AI 실적이 가시화되면서 통신에 집중됐던 사업구조 개편이 본격화 된 것. 지난해 해킹 등 사이버침해... SKT 사업영역 중 가장 빠른 성장세를 나타내는 것은 AI 데이터센터(AIDC) 였다. 2분기 AIDC 매출은…",
-          "press": "biz.newdaily.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:40",
-          "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/12/2026081200111.html",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT, 통신요금제에 AI 넣는다…스팸차단·구글 AI 결합",
-          "summary": "KT는 지난달 29일부터 KT알뜰폰을 포함한 전 고객에게 'AI 기반 실시간 스팸차단' 기능을 확대 적용했다. 특수문자를 섞거나 문구를 바꾸는 등 기존 필터링 방식을 우회하는 변형 스팸이 늘면서 신규·변형...",
-          "press": "cstimes.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 07:52",
-          "link": "https://www.cstimes.com/news/articleView.html?idxno=716432",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[인터뷰] 전성훈 플랜티넷 CFO \"'AI 데이터'로 퀀텀점프…연말 PBR 1배 달...",
-          "summary": "하지만 유선망 중심 사업의 한계로 인해 성장이 정체됐다는 시장의 평가도 공존했다. 전 CFO는 본업의... 모아진은 KT 알뜰폰 요금제 연계, LG유플러스 프리미엄 요금제 번들링 및 삼성전자와의 파트너십을 바탕으로.…",
-          "press": "ebn.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 06:00",
-          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719903",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -450,17 +362,6 @@
       "title": "그룹 동향",
       "digest": "",
       "articles": [
-        {
-          "title": "2차전지 배터리 대장주 살아나나… 삼성SDI·LG엔솔 상승세 속 테마 온기...",
-          "summary": "삼아알미늄, 파워넷, 솔루스첨단소재, 상아프론테크, 지에프아이, 액스비스, 미래컴퍼니, 나인테크 등이... 투자 관점에서는 테마 내 종목 간 실적과 모멘텀에 따른 차별화 양상이 더욱 심화될 것으로 보인다. 업황...",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:50",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476748",
-          "badge": "자사",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
         {
           "title": "한화 건설부문, AI 데이터센터 에너지 효율화 나선다",
           "summary": "무정전전원공급장치(UPS) 개발, 고밀도 AI 데이터센터용 직접액체냉각 기술 등 3개 과제에 참여한다. 연구... 데이터센터 수요자원화 과제는 AI를 활용해 서버 소비전력과 냉방부하 등을 예측하고 전력 사용을 조절하…",
@@ -550,127 +451,6 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "㈜한화 건설부문, AI 데이터센터 에너지 효율화 국책과제 3개 수행",
-          "summary": "한화 건설부문은 ▲데이터센터 수요자원화 ▲고효율 모듈형 무정전전원공급장치 개발 ▲고밀도 AI... 데이터센터 수요자원화는 인공지능을 활용해 서버 소비전력과 냉방부하를 예측하고 전력 사용 효율을 높이는...",
-          "press": "consumernews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:12",
-          "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=761346",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "㈜한화 건설부문, AI 데이터센터 전력 효율화 국책과제 사업자에 선정",
-          "summary": "무정전전원공급장치(UPS) 개발, 고밀도 AI 데이터센터용 직접액체냉각 기술 등 3개 과제에 참여해 현장... '데이터센터 수요자원화' 과제에서는 AI를 활용해 데이터센터 서버의 소비전력과 냉방부하 등을 예측하고 전…",
-          "press": "efnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:06",
-          "link": "http://www.efnews.co.kr/news/articleView.html?idxno=131555",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "데이터센터 증설 최대 복병 '전력·냉각'···한화가 꺼낸 해법은",
-          "summary": "서버 성능을 높이는 것만큼 전력을 얼마나 효율적으로 공급하고 열을 얼마나 적은 에너지로 제거하느냐가... 이번 사업에서 한화 건설부문은 ▲데이터센터 수요자원화 ▲고효율 모듈형 무정전전원공급장치(UPS) 개발...",
-          "press": "smartbizn.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:46",
-          "link": "https://www.smartbizn.com/news/articleView.html?idxno=151113",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "[건설 Pick] ㈜한화 건설부문·삼표그룹, '에너지 효율·기후 대응' 건설...",
-          "summary": "무정전전원공급장치(UPS) 개발 ▲고밀도 AI 데이터센터용 직접액체냉각 기술 등 3개 과제의 현장 적용과 실증을 맡는다. '데이터센터 수요자원화' 과제에서는 AI 기반으로 서버 전력 소모와 냉방 부하를 예측해 에너지…",
-          "press": "lcnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:30",
-          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206398",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "한화 건설부문, AI 데이터센터 에너지 기술로 확장…3개 국책과제 선정",
-          "summary": "서버와 냉각설비의 전력 사용량을 줄이고 무정전전원공급장치(UPS) 효율을 높이는 한편, 고밀도 AI 서버에 직접액체냉각 기술을 적용하는 실증까지 진행한다. 한화 건설부문은 기후에너지환경부와...",
-          "press": "thepowernews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:30",
-          "link": "https://www.thepowernews.co.kr/view.php?ud=20260812160039573de3f0aa1be_7",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "한화 건설부문, AI 데이터센터 전력 효율화 국책과제 선정",
-          "summary": "한화 건설부문은 ▲데이터센터 수요자원화 ▲고효율 모듈형 무정전전원공급장치(UPS) 개발 ▲고밀도 AI... '데이터센터 수요자원화'는 AI로 데이터센터의 서버 소비 전력과 냉방부하 등을 예측해 전력 효율을 극대화하는…",
-          "press": "newspost.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:12",
-          "link": "https://www.newspost.kr/news/articleView.html?idxno=224856",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "한화 건설부문, AI 데이터센터 전력 효율화 국책과제 사업자 선정",
-          "summary": "회사는 △데이터센터 수요자원화 △고효율 모듈형 무정전전원공급장치(UPS) 개발 △고밀도 AI 데이터센터용... 데이터센터 수요자원화는 AI로 서버 전력 사용량과 냉방부하를 예측해 피크 전력 사용량을 10% 이상 낮추…",
-          "press": "아이뉴스24",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:08",
-          "link": "https://n.news.naver.com/mnews/article/031/0001049196?sid=101",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "한화 건설부문, AI 데이터센터 전력 효율화 국책과제 따냈다",
-          "summary": "무정전전원공급장치(UPS) 개발, 고밀도 AI 데이터센터용 직접액체냉각 기술 등 3개 과제에 참여해 현장 적용과 실증을 맡는다. '데이터센터 수요자원화' 과제는 AI를 활용해 서버 소비 전력과 냉방 부하를 예측, 전…",
-          "press": "tournews21.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:56",
-          "link": "https://www.tournews21.com/news/articleView.html?idxno=140845",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "한화 건설부문, AI 데이터센터 에너지 효율화…438억원 국책과제 참여",
-          "summary": "한화 건설부문은 이번 사업에서 ▲데이터센터 수요자원화 ▲고효율 모듈형 무정전전원공급장치(UPS) 개발... 데이터센터 수요자원화는 인공지능(AI)을 활용해 서버 소비전력과 냉방부하 등을 예측하고 전력 사용 효율을..…",
-          "press": "그린포스트코리아",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 15:12",
-          "link": "https://www.greened.kr/news/articleView.html?idxno=347451",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "한화 건설부문, 438억원 규모 AI 데이터센터 에너지 효율화 사업 나선다",
-          "summary": "이번 사업은 데이터센터 수요자원화, 고효율 모듈형 무정전전원공급장치(UPS) 개발, 고밀도 AI 데이터센터용... 데이터센터 수요자원화 과제에서는 AI를 활용해 서버 소비전력과 냉방부하 등을 예측하고 에너지 피크..…",
-          "press": "asiaa.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:48",
-          "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=258584",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "AI 데이터센터 '빛'으로 뚫는다…서울바이오시스, 광소자 영토 확장",
-          "summary": "광통신용 부품 및 RF 통신 솔루션 기업들도 오름세를 지지 중이다. 머큐리, RFHIC, 파이버프로가 AI 데이터센터용 광모듈 공급 기대감에 힘입어 상승 흐름을 나타내고 있다. 반면 일부 통신 부품 및 소재 종목들은…",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 13:42",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476665",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "720Tbps 해저케이블, 걸프 7개국 잇는다",
           "summary": "걸프 지역의 인공지능(AI) 인프라 경쟁이 데이터센터를 넘어 해저케이블과 육상 광섬유망... 현재 공개된 내용만으로는 이들 통신망 사업이 암호화폐 가격이나 특정 토큰 수요에 직접 영향을...",
           "press": "tokenpost.kr",
@@ -754,39 +534,6 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 08:11",
           "link": "https://n.news.naver.com/mnews/article/018/0006349948?sid=101",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "LS에코에너지, 글로벌 AI 데이터센터 투자 확대 '수혜'…초고압 전력·통...",
-          "summary": "끝으로 \"신성장 사업 추진인 희토류와 해저 광케이블 추진이 구체화 단계에 진입했다\"며 \"라이너스(Lynas)와 글로벌 희토류 시장 내 경쟁력 차원에서 전략적인 협력 강화를 추진 중에 있으며, 해저 케이블은 베트남..…",
-          "press": "newsprime.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 07:26",
-          "link": "http://www.newsprime.co.kr/news/article.html?no=743547",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[테크다이브] 레이저 대신 마이크로LED…AI 데이터센터 ‘빛의 길’ 바...",
-          "summary": "이 때문에 광통신은 전통적으로 통신사업자의 백본망이나 해저케이블처럼 수십km에서 수천km에 이르는... 기존 레이저 기반 CPO조차 아직 시장에 완전히 자리 잡지 못한 데다, 마이크로LED 구조에 맞춘 표준과 공급망…",
-          "press": "디지털데일리",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 06:00",
-          "link": "https://n.news.naver.com/mnews/article/138/0002237467?sid=105",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "대한광통신, 미·중 광통신 공급망 변화에 시장 관심…수혜 기대 어디까...",
-          "summary": "이 과정에서 대한광통신도 시장의 관심권에 들어왔다. 대한광통신은 광섬유와 광케이블을 주요 사업으로 영위하고 있어 글로벌 통신 인프라 투자 확대와 광통신 산업의 변화에 민감하게 반응하는 종목으로 분류된다. 특히...",
-          "press": "cbci.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 00:00",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=597377",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -878,83 +625,6 @@
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "aT, '호주 NEXT K-푸드 프로젝트' 수출상담회 마쳐",
-          "summary": "현장에서는 호주 전역에 20여 개 대형유통매장을 운영하는 현지 수입사와 냉면, 떡볶이 등의 제품에 대해 총 100만 달러 규모의 수출 계약을 체결했다. 또한 현지 유력 수입사들과 32만 달러 규모의 업무협약을 체결하…",
-          "press": "머니투데이",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:39",
-          "link": "https://n.news.naver.com/mnews/article/008/0005398881?sid=102",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "\"이 가격이 맞나요?\"…장보러 갔다가 '화들짝'",
-          "summary": "전통시장에서도 채소류를 중심으로 가격 오름세가 나타났다. 한국물가정보에 따르면 미나리는 1㎏에... 면 밀키트 등 7개 제품군 30개 품목의 소비자가격을 평균 6.7% 인상한다. 대표적으로 평양냉면(2인)은...",
-          "press": "한국경제TV",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:18",
-          "link": "https://n.news.naver.com/mnews/article/215/0001262078?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "시금치 85%·깻잎 41%↑…폭염에 채소값 들썩, 가공식품도 줄인상",
-          "summary": "전통시장에서도 오름세가 두드러졌다. 한국물가정보에 따르면 미나리는 1㎏에 1만 6000원으로 한 달... 풀무원은 13일부터 간식·김치·냉동볶음밥·소스·계란가공품·만두·면 밀키트 등 7개 제품군 30개 품목의...",
-          "press": "newscj.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:16",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3424445",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "\"장보기 겁나네\" 시금치 한 달 새 85% 폭등…라면·빵·만두도 줄인상",
-          "summary": "전통시장에서도 채소 가격 상승세가 나타나고 있다. 한국물가정보에 따르면 미나리는 1㎏에 1만6000원으로... 면 밀키트 등 7개 제품군 30개 품목의 소비자가격을 평균 6.7% 인상한다. 평양냉면(2인)은 6980…",
-          "press": "kizmom.com",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 10:09",
-          "link": "https://www.kizmom.com/news/articleView.html?idxno=112051",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "폭염에 채솟값 뛰고 가공식품도 줄인상…8월 장바구니 물가 부담",
-          "summary": "시금치 한 달 새 85%·깻잎 41% 올라…고온에 출하·작업 여건 악화 밀키트·빵·라면·만두도 가격 인상... 전통시장에서도 채소류를 중심으로 가격 오름세가 나타났다. 한국물가정보에 따르면 미나리는 1㎏에...",
-          "press": "연합뉴스",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:59",
-          "link": "https://n.news.naver.com/mnews/article/001/0016246274?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "나노마케팅, 유니츠와 전략적 업무협약…라이브커머스 사업 확대",
-          "summary": "라이브커머스 시장이 지속적으로 성장하면서 전문적인 콘텐츠 제작과 방송 운영 역량은 브랜드 경쟁력을... 천재교육을 비롯해 밀키트 전문기업 극소수, 수산물 전문기업 해신푸드 등과 협업하며 카테고리별 맞춤형...",
-          "press": "it-b.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 09:56",
-          "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89460",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "농식품부·aT, 호주서 K-푸드 수출상담회 개최…132만 달러 계약·MOU 체...",
-          "summary": "이번 행사에서는 유망 K-푸드 수출기업과 현지 바이어 간 1대1 매칭을 통해 총 49건, 350만 달러 규모의 수출 상담이 이루어졌습니다. 특히 떡볶이와 냉면 등 K-간편식 제품을 중심으로 총 100만 달러 규모의 …",
-          "press": "news.bbsi.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 08:48",
-          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4100263",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
         }
       ],
       "subgroups": [
@@ -977,5 +647,5 @@
       ]
     }
   ],
-  "total": 84
+  "total": 54
 }
