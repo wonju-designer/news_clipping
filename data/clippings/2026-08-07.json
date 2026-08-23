@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 12:16 소급 정리",
+  "generated_at": "2026-08-23 12:42 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -264,17 +264,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "토뱅·카뱅 ‘플랫폼 전쟁’… 대출규제 탓 비이자 부문 강화",
-          "summary": "인터넷전문은행들이 가계대출 규제 장기화에 대응해 성장 전략을 바꾸고 있다. 주택담보대출 중심의 외형... 통신비 절감과 자산관리 서비스를 하나의 앱에서 제공해 고객 체류시간과 이용 빈도를 높이고, 비금융 제휴...",
-          "press": "munhwa.com",
-          "date": "2026-08-07",
-          "datetime": "2026-08-07 11:53",
-          "link": "https://n.news.naver.com/mnews/article/021/0002809926?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "삼성전자 '갤럭시 Z8 시리즈' 7일 국내 출시",
           "summary": "삼성닷컴에서 자급제 모델을 사전 구매한 고객 2명 중 1명은 'New 갤럭시 AI 구독클럽'에 가입했다. '갤럭시 워치 울트라2'와 '갤럭시 워치9'의 사전 판매량도 전작의 같은 기간보다 각각 두 자릿수 증가했다. …",
           "press": "datasom.co.kr",
@@ -466,12 +455,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "\"전자책 무한 제공\"…LG헬로비전 헬로모바일, 2040 겨냥 '교보문고 요금...",
-          "summary": "LG헬로비전의 알뜰폰 사업 부문 헬로모바일은 교보문고와 손잡고, 매월 9900원 상당의 혜택을 제공하는 '교보문고 유심·휴대폰 요금제' 6종을 출시했다고 7일 밝혔다. 알뜰폰 핵심 소비층인 2040 세대를 중심으로 …",
-          "press": "financialpost.co.kr",
+          "title": "헬로모바일, '교보문고 요금제' 6종 출시",
+          "summary": "김예현 LG헬로비전 모바일사업담당은 \"자기계발과 독서 라이프를 즐기는 알뜰폰 고객을 위해 교보문고와 제휴 요금제를 제공하게 됐다\"며 \"앞으로도 생활밀착 제휴를 지속 확대해 통신을 넘어 라이프스타일 전반에서...",
+          "press": "datanet.co.kr",
           "date": "2026-08-07",
           "datetime": "2026-08-07 13:40",
-          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269544",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=213626",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -615,5 +604,5 @@
       ]
     }
   ],
-  "total": 51
+  "total": 50
 }

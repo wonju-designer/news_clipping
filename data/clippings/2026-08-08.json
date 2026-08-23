@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 12:16 소급 정리",
+  "generated_at": "2026-08-23 12:42 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -28,17 +28,6 @@
           "date": "2026-08-08",
           "datetime": "2026-08-08 07:00",
           "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049136",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"30대에 집도 샀는데\"...월 690만원 맞벌이, 남는 건 20만원뿐 [머니설계...",
-          "summary": "하지만 어렵게 집을 구했다고 가계의 모든 걱정이 끝나는 것은 아니다. 집은 자산으로 남지만 주택담보대출... 주택담보대출 원리금처럼 당장 줄이기 어려운 비용과 보험료·통신비·자동차 비용처럼 조정 가능한 항목...",
-          "press": "파이낸셜뉴스",
-          "date": "2026-08-08",
-          "datetime": "2026-08-08 15:00",
-          "link": "https://n.news.naver.com/mnews/article/014/0005558836?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -163,5 +152,5 @@
       ]
     }
   ],
-  "total": 10
+  "total": 9
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 12:16 소급 정리",
+  "generated_at": "2026-08-23 12:42 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -182,17 +182,6 @@
           "date": "2026-08-03",
           "datetime": "2026-08-03 05:02",
           "link": "https://www.asiatime.co.kr/article/20260802500048",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "단통법 폐지 1년…\"깜깜이 지원금만 키웠다\"",
-          "summary": "법 폐지로 당시 정부가 기대했던 통신비 인하 효과는 나타나지 않은 가운데, 부작용이 생기면서 제도의 개편이 필요하다는 주장이 힘을 얻는다. 안정상 중앙대 커뮤니케이션대학원 겸임교수는 단통법 폐지 1년을...",
-          "press": "지디넷코리아",
-          "date": "2026-08-03",
-          "datetime": "2026-08-03 17:22",
-          "link": "https://n.news.naver.com/mnews/article/092/0002432861?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -451,5 +440,5 @@
       ]
     }
   ],
-  "total": 36
+  "total": 35
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 12:16 소급 정리",
+  "generated_at": "2026-08-23 12:42 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -242,12 +242,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "[DD퇴근길] 싸이월드는 왜 자꾸 코인 냄새를 풍길까",
-          "summary": "※기사원문 : SK하이닉스 통합노조 출범 임박…1250명 확보 (고성현 기자) 통신3사, 성적표는 달라도 답은 하나 'AI' SK텔레콤·KT·LG유플러스 2분기 실적이 나왔는데 회사마다 희비가 갈렸습니다. SKT는 …",
+          "title": "KT알파, 상반기 매출 줄었지만 취급고 9%↑…영업익 262억원",
+          "summary": "KT알파가 올 상반기 직매입 비중을 줄이고 위수탁 중심으로 사업 구조를 조정하면서 매출은 소폭... 통신 요금제·부가서비스와 연계한 구독형 상품과 통합상품권 브랜드 제휴도 확대했다. 기업간거래(B2B) 영역에서는..…",
           "press": "디지털데일리",
           "date": "2026-08-12",
-          "datetime": "2026-08-12 17:01",
-          "link": "https://n.news.naver.com/mnews/article/138/0002237604?sid=105",
+          "datetime": "2026-08-12 16:58",
+          "link": "https://n.news.naver.com/mnews/article/138/0002237600?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -286,17 +286,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "신한카드, 최대 6% 적립 '하이포인트 플랜' 출시",
-          "summary": "하이포인트 플랜 플러스는 전월 이용실적에 따라 생활 밀착 가맹점에서 결제금액의 최대 6%를... 다이소·올리브영, SKT·LG유플러스·KT 통신요금 자동납부 등이다. 국내외 일반 가맹점에서도 기본 적립을 제공한다..…",
-          "press": "safetynews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 18:08",
-          "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=250020",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "KT, 반사이익 끝나자 실적 '뚝'…소송까지 겹악재",
           "summary": "지난해 2분기 처음으로 영업이익 1조원을 넘겼던 KT의 실적이 1년 만에 크게 꺾였습니다. 지난해 반영된... 그러다 보니 요금제 하향이 조금 있었거든요.\"]미래 먹거리인 AI 사업이 성장하는 건 긍정적입니다.금융권…",
           "press": "news.mtn.co.kr",
@@ -330,12 +319,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "KT, 2분기 영업익 6483억…AX·성장사업 확대",
-          "summary": "KT는 5G-LTE 통합요금제와 초이스 더블 요금제 신규 라인업을 출시하며 요금제 경쟁력을 강화했다. 인터넷 사업 매출은 기가 인터넷 가입자 증가와 부가서비스 이용 확대에 힘입어 1.1% 성장했다. 미디어 사업...",
-          "press": "straightnews.co.kr",
+          "title": "삼성전자 갤럭시 Z8 흥행에 통신사 제휴카드도 '특수'",
+          "summary": "우리카드는 사전예약 기간인 7월 28일부터 8월 3일까지의 실적을 직전 주(7월 21~27일)와 비교한 결과 SKT 라이트할부형, LG U+ 요금할인형, KT 하이브리드형 카드의 신규 발급이 161.5% 급증했다. …",
+          "press": "pointdaily.co.kr",
           "date": "2026-08-12",
-          "datetime": "2026-08-12 16:58",
-          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308823",
+          "datetime": "2026-08-12 16:46",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315306",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[비즈 인사이트] 통신 3사 2분기 희비…SKT 영업익 67%↑·KT 36%↓",
+          "summary": "SKT 매출 0.5% 늘 때 영업익 5660억원…AI 데이터센터 매출 92.5%↑ LG유플러스 영업익 3445억원 ‘분기... 3% 늘어 [서울타임즈뉴스 = 최남주 기자] 통신 3사의 올해 2분기 실적이 갈렸다. S…",
+          "press": "seoultimes.news",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 14:00",
+          "link": "https://www.seoultimes.news/news/article.html?no=2000098744",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

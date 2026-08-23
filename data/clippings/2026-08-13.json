@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 12:16 소급 정리",
+  "generated_at": "2026-08-23 12:42 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -242,17 +242,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "호르무즈 불확실성에 유가 다시 들썩…물가 불안 커지나",
-          "summary": "재정경제부 관계자는 \"가공식품도 일부 업계에서 가격 인상 움직임이 있고, 반도체 가격 인상으로 태블릿 가격도 많이 올랐다\"며 \"중동 전쟁 관련 불확실성도 지속되고 있고, 작년 통신비 인하 효과도 있어 8월에는...",
-          "press": "뉴시스",
-          "date": "2026-08-13",
-          "datetime": "2026-08-13 13:12",
-          "link": "https://n.news.naver.com/mnews/article/003/0014125609?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "KT알파, 상반기 영업익 262억원…전년비 0.3% 증가",
           "summary": "통신 요금제·부가서비스와 연계한 구독형 상품과 통합상품권 브랜드 제휴 확대가 기여했다. 앞서 KT알파는 지난 7월 창립 35주년을 맞아 경영전략 'SHIFT 2026'을 발표했다. AI(인공지능)와 데이터를 기반으로…",
           "press": "IT조선",
@@ -281,17 +270,6 @@
           "date": "2026-08-13",
           "datetime": "2026-08-13 07:56",
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168037",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "해킹 악재 바닥 지나는 통신3사…AIDC, 효자 가능성 보인다",
-          "summary": "지난해 하반기부터 통신업계 실적을 짓눌렀던 개인정보 유출(해킹) 사고 여파가 마무리 국면에... 합산 영업익 1.5조 회복…SKT·LGU+ 웃고 KT는 역기저 13일 통신업계에 따르면 SK텔레콤과 KT, LG유플러스…",
-          "press": "뉴스1",
-          "date": "2026-08-13",
-          "datetime": "2026-08-13 06:46",
-          "link": "https://n.news.naver.com/mnews/article/421/0009111235?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -336,6 +314,28 @@
           "date": "2026-08-13",
           "datetime": "2026-08-13 18:04",
           "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260814010004793",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[이 달의 TV광고②] 얇아진 폴더블·강해진 스팀...제품 매력 펼친 광고...",
+          "summary": "삼성전자 갤럭시 폴더블 출시부터 여권형 화면비로 관심을 모았던 폴드8을 비롯한 삼성의 폴더블폰을... 새로운 요금제'라는 메시지가 익숙하면서도 신뢰성 있게 전달된다. 롯데웰푸드 – '우리 시대의 낭만 스낵, 꼬깔콘.…",
+          "press": "banronbodo.com",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 16:56",
+          "link": "https://www.banronbodo.com/news/articleView.html?idxno=32784",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "실적 부담 요소 걷어낸 KT…'AX'로 체질 개선 속도",
+          "summary": "고객 보답 프로그램의 일환인 데이터 추가 제공으로 인한 고객들의 요금제 하향 변경 등도 완화될 것으로 예상된다. 13일 금융감독원 전자공시시스템에 따르면 KT는 올해 2분기 연결 기준 매출 6조6799억원, 영업이익…",
+          "press": "goodkyung.com",
+          "date": "2026-08-13",
+          "datetime": "2026-08-13 16:44",
+          "link": "https://www.goodkyung.com/news/articleView.html?idxno=290253",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

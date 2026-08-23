@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 12:16 소급 정리",
+  "generated_at": "2026-08-23 12:42 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -165,39 +165,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "이탈리아로 입국한 유럽 난민 신청자, 다시 이탈리아로",
-          "summary": "22일(현지시간) 유로뉴스와 현지 안사통신 등에 따르면 독일, 스위스, 핀란드, 스웨덴, 네덜란드 등이 최근... 이탈리아 야권에서는 이탈리아로 난민 신청자 이송이 시작되자 유럽과 정책 연대를 통해 추가 부담 경감.…",
-          "press": "연합뉴스",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 19:11",
-          "link": "https://n.news.naver.com/mnews/article/001/0016264915?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "“K-팝 가수 사랑, 돈으로 증명하라?!”…팬덤 줄 세우는 ‘패노메논’...",
-          "summary": "PC통신과 팬카페는 같은 가수를 좋아하는 사람들을 전국적으로 한데 모았고, 유튜브와 SNS는 국경 밖으로... 연계하는 정책이 시급하다“며 ”올림픽 금메달 따듯 단기 실적에 집착하는 20세기적 사고에서 벗어나 기초 …",
-          "press": "헤럴드경제",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 17:01",
-          "link": "https://n.news.naver.com/mnews/article/016/0002687021?sid=103",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'범정부 AIDC 추진단' 만든다...메가프로젝트 R&D사업 전담",
-          "summary": "22일 정부에 따르면 과학기술정보통신부와 정보통신기획평가원(IITP)은 'AIDC 국가전략산업 초격차 추진을... 과기정통부 관계자는 “올해는 당장 확보된 예산이 없기 때문에 정책연구 차원에서 검토하는 단계”라며..…",
-          "press": "전자신문",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 17:01",
-          "link": "https://n.news.naver.com/mnews/article/030/0003459417?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "아이에이, AI용 모듈형 데이터센터 ‘네오큐브’ 공개…OCP 규격 개정 제...",
           "summary": "그는 MDC의 냉각 방식과 전력 용량뿐 아니라 설비 효율을 측정하는 지표, 전력을 변환·배분하는 방식도... 전력반도체와 전력모듈, 클라우드 소프트웨어를 보유한 그룹사 역량도 네오큐브 사업에 결합한다. 그룹사...",
           "press": "디지털데일리",
@@ -215,28 +182,6 @@
           "date": "2026-08-22",
           "datetime": "2026-08-22 11:10",
           "link": "https://n.news.naver.com/mnews/article/018/0006356071?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "키신저와 반백년 해로한 부인 낸시, 92세 일기로 별세",
-          "summary": "21일(현지시간) AP 통신에 따르면 낸시는 코네티컷주(州) 켄트에 있는 자택에서 전날(20일) 숨을 거뒀다.... 당시 유족의 초청을 받은 정몽준 아산정책연구원 명예이사장이 행사에 참석해 키신저의 타계를 애도하고.…",
-          "press": "세계일보",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 11:06",
-          "link": "https://n.news.naver.com/mnews/article/022/0004152764?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[위클립] 8월 3주",
-          "summary": "또 \"국책은행 3사는 경제 위기의 방파제 역할을 수행하고 중소기업과 수출기업 지원을 통해 대한민국 경제를... 지부에 따르면 새 시스템을 졸속 도입하면서 현장에서 통신 장애가 속출하고 있고, 출동 편성 시스템 역시.…",
-          "press": "laborplus.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 23:21",
-          "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=41354",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -297,17 +242,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "“조국 조국혁신당 혁신정책연구원장, 오세훈 공격 전 대안을 보여라!”",
-          "summary": "조국 조국혁신당 혁신정책연구원장이 용산공원 주택 공급에 반대하는 오세훈... 국제전기통신연합 (UN ITU) 가상세계 및 AI 글로벌 이니셔티브 집행위원(현) -제8대...",
-          "press": "breaknews.com",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 15:56",
-          "link": "http://www.breaknews.com/1230765",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "경북테크노파크, 7년 연속 스마트제조혁신 '최고등급'···AI 제조 전환...",
           "summary": "지역특화형 스마트공장 사업을 활용해 AI가 생산설비와 현장의 데이터를 바탕으로 작업을 수행할 수 있는... 해외 제조혁신 기관과의 협력 기반을 마련하는 동시에 AI 기술을 보유한 지역 기업의 해외시장 진출 지원에도.…",
           "press": "smartbizn.com",
@@ -319,23 +253,56 @@
           "subgroup_label": ""
         },
         {
-          "title": "법무부, 외국인 계절근로자 인권침해 실태점검 결과 총 663건 지적…24개...",
-          "summary": "점검 결과에 따르면 △인권·근로 분야에서는 근로계약서에서 정한 근로장소·근로시간 미준수 56건, 타인에게 임금지급 17건, 휴무일 이동·통신 제한 등 14건, 임금체불 5건 등 총 97건으로 나타났다. △계절근로자 …",
-          "press": "lawissue.co.kr",
+          "title": "케이엠더블유, 내년 이익 폭증한다… \"의심할 필요 없어\"",
+          "summary": "통신장비 업종은 통신사의 설비투자 규모에 따라 실적이 크게 좌우된다. 통신사들이 신규 네트워크 구축에... 케이엠더블유가 보유한 통신장비 관련 기술력과 미국 시장 진출 가능성을 감안하면 업황 회복기에 전략적...",
+          "press": "pinpointnews.co.kr",
           "date": "2026-08-22",
-          "datetime": "2026-08-22 12:42",
-          "link": "http://www.lawissue.co.kr/view.php?ud=2026082212372098189a8c8bf58f_12",
+          "datetime": "2026-08-22 10:36",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479529",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "AI 붐에 아시아경제 웃지만…동남아엔 일시적일 수도",
-          "summary": "싱가포르 리콴유공공정책대학원의 대니 콰 경제학자는 포춘에 \"동남아가 경험하고 있는 일종의 '설탕 러시... 파미 파질 말레이시아 통신부 장관은 지난 4월 페이스북에 \"말레이시아는 단순히 AI를 사용하는 국가에...",
-          "press": "fortunekorea.co.kr",
+          "title": "엔비디아가 주목한 LG의 기술력…로봇·스마트팩토리·車 정조준",
+          "summary": "대신증권은 최근 보고서에서 이번 협력이 LG가 보유한 스마트팩토리와 차량용 인포테인먼트, 로봇 기술의... 제조 설비와 생산 데이터를 AI가 분석하고 이를 바탕으로 생산성을 높이는 방식이다. 여기서 LG가 그동안..…",
+          "press": "pinpointnews.co.kr",
           "date": "2026-08-22",
-          "datetime": "2026-08-22 12:40",
-          "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53687",
+          "datetime": "2026-08-22 10:16",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479523",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"왜 이렇게 아이폰이 많아요?\"의 반전…아이폰 충성고객도, 갤럭시 Z 폴...",
+          "summary": "LG유플러스로 번호이동하는 경우로 중위값 105만 원에 형성됐다. SK텔레콤에서 KT로 옮길 때에는 108만 원, 타 통신사에서 SK텔레콤으로 번호이동 시에는 121만 원에 구매가 가능하다. 통신사를 그대로 유지하는…",
+          "press": "thepublic.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 10:02",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=315679",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아파트 경비부터 제철소까지…IT서비스업계 ‘피지컬 AI’ 본격화",
+          "summary": "포스코DX가 보유한 로봇 시뮬레이션·제어 기술과 NC AI의 AI 모델을 결합해 다양한 산업용 로봇이 작업... 현장 설비에 AI 연산 기능을 직접 구축해 외부 데이터센터를 거치지 않고 영상 등 현장 데이터를 실시간…",
+          "press": "sentv.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 08:02",
+          "link": "https://www.sentv.co.kr/article/view/sentv202608210108",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"투자 집중 vs 임금 인상\"…KT, 본업 둔화 속 노사 교섭 '진통'",
+          "summary": "2분기 무선서비스 매출은 1조6천749억원으로 전년 동기 대비 1.8% 감소했고, 가입자당 평균매출(ARPU)은 3만4천412원으로 2.3% 하락했다. KT는 지난해 발생한 펨토셀 해킹 이후 고객보답 프로그램과 위약…",
+          "press": "youthdaily.co.kr",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 08:00",
+          "link": "https://www.youthdaily.co.kr/news/article.html?no=225492",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -548,5 +515,5 @@
       ]
     }
   ],
-  "total": 45
+  "total": 42
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
   "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 12:16 소급 정리",
+  "generated_at": "2026-08-23 12:42 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -286,6 +286,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "전화번호부는 왜 사라졌을까",
+          "summary": "이동통신 3사와 한국통신사업자연합회가 운영하던 m114도 2024년 1월 19일 서비스를 종료했다. 상당히 최근 시점이다. 그렇다고 전화번호 안내 자체가 불법이 된 것은 아니다. 현재 전기통신사업법 제60조도 이동통…",
+          "press": "weekly.khan.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 17:02",
+          "link": "https://n.news.naver.com/mnews/article/033/0000051785?sid=103",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "'모두의 AI'인데 모두 같은 AI는 아니다…'AI 연합군' 전쟁",
           "summary": "사진=카카오  정부가 추진하는 '모두의 AI' 프로젝트에 이동통신 3사와 카카오, 이스트소프트 등이 참여하면서 국내 AI 경쟁이 새로운 국면에 들어섰다. 이번 사업에는 SK텔레콤·KT·카카오·이스트소프트·제논...",
           "press": "pointdaily.co.kr",
@@ -325,17 +336,6 @@
           "date": "2026-08-20",
           "datetime": "2026-08-20 14:46",
           "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721032",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "로그 지운 KT·서버 폐기 LGU+...서울YMCA \"위약금 면제·영업정지해야\"",
-          "summary": "개인정보위 조사 결과 KT의 이동통신 핵심 네트워크·시스템 접근통제 관리가 미흡해 이용자 1만6647명의 휴대전화번호와 IMSI(가입자식별번호), IMEI(단말기식별번호) 등이 유출됐다. 소액결제 인증에 사용되는..…",
-          "press": "wolyo.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 14:08",
-          "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=316641",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
