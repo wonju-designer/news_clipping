@@ -21,6 +21,9 @@ REPORT_TO = os.environ.get("REPORT_TO", "")
 
 
 def _recipients() -> list:
+    # 테스트 모드: 전체 수신자 대신 발신 계정(본인)에게만 발송
+    if os.environ.get("TEST_MODE", "").strip().lower() in ("1", "true", "yes"):
+        return [GMAIL_USER] if GMAIL_USER else []
     return [addr.strip() for addr in REPORT_TO.split(",") if addr.strip()]
 
 
