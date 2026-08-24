@@ -1,0 +1,478 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25 08:20",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "피클플러스, 자급제·알뜰폰 총비용 비교 제시…휴대폰 공동구매 서비스...",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/243/0000102082?sid=101"
+    },
+    {
+      "rank": 2,
+      "headline": "\"싸고 좋은 요금제 알려주는 거 맞아?\"…최적요금제 앞두고 실효성 논란",
+      "category": "산업",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721414"
+    },
+    {
+      "rank": 3,
+      "headline": "eSIM 시장 커지자 로밍 사업 '긴장'…통신사 수익원 위협",
+      "category": "산업",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=315932"
+    },
+    {
+      "rank": 4,
+      "headline": "[위클리오늘] 이동통신 소식_KT, U+유모바일(8.24)",
+      "category": "산업",
+      "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791284"
+    },
+    {
+      "rank": 5,
+      "headline": "U+유모바일, 약정 없이 중고폰·알뜰 유심 요금제 가입 한 번에!",
+      "category": "산업",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405933"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. 5G 전환율이 정점에 도달한 가운데, 알뜰폰과 중저가 요금제 확산 등이 영향을 미쳤기 때문이다. 5G 전환율이 정점에 도달한 데다 알뜰폰·중저가 요금제 확산, 단통법 폐지 이후에도 보조금 경쟁이 재현되지 않으면서 기존 무선 사업만으로는 성장을 기대하기 어…. 알뜰폰(MVNO) 이용 회선이 1000만개를 넘어섰지만 이동통신3사와 달리 정작 가입자가 자신의 이용 패턴에 가장. -통신사 지원금·단말 할인 반영해 24개월 총비용 비교…93만 이용자 기반 공동구매 혜택 적용 -알뜰폰 4~7월 번호이동 4개월 연속 순유출…“1만원대 저가 ….",
+      "articles": [
+        {
+          "title": "여행객 ‘e심’ 사용 확산… 통신사 로밍 사업에 빨간불",
+          "summary": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. FDM CCS에 따르면 …",
+          "press": "조선일보",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 00:34",
+          "link": "https://n.news.naver.com/mnews/article/023/0003994446?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사 새 먹거리 'AI 데이터센터'",
+          "summary": "5G 전환율이 정점에 도달한 가운데, 알뜰폰과 중저가 요금제 확산 등이 영향을 미쳤기 때문이다. 통신3사는 새로운 수익원으로 일제히 AIDC를 점찍었다. SK…",
+          "press": "매일경제",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 17:09",
+          "link": "https://n.news.naver.com/mnews/article/009/0005724534?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "무선 성장 멈추자 AI로…통신 3사, AIDC에 승부 건다",
+          "summary": "5G 전환율이 정점에 도달한 데다 알뜰폰·중저가 요금제 확산, 단통법 폐지 이후에도 보조금 경쟁이 재현되지 않으면서 기존 무선 사업만으로는 성장을 기대하기 어…",
+          "press": "연합뉴스",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 07:33",
+          "link": "https://n.news.naver.com/mnews/article/001/0016265114?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "싼 통신요금 찾아온 고객, '최적 요금제' 안내는 왜 못받을까",
+          "summary": "알뜰폰(MVNO) 이용 회선이 1000만개를 넘어섰지만 이동통신3사와 달리 정작 가입자가 자신의 이용 패턴에 가장... 시행되지만 알뜰폰은 해당되지 않기 때문…",
+          "press": "이뉴스투데이",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:00",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461700",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "피클플러스, 자급제·알뜰폰 총비용 비교 제시…휴대폰 공동구매 서비스...",
+          "summary": "-통신사 지원금·단말 할인 반영해 24개월 총비용 비교…93만 이용자 기반 공동구매 혜택 적용 -알뜰폰 4~7월 번호이동 4개월 연속 순유출…“1만원대 저가 …",
+          "press": "economist.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 16:38",
+          "link": "https://n.news.naver.com/mnews/article/243/0000102082?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"싸고 좋은 요금제 알려주는 거 맞아?\"…최적요금제 앞두고 실효성 논란",
+          "summary": "대상이 되는 사업자에 알뜰폰 업체가 포함되지 않을 것으로 전망되면서 정작 요금 민감 계층은 제도 수혜를... 이 경우 SK텔레콤·KT·LG유플러스 등 이동통신…",
+          "press": "ebn.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 15:12",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721414",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "eSIM 시장 커지자 로밍 사업 '긴장'…통신사 수익원 위협",
+          "summary": "알뜰폰사업자(MVNO)와 경쟁하는 상황에서 여행용 eSIM까지 확산할 경우 로밍 서비스 이용객이 감소할 가능성이 있기 때문이다. FDM CCS 인사이트에 따르…",
+          "press": "thepublic.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 13:48",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=315932",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 이동통신 소식_KT, U+유모바일(8.24)",
+          "summary": "중고폰과 알뜰폰 요금제를 함께 선택할 수 있는 '유픽 폰&유심'을 출시했다고 24일 밝혔다. 중고폰 품질에... 회사는 이번 서비스를 '브랜드뉴 프로젝트'의 …",
+          "press": "weeklytoday.com",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 12:44",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791284",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "U+유모바일, 약정 없이 중고폰·알뜰 유심 요금제 가입 한 번에!",
+          "summary": "알뜰폰 가입 및 이용과정에서 중고폰 거래 시 가격 흥정 번거로움, 별도 요금제 가입, 일정 기간의 요금제 유지 조건 등이 발생할 수 있었던 만큼 전문 검수를 …",
+          "press": "epnc.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 10:52",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405933",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[기자수첩] 소비자 일상 바꾸던 통신 경쟁의 빈자리",
+          "summary": "알뜰폰 시장의 성장과 대규모 해킹 등 대외 변수에도 20년이 넘도록 SK텔레콤·KT·LG유플러스의 점유율 순위는 바뀌지 않았다. 정부가 제4 이동통신사를 추진…",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 15:38",
+          "link": "http://www.metroseoul.co.kr/article/20260823500236",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "무선 수익으로 AI 인프라 장전… 통신 3사, AIDC 총력전",
+          "summary": "5G 보급률이 상한선에 도달한 데다 중저가 요금제 및 알뜰폰 확산, 보조금 경쟁 완화 등이 복합적으로 작용하면서 무선 본업을 통한 외형 확장이 한계에 부딪힌 …",
+          "press": "youthdaily.co.kr",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 09:32",
+          "link": "https://www.youthdaily.co.kr/news/article.html?no=225526",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK텔레콤, 23년 만에 3G 종료···KT도 종료 예정",
+          "summary": "이 중 SK텔레콤 가입자가 13만4413명으로 가장 많으며, KT는 5만8948명, 알뜰폰(MVNO)은 13만4763명이다. SK텔레콤은 3G 가입자들의 원활…",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 09:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423225",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] LG유플러스, ‘기지국 담합’ 58억 과징금 소송 패소",
+          "summary": "통신 3사는 2011년부터 4세대 이동통신(4G) 서비스망 구축을 위해 대규모 투자를 진행했다. 기지국과 중계기 등을 신속하게 설치하기 위해 건물주 등 임대인…",
+          "press": "조선비즈",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 06:01",
+          "link": "https://n.news.naver.com/mnews/article/366/0001188056?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'S26 FE' 출격에…통신 3사, 중저가폰 고객 유치 경쟁 '시동'",
+          "summary": "삼성전자의 준플래그십 스마트폰 '갤럭시S26 FE(팬에디션)' 출시가 임박하면서 국내 이동통신 3사의 고객 유치 경쟁도 본격화될 전망이다. 이른바 '가성비폰'…",
+          "press": "newsway.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 07:14",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026082416351517089",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "메트로신문 8월25일 한줄뉴스",
+          "summary": "▲국내 이동통신 3사가 미래 먹거리로 택한 AI 데이터센터(AI DC) 사업의 투자 부담이 커지고 있다. 메모리 반도체 가격이 급등하는 '칩플레이션' 현상이 …",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 06:02",
+          "link": "http://www.metroseoul.co.kr/article/20260824500499",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "▲ U+유모바일 '유픽 폰&유심' 출시 안내 이미지 U+유모바일, 약정 없는 '유픽 폰&유심' 출시 U+유모바일이 전문 검수를 거친 S급 중고폰과 알뜰폰 요금…. 유픽 폰&유심은 유플러스유모바일에서 시작한 브랜드뉴 프로젝트의 첫 번째 프로그램이다.",
+      "articles": [
+        {
+          "title": "[위클리오늘] 이동통신 소식_KT, U+유모바일(8.24)",
+          "summary": "▲ U+유모바일 '유픽 폰&유심' 출시 안내 이미지 U+유모바일, 약정 없는 '유픽 폰&유심' 출시 U+유모바일이 전문 검수를 거친 S급 중고폰과 알뜰폰 요금…",
+          "press": "weeklytoday.com",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 12:44",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791284",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "U+유모바일, 약정 없이 중고폰·알뜰 유심 요금제 가입 한 번에!",
+          "summary": "유픽 폰&유심은 유플러스유모바일에서 시작한 브랜드뉴 프로젝트의 첫 번째 프로그램이다. 알뜰폰 가입 및 이용과정에서 중고폰 거래 시 가격 흥정 번거로움, 별도 …",
+          "press": "epnc.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 10:52",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405933",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "차열 및 캡 소재 관련주 나노팀, 파워넷, 한빛레이저, 미코 역시 오름세를 유지하고 있다. LFP 배터리 관리 시스템(BMS) 및 전원공급장치 기술을 영위하는 파워넷이 상승하고 있다. AI 전력난이 당긴 핵융합 속도전 글로벌 리더들이 핵융합에 사로잡힌 근본 원인은 AI 데이터센터의.",
+        "mercury": "한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규…. 반도체업계에 따르면 한미반도체는 인천 주안국가산업단지에 위치한 ㈜머큐리의 6230평 규모 공장을 매입해 8공장으로 구축하기로 했다. 이제는 금리와 채권시장도 AI의 속도를 좌우한다.",
+        "encreative": "협약식, 시장실 ▲오전 11시, 전북특별자치도 4-H 연합회 경진대회, 남원종합 스포츠타운 ▲오후 1시30분. 한정된 국내 시장에서 성장 여력이 줄어들자 해외 시장을 새로운 돌파구로 삼는 모습이다. 풀무원이 두부 시장점유율을 확대하고 냉장면과 밀키트 제품 강화 등을 통해 4분기에 실적을 개선할 것\"이라며 풀무원에 대해 투자 의견 매수와 목표주가 1만 70….",
+        "ritco": "DXG가 배출가스·대기오염 관리용 TMS를 국내 최초로 자체 개발하며 환경 기술 자립을 강조하고, 시몬스는 UL 그린가드 인증을 통해 실내 공기질 관리에 주력한다는 흐름이 나타난다."
+      },
+      "articles": [
+        {
+          "title": "지주사 할인 해제되나… 솔브레인홀딩스, 알짜 계열사 지분 가치 부각",
+          "summary": "차열 및 캡 소재 관련주 나노팀, 파워넷, 한빛레이저, 미코 역시 오름세를 유지하고 있다. X선 검사 장비 및... 2차전지 테마의 경우 글로벌 전기차 판매량…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 13:28",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479992",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "완성차 업계 LFP 채택 확산…셀업체·소부장 밸류체인 매수 온기 뚜렷",
+          "summary": "LFP 배터리 관리 시스템(BMS) 및 전원공급장치 기술을 영위하는 파워넷이 상승하고 있다. 반면 일부 IT 서비스 및 소재 기업은 단기 매물 출회 영향으로 …",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 11:08",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479958",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "‘2040 레이스’ 막 오른 핵융합…K-조선·방산 DNA로 ‘인공태양’ 만든...",
+          "summary": "AI 전력난이 당긴 핵융합 속도전 글로벌 리더들이 핵융합에 사로잡힌 근본 원인은 AI 데이터센터의... 다원시스는 전원공급장치 및 제어시스템으로만 2400억원…",
+          "press": "한국경제",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 10:14",
+          "link": "https://n.news.naver.com/mnews/article/050/0000110005?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "22㎾ ICCU, 에이텀 북미 상용트럭 겨냥",
+          "summary": "아시아경제는 하빈저가 글로벌 물류기업 페덱스 등과 협력하며 북미 상용차 전동화 시장을 공략하고... 본지는 앞서 에이텀이 임시주주총회에서 차량용 온보드차저와 …",
+          "press": "tokenpost.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 08:38",
+          "link": "https://www.tokenpost.kr/news/market/396198",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "오리엔트정공, 전기차 열계면소재 사업 진출",
+          "summary": "당시 회사는 오리엔트전자의 SMPS 사업을 145억원에 양수하고 전자사업부로 편입했다. 오리엔트정공 관계자는 “전기차 시장이 고성능화될수록 배터리와 전력전자부…",
+          "press": "tokenpost.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 08:28",
+          "link": "https://www.tokenpost.kr/news/market/396193",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "K-배터리, ESS 넘어 로봇용 전고체 본다",
+          "summary": "삼성SDI는 오는 10월부터 미국 시장을 겨냥한 ESS용 각형 리튬인산철(LFP) 배터리 양산에 돌입해 연내 공급을 시작한다. AI 데이터센터용 무정전전원장치…",
+          "press": "news.bizwatch.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 06:50",
+          "link": "https://n.news.naver.com/mnews/article/648/0000050105?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "한미반도체, 1300억 들여 8공장 확보…\"장비 쇼티지 대비\"",
+          "summary": "한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규…",
+          "press": "econovill.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 11:36",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=748644",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "한미반도체, 8공장 구축 속도···HBM 넘어 시스템반도체 패키징 공략",
+          "summary": "반도체업계에 따르면 한미반도체는 인천 주안국가산업단지에 위치한 ㈜머큐리의 6230평 규모 공장을 매입해 8공장으로 구축하기로 했다. 한미반도체가 확보한 단일 …",
+          "press": "sisajournal-e.com",
+          "date": "2026-08-22",
+          "datetime": "2026-08-22 10:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423203",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[테헤란로] 월가가 키우는 AI",
+          "summary": "이제는 금리와 채권시장도 AI의 속도를 좌우한다. 이자가 비싸지면 투자도 느려진다. 기술에는 꿈이 있지만... 닷컴버블 때 기업과 투자자는 사라졌지만 광케이블…",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 19:00",
+          "link": "https://n.news.naver.com/mnews/article/014/0005565760?sid=110",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "중국 금속 게르마늄(金属锗) 공급망 동향",
+          "summary": "전략'이 가격을 뒷받침하고 있다\"고 언급했다. 수요 측면에서는 적외선 광학, 광섬유 통신, 상업용 우주항공 및 태양광, 반도체 분야를 중심으로 증가세가 이어질…",
+          "press": "dream.kotra.or.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 16:01",
+          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=243595",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[스타링크 상륙 후폭풍] ①'발톱' 숨기고 틈새공략",
+          "summary": "반면 일반 소비자를 대상으로 한 B2C 시장에서의 영향력은 아직 제한적이다. 한국은 이동통신 기지국과 광케이블망이 촘촘히 구축돼 통신 음영지역이 상대적으로 적…",
+          "press": "hansbiz.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 15:28",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859023",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "코트디부아르 국가개발계획(PND 2026~2030) 본격 추진, 우리 기업이 주목...",
+          "summary": "정부는 광섬유, 위성통신, 데이터센터 등 디지털 인프라 확대와 함께 전자정부 전환을 추진하고 있다.... 이 경우 가격경쟁력뿐 아니라 현지 파트너 발굴, 유지…",
+          "press": "dream.kotra.or.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 15:02",
+          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=243665",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[오늘의 주요일정]전북(8월25일 화요일)",
+          "summary": "협약식, 시장실 ▲오전 11시, 전북특별자치도 4-H 연합회 경진대회, 남원종합 스포츠타운 ▲오후 1시30분... 반계탕 밀키트 후원 전달식, 군수실 ◇진안군…",
+          "press": "뉴시스",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 05:00",
+          "link": "https://n.news.naver.com/mnews/article/003/0014145305?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "외국인이 줄 서서 먹는 K푸드가 있다?…해외로 가는 'K급식'",
+          "summary": "한정된 국내 시장에서 성장 여력이 줄어들자 해외 시장을 새로운 돌파구로 삼는 모습이다. 과거에는 삼성... 나아가 한국농수산식품유통공사(aT)와 협력해 해외 …",
+          "press": "news.bizwatch.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 07:30",
+          "link": "https://n.news.naver.com/mnews/article/648/0000050109?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "이우봉 풀무원 대표, 미국 공략 성공적…올해 흑자 전환 지속",
+          "summary": "풀무원이 두부 시장점유율을 확대하고 냉장면과 밀키트 제품 강화 등을 통해 4분기에 실적을 개선할 것\"이라며 풀무원에 대해 투자 의견 매수와 목표주가 1만 70…",
+          "press": "koreareport.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 03:24",
+          "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=52311",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "건강·간편식 앞세운 K-푸드, 미국 기반으로 북중미까지 노린다",
+          "summary": "한국농수산식품유통공사(aT)는 지난 18~19일 미국 뉴욕 맨해튼에서 '2026 북중미 K-푸드페어' B2B 수출상담회를 개최했다. 행사에는 국내 농식품 수출…",
+          "press": "dongponews.net",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 20:20",
+          "link": "https://www.dongponews.net/news/articleView.html?idxno=60042",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[발전관] 디엑스지(DXG) - 배출가스· 대기오염 관리 분야 기술적 자립",
+          "summary": "디엑스지 DXG(대표 김영준)는 TMS(굴뚝자동측정시스템)용 환경분 석기 분야에서 국내 유일의 개발 역량을 갖춘 기업으로, 배출가스 및 대기오염 관리 분야에서…",
+          "press": "todayenergy.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 12:16",
+          "link": "https://www.todayenergy.kr/news/articleView.html?idxno=301879",
+          "badge": "산업",
+          "subgroup": "ritco",
+          "subgroup_label": "리트코"
+        },
+        {
+          "title": "[르포] 140kg 롤러 10만번 굴린다…시몬스 매트리스 '숙면의 비밀'",
+          "summary": "시몬스 관계자는 \"실제로 테스트를 끝낸 매트리스를 봐도 거의 원형에 가까운 형태를 유지하는 것을 확인할... 키워드'에 실내 공기질을 평가하는 UL 그린가드 …",
+          "press": "4th.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 06:00",
+          "link": "http://www.4th.kr/news/articleView.html?idxno=2116684",
+          "badge": "산업",
+          "subgroup": "ritco",
+          "subgroup_label": "리트코"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 35
+}
