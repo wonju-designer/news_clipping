@@ -176,7 +176,13 @@ function renderDay(){
   if(!d){ document.getElementById("view").innerHTML='<div class="empty">선택한 날짜 데이터가 없습니다.</div>'; return; }
   const headTitle = `${d.date} 뉴스 클리핑`;
   let h = `<div class="card"><div class="hd"><div class="d">${headTitle}</div></div>`;
-  if(d.top5 && d.top5.length){
+  // 최근 2일(매일 클리핑)만 Top5·동향요약 노출, 지난 소식이면 숨김
+  const _today = new Date();
+  const _cutoff = new Date(_today.getFullYear(), _today.getMonth(), _today.getDate() - (2 - 1));
+  const _m = /^(\d{4})-(\d{2})-(\d{2})/.exec(d.date);
+  const _dt = _m ? new Date(+_m[1], +_m[2]-1, +_m[3]) : null;
+  const isRecent = _dt ? _dt >= _cutoff : false;
+  if(isRecent && d.top5 && d.top5.length){
     h += `<div class="top5"><div class="lb">🔥 오늘의 핵심 Top 5</div>`;
     h += d.top5.map(t=>`<div class="row"><span class="n">${t.rank}</span>${
       t.link?`<a href="${esc(t.link)}" target="_blank" style="color:var(--t1);text-decoration:none">${esc(t.headline)}</a>`:esc(t.headline)
@@ -190,10 +196,16 @@ function renderDay(){
     if(s.subgroups && s.subgroups.length){
       // 회사별 소그룹 — 아코디언(기본 접힘). 번호 접두어가 남아있으면 제거
       s.subgroups.forEach(sg=>{
-        const list = s.articles.filter(a=>a.subgroup===sg.id);
+        let list = s.articles.filter(a=>a.subgroup===sg.id);
         if(!list.length) return;
+        // 자사(badge=자사) 기사를 먼저, 그다음 산업 — 각 그룹 내 원래 순서 유지
+        list = [...list].sort((a,b)=>{
+          const av = a.badge==="자사" ? 0 : 1;
+          const bv = b.badge==="자사" ? 0 : 1;
+          return av - bv;
+        });
         const label = esc((sg.label||"").replace(/^\d+-\d+\s*/, ""));
-        const dg = (s.digest && typeof s.digest==="object") ? (s.digest[sg.id]||"") : "";
+        const dg = (isRecent && s.digest && typeof s.digest==="object") ? (s.digest[sg.id]||"") : "";
         h += `<details class="sg"><summary><span class="sgname">${label}</span>`+
              `<span class="sgcnt">${list.length}건</span></summary>`+
              `<div class="sgbody">`+
@@ -202,7 +214,7 @@ function renderDay(){
              `</div></details>`;
       });
     } else {
-      if(s.digest && typeof s.digest==="string") h += `<div class="dg">${esc(s.digest)}</div>`;
+      if(isRecent && s.digest && typeof s.digest==="string") h += `<div class="dg">${esc(s.digest)}</div>`;
       h += s.articles.map(artHTML).join("");
     }
     h += `</div>`;
