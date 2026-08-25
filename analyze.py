@@ -9,6 +9,7 @@
 import json
 import os
 import re
+import time
 
 import requests
 
@@ -18,18 +19,23 @@ GROQ_KEY = os.environ.get("GROQ_API_KEY", "")
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 GROQ_MODEL = os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b")
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "")  # 지정 시 최우선 시도
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-sonnet-5")
+
+# Gemini 모델 후보 — 앞에서부터 404가 아니면 사용. 모델명이 바뀌어도 살아남도록 여러 개.
+GEMINI_MODEL_CANDIDATES = [m for m in [
+    GEMINI_MODEL,
+    "gemini-flash-latest",
+    "gemini-2.0-flash",
+    "gemini-1.5-flash",
+] if m]
 
 # 품질 담당 AI 선택: gemini(기본) | claude
 # Claude로 전환 시 QUALITY_AI=claude + ANTHROPIC_API_KEY 등록만 하면 됨
 QUALITY_AI = os.environ.get("QUALITY_AI", "gemini").lower()
 
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
-GEMINI_URL = (
-    "https://generativelanguage.googleapis.com/v1beta/models/"
-    f"{GEMINI_MODEL}:generateContent"
-)
+_GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta/models/"
 CLAUDE_URL = "https://api.anthropic.com/v1/messages"
 
 GUARDRAIL = (
@@ -57,25 +63,43 @@ def _parse_json(text: str):
 
 
 def _groq(system: str, user: str) -> str:
-    try:
-        r = requests.post(
-            GROQ_URL,
-            headers={"Authorization": f"Bearer {GROQ_KEY}"},
-            json={
-                "model": GROQ_MODEL,
-                "temperature": 0.2,
-                "messages": [
-                    {"role": "system", "content": system},
-                    {"role": "user", "content": user},
-                ],
-            },
-            timeout=60,
-        )
-        r.raise_for_status()
-        return r.json()["choices"][0]["message"]["content"]
-    except Exception as e:
-        print(f"  [Groq 실패] {e}")
-        return ""
+    for attempt in range(4):  # 429(한도) 시 대기 후 재시도
+        try:
+            r = requests.post(
+                GROQ_URL,
+                headers={"Authorization": f"Bearer {GROQ_KEY}"},
+                json={
+                    "model": GROQ_MODEL,
+                    "temperature": 0.2,
+                    "messages": [
+                        {"role": "system", "content": system},
+                        {"role": "user", "content": user},
+                    ],
+                },
+                timeout=60,
+            )
+            if r.status_code == 429:
+                wait = 8 * (attempt + 1)  # 8,16,24s 점증 대기
+                # Retry-After 헤더가 있으면 우선 사용
+                ra = r.headers.get("retry-after")
+                if ra:
+                    try:
+                        wait = min(60, int(float(ra)) + 1)
+                    except Exception:
+                        pass
+                if attempt < 3:
+                    print(f"  [Groq 429] {wait}s 대기 후 재시도 ({attempt+1}/3)")
+                    time.sleep(wait)
+                    continue
+            r.raise_for_status()
+            return r.json()["choices"][0]["message"]["content"]
+        except Exception as e:
+            if attempt < 3 and "429" in str(e):
+                time.sleep(8 * (attempt + 1))
+                continue
+            print(f"  [Groq 실패] {e}")
+            return ""
+    return ""
 
 
 # 섹션별 관련성 판단 기준 (AI에게 주는 맥락)
@@ -98,7 +122,7 @@ RELEVANCE_CONTEXT = {
 }
 
 
-def relevance_filter(articles: list, ctx_key: str, batch: int = 20) -> list:
+def relevance_filter(articles: list, ctx_key: str, batch: int = 30) -> list:
     """AI로 각 기사가 해당 주제와 실제 관련 있는지 판단해 무관한 기사를 제거.
     제목·요약만으로 판단. AI 실패 시 원본 유지(보수적)."""
     if not articles or not GROQ_KEY:
@@ -133,28 +157,45 @@ def relevance_filter(articles: list, ctx_key: str, batch: int = 20) -> list:
                 if isinstance(n, int) and 0 <= n < len(chunk):
                     bad.add(n)
         kept += [a for idx, a in enumerate(chunk) if idx not in bad]
+        if i + batch < len(articles):
+            time.sleep(2)  # 배치 간 간격으로 429(분당 한도) 완화
     removed = len(articles) - len(kept)
     if removed:
         print(f"    [관련성 필터] {ctx_key}: {removed}건 제외 ({len(articles)}→{len(kept)})")
     return kept
 
 
+_GEMINI_OK_MODEL = None  # 처음 성공한 모델명을 기억해 이후엔 그것만 사용
+
+
 def _gemini(prompt: str) -> str:
-    try:
-        r = requests.post(
-            GEMINI_URL,
-            params={"key": GEMINI_KEY},
-            json={
-                "contents": [{"parts": [{"text": prompt}]}],
-                "generationConfig": {"temperature": 0.2},
-            },
-            timeout=60,
-        )
-        r.raise_for_status()
-        return r.json()["candidates"][0]["content"]["parts"][0]["text"]
-    except Exception as e:
-        print(f"  [Gemini 실패] {e}")
-        return ""
+    global _GEMINI_OK_MODEL
+    candidates = [_GEMINI_OK_MODEL] if _GEMINI_OK_MODEL else list(GEMINI_MODEL_CANDIDATES)
+    last_err = None
+    for model in candidates:
+        try:
+            r = requests.post(
+                f"{_GEMINI_BASE}{model}:generateContent",
+                params={"key": GEMINI_KEY},
+                json={
+                    "contents": [{"parts": [{"text": prompt}]}],
+                    "generationConfig": {"temperature": 0.2},
+                },
+                timeout=60,
+            )
+            if r.status_code == 404:      # 모델명 무효 → 다음 후보로
+                last_err = f"404 {model}"
+                continue
+            r.raise_for_status()
+            _GEMINI_OK_MODEL = model      # 작동하는 모델 기억
+            return r.json()["candidates"][0]["content"]["parts"][0]["text"]
+        except Exception as e:
+            last_err = e
+            if "404" in str(e):
+                continue
+            break
+    print(f"  [Gemini 실패] {last_err}")
+    return ""
 
 
 def _claude(prompt: str) -> str:
@@ -421,8 +462,10 @@ def summarize(flat: list) -> None:
         for i, a in enumerate(flat)
     ]
     system = (
-        "너는 통신업계 뉴스 편집자다. 각 기사를 한국어 1~2문장(최대 90자)으로 "
-        "간결히 요약한다. " + GUARDRAIL + " "
+        "너는 통신업계 뉴스 편집자다. 각 기사를 한국어로 자연스럽게 완결된 1문장(60~90자)으로 "
+        "요약한다. 반드시 문장을 끝맺어라(중간에 끊지 말 것). '…'로 끝내지 말 것. "
+        "원문 표현을 그대로 베끼지 말고 핵심을 새로 서술하라. 같은 내용을 반복하지 말 것. "
+        "제목과 겹치는 내용은 빼고 본문의 새 정보를 담아라. " + GUARDRAIL + " "
         '출력은 오직 JSON 배열: [{"idx":0,"summary":"..."}] 형식만. 그 외 텍스트 금지.'
     )
     user = "다음 기사들을 각각 요약하라.\n\n" + "\n\n".join(lines)
@@ -436,7 +479,22 @@ def summarize(flat: list) -> None:
 
     for i, a in enumerate(flat):
         s = summaries.get(i, "")
-        a["summary"] = s if s else (a["desc"][:88] + "…" if len(a["desc"]) > 88 else a["desc"])
+        if s:
+            a["summary"] = s
+        else:
+            # 폴백: 문장 끝(.!?다요) 기준으로 잘라 완결되게, 없으면 원문 그대로
+            d = a.get("desc", "")
+            if len(d) <= 90:
+                a["summary"] = d
+            else:
+                cut = d[:90]
+                # 마지막 문장 종결 지점 찾기
+                import re as _re
+                m = list(_re.finditer(r"[.!?다]\s", cut))
+                if m:
+                    a["summary"] = cut[: m[-1].end()].strip()
+                else:
+                    a["summary"] = cut.rstrip() + "…"
 
 
 def _one_digest(label: str, arts: list, hint: str = "", long: bool = False) -> str:
