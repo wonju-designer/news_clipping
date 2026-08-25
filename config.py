@@ -355,7 +355,7 @@ LOOKBACK_HOURS_MONDAY = 48   # (구) 참조 호환용
 TOP_N = 5                    # 오늘의 핵심 개수
 DOC_MAX_PER_SECTION = 15     # 첨부 워드 문서에 담을 섹션별 최대 기사 수(이메일과 별개)
 
-# 아카이브(대시보드) 노출 제한 — 메일보다는 많게, 무제한보다는 적게
+# 아카이브(대시보드) 노출 제한 — 지난 소식(전체 저장 분량)
 ARCHIVE_MAX_PER_SECTION = 15  # 기본: 섹션당 최대 (아래 예외 없으면 이 값)
 ARCHIVE_MAX_BY_SECTION = {    # 섹션별 예외 (산업 동향은 넓어서 넉넉히)
     "industry": 30,
@@ -363,6 +363,14 @@ ARCHIVE_MAX_BY_SECTION = {    # 섹션별 예외 (산업 동향은 넓어서 넉
 ARCHIVE_MAX_PER_COMPANY = 10  # 그룹 동향: 날짜별 계열사 1곳당 최대(자사+산업 합)
 ARCHIVE_OWN_PER_COMPANY = 6   # 계열사 1곳당 자사 기사 최대
 ARCHIVE_IND_PER_COMPANY = 4   # 계열사 1곳당 산업 기사 최대
+
+# 매일 클리핑(최근 2일) 화면 노출 제한 — 저장은 위 아카이브 분량, 화면엔 이만큼만
+# 지난 소식으로 넘어가면 위 아카이브 분량(전체)이 펼쳐짐
+RECENT_MAX_PER_SECTION = 8    # 최근 화면 기본 섹션당
+RECENT_MAX_BY_SECTION = {
+    "industry": 15,
+}
+RECENT_MAX_PER_COMPANY = 5    # 최근 화면 계열사 회사당
 
 # ────────────────────────────────────────────────
 # 이메일 안전 색상값 (템플릿 CSS 변수 치환용)
