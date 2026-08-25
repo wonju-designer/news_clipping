@@ -1,0 +1,456 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26 08:26",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "3G 종료 수순과 통신망 효율화 과제",
+      "category": "산업",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=152044"
+    },
+    {
+      "rank": 2,
+      "headline": "eSIM 확대에 통신사 로밍 수익 위협",
+      "category": "산업",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=315932"
+    },
+    {
+      "rank": 3,
+      "headline": "U+유모바일, 중고폰·알뜰 유심 결합 가입",
+      "category": "산업",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405933"
+    },
+    {
+      "rank": 4,
+      "headline": "이통 3사, 가성비 폰 앞세워 가입자 유치 경쟁",
+      "category": "산업",
+      "link": "https://www.asiatime.co.kr/article/20260825500086"
+    },
+    {
+      "rank": 5,
+      "headline": "LGU+, 기지국 담합 58억 과징금 소송 패소",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/366/0001188056?sid=102"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "eSIM·여행용 e심 사용이 확대되면서 로밍 이용객이 감소하고, MVNO와의 경쟁이 심화되고 있다. 이에 통신 3사는 AI 데이터센터·AI‑RAN 등 AI 기반 인프라를 새로운 수익원으로 추진하고, 5G·6G 전환과 3G 종료에 따른 망 효율화 작업을 진행한다. 동시에 저가·중저가 스마트폰 라인업을 강화해 가입자 확보에 나서며, 칩 가격 상승으로 보급형 스마트폰 출하량이 감소하는 시장 상황을 맞이하고 있다. LG유플러스는 기지국 담합 과징금 소송에서 패소했다.",
+      "articles": [
+        {
+          "title": "KT, AI 기반 ‘스팸차단 서비스’ 확대 적용",
+          "summary": "KT 고객은 물론 KT 알뜰폰 이용자도 무료로 이용할 수 있다.",
+          "press": "서울신문",
+          "date": "2026-08-26",
+          "datetime": "2026-08-26 05:04",
+          "link": "https://n.news.naver.com/mnews/article/081/0003673517?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "여행객 ‘e심’ 사용 확산… 통신사 로밍 사업에 빨간불",
+          "summary": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다.",
+          "press": "조선일보",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 00:34",
+          "link": "https://n.news.naver.com/mnews/article/023/0003994446?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사 새 먹거리 'AI 데이터센터'",
+          "summary": "5G 전환율이 정점에 도달한 가운데, 알뜰폰과 중저가 요금제 확산 등이 영향을 미쳤기 때문이다. 통신3사는 새로운 수익원으로 일제히 AIDC를 점찍었다.",
+          "press": "매일경제",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 17:09",
+          "link": "https://n.news.naver.com/mnews/article/009/0005724534?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[더벨]KT스카이라이프, '롯데쇼핑 출신' 유신 상무 영입",
+          "summary": "위성방송과 인터넷, 알뜰폰을 비롯한 여러 서비스의 보안 체계를 통합 관리할 적임자를 찾은 것으로...",
+          "press": "thebell.co.kr",
+          "date": "2026-08-26",
+          "datetime": "2026-08-26 07:02",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608241100180040104210",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG U+, ‘유독 Pick’ 라인업 확대… CGV·배민·특화 AI 8종 추가",
+          "summary": "한편, LG유플러스는 알뜰폰 요금제에 결제·쇼핑 등 일상생활과 연계한 혜택을 더하며 상품 경쟁력 강화에도 나서고 있다.",
+          "press": "thebigdata.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 16:10",
+          "link": "http://www.thebigdata.co.kr/view.php?ud=202608251603452620a47484cf8_23",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "막 내리는 3G, 통신망 효율화 필요성 속 과제는",
+          "summary": "SK텔레콤이 13만4413개, KT가 5만8948개, 알뜰폰이 13만4763개다. 데이터 이용량도 전체 이동통신 트래픽에서... 휴대전화보다",
+          "press": "smartbizn.com",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 14:16",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=152044",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "eSIM 시장 커지자 로밍 사업 '긴장'…통신사 수익원 위협",
+          "summary": "알뜰폰사업자(MVNO)와 경쟁하는 상황에서 여행용 eSIM까지 확산할 경우 로밍 서비스 이용객이 감소할 가능성이 있기 때문이다.",
+          "press": "thepublic.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 13:48",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=315932",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 이동통신 소식_KT, U+유모바일(8.24)",
+          "summary": "중고폰과 알뜰폰 요금제를 함께 선택할 수 있는 '유픽 폰&유심'을 출시했다고 24일 밝혔다. 중고폰 품질에...",
+          "press": "weeklytoday.com",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 12:44",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791284",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "U+유모바일, 약정 없이 중고폰·알뜰 유심 요금제 가입 한 번에!",
+          "summary": "알뜰폰 가입 및 이용과정에서 중고폰 거래 시 가격 흥정 번거로움, 별도 요금제 가입, 일정 기간의 요금제 유지 조건 등이 발생할 수 있었던 만큼 전문 검수를 통한…",
+          "press": "epnc.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 10:52",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405933",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[기자수첩] 소비자 일상 바꾸던 통신 경쟁의 빈자리",
+          "summary": "알뜰폰 시장의 성장과 대규모 해킹 등 대외 변수에도 20년이 넘도록 SK텔레콤·KT·LG유플러스의 점유율 순위는 바뀌지 않았다.",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 15:38",
+          "link": "http://www.metroseoul.co.kr/article/20260823500236",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "무선 수익으로 AI 인프라 장전… 통신 3사, AIDC 총력전",
+          "summary": "5G 보급률이 상한선에 도달한 데다",
+          "press": "youthdaily.co.kr",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 09:32",
+          "link": "https://www.youthdaily.co.kr/news/article.html?no=225526",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"6G서 미·중·유럽 헤어질 결심\"…규모의 경제 사라지나",
+          "summary": "이동통신이 소비자(B2C) 시장에서 성장 한계에 부딪히자 통신사들이 AI 컴퓨팅 인프라로 방향을 틀면서 나라마다 길이 갈리고 있다는 설명이다.",
+          "press": "디지털데일리",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 22:30",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238958?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사 육아휴직 3년째 증가세…'맞돌봄 문화' 확산 앞장",
+          "summary": "이동통신 3사에서 육아휴직을 사용하는 직원이 빠르게 늘고 있다. 올해 상반기 육아휴직자는 1100명을 넘어 이미 지난해 연간 규모의 90%를 넘어섰다.",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 18:15",
+          "link": "https://n.news.naver.com/mnews/article/014/0005566285?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[사라지는 저가폰]① '칩플레이션'에 무너지는 보급형 스마트폰 시장",
+          "summary": "5G(5세대 이동통신) 스마트폰 시장에서 올해 2분기 샤오미와 비보, 오포의 출하량은 전년 동기보다 각각 18%, 16%, 15% 감소했다.",
+          "press": "블로터",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 15:29",
+          "link": "https://n.news.naver.com/mnews/article/293/0000089522?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "품귀 우려에도…아이폰18 한국 1차 출시 확정",
+          "summary": "25일 이동통신업계에 따르면 SK텔레콤·KT·LG유플러스 등 통신 3사는 아이폰18 출시에 맞춰 온·오프라인 판매 시스템을 정비하고 프로모션 등 관련 작업을 진행…",
+          "press": "전자신문",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 14:21",
+          "link": "https://n.news.naver.com/mnews/article/030/0003460179?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"AI·6G 시대 주파수, 투자 유인 높이는 대가체계 필요”",
+          "summary": "AI와 차세대 통신기술 확산에 대응해 이동통신 주파수의 적정 가치를 산정하고 투자와 경쟁을 촉진할 수 있는 전파정책이 필요하다는 제언이 나왔다.",
+          "press": "지디넷코리아",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 14:08",
+          "link": "https://n.news.naver.com/mnews/article/092/0002434982?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"신입도 AI 역량 본다\"…SKT, 5개 직군서 주니어 인재 모집",
+          "summary": "관련 역량을 중요하게 평가하는 것\"이라고 말했다. 한편 올해 상반기 SK텔레콤의 직원 1인당 평균급여는 8800만원으로 집계됐다.",
+          "press": "아이뉴스24",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 09:05",
+          "link": "https://n.news.naver.com/mnews/article/031/0001052090?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] LG유플러스, ‘기지국 담합’ 58억 과징금 소송 패소",
+          "summary": "통신 3사는 2011년부터 4세대 이동통신(4G) 서비스망 구축을 위해 대규모 투자를 진행했다.",
+          "press": "조선비즈",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 06:01",
+          "link": "https://n.news.naver.com/mnews/article/366/0001188056?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사도 '단기 육아휴직' 도입…男 사용률은 여성의 4분의 1",
+          "summary": "정부가 1~2주 단위로 사용할 수 있는 '단기 육아휴직' 제도를 시행하면서 국내 이동통신 3사도 잇따라 제도 도입에 나섰다.",
+          "press": "디지털데일리",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 06:00",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238814?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "3G 종료 수순에 산업현장 '비상'…장비 교체비 누가 부담하나",
+          "summary": "KT도 3G 신규 가입 중단을 준비하고 있다. 이동통신사가 3G 서비스 축소에 나선 배경에는 가입자 감소가...",
+          "press": "IT조선",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 06:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168715",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, '모두의 AI'로 반전 노린다",
+          "summary": "KT 역시 이동통신을 중심으로 대규모 기업대고객(B2C) 사업을 운영해왔다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-08-26",
+          "datetime": "2026-08-26 07:30",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695196",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'AI 컴퍼니' 선언 이통3사, 차세대 AI 인재 육성 가속",
+          "summary": "AI(인공지능) 확산에 따른 산업 변화에 맞춰 'AI 컴퍼니'로의 변신을 선언한 국내 이동통신 3사가 차세대 AI 인재 육성에 박차를 가한다.",
+          "press": "shinailbo.co.kr",
+          "date": "2026-08-26",
+          "datetime": "2026-08-26 07:20",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054307",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"5G처럼 하나로 못 간다\"… 6G 주파수 놓고 미·중·유럽 이견",
+          "summary": "김 그룹장은 통신사들이 기존 이동통신망 중심의 투자에서 AI 컴퓨팅 인프라로 관심을 확대하면서 국가별 통신·AI 인프라 구축 방식에도 차이가 나타나고 있다고 설명…",
+          "press": "newscj.com",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 23:52",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3427756",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, '모두의 AI'에 출사표…대국민 AI 서비스 확대 나선다",
+          "summary": "이동통신3사가 정부의 '전 국민 AI 서비스 보편적 활용 지원(이하 모두의 AI)' 사업에 출사표를 던졌다.",
+          "press": "g-enews.com",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 17:30",
+          "link": "https://www.g-enews.com/view.php?ud=2026082511070722013d7a510102_1",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "로밍 잡은 e심?…통신업계 \"로밍 위축 아니야\"",
+          "summary": "지난 11일 이동통신 전문 조사기관 컨슈머인사이트에 따르면, 최근 1년 내 해외 방문 경험자의 e심 이용률이 로밍을 처음으로 추월했다.",
+          "press": "news.mtn.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 17:06",
+          "link": "https://news.mtn.co.kr/news-detail/2026082514532257466",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, AX 시대 미래 인재 직접 '육성'…새 채용 트렌드로",
+          "summary": "KT, 신입 채용서 'AI 활용 역량' 평가…업무 혁신 인재로 육성 SKT·서울대, AI 공동 과정 개설…10년째 인연 이동통신2사(SK텔레콤·KT·LG유플러스)…",
+          "press": "srtimes.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 14:28",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=210806",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, '모두의 AI' 격돌…통신 넘어 AI 서비스 경쟁",
+          "summary": "SK텔레콤과 KT, LG유플러스 등 이동통신 3사가 정부의 '모두의 AI' 사업에 출사표를 던졌다.",
+          "press": "sisaon.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 14:14",
+          "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=203783",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[김재섭의 뒤집어보기] 박윤영 KT '본업 충실' 경영철학과 어긋난 설비...",
+          "summary": "2분기 무선통신(이동통신) 매출이 1조6749억 원으로, 지난해 같은 기간 대비 1.8% 감소한 점을 짚었다.",
+          "press": "businesspost.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 14:00",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445500",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 View] \"AI 심고, 넓히고, 뽑는다\"… AX 전략 가속화",
+          "summary": "이동통신 3사가 각각 단말기 출시, 대규모 채용, 구독 플랫폼 개편을 통해 인공지능(AI)과 실용성을 결합한 하반기 경영 전략을 본격적으로 가동했다.",
+          "press": "newscj.com",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 12:58",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3427556",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통 3사, '가성비 스마트폰' 앞세워 가입자 유치 경쟁",
+          "summary": "이통 3사, '가성비 스마트폰' 단독 출시 잇따라 50만원대 중저가 라인으로 가성비·성능 동시에 독점 개통 기기로 차별화·고객 락인 효과 누려 [아시아타임즈=김민…",
+          "press": "asiatime.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 10:24",
+          "link": "https://www.asiatime.co.kr/article/20260825500086",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "U+유모바일이 약정 없는 ‘유픽 폰&유심’ 서비스를 출시해 S급 중고폰과 알뜰 요금제를 한 번에 제공한다. 이는 브랜드 뉴 프로젝트의 첫 프로그램으로, 중고폰·알뜰폰 시장 진입을 강화한다.",
+      "articles": [
+        {
+          "title": "[위클리오늘] 이동통신 소식_KT, U+유모바일(8.24)",
+          "summary": "▲ U+유모바일 '유픽 폰&유심' 출시 안내 이미지 U+유모바일, 약정 없는 '유픽 폰&유심' 출시 U+유모바일이 전문 검수를 거친 S급 중고폰과 알뜰폰 요금제를…",
+          "press": "weeklytoday.com",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 12:44",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791284",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "U+유모바일, 약정 없이 중고폰·알뜰 유심 요금제 가입 한 번에!",
+          "summary": "유픽 폰&유심은 유플러스유모바일에서 시작한 브랜드뉴 프로젝트의 첫 번째 프로그램이다.",
+          "press": "epnc.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 10:52",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405933",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "완성차 업계에서 LFP 배터리 채택이 확대되면서 BMS·전원공급장치 사업을 영위하는 파워넷의 주가가 상승하고 있다. 이에 따라 셀업체와 소부장 밸류체인 매수 분위기가 뚜렷해졌다.",
+        "mercury": "",
+        "encreative": "",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "완성차 업계 LFP 채택 확산…셀업체·소부장 밸류체인 매수 온기 뚜렷",
+          "summary": "LFP 배터리 관리 시스템(BMS) 및 전원공급장치 기술을 영위하는 파워넷이 상승하고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 11:08",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479958",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 33
+}
