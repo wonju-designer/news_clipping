@@ -354,6 +354,60 @@ def email_subset(doc_display: dict) -> dict:
     return email
 
 
+def archive_subset(collected: dict) -> dict:
+    """대시보드 저장용 — 아카이브 분량(산업 30 등)을 우선순위 순으로 선별(3일치 그대로 저장).
+    지난 소식 화면에서 발행일 필터는 대시보드가 처리.
+    정렬: 산업·자사·경쟁사 = 사업어→주요일간지→최신 / 계열사 = 자사먼저→사업어→주요일간지→최신."""
+    out = {}
+    for cat in config.CATEGORIES:
+        arts = list(collected.get(cat["id"], []))
+        if cat.get("subgroups"):
+            capped = []
+            for sg in cat["subgroups"]:
+                sg_arts = [a for a in arts if a.get("subgroup") == sg["id"]]
+                p_ind = tuple(sg.get("priority_ind", ()))
+
+                def _key(a, pi=p_ind):
+                    low = (a.get("title", "") + " " + a.get("desc", "")).lower()
+                    tier = 0 if (pi and any(t.lower() in low for t in pi)) else 1
+                    maj = 0 if a.get("is_major") else 1
+                    ts = a["pub"].timestamp() if a.get("pub") else 0
+                    return (tier, maj, -ts)
+
+                own = sorted([a for a in sg_arts if a.get("badge") == "자사"], key=_key)
+                ind = sorted([a for a in sg_arts if a.get("badge") != "자사"], key=_key)
+                total_cap = config.ARCHIVE_MAX_PER_COMPANY
+                n_own = min(len(own), config.ARCHIVE_OWN_PER_COMPANY)
+                n_ind = min(len(ind), config.ARCHIVE_IND_PER_COMPANY)
+                left = total_cap - (n_own + n_ind)
+                if left > 0:
+                    n_own += min(left, len(own) - n_own)
+                    left = total_cap - (n_own + n_ind)
+                    n_ind += min(left, len(ind) - n_ind)
+                capped += own[:n_own] + ind[:n_ind]
+            out[cat["id"]] = capped
+        else:
+            top = config.TOP_PRIORITY
+            pt = cat.get("priority_terms", ())
+
+            def _key2(a, pt=pt):
+                low = (a.get("title", "") + " " + a.get("desc", "")).lower()
+                if any(t.lower() in low for t in top):
+                    tier = 0
+                elif pt and any(t.lower() in low for t in pt):
+                    tier = 1
+                else:
+                    tier = 2
+                maj = 0 if a.get("is_major") else 1
+                ts = a["pub"].timestamp() if a.get("pub") else 0
+                return (tier, maj, -ts)
+
+            arts = sorted(arts, key=_key2)
+            cap = config.ARCHIVE_MAX_BY_SECTION.get(cat["id"], config.ARCHIVE_MAX_PER_SECTION)
+            out[cat["id"]] = arts[:cap]
+    return out
+
+
 def flatten(display: dict) -> list:
     return [a for cat in config.CATEGORIES for a in display.get(cat["id"], [])]
 
