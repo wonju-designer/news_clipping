@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25 10:21",
+  "generated_at": "2026-08-25 10:29",
   "top5": [
     {
       "rank": 1,
@@ -162,6 +162,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "[ICT시사용어]도쿄 어코드",
+          "summary": "도쿄 어코드는 지난 4월 일본 도쿄에서 아시아·태평양 지역 주요 통신사·협단체가 모여 6세대(6G) 이동통신을 포함한 차세대 통신 생태계 조성을 위해 약속한 …",
+          "press": "전자신문",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 09:27",
+          "link": "https://n.news.naver.com/mnews/article/030/0003459999?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "\"신입도 AI 역량 본다\"…SKT, 5개 직군서 주니어 인재 모집",
           "summary": "관련 역량을 중요하게 평가하는 것\"이라고 말했다. 한편 올해 상반기 SK텔레콤의 직원 1인당 평균급여는 8800만원으로 집계됐다. 이동통신 3사 중 가장 높은…",
           "press": "아이뉴스24",
@@ -217,17 +228,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "국민 누구나, '1인 1 에이전트' 시대…IT·통신 기업 '모두의 AI' 끝장 승...",
-          "summary": "SK텔레콤은 2250만개 이동통신 회선과 월간 사용자 1000만명 규모의 ‘에이닷’을 활용해 서비스를 확산한다는 계획이다. KT도 다음, 무신사, 직방, EB…",
-          "press": "한국경제",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 16:17",
-          "link": "https://n.news.naver.com/mnews/article/015/0005324032?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "영화관 개봉작, OTT는 5개월 뒤에?…\"소비자 선택권 보장돼야\" [현장]",
           "summary": "추은혜 민변 민생경제위원회 변호사는 \"소비자의 선택권을 제한하는 홀드백 자율협약에는 속도를 내면서 기존에 제기돼온 정산 투명성 문제는 해결되지 않고 있다\"며 …",
           "press": "아이뉴스24",
@@ -272,6 +272,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "이통 3사, '가성비 스마트폰' 앞세워 가입자 유치 경쟁",
+          "summary": "이통 3사, '가성비 스마트폰' 단독 출시 잇따라 50만원대 중저가 라인으로 가성비·성능 동시에 독점 개통 기기로 차별화·고객 락인 효과 누려 [아시아타임즈=…",
+          "press": "asiatime.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 10:24",
+          "link": "https://www.asiatime.co.kr/article/20260825500086",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "[위클리오늘] 이동통신 소식_LG유플러스, SK텔레콤(8.25)",
           "summary": "▲ LG유플러스 직원이 대폭 확대된 '유독 Pick' 내용을 소개하고 있는 모습. LG유플러스, '유독 Pick' 혜택 확대…CGV·배민·AI 추가 LG유플러…",
           "press": "weeklytoday.com",
@@ -289,6 +300,17 @@
           "date": "2026-08-25",
           "datetime": "2026-08-25 10:02",
           "link": "https://www.thepublic.kr/news/articleView.html?idxno=316051",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'S26 FE' 출격에…통신 3사, 중저가폰 고객 유치 경쟁 '시동'",
+          "summary": "삼성전자의 준플래그십 스마트폰 '갤럭시S26 FE(팬에디션)' 출시가 임박하면서 국내 이동통신 3사의 고객 유치 경쟁도 본격화될 전망이다. 이른바 '가성비폰'…",
+          "press": "newsway.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 07:14",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026082416351517089",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -347,28 +369,6 @@
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
-        },
-        {
-          "title": "AI 칩 가격 인상에 통신업계, AI DC 투자 부담 가중",
-          "summary": "/SK텔레콤 국내 이동통신 3사가 미래 먹거리로 택한 인공지능 데이터센터(AI DC) 사업의 투자 부담이 커지고 있다. 메모리 반도체 가격이 급등하는 '칩플레…",
-          "press": "metroseoul.co.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 15:26",
-          "link": "http://www.metroseoul.co.kr/article/20260824500378",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "이통 3사, AI 실행 전략 ‘키’ 인재 육성 사활",
-          "summary": "AI 인재 부족 상황 속에 국내 이동통신 3사가 산학협력은 물론, 내부 직원 대상 교육에도 적극적으로 나서고 있다. KT 직원들이 K-뉴딜 아카데미를 홍보하고…",
-          "press": "segyebiz.com",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 14:52",
-          "link": "http://www.segyebiz.com/newsView/20260824511063?OutUrl=naver",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
         }
       ]
     },
@@ -414,7 +414,7 @@
       "num": "④",
       "title": "그룹 동향",
       "digest": {
-        "powernet": "LFP 배터리 관리 시스템(BMS) 및 전원공급장치 기술을 영위하는 파워넷이 상승하고 있다.",
+        "powernet": "차열 및 캡 소재 관련주 나노팀, 파워넷, 한빛레이저, 미코 역시 오름세를 유지하고 있다. LFP 배터리 관리 시스템(BMS) 및 전원공급장치 기술을 영위하는 파워넷이 상승하고 있다. 전력변환 시장 진입을 추진하고 있다.",
         "mercury": "광통신과 일부 중첩되는 통신장비주에서도 RFHIC(-5.95%), LIG아큐버(-6.38%), 케이엠더블유(-6.89%), 오이솔루션(-5.51%), 서진시스…. 한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규…. 이제는 금리와 채권시장도 AI의 속도를 좌우한다.",
         "encreative": "전기찬 aT 수출식품이사는 \"북미에서 K-푸드 인지도가 높아지고 있다\"며 \"김치를 비롯한 다양한 한국 식품이 현지 식문화의 트렌드로 자리 잡도록 유망품목 발굴…. aT는 권역별 수출 유망품목을 육성하기 위한 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있으며, 북미 시장에서는 현지 트렌드를 반영해 발효식품, 간편식품…. aT는 권역별 수출 유망품목을 육성하는 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있다.",
         "ritco": "디엑스지 DXG(대표 김영준)는 TMS(굴뚝자동측정시스템)용 환경분 석기 분야에서 국내 유일의 개발 역량을 갖춘 기업으로, 배출가스 및 대기오염 관리 분야에서…. 시몬스 관계자는 \"실제로 테스트를 끝낸 매트리스를 봐도 거의 원형에 가까운 형태를 유지하는 것을 확인할."
@@ -428,6 +428,105 @@
           "datetime": "2026-08-24 11:08",
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479958",
           "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "지주사 할인 해제되나… 솔브레인홀딩스, 알짜 계열사 지분 가치 부각",
+          "summary": "차열 및 캡 소재 관련주 나노팀, 파워넷, 한빛레이저, 미코 역시 오름세를 유지하고 있다. X선 검사 장비 및... 2차전지 테마의 경우 글로벌 전기차 판매량…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 13:28",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479992",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "AI 데이터센터 800V 전환 본격화… 솔루엠, 랙 전력변환 시장 공략",
+          "summary": "전력변환 시장 진입을 추진하고 있다. 고전압 DC-DC 컨버터 개발과 검증을 진행하며 글로벌 하이퍼스케일러... 수냉식 서버용 전원공급장치도 개발했다. 솔루엠…",
+          "press": "디지털타임스",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 09:00",
+          "link": "https://n.news.naver.com/mnews/article/029/0003044074?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "‘2040 레이스’ 막 오른 핵융합…K-조선·방산 DNA로 ‘인공태양’ 만든...",
+          "summary": "AI 전력난이 당긴 핵융합 속도전 글로벌 리더들이 핵융합에 사로잡힌 근본 원인은 AI 데이터센터의... 다원시스는 전원공급장치 및 제어시스템으로만 2400억원…",
+          "press": "한국경제",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 10:14",
+          "link": "https://n.news.naver.com/mnews/article/050/0000110005?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "22㎾ ICCU, 에이텀 북미 상용트럭 겨냥",
+          "summary": "아시아경제는 하빈저가 글로벌 물류기업 페덱스 등과 협력하며 북미 상용차 전동화 시장을 공략하고... 본지는 앞서 에이텀이 임시주주총회에서 차량용 온보드차저와 …",
+          "press": "tokenpost.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 08:38",
+          "link": "https://www.tokenpost.kr/news/market/396198",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "오리엔트정공, 전기차 열계면소재 사업 진출",
+          "summary": "당시 회사는 오리엔트전자의 SMPS 사업을 145억원에 양수하고 전자사업부로 편입했다. 오리엔트정공 관계자는 “전기차 시장이 고성능화될수록 배터리와 전력전자부…",
+          "press": "tokenpost.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 08:28",
+          "link": "https://www.tokenpost.kr/news/market/396193",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "'7분기 만에 흑자' 삼성SDI, 4.4조원 실탄 장착 '북미 ESS·전고체' 광폭...",
+          "summary": "무정전 전원장치(UPS), 배터리 백업장치(BBU), 전동공구 등 고출력 제품 판매와 유럽 시장 판매 확대가 실적... 에너지저장장치(ESS) 사업 확대와 배…",
+          "press": "뉴시스",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 13:50",
+          "link": "https://n.news.naver.com/mnews/article/003/0014144207?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "‘2년 만에 뚝딱’ 日 경차 겨냥 BYD가 꺼내든 카드",
+          "summary": "인버터와 DC-DC 컨버터, 차량용 충전기(OBC), 전력분배장치(PDU) 등 전력전자 부품을 배터리팩 앞쪽에 통합한 구조다. 기존 BYD 전륜구동 EV는 이…",
+          "press": "이데일리",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 08:56",
+          "link": "https://n.news.naver.com/mnews/article/018/0006356792?sid=103",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "LG유플러스, 탄탄한 통신 이익에 AIDC 신사업 본궤도[스타즈 IR]",
+          "summary": "파주 AIDC에는 LG전자의 액체냉각 솔루션과 LG에너지솔루션의 고성능 무정전전원장치(UPS) 배터리... “최근 공급보다 수요가 많아 상면 단가가 지속해서 …",
+          "press": "서울경제",
+          "date": "2026-08-23",
+          "datetime": "2026-08-23 17:47",
+          "link": "https://n.news.naver.com/mnews/article/011/0004654278?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "K-배터리, ESS 넘어 로봇용 전고체 본다",
+          "summary": "삼성SDI는 오는 10월부터 미국 시장을 겨냥한 ESS용 각형 리튬인산철(LFP) 배터리 양산에 돌입해 연내 공급을 시작한다. AI 데이터센터용 무정전전원장치…",
+          "press": "news.bizwatch.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 06:50",
+          "link": "https://n.news.naver.com/mnews/article/648/0000050105?sid=101",
+          "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
         },
@@ -498,17 +597,6 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "[스타링크 상륙 후폭풍] ①'발톱' 숨기고 틈새공략",
-          "summary": "반면 일반 소비자를 대상으로 한 B2C 시장에서의 영향력은 아직 제한적이다. 한국은 이동통신 기지국과 광케이블망이 촘촘히 구축돼 통신 음영지역이 상대적으로 적…",
-          "press": "hansbiz.co.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 15:28",
-          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=859023",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
           "title": "코트디부아르 국가개발계획(PND 2026~2030) 본격 추진, 우리 기업이 주목...",
           "summary": "정부는 광섬유, 위성통신, 데이터센터 등 디지털 인프라 확대와 함께 전자정부 전환을 추진하고 있다.... 이 경우 가격경쟁력뿐 아니라 현지 파트너 발굴, 유지…",
           "press": "dream.kotra.or.kr",
@@ -537,6 +625,17 @@
           "date": "2026-08-24",
           "datetime": "2026-08-24 09:24",
           "link": "https://www.g-enews.com/view.php?ud=202608232231405860fda4f5ab74_1",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[르포]독일 거장건축가 설계 그대로 살린 디지털리얼티 데이터센터[AIDC...",
+          "summary": "하지만 국가 산업 경쟁력을 좌우하는 핵심 인프라라는 공통된 인식에도 AI 데이터센터(AIDC) 확장까지... 단일 데이터센터를 넘어 프랑크푸르트 전체를 아우르…",
+          "press": "view.asiae.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 06:30",
+          "link": "https://n.news.naver.com/mnews/article/277/0005806178?sid=105",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -608,17 +707,6 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "미국 간 백종원…더본코리아 'K외식·소스' 앞세워 글로벌 가속",
-          "summary": "여기에 북미 소비자를 겨냥한 HMR(가정간편식) 공동 개발도 추진한다. 현지 소비 방식과 입맛을 반영한 제품을 개발하고 협력 기업의 생산·유통망을 활용해 일반…",
-          "press": "이데일리",
-          "date": "2026-08-23",
-          "datetime": "2026-08-23 11:02",
-          "link": "https://n.news.naver.com/mnews/article/018/0006356335?sid=101",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "“한국서 만들어 수출? 이젠 현지서 만든다”…K푸드 ‘북미 전쟁’",
           "summary": "K푸드 인기가 일시적인 수출 증가에 그치지 않고 현지 소비시장에 뿌리내리기 시작하면서다. 백종원 대표가... 여기에 현지 소비자를 겨냥한 가정간편식(HMR) …",
           "press": "세계일보",
@@ -647,6 +735,17 @@
           "date": "2026-08-25",
           "datetime": "2026-08-25 10:18",
           "link": "http://www.bokuennews.com/news/article.html?no=283017",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "aT, K-발효·간편식 북미 공략…6개사 현지 유통망 입점",
+          "summary": "aT는 권역별 수출 유망품목을 육성하는 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있다. 북미에서는 현지 소비 트렌드를 고려해 발효식품과 간편식품을 주력…",
+          "press": "newspim.com",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 09:51",
+          "link": "https://www.newspim.com/news/view/20260825000304",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -694,5 +793,5 @@
       ]
     }
   ],
-  "total": 55
+  "total": 64
 }
