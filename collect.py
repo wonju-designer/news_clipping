@@ -104,6 +104,7 @@ def _normalize(item: dict, badge: str = None) -> dict:
         "is_major": press in config.MAJOR_PRESS,  # 주요 매체 우선 정렬용
         "is_five": press in config.FIVE_DAILIES,  # 5대 일간지 최상단 정렬용
         "is_sports": _host(orig) in config.SPORTS_DOMAINS,  # 스포츠 매체 차단용
+        "is_blocked": _host(orig) in config.BLOCK_DOMAINS,  # 제약 등 무관 전문매체 차단용
     }
 
 
@@ -134,6 +135,8 @@ def collect() -> dict:
                 if not art["orig"] or art["orig"] in seen:
                     continue
                 if art["is_sports"]:            # 스포츠 신문 원천 차단
+                    continue
+                if art["is_blocked"]:           # 제약 등 무관 전문매체 원천 차단
                     continue
                 if art["pub"] is None or art["pub"] < cutoff:
                     continue
