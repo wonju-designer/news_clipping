@@ -227,10 +227,21 @@ function renderDay(){
     }
     if(!secArts.length) return;
     // 표시 건수 계산(최근이면 상한 적용)
-    let shownCount = secArts.length;
-    if(isRecent && !(s.subgroups && s.subgroups.length)){
-      const cap = (RECENT_LIMITS.by_section && RECENT_LIMITS.by_section[s.id]) || RECENT_LIMITS.per_section;
-      shownCount = Math.min(shownCount, cap);
+    let shownCount;
+    if(s.subgroups && s.subgroups.length){
+      // 계열사: 각 회사 상한(최근이면 회사당 per_company) 적용해 합산 — 실제 표시와 일치
+      shownCount = 0;
+      s.subgroups.forEach(sg=>{
+        let list = secArts.filter(a=>a.subgroup===sg.id);
+        if(isRecent) list = list.slice(0, RECENT_LIMITS.per_company);
+        shownCount += list.length;
+      });
+    } else {
+      shownCount = secArts.length;
+      if(isRecent){
+        const cap = (RECENT_LIMITS.by_section && RECENT_LIMITS.by_section[s.id]) || RECENT_LIMITS.per_section;
+        shownCount = Math.min(shownCount, cap);
+      }
     }
     h += `<div class="sec"><div class="sh">${s.num} ${esc(s.title)} · ${shownCount}건</div>`;
     if(s.subgroups && s.subgroups.length){
