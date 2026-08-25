@@ -342,6 +342,13 @@ SPORTS_DOMAINS = {
     "sportskhan.news", "star.mt.co.kr", "star.ohmynews.com",
 }
 
+# 통신과 무관한 전문매체 도메인 차단 (제약·의약·바이오 등) — 전 섹션 공통
+BLOCK_DOMAINS = {
+    "dailypharm.com", "yakup.com", "medipana.com", "docdocdoc.co.kr",
+    "bosa.co.kr", "medicaltimes.com", "monews.co.kr", "hitnews.co.kr",
+    "pharmnews.com", "medifonews.com", "kmpnews.co.kr",
+}
+
 # ────────────────────────────────────────────────
 # 수집/선별 파라미터
 # ────────────────────────────────────────────────
