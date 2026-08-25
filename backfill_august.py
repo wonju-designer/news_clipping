@@ -152,17 +152,20 @@ def run():
                                   extra_exclude=ex, require_any=req,
                                   require_context=cat.get("require_context", ()))
         # AI 관련성 필터 — 키워드가 우연히 걸린 무관 기사 제거
+        # (계열사는 회사명 매칭+제외어로 이미 걸러지므로 AI 필터 제외 — 과도 제거 방지)
         if cat.get("subgroups"):
-            filtered = []
-            for sg in cat["subgroups"]:
-                sg_arts = [a for a in arts if a.get("subgroup") == sg["id"]]
-                if sg_arts:
-                    filtered += analyze.relevance_filter(sg_arts, sg["id"])
-            arts = filtered
+            pass  # 계열사는 AI 관련성 필터 건너뜀
         else:
             arts = analyze.relevance_filter(arts, cat["id"])
         section_arts[cat["id"]] = arts
         print(f"  {cat['num']} {cat['title']}: {len(arts)}건")
+
+    # 1.5) AI 요약 — 원문 자르기 대신 Groq로 자연스러운 요약 (매일 클리핑과 동일 품질)
+    all_arts = [a for cat in config.CATEGORIES for a in section_arts[cat["id"]]]
+    if all_arts:
+        print(f"  [요약] {len(all_arts)}건 AI 요약")
+        analyze.summarize(all_arts)
+
 
     # 2) 발행일(YYYY-MM-DD)별로 분배
     by_day = {}   # day -> {cat_id: [arts]}
