@@ -1,36 +1,36 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25 10:05",
+  "generated_at": "2026-08-25 10:21",
   "top5": [
     {
       "rank": 1,
+      "headline": "피클플러스, 자급제·알뜰폰 총비용 비교 제시…휴대폰 공동구매 서비스...",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/243/0000102082?sid=101"
+    },
+    {
+      "rank": 2,
       "headline": "\"싸고 좋은 요금제 알려주는 거 맞아?\"…최적요금제 앞두고 실효성 논란",
       "category": "산업",
       "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721414"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "headline": "eSIM 시장 커지자 로밍 사업 '긴장'…통신사 수익원 위협",
       "category": "산업",
       "link": "https://www.thepublic.kr/news/articleView.html?idxno=315932"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "headline": "[위클리오늘] 이동통신 소식_KT, U+유모바일(8.24)",
       "category": "산업",
       "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791284"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "headline": "U+유모바일, 약정 없이 중고폰·알뜰 유심 요금제 가입 한 번에!",
       "category": "산업",
       "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405933"
-    },
-    {
-      "rank": 5,
-      "headline": "여행객 ‘e심’ 사용 확산… 통신사 로밍 사업에 빨간불",
-      "category": "산업",
-      "link": "https://n.news.naver.com/mnews/article/023/0003994446?sid=105"
     }
   ],
   "sections": [
@@ -38,7 +38,7 @@
       "id": "industry",
       "num": "①",
       "title": "산업 동향",
-      "digest": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. 5G 전환율이 정점에 도달한 가운데, 알뜰폰과 중저가 요금제 확산 등이 영향을 미쳤기 때문이다. 5G 전환율이 정점에 도달한 데다 알뜰폰·중저가 요금제 확산, 단통법 폐지 이후에도 보조금 경쟁이 재현되지 않으면서 기존 무선 사업만으로는 성장을 기대하기 어…. 대상이 되는 사업자에 알뜰폰 업체가 포함되지 않을 것으로 전망되면서 정작 요금 민감 계층은 제도 수혜를. 알뜰폰사업자(MVNO)와 경쟁하는 상황에서 여행용 eSIM까지 확산할 경우 로밍 서비스 이용객이 감소할 가능성이 있기 때문이다.",
+      "digest": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. 5G 전환율이 정점에 도달한 가운데, 알뜰폰과 중저가 요금제 확산 등이 영향을 미쳤기 때문이다. 5G 전환율이 정점에 도달한 데다 알뜰폰·중저가 요금제 확산, 단통법 폐지 이후에도 보조금 경쟁이 재현되지 않으면서 기존 무선 사업만으로는 성장을 기대하기 어…. -통신사 지원금·단말 할인 반영해 24개월 총비용 비교…93만 이용자 기반 공동구매 혜택 적용 -알뜰폰 4~7월 번호이동 4개월 연속 순유출…“1만원대 저가 …. 대상이 되는 사업자에 알뜰폰 업체가 포함되지 않을 것으로 전망되면서 정작 요금 민감 계층은 제도 수혜를.",
       "articles": [
         {
           "title": "여행객 ‘e심’ 사용 확산… 통신사 로밍 사업에 빨간불",
@@ -69,6 +69,17 @@
           "date": "2026-08-23",
           "datetime": "2026-08-23 07:33",
           "link": "https://n.news.naver.com/mnews/article/001/0016265114?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "피클플러스, 자급제·알뜰폰 총비용 비교 제시…휴대폰 공동구매 서비스...",
+          "summary": "-통신사 지원금·단말 할인 반영해 24개월 총비용 비교…93만 이용자 기반 공동구매 혜택 적용 -알뜰폰 4~7월 번호이동 4개월 연속 순유출…“1만원대 저가 …",
+          "press": "economist.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 16:38",
+          "link": "https://n.news.naver.com/mnews/article/243/0000102082?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -151,17 +162,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "[ICT시사용어]도쿄 어코드",
-          "summary": "도쿄 어코드는 지난 4월 일본 도쿄에서 아시아·태평양 지역 주요 통신사·협단체가 모여 6세대(6G) 이동통신을 포함한 차세대 통신 생태계 조성을 위해 약속한 …",
-          "press": "전자신문",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 09:27",
-          "link": "https://n.news.naver.com/mnews/article/030/0003459999?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "\"신입도 AI 역량 본다\"…SKT, 5개 직군서 주니어 인재 모집",
           "summary": "관련 역량을 중요하게 평가하는 것\"이라고 말했다. 한편 올해 상반기 SK텔레콤의 직원 1인당 평균급여는 8800만원으로 집계됐다. 이동통신 3사 중 가장 높은…",
           "press": "아이뉴스24",
@@ -206,12 +206,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "해외 화이트해커 손잡고 서비스 보안 검증하는 LG유플러스",
-          "summary": "LG유플러스가 국내 이동통신사 가운데 처음으로 글로벌 화이트해커를 활용한 버그바운티 프로그램을 가동한다. 국내 보안 검증 체계에 더해 해외 보안 전문가의 집단…",
-          "press": "한국일보",
+          "title": "스마트폰 교체주기 4년으로 길어진다…삼성 ‘A·FE’ 더 중요해진 이유",
+          "summary": "카운터포인트도 교체 주기 전망에서 프리미엄·후불제 중심 시장은 할부, 보상판매, 이동통신사 프로모션 등을 활용할 수 있어 가격 상승에 상대적으로 대응하기 쉽다…",
+          "press": "디지털데일리",
           "date": "2026-08-24",
-          "datetime": "2026-08-24 15:53",
-          "link": "https://n.news.naver.com/mnews/article/469/0000949737?sid=105",
+          "datetime": "2026-08-24 17:21",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238804?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "국민 누구나, '1인 1 에이전트' 시대…IT·통신 기업 '모두의 AI' 끝장 승...",
+          "summary": "SK텔레콤은 2250만개 이동통신 회선과 월간 사용자 1000만명 규모의 ‘에이닷’을 활용해 서비스를 확산한다는 계획이다. KT도 다음, 무신사, 직방, EB…",
+          "press": "한국경제",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 16:17",
+          "link": "https://n.news.naver.com/mnews/article/015/0005324032?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -261,23 +272,23 @@
           "subgroup_label": ""
         },
         {
+          "title": "[위클리오늘] 이동통신 소식_LG유플러스, SK텔레콤(8.25)",
+          "summary": "▲ LG유플러스 직원이 대폭 확대된 '유독 Pick' 내용을 소개하고 있는 모습. LG유플러스, '유독 Pick' 혜택 확대…CGV·배민·AI 추가 LG유플러…",
+          "press": "weeklytoday.com",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 10:08",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791447",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "'기지국 임차료 담합' LG유플러스 패소…공정위 58억원대 과징금 유지",
           "summary": "아파트의 경우 입주자대표회의와 각 이동통신사가 협상을 거쳐 임차료를 결정한다. 이렇게 지급된 임차료는 아파트단지 수입으로 편입돼 장기수선충당금 등으로 활용되며…",
           "press": "thepublic.kr",
           "date": "2026-08-25",
           "datetime": "2026-08-25 10:02",
           "link": "https://www.thepublic.kr/news/articleView.html?idxno=316051",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'S26 FE' 출격에…통신 3사, 중저가폰 고객 유치 경쟁 '시동'",
-          "summary": "삼성전자의 준플래그십 스마트폰 '갤럭시S26 FE(팬에디션)' 출시가 임박하면서 국내 이동통신 3사의 고객 유치 경쟁도 본격화될 전망이다. 이른바 '가성비폰'…",
-          "press": "newsway.co.kr",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 07:14",
-          "link": "https://www.newsway.co.kr/news/view?ud=2026082416351517089",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -294,6 +305,17 @@
           "subgroup_label": ""
         },
         {
+          "title": "\"AI 데이터센터 다음은 AI-RAN\"…엔비디아 실적 발표 앞두고 주목",
+          "summary": "또 과학기술정보통신부 주도로 AI 네트워크 얼라이언스(AINA)를 출범시키고 이동통신 3사를 비롯해 삼성전자, 노키아 등 네트워크 장비 기업과 아마존웹서비스(…",
+          "press": "news.mtn.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 16:44",
+          "link": "https://news.mtn.co.kr/news-detail/2026082415490191080",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "AX 소비자 증가에…통신3사, AI 구독상품 '경쟁'",
           "summary": "뉴스토마토 = 이지은 기자 | 통신 3사가 인공지능(AI) 서비스 이용자가 빠르게 늘어나는 데 맞춰 AI 구독 혜택을 결합한 이동통신 요금제를 잇달아 선보이고…",
           "press": "newstomato.com",
@@ -305,12 +327,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "스마트폰 시장 14% 급감에도 삼성은 성장…애플 제치고 1위 탈환 전망",
-          "summary": "카운터포인트는 삼성전자의 폭넓은 제품군과 지역별 사업 기반, 자체 부품 조달 능력, 이동통신사와 유통망을 통한 판매 경쟁력을 강점으로 꼽았다. 공급망 변동성이…",
-          "press": "joseilbo.com",
+          "title": "비싼 티켓에 150일 홀드백까지...'극장 살리기'의 역설",
+          "summary": "SK텔레콤, KT, LG유플러스로 대표되는 이동통신사와 카드사 등의 제휴 할인은 관객에게 저렴하게 영화를 볼 기회를 제공하지만 할인 비용을 누가 얼마나 부담하…",
+          "press": "straightnews.co.kr",
           "date": "2026-08-24",
-          "datetime": "2026-08-24 15:43",
-          "link": "https://n.news.naver.com/mnews/article/123/0002388912?sid=101",
+          "datetime": "2026-08-24 16:22",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=309545",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -344,28 +366,6 @@
           "date": "2026-08-24",
           "datetime": "2026-08-24 14:52",
           "link": "http://www.segyebiz.com/newsView/20260824511063?OutUrl=naver",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'모두의 AI' 잡아라… 통신3사, 풀스택·연합군으로 주도권 경쟁",
-          "summary": "인공지능 전환(AX) 기업으로 발돋움하는 이동통신 3사가 정부가 추진하는 핵심 대국민 AI 보편화 사업인 '모두의 AI' 본선 무대에 일제히 출사표를 던졌다.…",
-          "press": "newscj.com",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 13:12",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3427278",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "통신3사 담합 대가 더 커진다…손배액 300억대",
-          "summary": "수년 전 적발된 이동통신 3사의 공공기관 입찰 담합이 수백억원대 손해배상 소송으로 이어지고 있습니다. 정부와 공공기관이 통신사들을 상대로 제기한 손해배상 청구…",
-          "press": "biz.sbs.co.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 11:52",
-          "link": "https://n.news.naver.com/mnews/article/374/0000528976?sid=101",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -414,9 +414,9 @@
       "num": "④",
       "title": "그룹 동향",
       "digest": {
-        "powernet": "차열 및 캡 소재 관련주 나노팀, 파워넷, 한빛레이저, 미코 역시 오름세를 유지하고 있다. LFP 배터리 관리 시스템(BMS) 및 전원공급장치 기술을 영위하는 파워넷이 상승하고 있다. 전력변환 시장 진입을 추진하고 있다.",
+        "powernet": "LFP 배터리 관리 시스템(BMS) 및 전원공급장치 기술을 영위하는 파워넷이 상승하고 있다.",
         "mercury": "광통신과 일부 중첩되는 통신장비주에서도 RFHIC(-5.95%), LIG아큐버(-6.38%), 케이엠더블유(-6.89%), 오이솔루션(-5.51%), 서진시스…. 한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규…. 이제는 금리와 채권시장도 AI의 속도를 좌우한다.",
-        "encreative": "전기찬 aT 수출식품이사는 \"북미에서 K-푸드 인지도가 높아지고 있다\"며 \"김치를 비롯한 다양한 한국 식품이 현지 식문화의 트렌드로 자리 잡도록 유망품목 발굴…. aT는 권역별 수출 유망품목을 육성하는 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있다. aT는 시장별 수출유망품목을 육성하기 위한 '글로벌 NEXT(넥스트) K-푸드 프로젝트'를 전개 중인데 북미시장에선 발효식품, 간편식품을 중심으로 총 11개사….",
+        "encreative": "전기찬 aT 수출식품이사는 \"북미에서 K-푸드 인지도가 높아지고 있다\"며 \"김치를 비롯한 다양한 한국 식품이 현지 식문화의 트렌드로 자리 잡도록 유망품목 발굴…. aT는 권역별 수출 유망품목을 육성하기 위한 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있으며, 북미 시장에서는 현지 트렌드를 반영해 발효식품, 간편식품…. aT는 권역별 수출 유망품목을 육성하는 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있다.",
         "ritco": "디엑스지 DXG(대표 김영준)는 TMS(굴뚝자동측정시스템)용 환경분 석기 분야에서 국내 유일의 개발 역량을 갖춘 기업으로, 배출가스 및 대기오염 관리 분야에서…. 시몬스 관계자는 \"실제로 테스트를 끝낸 매트리스를 봐도 거의 원형에 가까운 형태를 유지하는 것을 확인할."
       },
       "articles": [
@@ -428,105 +428,6 @@
           "datetime": "2026-08-24 11:08",
           "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479958",
           "badge": "자사",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "지주사 할인 해제되나… 솔브레인홀딩스, 알짜 계열사 지분 가치 부각",
-          "summary": "차열 및 캡 소재 관련주 나노팀, 파워넷, 한빛레이저, 미코 역시 오름세를 유지하고 있다. X선 검사 장비 및... 2차전지 테마의 경우 글로벌 전기차 판매량…",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 13:28",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479992",
-          "badge": "자사",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "AI 데이터센터 800V 전환 본격화… 솔루엠, 랙 전력변환 시장 공략",
-          "summary": "전력변환 시장 진입을 추진하고 있다. 고전압 DC-DC 컨버터 개발과 검증을 진행하며 글로벌 하이퍼스케일러... 수냉식 서버용 전원공급장치도 개발했다. 솔루엠…",
-          "press": "디지털타임스",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 09:00",
-          "link": "https://n.news.naver.com/mnews/article/029/0003044074?sid=101",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "‘2040 레이스’ 막 오른 핵융합…K-조선·방산 DNA로 ‘인공태양’ 만든...",
-          "summary": "AI 전력난이 당긴 핵융합 속도전 글로벌 리더들이 핵융합에 사로잡힌 근본 원인은 AI 데이터센터의... 다원시스는 전원공급장치 및 제어시스템으로만 2400억원…",
-          "press": "한국경제",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 10:14",
-          "link": "https://n.news.naver.com/mnews/article/050/0000110005?sid=101",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "22㎾ ICCU, 에이텀 북미 상용트럭 겨냥",
-          "summary": "아시아경제는 하빈저가 글로벌 물류기업 페덱스 등과 협력하며 북미 상용차 전동화 시장을 공략하고... 본지는 앞서 에이텀이 임시주주총회에서 차량용 온보드차저와 …",
-          "press": "tokenpost.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 08:38",
-          "link": "https://www.tokenpost.kr/news/market/396198",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "오리엔트정공, 전기차 열계면소재 사업 진출",
-          "summary": "당시 회사는 오리엔트전자의 SMPS 사업을 145억원에 양수하고 전자사업부로 편입했다. 오리엔트정공 관계자는 “전기차 시장이 고성능화될수록 배터리와 전력전자부…",
-          "press": "tokenpost.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 08:28",
-          "link": "https://www.tokenpost.kr/news/market/396193",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "'7분기 만에 흑자' 삼성SDI, 4.4조원 실탄 장착 '북미 ESS·전고체' 광폭...",
-          "summary": "무정전 전원장치(UPS), 배터리 백업장치(BBU), 전동공구 등 고출력 제품 판매와 유럽 시장 판매 확대가 실적... 에너지저장장치(ESS) 사업 확대와 배…",
-          "press": "뉴시스",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 13:50",
-          "link": "https://n.news.naver.com/mnews/article/003/0014144207?sid=101",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "‘2년 만에 뚝딱’ 日 경차 겨냥 BYD가 꺼내든 카드",
-          "summary": "인버터와 DC-DC 컨버터, 차량용 충전기(OBC), 전력분배장치(PDU) 등 전력전자 부품을 배터리팩 앞쪽에 통합한 구조다. 기존 BYD 전륜구동 EV는 이…",
-          "press": "이데일리",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 08:56",
-          "link": "https://n.news.naver.com/mnews/article/018/0006356792?sid=103",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "LG유플러스, 탄탄한 통신 이익에 AIDC 신사업 본궤도[스타즈 IR]",
-          "summary": "파주 AIDC에는 LG전자의 액체냉각 솔루션과 LG에너지솔루션의 고성능 무정전전원장치(UPS) 배터리... “최근 공급보다 수요가 많아 상면 단가가 지속해서 …",
-          "press": "서울경제",
-          "date": "2026-08-23",
-          "datetime": "2026-08-23 17:47",
-          "link": "https://n.news.naver.com/mnews/article/011/0004654278?sid=101",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "K-배터리, ESS 넘어 로봇용 전고체 본다",
-          "summary": "삼성SDI는 오는 10월부터 미국 시장을 겨냥한 ESS용 각형 리튬인산철(LFP) 배터리 양산에 돌입해 연내 공급을 시작한다. AI 데이터센터용 무정전전원장치…",
-          "press": "news.bizwatch.co.kr",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 06:50",
-          "link": "https://n.news.naver.com/mnews/article/648/0000050105?sid=101",
-          "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
         },
@@ -630,12 +531,12 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "[투자를IT다] 2026년 8월 3주차 IT기업 주요 소식과 시장 전망",
-          "summary": "데이터센터, 통신 인프라, 자동차 부문에 걸친 고른 수요 확대가 이번 실적을 이끌었다는 게 회사 측... 기존에는 광통신(텔레콤·데이터콤)과 비광통신(자동차·…",
-          "press": "동아일보",
+          "title": "스페이스X, 인도 통신시장 진출 승인 재신청...통신 메가 마켓 선점 전략",
+          "summary": "광케이블을 깔았다. 다만 험준한 지형 탓에 지상 기지국 건설에 막대한 비용이 들어 한계에 봉착했다. 위성 통신 상용화의 남은 과제 주요 외신들은 스타링크의 재…",
+          "press": "g-enews.com",
           "date": "2026-08-24",
-          "datetime": "2026-08-24 22:42",
-          "link": "https://it.donga.com/109402/",
+          "datetime": "2026-08-24 09:24",
+          "link": "https://www.g-enews.com/view.php?ud=202608232231405860fda4f5ab74_1",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -740,12 +641,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "aT, K-발효·간편식 북미 공략…6개사 현지 유통망 입점",
-          "summary": "aT는 권역별 수출 유망품목을 육성하는 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있다. 북미에서는 현지 소비 트렌드를 고려해 발효식품과 간편식품을 주력…",
-          "press": "newspim.com",
+          "title": "aT, K-발효·간편식으로 북미시장 공략",
+          "summary": "aT는 권역별 수출 유망품목을 육성하기 위한 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있으며, 북미 시장에서는 현지 트렌드를 반영해 발효식품, 간편식품…",
+          "press": "bokuennews.com",
           "date": "2026-08-25",
-          "datetime": "2026-08-25 09:51",
-          "link": "https://www.newspim.com/news/view/20260825000304",
+          "datetime": "2026-08-25 10:18",
+          "link": "http://www.bokuennews.com/news/article.html?no=283017",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -793,5 +694,5 @@
       ]
     }
   ],
-  "total": 64
+  "total": 55
 }
