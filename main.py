@@ -26,6 +26,7 @@ def run(preview: bool = False):
     raw_total = sum(len(v) for v in collected.values())
 
     # AI 관련성 필터 — 키워드가 우연히 걸린 무관 기사 제거
+    # (계열사는 회사명 매칭+제외어로 이미 충분히 걸러지므로 AI 필터 제외 — 과도 제거 방지)
     print("[관련성] AI로 무관 기사 선별 제거")
     for cat in config.CATEGORIES:
         cid = cat["id"]
@@ -33,15 +34,8 @@ def run(preview: bool = False):
         if not arts:
             continue
         if cat.get("subgroups"):
-            # 계열사: subgroup(회사)별로 각 회사 주제에 맞춰 판단
-            filtered = []
-            for sg in cat["subgroups"]:
-                sg_arts = [a for a in arts if a.get("subgroup") == sg["id"]]
-                if sg_arts:
-                    filtered += analyze.relevance_filter(sg_arts, sg["id"])
-            collected[cid] = filtered
-        else:
-            collected[cid] = analyze.relevance_filter(arts, cid)
+            continue  # 계열사는 AI 관련성 필터 건너뜀
+        collected[cid] = analyze.relevance_filter(arts, cid)
 
     # 문서(첨부)용으로 섹션별 넓게 선별 → 이메일은 그 상위만 사용
     print(f"[선별] AI 중요도 판단 (품질 AI: {analyze.QUALITY_AI})")
