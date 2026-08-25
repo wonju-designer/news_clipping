@@ -141,13 +141,39 @@ function renderDays(){
   const today = new Date();
   const cutoff = new Date(today.getFullYear(), today.getMonth(), today.getDate() - (RECENT_DAYS - 1));
   const asDate = s => { const m=/^(\d{4})-(\d{2})-(\d{2})/.exec(s); return m ? new Date(+m[1], +m[2]-1, +m[3]) : null; };
+  // 날짜별 실제 표시 건수 계산 — 목록 숫자와 열었을 때 숫자를 일치
+  const shownTotal = d=>{
+    const dt = asDate(d.date);
+    const isRec = dt ? dt >= cutoff : false;
+    let n = 0;
+    (d.sections||[]).forEach(s=>{
+      if(!s.articles || !s.articles.length) return;
+      if(s.subgroups && s.subgroups.length){
+        s.subgroups.forEach(sg=>{
+          let list = s.articles.filter(a=>a.subgroup===sg.id);
+          if(!isRec) list = list.filter(a=>(a.date||"")===d.date);
+          if(isRec) list = list.slice(0, RECENT_LIMITS.per_company);
+          n += list.length;
+        });
+      } else {
+        let arts = s.articles;
+        if(!isRec) arts = arts.filter(a=>(a.date||"")===d.date);
+        if(isRec){
+          const cap = (RECENT_LIMITS.by_section && RECENT_LIMITS.by_section[s.id]) || RECENT_LIMITS.per_section;
+          arts = arts.slice(0, cap);
+        }
+        n += arts.length;
+      }
+    });
+    return n;
+  };
   const recent = [], older = [];
   DATA.forEach(d=>{
     const dt = asDate(d.date);
     (dt && dt >= cutoff ? recent : older).push(d);
   });
   const btn = d=>`<button class="daybtn ${d.date===curDay&&!query?'on':''}" onclick="pickDay('${d.date}')">
-      <span>${esc(d.date)}</span><span class="cnt">${d.total}건</span></button>`;
+      <span>${esc(d.date)}</span><span class="cnt">${shownTotal(d)}건</span></button>`;
   let html = "";
   if(recent.length){
     html += `<div class="dgrp">매일 클리핑</div>` + recent.map(btn).join("");
