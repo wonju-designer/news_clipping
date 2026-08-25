@@ -62,6 +62,8 @@ def _collect_terms(terms, badge, start, end, seen, extra_exclude=(), require_any
                 continue
             if art["is_sports"]:
                 continue
+            if art["is_blocked"]:
+                continue
             art["summary"] = art["desc"][:120] + ("…" if len(art["desc"]) > 120 else "")
             seen.add(key)
             out.append(art)
