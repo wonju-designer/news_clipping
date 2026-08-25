@@ -1,36 +1,36 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25 10:29",
+  "generated_at": "2026-08-25 10:46",
   "top5": [
     {
       "rank": 1,
-      "headline": "피클플러스, 자급제·알뜰폰 총비용 비교 제시…휴대폰 공동구매 서비스...",
-      "category": "산업",
-      "link": "https://n.news.naver.com/mnews/article/243/0000102082?sid=101"
-    },
-    {
-      "rank": 2,
-      "headline": "\"싸고 좋은 요금제 알려주는 거 맞아?\"…최적요금제 앞두고 실효성 논란",
-      "category": "산업",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721414"
-    },
-    {
-      "rank": 3,
-      "headline": "eSIM 시장 커지자 로밍 사업 '긴장'…통신사 수익원 위협",
-      "category": "산업",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=315932"
-    },
-    {
-      "rank": 4,
       "headline": "[위클리오늘] 이동통신 소식_KT, U+유모바일(8.24)",
       "category": "산업",
       "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791284"
     },
     {
-      "rank": 5,
+      "rank": 2,
       "headline": "U+유모바일, 약정 없이 중고폰·알뜰 유심 요금제 가입 한 번에!",
       "category": "산업",
       "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405933"
+    },
+    {
+      "rank": 3,
+      "headline": "통신3사 새 먹거리 'AI 데이터센터'",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/009/0005724534?sid=105"
+    },
+    {
+      "rank": 4,
+      "headline": "[기자수첩] 소비자 일상 바꾸던 통신 경쟁의 빈자리",
+      "category": "산업",
+      "link": "http://www.metroseoul.co.kr/article/20260823500236"
+    },
+    {
+      "rank": 5,
+      "headline": "무선 수익으로 AI 인프라 장전… 통신 3사, AIDC 총력전",
+      "category": "산업",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=225526"
     }
   ],
   "sections": [
@@ -38,19 +38,8 @@
       "id": "industry",
       "num": "①",
       "title": "산업 동향",
-      "digest": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. 5G 전환율이 정점에 도달한 가운데, 알뜰폰과 중저가 요금제 확산 등이 영향을 미쳤기 때문이다. 5G 전환율이 정점에 도달한 데다 알뜰폰·중저가 요금제 확산, 단통법 폐지 이후에도 보조금 경쟁이 재현되지 않으면서 기존 무선 사업만으로는 성장을 기대하기 어…. -통신사 지원금·단말 할인 반영해 24개월 총비용 비교…93만 이용자 기반 공동구매 혜택 적용 -알뜰폰 4~7월 번호이동 4개월 연속 순유출…“1만원대 저가 …. 대상이 되는 사업자에 알뜰폰 업체가 포함되지 않을 것으로 전망되면서 정작 요금 민감 계층은 제도 수혜를.",
+      "digest": "5G 전환율이 정점에 도달한 가운데, 알뜰폰과 중저가 요금제 확산 등이 영향을 미쳤기 때문이다. 5G 전환율이 정점에 도달한 데다 알뜰폰·중저가 요금제 확산, 단통법 폐지 이후에도 보조금 경쟁이 재현되지 않으면서 기존 무선 사업만으로는 성장을 기대하기 어…. 중고폰과 알뜰폰 요금제를 함께 선택할 수 있는 '유픽 폰&유심'을 출시했다고 24일 밝혔다. 알뜰폰 가입 및 이용과정에서 중고폰 거래 시 가격 흥정 번거로움, 별도 요금제 가입, 일정 기간의 요금제 유지 조건 등이 발생할 수 있었던 만큼 전문 검수를 …. 알뜰폰 시장의 성장과 대규모 해킹 등 대외 변수에도 20년이 넘도록 SK텔레콤·KT·LG유플러스의 점유율 순위는 바뀌지 않았다.",
       "articles": [
-        {
-          "title": "여행객 ‘e심’ 사용 확산… 통신사 로밍 사업에 빨간불",
-          "summary": "가상이동통신망사업자(MVNO·알뜰폰 사업자)와 경쟁하는 상황에서 e심의 수요 증가로 로밍 서비스 이용객까지 줄어들 수 있기 때문이다. FDM CCS에 따르면 …",
-          "press": "조선일보",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 00:34",
-          "link": "https://n.news.naver.com/mnews/article/023/0003994446?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
         {
           "title": "통신3사 새 먹거리 'AI 데이터센터'",
           "summary": "5G 전환율이 정점에 도달한 가운데, 알뜰폰과 중저가 요금제 확산 등이 영향을 미쳤기 때문이다. 통신3사는 새로운 수익원으로 일제히 AIDC를 점찍었다. SK…",
@@ -69,39 +58,6 @@
           "date": "2026-08-23",
           "datetime": "2026-08-23 07:33",
           "link": "https://n.news.naver.com/mnews/article/001/0016265114?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "피클플러스, 자급제·알뜰폰 총비용 비교 제시…휴대폰 공동구매 서비스...",
-          "summary": "-통신사 지원금·단말 할인 반영해 24개월 총비용 비교…93만 이용자 기반 공동구매 혜택 적용 -알뜰폰 4~7월 번호이동 4개월 연속 순유출…“1만원대 저가 …",
-          "press": "economist.co.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 16:38",
-          "link": "https://n.news.naver.com/mnews/article/243/0000102082?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"싸고 좋은 요금제 알려주는 거 맞아?\"…최적요금제 앞두고 실효성 논란",
-          "summary": "대상이 되는 사업자에 알뜰폰 업체가 포함되지 않을 것으로 전망되면서 정작 요금 민감 계층은 제도 수혜를... 이 경우 SK텔레콤·KT·LG유플러스 등 이동통신…",
-          "press": "ebn.co.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 15:12",
-          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721414",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "eSIM 시장 커지자 로밍 사업 '긴장'…통신사 수익원 위협",
-          "summary": "알뜰폰사업자(MVNO)와 경쟁하는 상황에서 여행용 eSIM까지 확산할 경우 로밍 서비스 이용객이 감소할 가능성이 있기 때문이다. FDM CCS 인사이트에 따르…",
-          "press": "thepublic.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 13:48",
-          "link": "https://www.thepublic.kr/news/articleView.html?idxno=315932",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -146,28 +102,6 @@
           "date": "2026-08-23",
           "datetime": "2026-08-23 09:32",
           "link": "https://www.youthdaily.co.kr/news/article.html?no=225526",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "똑똑한 AI도 통신 앞에선 헤맨다…GSMA ‘오픈 텔코 AI’ 승부수",
-          "summary": "세계이동통신사업자연합회(GSMA)는 이에 따라 통신 특화 오픈 모델 생태계를 구축하는 ‘오픈 텔코 AI’를 앞세워 자율 네트워크 구현과 AI 주권 확보를 지원…",
-          "press": "지디넷코리아",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 09:49",
-          "link": "https://n.news.naver.com/mnews/article/092/0002434941?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[ICT시사용어]도쿄 어코드",
-          "summary": "도쿄 어코드는 지난 4월 일본 도쿄에서 아시아·태평양 지역 주요 통신사·협단체가 모여 6세대(6G) 이동통신을 포함한 차세대 통신 생태계 조성을 위해 약속한 …",
-          "press": "전자신문",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 09:27",
-          "link": "https://n.news.naver.com/mnews/article/030/0003459999?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -369,6 +303,72 @@
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
+        },
+        {
+          "title": "AI 칩 가격 인상에 통신업계, AI DC 투자 부담 가중",
+          "summary": "/SK텔레콤 국내 이동통신 3사가 미래 먹거리로 택한 인공지능 데이터센터(AI DC) 사업의 투자 부담이 커지고 있다. 메모리 반도체 가격이 급등하는 '칩플레…",
+          "press": "metroseoul.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 15:26",
+          "link": "http://www.metroseoul.co.kr/article/20260824500378",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통 3사, AI 실행 전략 ‘키’ 인재 육성 사활",
+          "summary": "AI 인재 부족 상황 속에 국내 이동통신 3사가 산학협력은 물론, 내부 직원 대상 교육에도 적극적으로 나서고 있다. KT 직원들이 K-뉴딜 아카데미를 홍보하고…",
+          "press": "segyebiz.com",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 14:52",
+          "link": "http://www.segyebiz.com/newsView/20260824511063?OutUrl=naver",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'모두의 AI' 잡아라… 통신3사, 풀스택·연합군으로 주도권 경쟁",
+          "summary": "인공지능 전환(AX) 기업으로 발돋움하는 이동통신 3사가 정부가 추진하는 핵심 대국민 AI 보편화 사업인 '모두의 AI' 본선 무대에 일제히 출사표를 던졌다.…",
+          "press": "newscj.com",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 13:12",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3427278",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사 담합 대가 더 커진다…손배액 300억대",
+          "summary": "수년 전 적발된 이동통신 3사의 공공기관 입찰 담합이 수백억원대 손해배상 소송으로 이어지고 있습니다. 정부와 공공기관이 통신사들을 상대로 제기한 손해배상 청구…",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 11:52",
+          "link": "https://n.news.naver.com/mnews/article/374/0000528976?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"연휴는 길~지만\" 해외결제·영화·선물 '이 카드' 한 장이면 끝",
+          "summary": "삼성카드 'iD SELECT UP'은 할인 영역을 달마다 고를 수 있어 9월엔 주유/보험/이동통신, 10월엔 의료로 바꿔... 백화점 3사는 9월 3~6일까지…",
+          "press": "m-i.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 10:04",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1405066",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[KT 점검③] 고객정보 뚫린 대가 5000억원대…KT 실적에 찍힌 '해킹 청구...",
+          "summary": "개인정보위 조사 결과 해커는 불법 펨토셀을 통해 KT 이동통신망에 접속했고, KT는 약 11개월 동안 이상 접속을 탐지하지 못했다. 이 과정에서 1만6647명…",
+          "press": "sports.hankooki.com",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 10:00",
+          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6938266",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
         }
       ]
     },
@@ -416,7 +416,7 @@
       "digest": {
         "powernet": "차열 및 캡 소재 관련주 나노팀, 파워넷, 한빛레이저, 미코 역시 오름세를 유지하고 있다. LFP 배터리 관리 시스템(BMS) 및 전원공급장치 기술을 영위하는 파워넷이 상승하고 있다. 전력변환 시장 진입을 추진하고 있다.",
         "mercury": "광통신과 일부 중첩되는 통신장비주에서도 RFHIC(-5.95%), LIG아큐버(-6.38%), 케이엠더블유(-6.89%), 오이솔루션(-5.51%), 서진시스…. 한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규…. 이제는 금리와 채권시장도 AI의 속도를 좌우한다.",
-        "encreative": "전기찬 aT 수출식품이사는 \"북미에서 K-푸드 인지도가 높아지고 있다\"며 \"김치를 비롯한 다양한 한국 식품이 현지 식문화의 트렌드로 자리 잡도록 유망품목 발굴…. aT는 권역별 수출 유망품목을 육성하기 위한 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있으며, 북미 시장에서는 현지 트렌드를 반영해 발효식품, 간편식품…. aT는 권역별 수출 유망품목을 육성하는 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있다.",
+        "encreative": "aT는 권역별 수출 유망품목을 육성하는 '글로벌 NEXT K-푸드 프로젝트'를 추진 중이며, 북미 시장에서는 현지 트렌드를 반영해 발효식품과 간편식품을 주력 …. aT는 권역별 수출 유망품목을 육성하기 위한 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있으며, 북미 시장에서는 현지 트렌드를 반영해 발효식품, 간편식품…. aT는 권역별 수출 유망품목을 육성하는 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있다.",
         "ritco": "디엑스지 DXG(대표 김영준)는 TMS(굴뚝자동측정시스템)용 환경분 석기 분야에서 국내 유일의 개발 역량을 갖춘 기업으로, 배출가스 및 대기오염 관리 분야에서…. 시몬스 관계자는 \"실제로 테스트를 끝낸 매트리스를 봐도 거의 원형에 가까운 형태를 유지하는 것을 확인할."
       },
       "articles": [
@@ -586,6 +586,17 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
+          "title": "대한광통신, 1만3090원으로 소폭 하락…한국투자증권 \"광섬유 레버리지...",
+          "summary": "대한광통신은 광섬유와 광케이블을 생산하는 기업으로, 광섬유 원재료 단계부터 광케이블까지 이어지는 생산 체계를 갖추고 있다. 최근 AI 데이터센터 투자와 통신망…",
+          "press": "cbci.co.kr",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 10:30",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=600926",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
           "title": "중국 금속 게르마늄(金属锗) 공급망 동향",
           "summary": "전략'이 가격을 뒷받침하고 있다\"고 언급했다. 수요 측면에서는 적외선 광학, 광섬유 통신, 상업용 우주항공 및 태양광, 반도체 분야를 중심으로 증가세가 이어질…",
           "press": "dream.kotra.or.kr",
@@ -619,23 +630,12 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "스페이스X, 인도 통신시장 진출 승인 재신청...통신 메가 마켓 선점 전략",
-          "summary": "광케이블을 깔았다. 다만 험준한 지형 탓에 지상 기지국 건설에 막대한 비용이 들어 한계에 봉착했다. 위성 통신 상용화의 남은 과제 주요 외신들은 스타링크의 재…",
-          "press": "g-enews.com",
+          "title": "[투자를IT다] 2026년 8월 3주차 IT기업 주요 소식과 시장 전망",
+          "summary": "데이터센터, 통신 인프라, 자동차 부문에 걸친 고른 수요 확대가 이번 실적을 이끌었다는 게 회사 측... 기존에는 광통신(텔레콤·데이터콤)과 비광통신(자동차·…",
+          "press": "동아일보",
           "date": "2026-08-24",
-          "datetime": "2026-08-24 09:24",
-          "link": "https://www.g-enews.com/view.php?ud=202608232231405860fda4f5ab74_1",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[르포]독일 거장건축가 설계 그대로 살린 디지털리얼티 데이터센터[AIDC...",
-          "summary": "하지만 국가 산업 경쟁력을 좌우하는 핵심 인프라라는 공통된 인식에도 AI 데이터센터(AIDC) 확장까지... 단일 데이터센터를 넘어 프랑크푸르트 전체를 아우르…",
-          "press": "view.asiae.co.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 06:30",
-          "link": "https://n.news.naver.com/mnews/article/277/0005806178?sid=105",
+          "datetime": "2026-08-24 22:42",
+          "link": "https://it.donga.com/109402/",
           "badge": "산업",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -729,23 +729,23 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
+          "title": "aT, LA서 북미 아시안 유통망 공략 나서",
+          "summary": "aT는 권역별 수출 유망품목을 육성하는 '글로벌 NEXT K-푸드 프로젝트'를 추진 중이며, 북미 시장에서는 현지 트렌드를 반영해 발효식품과 간편식품을 주력 …",
+          "press": "daily.hankooki.com",
+          "date": "2026-08-25",
+          "datetime": "2026-08-25 10:42",
+          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1398870",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
           "title": "aT, K-발효·간편식으로 북미시장 공략",
           "summary": "aT는 권역별 수출 유망품목을 육성하기 위한 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있으며, 북미 시장에서는 현지 트렌드를 반영해 발효식품, 간편식품…",
           "press": "bokuennews.com",
           "date": "2026-08-25",
           "datetime": "2026-08-25 10:18",
           "link": "http://www.bokuennews.com/news/article.html?no=283017",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "aT, K-발효·간편식 북미 공략…6개사 현지 유통망 입점",
-          "summary": "aT는 권역별 수출 유망품목을 육성하는 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있다. 북미에서는 현지 소비 트렌드를 고려해 발효식품과 간편식품을 주력…",
-          "press": "newspim.com",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 09:51",
-          "link": "https://www.newspim.com/news/view/20260825000304",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
