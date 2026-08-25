@@ -127,6 +127,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 </div>
 <script>
 const DATA = __DATA__;
+const RECENT_LIMITS = __RECENT_LIMITS__;
 const CATS = [["all","전체"],["industry","산업"],["own","자사"],["competitor","경쟁사"],["group","그룹"]];
 let curDay = DATA.length ? DATA[0].date : null;
 let curCat = "all";
@@ -136,7 +137,7 @@ const esc = s => (s||"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt
 
 function renderDays(){
   // 최근 2일(오늘+어제)은 '매일 클리핑', 그보다 오래된 날짜는 '지난 소식'
-  const RECENT_DAYS = 2;
+  const RECENT_DAYS = 3;
   const today = new Date();
   const cutoff = new Date(today.getFullYear(), today.getMonth(), today.getDate() - (RECENT_DAYS - 1));
   const asDate = s => { const m=/^(\d{4})-(\d{2})-(\d{2})/.exec(s); return m ? new Date(+m[1], +m[2]-1, +m[3]) : null; };
@@ -178,7 +179,7 @@ function renderDay(){
   let h = `<div class="card"><div class="hd"><div class="d">${headTitle}</div></div>`;
   // 최근 2일(매일 클리핑)만 Top5·동향요약 노출, 지난 소식이면 숨김
   const _today = new Date();
-  const _cutoff = new Date(_today.getFullYear(), _today.getMonth(), _today.getDate() - (2 - 1));
+  const _cutoff = new Date(_today.getFullYear(), _today.getMonth(), _today.getDate() - (3 - 1));
   const _m = /^(\d{4})-(\d{2})-(\d{2})/.exec(d.date);
   const _dt = _m ? new Date(+_m[1], +_m[2]-1, +_m[3]) : null;
   const isRecent = _dt ? _dt >= _cutoff : false;
@@ -192,11 +193,24 @@ function renderDay(){
   d.sections.forEach(s=>{
     if(curCat!=="all" && s.id!==curCat) return;
     if(!s.articles.length) return;
-    h += `<div class="sec"><div class="sh">${s.num} ${esc(s.title)} · ${s.articles.length}건</div>`;
+    // 지난 소식이면 그날(d.date) 발행 기사만 — 최근 3일치 수집으로 인한 날짜 중복 제거
+    let secArts = s.articles;
+    if(!isRecent){
+      const onlyDay = s.articles.filter(a=>(a.date||"")===d.date);
+      if(onlyDay.length) secArts = onlyDay;
+    }
+    if(!secArts.length) return;
+    // 표시 건수 계산(최근이면 상한 적용)
+    let shownCount = secArts.length;
+    if(isRecent && !(s.subgroups && s.subgroups.length)){
+      const cap = (RECENT_LIMITS.by_section && RECENT_LIMITS.by_section[s.id]) || RECENT_LIMITS.per_section;
+      shownCount = Math.min(shownCount, cap);
+    }
+    h += `<div class="sec"><div class="sh">${s.num} ${esc(s.title)} · ${shownCount}건</div>`;
     if(s.subgroups && s.subgroups.length){
       // 회사별 소그룹 — 아코디언(기본 접힘). 번호 접두어가 남아있으면 제거
       s.subgroups.forEach(sg=>{
-        let list = s.articles.filter(a=>a.subgroup===sg.id);
+        let list = secArts.filter(a=>a.subgroup===sg.id);
         if(!list.length) return;
         // 자사(badge=자사) 기사를 먼저, 그다음 산업 — 각 그룹 내 원래 순서 유지
         list = [...list].sort((a,b)=>{
@@ -204,6 +218,8 @@ function renderDay(){
           const bv = b.badge==="자사" ? 0 : 1;
           return av - bv;
         });
+        // 최근(매일 кл리핑)이면 회사당 적게, 지난 소식이면 전체
+        if(isRecent){ list = list.slice(0, RECENT_LIMITS.per_company); }
         const label = esc((sg.label||"").replace(/^\d+-\d+\s*/, ""));
         const dg = (isRecent && s.digest && typeof s.digest==="object") ? (s.digest[sg.id]||"") : "";
         h += `<details class="sg"><summary><span class="sgname">${label}</span>`+
@@ -214,8 +230,13 @@ function renderDay(){
              `</div></details>`;
       });
     } else {
+      let arts = secArts;
+      if(isRecent){
+        const cap = (RECENT_LIMITS.by_section && RECENT_LIMITS.by_section[s.id]) || RECENT_LIMITS.per_section;
+        arts = arts.slice(0, cap);
+      }
       if(isRecent && s.digest && typeof s.digest==="string") h += `<div class="dg">${esc(s.digest)}</div>`;
-      h += s.articles.map(artHTML).join("");
+      h += arts.map(artHTML).join("");
     }
     h += `</div>`;
   });
@@ -259,6 +280,12 @@ render();
 def build() -> str:
     days = _load_all()
     html = TEMPLATE.replace("__DATA__", json.dumps(days, ensure_ascii=False))
+    _recent_limits = {
+        "per_section": config.RECENT_MAX_PER_SECTION,
+        "by_section": config.RECENT_MAX_BY_SECTION,
+        "per_company": config.RECENT_MAX_PER_COMPANY,
+    }
+    html = html.replace("__RECENT_LIMITS__", json.dumps(_recent_limits, ensure_ascii=False))
     os.makedirs(PUBLISH_DIR, exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         f.write(html)
