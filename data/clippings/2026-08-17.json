@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 13:22 소급 정리",
+  "backfill_note": "※ 2026-08-25 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-25 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -110,23 +110,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "페이스페이 품은 LGU+망 토스 알뜰폰, 가입자 56%가 2030세대",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
-          "press": "지디넷코리아",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:01",
-          "link": "https://n.news.naver.com/mnews/article/092/0002434135?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "LG U+, 알뜰폰에 토스 ‘페이스페이’ 결합…2030 가입자 절반 넘어",
           "summary": "LG유플러스는 가격과 데이터 제공량을 중심으로 경쟁해온 알뜰폰 시장에서 결제, 유통 등 일상생활과 연계한 제휴 상품을 늘려 차별화한다는 계획이다. 박대용 LG유플러스 MVNO사업담당은 “알뜰폰 시장에서도...",
           "press": "매일경제",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:01",
           "link": "https://n.news.naver.com/mnews/article/009/0005721830?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "페이스페이 품은 LGU+망 토스 알뜰폰, 가입자 56%가 2030세대",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
+          "press": "지디넷코리아",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:01",
+          "link": "https://n.news.naver.com/mnews/article/092/0002434135?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -308,23 +308,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "LGU+·토스모바일 '페이스페이' 요금제…가입자 56%가 2030",
-          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
-          "press": "newstomato.com",
-          "date": "2026-08-17",
-          "datetime": "2026-08-17 09:02",
-          "link": "http://www.newstomato.com/ReadNews.aspx?no=1310398&inflow=N",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKB는 웃고 KT스카이라이프·LG헬로는 울고···유료방송3사 실적 '희비...",
           "summary": "방송은 VOD 매출 감소, 알뜰폰은 이동통신 시장 저가 요금제 경쟁이 실적 하락의 주요 원인으로 작용했다. 렌탈 부문은 성수기 가전시장 경쟁이 치열해지면서 전년 동기 대비 31.7% 감소한 308억원을 기록했다...…",
           "press": "sisajournal-e.com",
           "date": "2026-08-17",
           "datetime": "2026-08-17 09:02",
           "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423103",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+·토스모바일 '페이스페이' 요금제…가입자 56%가 2030",
+          "summary": "박대용 LG유플러스 MVNO사업담당은 \"알뜰폰 시장에서도 고객의 이용 경험을 높일 수 있는 차별화 서비스에 대한 수요가 지속 확대되고 있다\"며 \"다양한 파트너사와 협력을 확대해 통신 서비스를 넘어 고객 일상에...",
+          "press": "newstomato.com",
+          "date": "2026-08-17",
+          "datetime": "2026-08-17 09:02",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1310398&inflow=N",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

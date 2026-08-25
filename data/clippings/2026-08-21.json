@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
-  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 13:22 소급 정리",
+  "backfill_note": "※ 2026-08-25 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-25 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -132,72 +132,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "영화 개봉 150일 뒤 OTT 공개 ‘홀드백’ 추진… 시민단체 “소비자 배제...",
-          "summary": "이어 “극장 측의 영화 티켓 가격 폭리, 이동통신사의 기만적인 영화 티켓 할인 마케팅, 영화계가 개선을 요구해 온 객단가 정상화와 할인 내역 투명성 강화는 문체부의 소극적 태도로 전혀 해결되지 않고 있다”고...",
-          "press": "조선비즈",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 21:55",
-          "link": "https://n.news.naver.com/mnews/article/366/0001187668?sid=102",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "AI-RAN 경쟁, 기술 넘어 검증으로…\"운영 역량이 승부처\"",
-          "summary": "ETRI를 비롯해 통신 3사와 한국정보통신기술협회(TTA), 대학 등이 참여한다. 프로젝트는 체계적으로 이동통신망 데이터를 수집하고 AI 모델을 학습시킨 뒤 AI 기반 RAN의 성능을 검증할 수 있는 가상 네트워크 …",
-          "press": "디지털데일리",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 16:36",
-          "link": "https://n.news.naver.com/mnews/article/138/0002238583?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "스타링크 넘어 모바일 시장으로?...스페이스X, 8조 원 주파수 '눈독'",
-          "summary": "이 주파수 대역은 미국 인구 대부분을 커버할 수 있어, 향후 위성 사업자가 지상 네트워크를 구축하고 독자적인 이동통신 서비스를 제공하는 데 핵심적인 자원으로 꼽힙니다. 그레인 매니지먼트 측은 이번 매각을 통해 약..…",
-          "press": "YTN",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 15:56",
-          "link": "https://n.news.naver.com/mnews/article/052/0002396375?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "이동통신 시장 직접 진출?…스페이스X, 8조원대 美주파수 군침",
-          "summary": "당초 미국 3대 이동통신사인 T-모바일이 스프린트를 인수하면서 승계·보유하고 있었지만, 그레인 매니지먼트와의 주파수 맞교환을 통해 시장에 나오게 됐다. 그레인 매니지먼트 측은 매각을 통해 60억 달러(약 8조원)를.…",
-          "press": "연합뉴스",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 15:10",
-          "link": "https://n.news.naver.com/mnews/article/001/0016263931?sid=104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"삼성, 올해 애플 제치고 4년 만에 스마트폰 왕좌 탈환 전망\"",
-          "summary": "카운트포인트리서치의 양왕 수석 연구원은 \"삼성의 스마트폰 1위 복귀는 내부 부품 생산 역량, 폭넓은 제품 포트폴리오, 그리고 이동통신사 및 유통업체와 구축한 탄탄한 관계 덕분\"이라고 진단했다. 애플의 경우...",
-          "press": "아주경제",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 15:06",
-          "link": "https://www.ajunews.com/view/20260821142935104",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "한국농어촌공사, 캄보디아 논에 메탄 감축 시범사업 추진",
-          "summary": "또한 메탄 감축 효과의 측정·보고·검증(MRV) 체계를 마련해, 이동통신 앱을 통해 농가가 영농일지와 물관리 입증자료를 제출하도록 한다. 위성 기반 이행 검증 시스템도 개발·적용할 예정이다. 권영준 공사...",
-          "press": "파이낸셜뉴스",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 13:58",
-          "link": "https://n.news.naver.com/mnews/article/014/0005564653?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "법무법인 광장, ALB ‘2026 아시아 최고 사이버 보안·데이터 로펌’ 선...",
           "summary": "대표적으로 5G 이동통신서비스 이용자들이 국내 이동통신 3사를 상대로 제기한 대규모 손해배상청구 소송에서 최근 전부 승소 판결을 이끌어냈다. 또 이용자들이 개인정보의 가명처리에 대한 처리 정지를...",
           "press": "헤럴드경제",
@@ -253,28 +187,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "웨이브일렉트로닉스, LIG D&A '2026년 수출사업이익공유제' 첫 최우수 협...",
-          "summary": "웨이브일렉트로닉스는 1999년 설립된 방산·통신 전문기업으로, 방산사업부에서 유도무기체계의 핵심 부품과 점검장치를, 통신사업부에서 이동통신 기지국 및 중계기용 전력증폭기, RRH, 무선통신 시스템의 RF 송신부...",
-          "press": "gukjenews.com",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 19:44",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3667693",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[더나은미래 경제 브리핑] 삼성전자, 100조 규모 주주환원 ‘사상 최대...",
-          "summary": "이밖에도 금감원은 한국정보통신진흥협회의 ‘엠세이퍼(M-Safer)’에서 본인 명의 이동통신 신규 가입을 미리 차단해 대포폰 개통 피해를 예방하고, 이미 피해가 발생했을 시 금융결제원의 계좌통합관리서비스...",
-          "press": "futurechosun.com",
-          "date": "2026-08-21",
-          "datetime": "2026-08-21 18:20",
-          "link": "https://futurechosun.com/?p=158260",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "법무법인 광장, ALB 사이버보안·데이터 분야 로펌 선정",
           "summary": "광장에 따르면 TMT&DPC 그룹은 5G 이동통신서비스 이용자들이 국내 이동통신 3사를 상대로 제기한 손해배상청구 소송에 참여했으며, 개인정보 가명처리와 관련한 처리정지 청구 소송에서는...",
           "press": "lawissue.co.kr",
@@ -286,56 +198,144 @@
           "subgroup_label": ""
         },
         {
-          "title": "\"6G, AI 핵심 통신망…선제 조건은 AI-RAN 구축\"…한국통신학회 6G 워크숍",
-          "summary": "두 기관은 6G가 AI 인프라의 필수 조건이라는 데 공통된 입장을 보였다.6G는 국제전기통신연합(ITU)이 2023년 발표한 차세대 이동통신 표준이다. 5G까지는 속도·용량·지연시간 등이 핵심이었다면, 6G는 여기에…",
-          "press": "news.mtn.co.kr",
+          "title": "‘모두의 AI’에 뛰어든 기업들",
+          "summary": "LG유플러스 등 LG그룹 주요 계열사가 카카오에 합류하면서, 통신3사 모두 이 사업에 도전한다. 일정이... 특히 자사 모델 '에이닷엑스(A.X) K2'와 AI 데이터센터, 약 2250만 이동통신 회선 등 자체 AI…",
+          "press": "byline.network",
           "date": "2026-08-21",
-          "datetime": "2026-08-21 16:50",
-          "link": "https://news.mtn.co.kr/news-detail/2026082115355518085",
+          "datetime": "2026-08-21 09:18",
+          "link": "https://byline.network/?p=9004111222616013",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "카운터포인트리서치 \"올해 글로벌 스마트폰 출하량 14%↓...삼성 선두 복...",
-          "summary": "카운트포인트리서치 양 왕 수석연구원은 \"삼성의 스마트폰 1위 복귀는 내부 부품 생산 역량, 폭넓은 제품 포트폴리오, 그리고 이동통신사 및 유통업체와 구축한 탄탄한 관계 덕분\"이라고 설명했다. 실제 삼성전자는 이달..…",
-          "press": "livebiz.today",
+          "title": "문진석, 미성년 자녀 통신비 15% 세액공제 추진…장애 자녀는 30%",
+          "summary": "문 의원은 \"이동통신서비스는 보험·의료·교육 서비스에 못지않게 현대생활을 영위하는 데 필수적인 서비스가 돼 미성년자 통신비 등이 가계에 상당한 부담으로 작용할 수 있다\"고 발의 배경을 설명했다. 이어 \"특히...",
+          "press": "sejungilbo.com",
           "date": "2026-08-21",
-          "datetime": "2026-08-21 15:30",
-          "link": "https://www.livebiz.today/news/articleView.html?idxno=204317",
+          "datetime": "2026-08-21 08:26",
+          "link": "https://www.sejungilbo.com/news/articleView.html?idxno=59742",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "스페이스X, 8조원대 美주파수 눈독…이동통신 시장 직접 진출?",
-          "summary": "당초 미국 3대 이동통신사 T-모바일이 스프린트를 인수하면서 승계·보유하고 있었지만, 그레인 매니지먼트와의 주파수 맞교환을 통해 시장에 나오게 됐습니다. 그레인 매니지먼트 측은 매각을 통해 60억 달러(약 8조원).…",
-          "press": "biz.sbs.co.kr",
+          "title": "AI 생태계 \"주도권 잡아라\"…통신 3사, 인프라·플랫폼·망 '3각축' 고도...",
+          "summary": "국내 이동통신 3사가 일제히 인공지능(AI) 관련 대형 사업과 핵심 기술 성과를 내놓으며 미래 AI 생태계 주도권 확보를 위한 전방위 경쟁에 나섰다. SK텔레콤(SKT)과 KT에 이어 LG유플러스(LGU+)까지 정부…",
+          "press": "youthdaily.co.kr",
           "date": "2026-08-21",
-          "datetime": "2026-08-21 15:19",
-          "link": "https://n.news.naver.com/mnews/article/374/0000528698?sid=104",
+          "datetime": "2026-08-21 08:00",
+          "link": "https://www.youthdaily.co.kr/news/article.html?no=225367",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "\"보문단지 가면 한 끼는 여기서\"…경주 맷돌순두부, 국내산 순두부로 여...",
-          "summary": "다만 이동통신·카드 소비 기반 빅데이터를 활용한 분석인 만큼 동일인의 중복 집계 가능성은 존재한다. 맷돌순두부 관계자는 \"여름철 경주와 보문단지를 찾는 방문객에게 지역 식재료를 활용한 순두부 메뉴를 제공하고...",
-          "press": "newsroad.co.kr",
+          "title": "AI 투자 전념하는 통신3사…곳간 사정은 '제각각'",
+          "summary": "국내 이동통신 3사의 올해 상반기 자금 사정이 엇갈린 흐름을 보였다. SK텔레콤과 KT의 현금성자산은 1년 전보다 감소한 반면 LG유플러스는 증가했다. 업계에서는 AI를 비롯한 신사업 투자 확대로 대규모 재원이...",
+          "press": "newsway.co.kr",
           "date": "2026-08-21",
-          "datetime": "2026-08-21 14:40",
-          "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63184",
+          "datetime": "2026-08-21 07:58",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026082016113507065",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "[더나은미래 생활 TIP] \"아차\" 하는 순간 계좌는 '텅~'…금융당국이 말하...",
-          "summary": "'엠세이퍼(M-Safer) 휴대폰 가입제한' 활용 : 타인이 내 명의로 휴대폰을 신규 개통해 대포폰으로 활용하는 피해를 예방하려면, 한국정보통신진흥협회의 '엠세이퍼(M-Safer)'에서 본인 명의 이동통신 신규 가입…",
-          "press": "futurechosun.com",
+          "title": "[Who Is ?] 김종철 방송미디어통신위원회 위원장",
+          "summary": "<연합뉴스> △통신·플랫폼 이용자 보호와 부처 간 정책조정 강화 김종철은 이동통신과 온라인 플랫폼 등... 지상파 3사와 JTBC 사장단이 참석한 간담회를 열었다. 그러나 간담회에서도 합의점을 찾지 못하면서 협상은.…",
+          "press": "businesspost.co.kr",
           "date": "2026-08-21",
-          "datetime": "2026-08-21 14:38",
-          "link": "https://futurechosun.com/?p=158150",
+          "datetime": "2026-08-21 07:00",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443953",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "‘미운 오리’들의 부활…살아나는 LG그룹주",
+          "summary": "LG유플러스도 실적 반등이 뚜렷하다. 2분기 매출은 3조6949억원으로 전년 동기 대비 4% 감소했지만, 영업이익이 3445억원으로 같은 기간 13% 증가하며 역대 2분기 최대 실적을 기록했다. 5G 대규모 투자가 …",
+          "press": "매일경제",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 21:01",
+          "link": "https://n.news.naver.com/mnews/article/024/0000107712?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'모두의 AI' 뛰어든 통신 3사 강점은?...\"AIDC·가입자\"",
+          "summary": "SK텔레콤·KT·LG유플러스 등 이통3사가 정부 대국민 AI 서비스 '모두의 AI' 사업에 뛰어들었다. 대규모 가입자 기반과 AI데이터센터(AIDC) 인프라 운영 경험이 이통사의 강점으로 꼽히는 가운데, 기존 범용 …",
+          "press": "지디넷코리아",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 17:12",
+          "link": "https://n.news.naver.com/mnews/article/092/0002434698?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "높아지는 빌딩·잦은 재난에…\"6G 커버리지는 위성으로\"",
+          "summary": "김성관 KT 미래네트워크Lab 팀장은 'KT 6G 비전'을 발표하며 지상망 커버리지의 한계를 짚었다. 고층 건물이... 한편 김 팀장은 5G가 남긴 과제도 짚었다. 그는 \"5G를 시작하며 4차 산업혁명과 버티컬 산업…",
+          "press": "디지털데일리",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 17:10",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238596?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AI-RAN 경쟁, 기술 넘어 검증으로…\"운영 역량이 승부처\"",
+          "summary": "SK텔레콤은 국내 통신사 중 유일하게 AI-RAN 얼라이언스 이사회에 참여하고 있으며 5G 단독모드(SA)와 네트워크 슬라이싱을 활용해 피지컬 AI로 확장하는 실증을 수행했다. KT는 성남 상용망에서 AI 서비스 실…",
+          "press": "디지털데일리",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 16:36",
+          "link": "https://n.news.naver.com/mnews/article/138/0002238583?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "유가 뛰자 웃은 정유사들…그럼에도 신사업으로 ‘탈유가’ 속도",
+          "summary": "또 LG유플러스 평촌 2센터에서 데이터센터용 액침냉각유 실증 작업을 마쳤다. 정유사들은 국제유가 상승이라는 단기 호재를 누리는 동시에 유가와 정제마진에 따라 실적이 흔들리는 기존 사업 구조에서 벗어나기 위한...",
+          "press": "아이뉴스24",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 16:11",
+          "link": "https://n.news.naver.com/mnews/article/031/0001051510?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, Z세대가 꼽은 올해 트렌드 5가지 발표…'네트왓킹·스크롤픽'",
+          "summary": "KT는 이번 트렌드 키워드와 가입자 의견을 향후 상품·서비스 및 경험 개선에 적극 반영할 예정이다. KT 커스터머사업본부장 김영걸 상무는 \"앞으로도 고객의 목소리와 트렌드 인사이트를 상품과 서비스에 적극 반영해...",
+          "press": "파이낸셜뉴스",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 11:02",
+          "link": "https://n.news.naver.com/mnews/article/014/0005564577?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "고석태 제논 대표, \"제나로 '모두의 AI' 도전⋯검증된 AI 경험을 국민에...",
+          "summary": "SK텔레콤·KT·카카오·이스트소프트·엠케이디·제논 등 6개 사업자가 제안서를 제출했다. 대다수가 여러... 회사에 따르면 최근 두 달간 제나 방문자 수는 약 9000명, 신규 가입자의 77%는 가입 당일부터 서비스를…",
+          "press": "아이뉴스24",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 09:41",
+          "link": "https://n.news.naver.com/mnews/article/031/0001051336?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "대신증권 \"'엔비디아와 협력' LG, 글로벌 AI 밸류체인 편입 신호\"",
+          "summary": "엔비디아와 LG의 협력은 단기 실적보다 LG가 글로벌 빅테크 인공지능(AI) 밸류체인 편입으로 시장의 인정을... 데이터센터 구축 단계에서는 LG전자의 칠러 등 냉각 솔루션과 LG씨엔에스·LG유플러스의 데이터센터 사…",
+          "press": "연합뉴스",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 08:41",
+          "link": "https://n.news.naver.com/mnews/article/001/0016262780?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -381,6 +381,17 @@
           "date": "2026-08-21",
           "datetime": "2026-08-21 17:29",
           "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243529",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[사는 곳이 계급인 나라 ⑩] 막대한 전력 생산해도 지역에선 쓰지도 못...",
+          "summary": "손 과장은 이어 \"데이터센터의 경우에도 40MW급 정도라면 현재 전력망 안에서도 공급을 검토할 수 있지만... 무정전전원공급장치(UPS) 등 자체 보호설비도 안내하고 있다\"고 설명했다.◆ 고준위 방폐물 관리시설조차.…",
+          "press": "yeongnam.com",
+          "date": "2026-08-21",
+          "datetime": "2026-08-21 14:06",
+          "link": "https://www.yeongnam.com/web/view.php?key=20260821027491408",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
@@ -672,23 +683,23 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "커진 몸집만으론 안 팔린다…프랜차이즈 M&A의 새 기준 [딜레터]",
-          "summary": "다만 국내 상권에 뿌리내린 외식 프랜차이즈와 해외 유통망·공급망이 관건인 식품 제조·수출업은 자본이 값을 매기는 잣대도, 떠안는 위험도 다른 사업이다. 이 둘을 같은 ‘K-푸드 열풍’으로 묶는 것은 편리한 서사일..…",
-          "press": "헤럴드경제",
+          "title": "\"한인마트 안 가도 된다\"…美 대형마트 곳곳 파고든 K푸드",
+          "summary": "만두·김밥은 냉동식품 매대에, 불닭볶음면 등 라면은 할인 매대에 자리해 현지 제품들과 함께 판매되고... 이 같은 K푸드의 성장세는 수출 실적만 봐도 뚜렷하다. 농림축산식품부에 따르면 올해 상반기 K-푸드 수출액은.…",
+          "press": "뉴스1",
           "date": "2026-08-21",
-          "datetime": "2026-08-21 11:13",
-          "link": "https://n.news.naver.com/mnews/article/016/0002686654?sid=101",
+          "datetime": "2026-08-21 06:20",
+          "link": "https://n.news.naver.com/mnews/article/421/0009124912?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "연이은 호실적에 배당 쏟는데 주가는 '바닥'…K-모멘텀 품은 저평가 3사...",
-          "summary": "코스트코 등 글로벌 유통망에서 수출이 크게 늘어나는 등 K-푸드의 글로벌 흥행이 뚜렷한 실적 성장으로 이어지고 있다. 여기에 최근 해외 뷰티 신사업 진출도 공식화하며 추가 성장 동력 확보에도 나섰다. 주주가치...",
-          "press": "파이낸셜뉴스",
+          "title": "[더벨][Company Watch] 롯데웰푸드 냉동·해외사업 전문가 영입…푸드마...",
+          "summary": "CJ제일제당이 냉동식품 시장에서 브랜드와 제품군을 확대하던 시기다. 해외 현장 경험도 갖췄다. 2019년 미국사업 마케팅팀장으로 자리를 옮겨 주재원으로 근무했다. 2024년 냉동식품 사업(Frozen Food BIZ…",
+          "press": "thebell.co.kr",
           "date": "2026-08-21",
-          "datetime": "2026-08-21 09:37",
-          "link": "https://n.news.naver.com/mnews/article/014/0005564517?sid=101",
+          "datetime": "2026-08-21 14:12",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608191401342400102842",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -714,5 +725,5 @@
       ]
     }
   ],
-  "total": 60
+  "total": 61
 }

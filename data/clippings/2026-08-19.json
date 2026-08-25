@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
-  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 13:22 소급 정리",
+  "backfill_note": "※ 2026-08-25 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-25 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -34,7 +34,7 @@
         },
         {
           "title": "SKT, ‘모두의 AI’ 출사표...풀스택 역량 총동원",
-          "summary": "IoT와 알뜰폰 회선을 제외하고 약 2250만 규모의 이동통신 회선과 온오프라인 채널을 통해 AI 서비스를 빠르게 확산해 나갈 계획이다. AI 챗봇부터 생활 밀착 AI 에이전트로 확장 SK텔레콤은 이같은 역량을 바탕…",
+          "summary": "풀스택AI 역량에 2250만 통신 가입자 기반 확산 전 국민이 쓰는 AI 서비스는 일상 곳곳의 다양한 영역을... IoT와 알뜰폰 회선을 제외하고 약 2250만 규모의 이동통신 회선과 온오프라인 채널을 통해 AI 서…",
           "press": "지디넷코리아",
           "date": "2026-08-19",
           "datetime": "2026-08-19 08:52",
@@ -56,7 +56,7 @@
         },
         {
           "title": "[전국 주요 신문 톱뉴스](19일 조간)",
-          "summary": "접는 알뜰폰 풀MVNO 동력 꺼질라 ▲ 파이낸셜뉴스 = 용산공원법 오늘 담판 그린벨트도 빗장 푼다 ▲ 한국경제 = 시대의 아웃사이더, 1970년대생 ▲ 전국매일신문 = 李대통령 \"전작권, 임기 내 차질없이 환수\" ▲…",
+          "summary": "풀MVNO 동력 꺼질라 ▲ 파이낸셜뉴스 = 용산공원법 오늘 담판 그린벨트도 빗장 푼다 ▲ 한국경제 = 시대의 아웃사이더, 1970년대생 ▲ 전국매일신문 = 李대통령 \"전작권, 임기 내 차질없이 환수\" ▲ 경기신문 =…",
           "press": "연합뉴스",
           "date": "2026-08-19",
           "datetime": "2026-08-19 08:00",
@@ -187,23 +187,23 @@
           "subgroup_label": ""
         },
         {
-          "title": "SKT, '모두의AI' 사업 참여…서비스·모델·인프라 역량 결집",
-          "summary": "이는 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외한 수치로, 과학기술정보통신부의 무선통신서비스 가입 현황을 기준으로 했다. SKT는 약 2250만 회선과 온·오프라인 고객 접점을 활용해 AI 서비스의 접근성을 높인…",
-          "press": "businessplus.kr",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 09:34",
-          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115619",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 정부 '모두의AI' 사업 도전…2250만 통신 회선 기반 AI 대중화 나선...",
           "summary": "과기정통부의 2026년 6월 무선통신서비스 가입 현황을 기준으로 IoT와 알뜰폰(MVNO)을 제외한 SKT 이동통신 회선은 2249만8579개다. SKT는 약 2250만 회선과 온·오프라인 채널을 활용해 AI 서비스…",
           "press": "eroun.net",
           "date": "2026-08-19",
           "datetime": "2026-08-19 09:34",
           "link": "https://www.eroun.net/news/articleView.html?idxno=87821",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, '모두의AI' 사업 참여…서비스·모델·인프라 역량 결집",
+          "summary": "이는 사물인터넷(IoT)과 알뜰폰(MVNO)을 제외한 수치로, 과학기술정보통신부의 무선통신서비스 가입 현황을 기준으로 했다. SKT는 약 2250만 회선과 온·오프라인 고객 접점을 활용해 AI 서비스의 접근성을 높인…",
+          "press": "businessplus.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 09:34",
+          "link": "https://www.businessplus.kr/news/articleView.html?idxno=115619",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -275,17 +275,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "[단독]원스토어, 내부 반발에도 '19금' AI챗 추진…부적절 소재 논란",
-          "summary": "한때 이동통신3사 통합 앱 마켓으로 전 국민에게 인지도가 높은 원스토어의 콘텐츠 플랫폼이 유해성 논란이 불가피한 성인물 위주로 개편된다는 점 때문이다. 현재 국내에서는 스캐터랩의 '제타', 뤼튼의 '크랙' 등이 AI…",
-          "press": "뉴스1",
-          "date": "2026-08-19",
-          "datetime": "2026-08-19 10:47",
-          "link": "https://n.news.naver.com/mnews/article/421/0009120564?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "'모두의 AI' 프로젝트에 통신3사 일제히 참여… 각사 구상은?",
           "summary": "정부가 지원하는 대국민 무료 인공지능(AI) 서비스, '모두의 AI' 프로젝트에 SK텔레콤, KT, LG유플러스 등 국내 이동통신 3사가 일제히 뛰어들었다. 정부는 사업자 선정 절차를 거쳐 연내 서비스를 시작할 예정…",
           "press": "nocutnews.co.kr",
@@ -336,6 +325,17 @@
           "date": "2026-08-19",
           "datetime": "2026-08-19 17:18",
           "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850854",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[데일리픽] XRP 고액 거래 280% 폭발…청소년 전용 챗GPT 출시",
+          "summary": "이동통신 3사의 설비투자(CAPEX) 무게중심이 기지국 등 전통적인 통신망에서 AI 인프라로 이동하고 있다. [사진: 셔터스톡] ■ 통신망 넘어 AI DC로…이통3사 투자전략 재편 가속 이동통신 3사의 설비투자(CA…",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-08-19",
+          "datetime": "2026-08-19 17:06",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694026",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -694,12 +694,12 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "[CJ 북미 대도약]③ 슈완스 인수 7년…비비고 1위 이끈 보몬트 공장",
-          "summary": "넥스트 스텝은 '상온식품'… 2~3배 추가 성장 노린다 CJ슈완스는 냉동식품 시장에서 확보한 독보적 경쟁력을 바탕으로 이제 상온 식품 시장으로 영토를 확장하고 있다. 글로벌 시장조사기관 씨르카나(Circana)에 따…",
-          "press": "블로터",
+          "title": "유통망 넓히고, 상온식품 키우고…美식탁 파고드는 CJ",
+          "summary": "냉동 아시안 제품 상위 7개 가운데 CJ 제품이 5개를 차지하는 등 냉동식품을 중심으로 현지 시장에서 입지를 넓혔다.7년간 미국 식품사업을 13배 이상 키운 CJ가 노리는 다음 성장축은 상온식품이다. CJ슈완스는..…",
+          "press": "asiatoday.co.kr",
           "date": "2026-08-19",
-          "datetime": "2026-08-19 16:31",
-          "link": "https://n.news.naver.com/mnews/article/293/0000089272?sid=101",
+          "datetime": "2026-08-19 20:32",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260819010006362",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"

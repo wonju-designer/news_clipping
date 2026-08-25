@@ -1,7 +1,7 @@
 {
   "date": "2026-08-04",
-  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 13:22 소급 정리",
+  "backfill_note": "※ 2026-08-25 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-25 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -143,17 +143,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "“누가 아재폰이라 했나요?” 한 달은 기다려야…‘여권폰’으로 입소...",
-          "summary": "별도 앱 없이 QR코드만으로 데이터를 무선 전송할 수 있고, 삼성의 퀵 셰어(Quick Share)도 아이폰의 에어드롭과 연동돼 사진과 파일을 쉽게 주고받을 수 있다. 사전예약 고객에게는 △구글 AI 프로 6개월 △…",
-          "press": "서울경제",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 21:50",
-          "link": "https://n.news.naver.com/mnews/article/011/0004648555?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "“1분에 140대씩 일주일간 팔았더니”...7년전 ‘노트10’ 기록 깬 괴물...",
           "summary": "KT는 온라인동영상서비스(OTT)와 디바이스 할인을 묶은 ‘초이스 더블’ 요금제를 새로 단장했다. 아울러 이통 3사 모두 쓰던 폰을 반납하면 값을 보상하는 중고폰 프로그램을 운영한다.",
           "press": "매일경제",
@@ -253,34 +242,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "KT, 갤럭시 Z 8 시리즈 오늘 사전개통…예약 절반 이상이 ‘폴드8’",
-          "summary": "KT는 갤럭시 Z 폴드8 울트라·폴드8·플립8 구매 고객 중 초이스 요금제(초이스·초이스 더블) 가입 고객을 대상으로 추첨을 통해 총 888명에게 △5성급 호텔 2박 숙박권(8명) △신세계상품권 20만원(80명) △…",
-          "press": "매일경제",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 11:34",
-          "link": "https://n.news.naver.com/mnews/article/009/0005716353?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "SKT, 갤럭시 Z 폴드8 개통 시작…“사전예약 2040 비중 65%”",
           "summary": "또한 다음달 6일까지 ‘T안심보상 with 민팃’ 프로그램으로 새 폴더블 모델을 구매하고 쓰던 중고폰을 반납하면 모델과 상태에 따라 최대 100만원(갤럭시 Z 폴드7 256GB A급 기준)까지 보상한다. 카드 혜택도…",
           "press": "매일경제",
           "date": "2026-08-04",
           "datetime": "2026-08-04 11:31",
           "link": "https://n.news.naver.com/mnews/article/009/0005716348?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "갤럭시Z ‘사전예약 144만대’ 신기록 세웠다",
-          "summary": "이달 31일까지 갤럭시 Z 폴더블 단말로 넷플릭스 요금제 가입 및 계정 연결을 완료할 경우, 고객 모두에게 1만원 상당의 네이버페이 포인트를 지급한다. 또 ‘폭싹 속았수다’ 배경인 제주도 3박 4일 VIP 여행 패키…",
-          "press": "헤럴드경제",
-          "date": "2026-08-04",
-          "datetime": "2026-08-04 11:31",
-          "link": "https://n.news.naver.com/mnews/article/016/0002679263?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -336,6 +303,39 @@
           "date": "2026-08-04",
           "datetime": "2026-08-04 06:00",
           "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167181",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 갤Z8 사전개통 시작…넷플릭스 등 특화 혜택에 2040 10%p↑",
+          "summary": "◆ 중고폰 보상·제휴카드 할인으로 구매 부담 낮춰 단말기 가격 부담을 낮추기 위한 중고폰 보상과 제휴카드 프로모션도 운영한다. SKT는 9월 6일까지 'T안심보상with민팃'을 통해 신형 폴더블폰을 구매하고 기존..…",
+          "press": "에이피신문",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 22:22",
+          "link": "https://www.apnews.kr/news/articleView.html?idxno=3050271",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, 갤럭시 Z8 시리즈 개통 시작…\"사전예약자 65%가 2040\"",
+          "summary": "오는 9월 6일까지 'T안심보상with민팃' 프로그램을 통해 새로운 폴더블 모델을 구매하고 사용하던 중고폰을 반납하면 중고폰의 모델 및 상태에 따라 최대 100만원까지 보상을 제공한다. 또 8월 한 달간 'T PRE…",
+          "press": "thepublic.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 18:10",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=313785",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 갤럭시 Z8 시리즈 사전개통 시작…\"절반 이상이 폴드8 선택\"",
+          "summary": "아울러 KT는 갤럭시 Z8 시리즈 구매 고객 중 초이스 요금제(초이스·초이스 더블) 가입 고객을 대상으로 총 888명을 추첨해 △5성급 호텔 2박 숙박권(8명) △신세계상품권 20만원(80명) △배달의민족 5만원권(…",
+          "press": "thepublic.kr",
+          "date": "2026-08-04",
+          "datetime": "2026-08-04 18:10",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=313799",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""

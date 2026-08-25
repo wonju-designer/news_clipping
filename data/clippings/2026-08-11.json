@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
-  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 13:22 소급 정리",
+  "backfill_note": "※ 2026-08-25 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-25 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -10,28 +10,6 @@
       "title": "산업 동향",
       "digest": "",
       "articles": [
-        {
-          "title": "라이즈·에이티즈·르세라핌·아일릿·리센느 출연 ‘K-WORLD DREAM AWARDS’...",
-          "summary": "코스닥 상장 통신 소프트웨어 전문기업 네이블이 운영하는 MVNO 브랜드 알비레오(Albireo)는 서비스 오픈을... 알비레오는 SK텔레콤 통신망을 기반으로 이동통신과 K-POP 콘텐츠를 결합한 새로운 형태의 MVN…",
-          "press": "서울신문",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 14:42",
-          "link": "https://n.news.naver.com/mnews/article/081/0003669398?sid=101",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "Stop burner phones with a 'one-strike-out' policy",
-          "summary": "the MVNO industry and retailers are pushing back, arguing that it would be excessive to... The main point is to increase…",
-          "press": "IT조선",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 12:00",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167789",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
         {
           "title": "KT, 구글 AI 혜택 결합한 '초이스 요금제' 신규 라인업 출시",
           "summary": "한편 KT의 알뜰폰 자회사 KT엠모바일은 25∼30GB 고용량 및 무제한 데이터 요금제를 포함해 모두 34종 요금제 가격을 인하했다고 이날 밝혔다. 대상 요금제는 LTE 22종, 5G 12종 등으로, 고용량 데이터 …",
@@ -61,17 +39,6 @@
           "date": "2026-08-11",
           "datetime": "2026-08-11 09:10",
           "link": "https://n.news.naver.com/mnews/article/421/0009106981?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "비용 30% 줄여도 이익 72%↓…LG헬로비전 하반기도 '먹구름'",
-          "summary": "알뜰폰 역시 이동통신 시장의 저가 요금제 경쟁 심화로 매출이 줄었다. 다만 2분기 매출은 직전 분기와 비교하면 0.1% 증가한 368억 원으로 감소세가 일단 주춤했다. 유료방송 사업의 부진은 LG헬로비전만의 문제는.…",
-          "press": "뉴스1",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 06:20",
-          "link": "https://n.news.naver.com/mnews/article/421/0009106755?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -193,17 +160,6 @@
           "date": "2026-08-11",
           "datetime": "2026-08-11 10:12",
           "link": "https://www.itdaily.kr/news/articleView.html?idxno=240908",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[위클리오늘] KT, KT엠모바일(8.11)",
-          "summary": "알뜰폰 시장에서 데이터 사용량이 많은 이용자를 겨냥한 요금 경쟁이 이어지는 가운데 고용량 요금제까지 개편 대상에 포함해 선택 폭을 넓혔다. 이번 개편 대상은 LTE 22종과 5G 12종이다. 특히 25~30GB 구간…",
-          "press": "weeklytoday.com",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 09:26",
-          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=789830",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -336,6 +292,50 @@
           "date": "2026-08-11",
           "datetime": "2026-08-11 10:40",
           "link": "https://www.newstnt.com/news/articleView.html?idxno=713499",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, QoS 요금제 대폭 인하…RS도 준비",
+          "summary": "이번에 인하한 요금제는 KT엠모바일이 KT 망 도매대가를 기반으로 자체 구성한 종량형(RM) 방식의 요금제다. KT엠모바일은 정부가 추진하는 QoS 적용된 수익배분형(RS) 방식 요금제도 별도로 준비하고 있다. 최근…",
+          "press": "hansbiz.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 10:36",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=855899",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "안전∙편의∙몰입 잡는다…LG∙KT∙삼성, 디지털 서비스 강화",
+          "summary": "KT는 구글과 협력해 생성형 AI 혜택을 결합한 '초이스' 요금제 신규 라인업 4종을 선보였다. 신규... 전시관에는 세계 최초 6K 게이밍 모니터 '오디세이 G8'을 비롯해 고성능 SSD '9100 PRO', '갤…",
+          "press": "kdfnews.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 10:18",
+          "link": "http://www.kdfnews.com/news/articleView.html?idxno=186355",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, LTE·5G 요금제 34종 개편..“고용량 데이터 1만원대”",
+          "summary": "브레이크뉴스 정민우 기자= KT엠모바일은 소비자의 통신비 부담을 낮추기 위해 LTE 22종, 5G 12종 등 총 34종에 달하는 대규모 요금제 개편 및 월 이용료 인하를...",
+          "press": "breaknews.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 10:02",
+          "link": "http://www.breaknews.com/1228068",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 데이터 최대 30GB도 1만원대…요금제 34종 인하",
+          "summary": "회사는 이번 요금제 개편으로 고용량·무제한 데이터 요금제가 포함돼 최근 출시된 갤럭시 Z8 시리즈 등 프리미엄 자급제 단말 이용 고객에게도 실질적인 혜택이 돌아갈 것으로 보고 있다. 이번 인하로 월 25~30GB..…",
+          "press": "widedaily.com",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 09:50",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=299171",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -551,17 +551,6 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "완도군, 전복 가공식품으로 여름 보양시장 공략…'손질 걱정 없앴다'",
-          "summary": "이에 완도군은 데쳐서 바로 쓰는 ‘자숙 전복’부터 녹진한 내장 풍미를 살린 ‘전복죽 밀키트’, 간편 반찬용 ‘전복장’과 ‘전복 절편’, ‘전복 차우더’ 등 현대인의 취향에 맞춘 다채로운 밀키트·가공 상품을 대거...",
-          "press": "thebigdata.co.kr",
-          "date": "2026-08-11",
-          "datetime": "2026-08-11 07:40",
-          "link": "http://www.thebigdata.co.kr/view.php?ud=20260810172935103e91b94b033_23",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
           "title": "농수산식품유통공사(aT), '호주 NEXT K-푸드 프로젝트' 수출상담회 성료",
           "summary": "현장에서는 호주 전역에 20여 개 대형유통매장을 보유한 현지 수입사와 냉면, 떡볶이 등 품목에 대해 총 100만 달러 규모의 수출 계약을 맺었다. 이와 함께 현지 유력 수입사들과 32만 달러 상당의 업무협약(MOU)…",
           "press": "cstimes.com",
@@ -612,6 +601,17 @@
           "date": "2026-08-11",
           "datetime": "2026-08-11 16:14",
           "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315095",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "'호주 NEXT K-푸드 프로젝트' 수출상담회서 100만 달러 규모 수출계약",
+          "summary": "현장에서는 호주 전역에 20여 개 대형유통매장을 보유한 현지 수입사와 냉면, 떡볶이 등에 대해 총 100만 달러 규모의 수출계약을 체결됐다. 또 현지 유력 수입사들과 32만 달러 규모의 업무협약이 이뤄졌다. 6일에는…",
+          "press": "foodnews.co.kr",
+          "date": "2026-08-11",
+          "datetime": "2026-08-11 16:08",
+          "link": "http://www.foodnews.co.kr/news/articleView.html?idxno=119730",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"

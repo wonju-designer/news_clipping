@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 13:22 소급 정리",
+  "backfill_note": "※ 2026-08-25 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-25 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -121,17 +121,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "'휴대폰 장사 시들한데'…이통사 실적 이끈 '효자' 정체",
-          "summary": "이동통신사들이 AI 인프라를 미래 먹거리로 점찍고 사업 확장에 나선 가운데 실적에서도 성장세가 본격적으로 확인되고 있다는 평가다. SKT AIDC 매출 92.5% 급증…2029년 5GW 목표 12일 이동통신업계에 따…",
-          "press": "한국경제",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:36",
-          "link": "https://n.news.naver.com/mnews/article/015/0005320036?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "해킹 악재 털고가는 KT…AX·클라우드 두자릿수 성장(종합)",
           "summary": "2분기 무선 가입자는 2950만 1000명으로 전 분기 대비 1.2% 증가했고 MNO 가입자도 2045만 3000명으로 4만 명 늘었다. 해지율은 1분기 1.7%에서 0.9%로 낮아졌다. 유선 사업 매출은 1조 31…",
           "press": "뉴스1",
@@ -149,17 +138,6 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 10:59",
           "link": "https://n.news.naver.com/mnews/article/092/0002433728?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT, 2분기 영업이익 6483억원…성장사업 확대",
-          "summary": "KT는 5세대 이동통신과 엘티이 통합요금제, 초이스 더블 요금제 등을 출시해 고객 선택권을 넓혔다. 인공지능 전환 사업 매출은 22.3% 증가했다. 상반기 금융권 인공지능 전환 사업 22건을 수주했으며, KT클라우드…",
-          "press": "webeconomy.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:46",
-          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2264585",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -220,17 +198,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "KT알파, 상반기 영업익 262억…“수익성 중심 사업구조 정립”",
-          "summary": "지마켓·토스 등 주요 대형 플랫폼과의 제휴를 넓히고 통신 요금제 연계 구독형 상품, 기업 전용 ‘기프티쇼 비즈’의 타깃 마케팅을 강화한 점이 실적 성장을 이끌었다. KT알파는 하반기 전략으로 지난 7월 선포한...",
-          "press": "이데일리",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:32",
-          "link": "https://n.news.naver.com/mnews/article/018/0006350499?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "상반기 매출 1조…통신3사 ‘효자’ 된 AIDC",
           "summary": "전체 실적은 뒷걸음쳤지만 미래 성장 사업으로 키우는 AI·클라우드 등 AX 사업은 두 자릿수 성장했다.... 김준섭 KB증권 애널리스트는 “데이터센터의 실적을 좌우하는 변수는 준공 이후 임차인 확보 기간”이라며...",
           "press": "서울경제",
@@ -264,39 +231,6 @@
           "subgroup_label": ""
         },
         {
-          "title": "엇갈린 통신3사 실적, AI는 나란히 성장…네트워크와 투자 배분은 ‘과...",
-          "summary": "◆ 무선 실적도 희비…SKT·KT 매출 감소, LGU+ 성장 통신 본업에서도 희비는 엇갈렸다. SK텔레콤과 KT의 무선 서비스 매출이 나란히 감소한 반면 LG유플러스는 가입자와 매출 모두 성장세를 이어갔다. SK텔레…",
-          "press": "디지털데일리",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 11:48",
-          "link": "https://n.news.naver.com/mnews/article/138/0002237540?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT, 반사이익 끝나자 실적 '뚝'…소송까지 겹악재",
-          "summary": "지난해 2분기 처음으로 영업이익 1조원을 넘겼던 KT의 실적이 1년 만에 크게 꺾였습니다. 지난해 반영된... 그러다 보니 요금제 하향이 조금 있었거든요.\"]미래 먹거리인 AI 사업이 성장하는 건 긍정적입니다.금융권…",
-          "press": "news.mtn.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:44",
-          "link": "https://news.mtn.co.kr/news-detail/2026081216211668046",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "KT, 2분기 영업이익 약 36% 감소…B2B·AX 수주 확대로 성장 기반 모색",
-          "summary": "KT는 5G-LTE 통합요금제와 초이스 더블 요금제 신규 라인업을 출시하며 고객 선택권과 요금제 경쟁력을 강화했다. 유선 사업 매출은 가입자 기반 확대에도 홈유선전화 감소 영향으로 전년 동기 대비 소폭...",
-          "press": "newsquest.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 17:06",
-          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=271634",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "아이폰18 원가 38%↑…LG이노텍·LGD 부담 커지나",
           "summary": "국내도 민팃 등 중고폰 업계에선 아이폰은 시장 평균 수준과 같이 2~3년차 모델이 주로 들어온다고 알려져... 적어 중고폰 시장에서 감가가 덜한 편이다. 문제는 이 흐름이 부품사에는 다른 이야기라는 점이다. 신제품.…",
           "press": "econovill.com",
@@ -308,34 +242,12 @@
           "subgroup_label": ""
         },
         {
-          "title": "KT, 2분기 영업익 6483억…AX·성장사업 확대",
-          "summary": "KT는 5G-LTE 통합요금제와 초이스 더블 요금제 신규 라인업을 출시하며 요금제 경쟁력을 강화했다. 인터넷 사업 매출은 기가 인터넷 가입자 증가와 부가서비스 이용 확대에 힘입어 1.1% 성장했다. 미디어 사업...",
-          "press": "straightnews.co.kr",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:58",
-          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308823",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
           "title": "삼성전자 갤럭시 Z8 흥행에 통신사 제휴카드도 '특수'",
           "summary": "우리카드는 사전예약 기간인 7월 28일부터 8월 3일까지의 실적을 직전 주(7월 21~27일)와 비교한 결과 SKT 라이트할부형, LG U+ 요금할인형, KT 하이브리드형 카드의 신규 발급이 161.5% 급증했다. …",
           "press": "pointdaily.co.kr",
           "date": "2026-08-12",
           "datetime": "2026-08-12 16:46",
           "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315306",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[비즈 인사이트] 통신 3사 2분기 희비…SKT 영업익 67%↑·KT 36%↓",
-          "summary": "SKT 매출 0.5% 늘 때 영업익 5660억원…AI 데이터센터 매출 92.5%↑ LG유플러스 영업익 3445억원 ‘분기... 3% 늘어 [서울타임즈뉴스 = 최남주 기자] 통신 3사의 올해 2분기 실적이 갈렸다. S…",
-          "press": "seoultimes.news",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 14:00",
-          "link": "https://www.seoultimes.news/news/article.html?no=2000098744",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -380,17 +292,6 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 18:09",
           "link": "https://n.news.naver.com/mnews/article/014/0005560727?sid=101",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "한화 건설부문, AI 데이터센터 전력 효율화 국책과제 사업자 선정",
-          "summary": "회사는 △데이터센터 수요자원화 △고효율 모듈형 무정전전원공급장치(UPS) 개발 △고밀도 AI 데이터센터용... 데이터센터 수요자원화는 AI로 서버 전력 사용량과 냉방부하를 예측해 피크 전력 사용량을 10% 이상 낮추…",
-          "press": "아이뉴스24",
-          "date": "2026-08-12",
-          "datetime": "2026-08-12 16:08",
-          "link": "https://n.news.naver.com/mnews/article/031/0001049196?sid=101",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
@@ -468,6 +369,17 @@
           "date": "2026-08-12",
           "datetime": "2026-08-12 17:14",
           "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=43004",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "㈜한화 건설부문, AI 데이터센터 에너지 효율화 국책과제 3개 수행",
+          "summary": "한화 건설부문은 ▲데이터센터 수요자원화 ▲고효율 모듈형 무정전전원공급장치 개발 ▲고밀도 AI... 데이터센터 수요자원화는 인공지능을 활용해 서버 소비전력과 냉방부하를 예측하고 전력 사용 효율을 높이는...",
+          "press": "consumernews.co.kr",
+          "date": "2026-08-12",
+          "datetime": "2026-08-12 17:12",
+          "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=761346",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
@@ -713,5 +625,5 @@
       ]
     }
   ],
-  "total": 60
+  "total": 52
 }

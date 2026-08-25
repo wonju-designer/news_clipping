@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "backfill_note": "※ 2026-08-23 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-23 13:22 소급 정리",
+  "backfill_note": "※ 2026-08-25 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-25 10:13 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -276,7 +276,7 @@
         },
         {
           "title": "[데일리픽] 비트코인, 美 정책 겹호재에 7만달러 육박…통신 3사 '모두의...",
-          "summary": "과학기술정보통신부는 서면·발표평가를 거쳐 이달 말 사업자를 선정한 뒤 연내 서비스를 시작할... X) K2, AI 데이터센터, 약 2250만 이동통신 회선을 함께 활용한다. A.X K2 하나만 쓰는 것은 아니다. 타…",
+          "summary": "월간 이용자 1000만명 규모 에이닷 운영 경험에 독자 AI 파운데이션 모델(독파모) 프로젝트에서 개발한 에이닷엑스(A.X) K2, AI 데이터센터, 약 2250만 이동통신 회선을 함께 활용한다. A.X K2 하나만…",
           "press": "digitaltoday.co.kr",
           "date": "2026-08-20",
           "datetime": "2026-08-20 17:06",
@@ -385,23 +385,23 @@
           "subgroup_label": "파워넷"
         },
         {
-          "title": "'AI 시대' 전력저장 뜬다…'ESS' K-배터리 돌파구",
-          "summary": "국내 배터리업계가 전 세계 전기차 배터리 시장에서 중국에 밀리자, 에너지저장장치(ESS)를 돌파구로... 무정전전원장치(UPS)용 배터리를 공급하는 등 그룹 내 전력 인프라를 바탕으로 초기 적용 경험을 쌓을 수 있을…",
-          "press": "newsprime.co.kr",
-          "date": "2026-08-20",
-          "datetime": "2026-08-20 15:18",
-          "link": "http://www.newsprime.co.kr/news/article.html?no=744487",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
           "title": "전기차 캐즘에 ESS 뜨자···K 배터리, 공장 쓰임새 바꾼다",
           "summary": "중장기 공급계약도 체결했다. 해당 소재는 SPE에서 생산할 ESS용 배터리에 사용된다. ESS 확대는 실적에도 영향을 미치기 시작했다. 삼성SDI는 상반기 전력용 ESS와 무정전전원장치(UPS), 배터리백업유닛(BB…",
           "press": "sisajournal-e.com",
           "date": "2026-08-20",
           "datetime": "2026-08-20 15:18",
           "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423183",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "'AI 시대' 전력저장 뜬다…'ESS' K-배터리 돌파구",
+          "summary": "국내 배터리업계가 전 세계 전기차 배터리 시장에서 중국에 밀리자, 에너지저장장치(ESS)를 돌파구로... 무정전전원장치(UPS)용 배터리를 공급하는 등 그룹 내 전력 인프라를 바탕으로 초기 적용 경험을 쌓을 수 있을…",
+          "press": "newsprime.co.kr",
+          "date": "2026-08-20",
+          "datetime": "2026-08-20 15:18",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=744487",
           "badge": "산업",
           "subgroup": "powernet",
           "subgroup_label": "파워넷"
