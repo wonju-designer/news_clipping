@@ -74,8 +74,12 @@ def run(preview: bool = False):
         docx_path = None
 
     # 대시보드용 데이터 저장 + 자체완결형 대시보드 HTML 갱신
+    #   아카이브는 doc보다 넉넉히(산업 30 등) 저장 → 지난 소식에서 전체 노출
     try:
-        archive.save(doc_display, top, digests)
+        archive_display = analyze.archive_subset(collected)
+        # 요약은 doc 기준으로 이미 생성됨 — 아카이브 기사에도 요약 매핑 반영
+        analyze.summarize(analyze.flatten(archive_display))
+        archive.save(archive_display, top, digests)
         dashboard.build()
     except Exception as e:
         print(f"[대시보드 생성 실패] {e}")
