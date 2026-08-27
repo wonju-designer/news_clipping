@@ -135,12 +135,17 @@ let query = "";
 
 const esc = s => (s||"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
+// 날짜 헬퍼(전역) — renderDays/renderDay 공용
+const asDate = s => { const m=/^(\d{4})-(\d{2})-(\d{2})/.exec(s); return m ? new Date(+m[1], +m[2]-1, +m[3]) : null; };
+// 지난 소식 발행일 필터: 그날 + 전날 발행분까지 인정(매일 클리핑이 아침에 수집해 당일분이 적은 점 보완)
+const _prevStr = ds => { const d=asDate(ds); if(!d) return ""; d.setDate(d.getDate()-1); return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`; };
+const keepByPub = (a, ds) => { const ad=(a.date||""); return ad===ds || ad===_prevStr(ds); };
+
 function renderDays(){
   // 최근 2일(오늘+어제)은 '매일 클리핑', 그보다 오래된 날짜는 '지난 소식'
   const RECENT_DAYS = 3;
   const today = new Date();
   const cutoff = new Date(today.getFullYear(), today.getMonth(), today.getDate() - (RECENT_DAYS - 1));
-  const asDate = s => { const m=/^(\d{4})-(\d{2})-(\d{2})/.exec(s); return m ? new Date(+m[1], +m[2]-1, +m[3]) : null; };
   // 날짜별 실제 표시 건수 계산 — 목록 숫자와 열었을 때 숫자를 일치
   const shownTotal = d=>{
     const dt = asDate(d.date);
@@ -151,13 +156,13 @@ function renderDays(){
       if(s.subgroups && s.subgroups.length){
         s.subgroups.forEach(sg=>{
           let list = s.articles.filter(a=>a.subgroup===sg.id);
-          if(!isRec) list = list.filter(a=>(a.date||"")===d.date);
+          // 지난 소식도 저장된 3일치를 그대로(발행일 필터 없음 — 매일 클리핑과 동일)
           if(isRec) list = list.slice(0, RECENT_LIMITS.per_company);
           n += list.length;
         });
       } else {
         let arts = s.articles;
-        if(!isRec) arts = arts.filter(a=>(a.date||"")===d.date);
+        // 지난 소식도 저장된 3일치 그대로(발행일 필터 없음)
         if(isRec){
           const cap = (RECENT_LIMITS.by_section && RECENT_LIMITS.by_section[s.id]) || RECENT_LIMITS.per_section;
           arts = arts.slice(0, cap);
@@ -219,12 +224,8 @@ function renderDay(){
   d.sections.forEach(s=>{
     if(curCat!=="all" && s.id!==curCat) return;
     if(!s.articles.length) return;
-    // 지난 소식이면 그날(d.date) 발행 기사만 — 최근 3일치 수집으로 인한 날짜 중복 제거
+    // 지난 소식도 매일 클리핑에서 보던 저장분(3일치)을 그대로 표시 — 발행일 필터 없음
     let secArts = s.articles;
-    if(!isRecent){
-      const onlyDay = s.articles.filter(a=>(a.date||"")===d.date);
-      if(onlyDay.length) secArts = onlyDay;
-    }
     if(!secArts.length) return;
     // 표시 건수 계산(최근이면 상한 적용)
     let shownCount;
