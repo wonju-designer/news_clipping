@@ -19,8 +19,19 @@ import send as sender
 
 
 def run(preview: bool = False):
+    import os
     now = datetime.now(config.KST)
     print(f"[시작] {now:%Y-%m-%d %H:%M} 뉴스 클리핑")
+
+    # 중복 발송 방지 — 아침 3회 예약(07:50/08:10/08:30) 중 이미 오늘 발송됐으면 건너뜀.
+    # 수동 실행(FORCE_SEND=1)이나 미리보기(preview)는 예외로 항상 진행.
+    force = os.environ.get("FORCE_SEND", "").strip().lower() in ("1", "true", "yes")
+    test_mode = os.environ.get("TEST_MODE", "").strip().lower() in ("1", "true", "yes")
+    if not preview and not force and not test_mode:
+        today_file = os.path.join(archive.CLIP_DIR, f"{now:%Y-%m-%d}.json")
+        if os.path.exists(today_file):
+            print(f"[건너뜀] 오늘({now:%Y-%m-%d}) 클리핑이 이미 발송됨 — 중복 방지 (강제하려면 FORCE_SEND=1)")
+            return
 
     collected = collector.collect()
     raw_total = sum(len(v) for v in collected.values())
@@ -34,7 +45,20 @@ def run(preview: bool = False):
         if not arts:
             continue
         if cat.get("subgroups"):
-            continue  # 계열사는 AI 관련성 필터 건너뜀
+            # 계열사: 자사 소식(badge=자사)은 회사명 확실→AI필터 없음.
+            #         산업 동향(badge=산업)만 완화 AI필터로 확실히 무관한 것만 제거.
+            filtered = []
+            for sg in cat["subgroups"]:
+                sg_arts = [a for a in arts if a.get("subgroup") == sg["id"]]
+                if not sg_arts:
+                    continue
+                own = [a for a in sg_arts if a.get("badge") == "자사"]
+                ind = [a for a in sg_arts if a.get("badge") != "자사"]
+                if ind:
+                    ind = analyze.relevance_filter(ind, sg["id"], lenient=True)
+                filtered += own + ind
+            collected[cid] = filtered
+            continue
         collected[cid] = analyze.relevance_filter(arts, cid)
 
     # 문서(첨부)용으로 섹션별 넓게 선별 → 이메일은 그 상위만 사용
