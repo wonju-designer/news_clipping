@@ -1,36 +1,36 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27 08:58",
+  "generated_at": "2026-08-27 13:15",
   "top5": [
     {
       "rank": 1,
-      "headline": "LG유플러스, 통신·보안 차별화 B2C·B2B 확대 '잰걸음'",
+      "headline": "최적요금제 도입 앞두고 실효성 논란",
       "category": "산업",
-      "link": "https://www.techm.kr/news/articleView.html?idxno=154632"
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721414"
     },
     {
       "rank": 2,
-      "headline": "LG헬로비전, '바른 AIㆍ디지털 생활' 미디어 콘텐츠 창작 공모전 시상식...",
+      "headline": "eSIM 시장 확대로 통신사 로밍 긴장",
       "category": "산업",
-      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1012863"
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=315932"
     },
     {
       "rank": 3,
-      "headline": "[더벨]KT스카이라이프, '롯데쇼핑 출신' 유신 상무 영입",
+      "headline": "3G 종료 수순과 통신망 효율화 과제",
       "category": "산업",
-      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608241100180040104210"
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=152044"
     },
     {
       "rank": 4,
-      "headline": "KT, AI 기반 ‘스팸차단 서비스’ 확대 적용",
+      "headline": "피클플러스, 자급제·알뜰폰 비교 제시",
       "category": "산업",
-      "link": "https://n.news.naver.com/mnews/article/081/0003673517?sid=101"
+      "link": "https://n.news.naver.com/mnews/article/243/0000102082?sid=101"
     },
     {
       "rank": 5,
-      "headline": "LG U+, ‘유독 Pick’ 라인업 확대… CGV·배민·특화 AI 8종 추가",
+      "headline": "KT엠모바일 eSIM 로밍 mobi 수상",
       "category": "산업",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202608251603452620a47484cf8_23"
+      "link": "https://n.news.naver.com/mnews/article/079/0004183016?sid=105"
     }
   ],
   "sections": [
@@ -38,7 +38,7 @@
       "id": "industry",
       "num": "①",
       "title": "산업 동향",
-      "digest": "국내 이동통신 3사는 AI 서비스를 고객 접점에 확대하며 스팸 차단, 맞춤형 요금제, 디지털 콘텐츠 공모전 등 다양한 AI·디지털 생활 서비스를 출시하고 있다. LG유플러스는 알뜰폰 플랫폼에 페이스페이 연계 요금제와 CGV·배민·특화 AI 8종을 추가해 B2C·B2B 차별화를 추진하고, KT는 AI 기반 스팸 차단을 무료 제공한다. 동시에 3G 종료와 LTE·5G 승계, eSIM 확산으로 로밍 수익 감소 우려, 네트워크 효율화와 재해 복구 등 전통 인프라 관리 과제도 병행되고 있다. AI 특허와 ‘모두의 AI’ 프로젝트가 경쟁력 확보 핵심으로 부각되면서, 통신사들은 AI 역량과 특허 공유에 집중하고 있다.",
+      "digest": "KT는 AI 기반 스팸 차단 서비스를 전 고객에게 무료 제공하고, eSIM 로밍 ‘모비’를 출시해 알뜰폰 시장에서 경쟁력을 강화했다. LG유플러스는 AI 검색·셀프서비스를 강화한 ‘U+one’으로 디지털고객경험지수 이동통신 부문 3년 연속 1위를 차지했으며, 알뜰폰 플랫폼 ‘알닷’에 페이·쇼핑 연계 요금제를 추가해 B2C·B2B 차별화를 추진한다. 한편, 3G 서비스 종료와 eSIM·로밍 시장 확대가 진행되면서 기존 로밍 수익 감소와 비용 효율화 과제가 대두되고 있다. MVNO인 프리티캐나다는 캐나다 유학생을 대상으로 해외 진출 첫 사례를 선보이며 알뜰폰 사업의 해외 확장 가능성을 보여준다.",
       "articles": [
         {
           "title": "KT, AI 기반 ‘스팸차단 서비스’ 확대 적용",
@@ -52,34 +52,34 @@
           "subgroup_label": ""
         },
         {
+          "title": "KT엠모바일 eSIM 로밍 'mobi'…ICT 어워드 코리아 최고상",
+          "summary": "국내 알뜰폰 1위 사업자 KT엠모바일은 이심(eSIM) 데이터 로밍 서비스 '모비(mobi)'가 지난 26일 서울 강남구 과학기술컨벤션센터에서 열린 'ICT 어워…",
+          "press": "nocutnews.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 11:24",
+          "link": "https://n.news.naver.com/mnews/article/079/0004183016?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "프리티캐나다, 캐나다 통신 요금제 ·캐나다 유심 이심 예약개통 이벤트...",
+          "summary": "국내 알뜰폰(MVNO) 업계 최초로 해외에 진출한 프리텔레콤의 프리티캐나다가 캐나다 유학생 워킹홀리데이...",
+          "press": "beyondpost.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 09:06",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=2026082614481948949aeda69934_30",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "LG유플러스, 통신·보안 차별화 B2C·B2B 확대 '잰걸음'",
           "summary": "LG유플러스는 알뜰폰 플랫폼 '알닷'에 토스모바일 '페이스페이 제휴 요금제'를 출시했다/사진=LG유플러스 제공 B2C는 고객 맞춤형 상품을 늘리고 있다.",
           "press": "techm.kr",
           "date": "2026-08-26",
           "datetime": "2026-08-26 14:26",
           "link": "https://www.techm.kr/news/articleView.html?idxno=154632",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "LG헬로비전, '바른 AIㆍ디지털 생활' 미디어 콘텐츠 창작 공모전 시상식...",
-          "summary": "LG헬로비전은 LG유플러스 계열의 케이블TV, 인터넷, 알뜰폰, 렌탈 회사다. 케이블TV 회사에서 출발했지만 현재 홈 앤 라이프 사업자로 영역을 넓힌 기업이다.",
-          "press": "cnbnews.com",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 10:14",
-          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1012863",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[더벨]KT스카이라이프, '롯데쇼핑 출신' 유신 상무 영입",
-          "summary": "위성방송과 인터넷, 알뜰폰을 비롯한 여러 서비스의 보안 체계를 통합 관리할 적임자를 찾은 것으로...",
-          "press": "thebell.co.kr",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 07:02",
-          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608241100180040104210",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -107,6 +107,28 @@
           "subgroup_label": ""
         },
         {
+          "title": "피클플러스, 자급제·알뜰폰 총비용 비교 제시…휴대폰 공동구매 서비스...",
+          "summary": "-통신사 지원금·단말 할인 반영해 24개월 총비용 비교…93만 이용자 기반 공동구매 혜택 적용 -알뜰폰 4~7월 번호이동 4개월 연속 순유출…“1만원대 저가 요금…",
+          "press": "economist.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 16:38",
+          "link": "https://n.news.naver.com/mnews/article/243/0000102082?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"싸고 좋은 요금제 알려주는 거 맞아?\"…최적요금제 앞두고 실효성 논란",
+          "summary": "대상이 되는 사업자에 알뜰폰 업체가 포함되지 않을 것으로 전망되면서 정작 요금 민감 계층은 제도 수혜를...",
+          "press": "ebn.co.kr",
+          "date": "2026-08-24",
+          "datetime": "2026-08-24 15:12",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721414",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
           "title": "eSIM 시장 커지자 로밍 사업 '긴장'…통신사 수익원 위협",
           "summary": "알뜰폰사업자(MVNO)와 경쟁하는 상황에서 여행용 eSIM까지 확산할 경우 로밍 서비스 이용객이 감소할 가능성이 있기 때문이다.",
           "press": "thepublic.kr",
@@ -118,254 +140,232 @@
           "subgroup_label": ""
         },
         {
-          "title": "[위클리오늘] 이동통신 소식_KT, U+유모바일(8.24)",
-          "summary": "중고폰과 알뜰폰 요금제를 함께 선택할 수 있는 '유픽 폰&유심'을 출시했다고 24일 밝혔다. 중고폰 품질에...",
-          "press": "weeklytoday.com",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 12:44",
-          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791284",
+          "title": "LG유플러스, 디지털 고객경험 이동통신 1위… 3년 연속 수상",
+          "summary": "LG유플러스는 한국표준협회가 주관한 ‘2026 디지털고객경험지수(DCXI)’ 이동통신 부문에서 1위를 차지했다고 27일 밝혔다.",
+          "press": "조선비즈",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:01",
+          "link": "https://n.news.naver.com/mnews/article/366/0001188683?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "U+유모바일, 약정 없이 중고폰·알뜰 유심 요금제 가입 한 번에!",
-          "summary": "알뜰폰 가입 및 이용과정에서 중고폰 거래 시 가격 흥정 번거로움, 별도 요금제 가입, 일정 기간의 요금제 유지 조건 등이 발생할 수 있었던 만큼 전문 검수를 통한…",
-          "press": "epnc.co.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 10:52",
-          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405933",
+          "title": "LGU+, 디지털고객경험 3년 연속 1위…통합 고객 앱 혁신 성과 인정",
+          "summary": "LG유플러스는 한국표준협회(KSA)가 주관하는 '2026 디지털고객경험지수(DCXI)' 이동통신 부문에서 1위를 차지하며 3년 연속 수상했다고 27일 밝혔다.",
+          "press": "전자신문",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003460883?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "3G 종료 불똥 튄 '무적칩'…LTE·5G 승계 요구에 업계 \"근거 없어\"",
-          "summary": "SK텔레콤의 3세대(3G) 이동통신 종료 추진을 앞두고 이른바 '무적칩'을 사용하던 일부 이용자들이 데이터 무제한 혜택을 4세대 이동통신(LTE)과 5세대(5G)…",
+          "title": "LG U+, 디지털 고객경험 3년 연속 1위…AI 에이전트로 진화 나선다",
+          "summary": "LG유플러스가 통합 고객 앱 'U+one'을 앞세워 이동통신사 가운데 디지털 고객경험 평가에서 3년 연속 1위에 올랐다.",
+          "press": "머니투데이",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005405578?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 디지털고객경험지수 이동통신 1위",
+          "summary": "LG유플러스는 한국표준협회(KSA)가 주관하는 ‘2026 디지털고객경험지수(DCXI)’ 이동통신 부문에서 1위를 차지하며 3년 연속 수상했다고 27일 밝혔다.",
+          "press": "헤럴드경제",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:00",
+          "link": "https://n.news.naver.com/mnews/article/016/0002689278?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 디지털고객경험지수 이동통신 부문 1위…3년 연속 수상",
+          "summary": "AI 검색·챗봇 고도화 생활형 플랫폼으로 진화 LG유플러스는 한국표준협회(KSA)가 주관하는 ‘2026 디지털고객경험지수(DCXI)’ 이동통신 부문에서 1위를 차…",
+          "press": "헤럴드경제",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:00",
+          "link": "https://n.news.naver.com/mnews/article/016/0002689275?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 한국표준협회 '2026 디지털고객경험지수' 이동통신 부문 1위",
+          "summary": "LG유플러스가 통합 고객 앱 'U+one'을 중심으로 디지털 고객 경험을 개선한 성과를 인정받아 관련 평가에서 3년 연속 이동통신 부문 1위를 차지했다.",
+          "press": "뉴시스",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:00",
+          "link": "https://n.news.naver.com/mnews/article/003/0014152046?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 디지털 고객경험 3년 연속 1위…'U+one' 통했다",
+          "summary": "LG유플러스(032640)가 통합 고객 앱 'U+one'을 중심으로 디지털 고객 경험을 강화한 성과를 인정받아 이동통신 부문 디지털고객경험지수(DCXI)에서 3년…",
+          "press": "뉴스1",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009135535?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[테크스냅] 우본, 여수세계섬박람회 기념우표 42만장 발행",
+          "summary": "▲ LG유플러스는 한국표준협회(KSA)가 주관하는 '2026 디지털고객경험지수(DCXI)' 이동통신 부문에서 1위를 차지하며 3년 연속 수상했다고 27일 밝혔다.…",
+          "press": "연합뉴스",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:00",
+          "link": "https://n.news.naver.com/mnews/article/001/0016274276?sid=100",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이정헌 의원, AI 시대 네트워크 고도화 논의…5G SA·6G·AIDC 점검",
+          "summary": "5세대(5G) 단독모드(SA)와 6세대(6G) 이동통신 등 네트워크 고도화와 AIDC 투자 활성화 방안이 주요 의제다....",
           "press": "IT조선",
           "date": "2026-08-27",
-          "datetime": "2026-08-27 06:00",
-          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168857",
+          "datetime": "2026-08-27 10:22",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168918",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "통신3사, '모두의AI' 대중화 역할 주목…고객 접점·AI 역량 확보",
-          "summary": "정부가 '모두의 AI' 프로젝트에 나서면서 이동통신사 역할이 주목받고 있다.",
-          "press": "전자신문",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 16:31",
-          "link": "https://n.news.naver.com/mnews/article/030/0003460661?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "이통사, 거제 수해지역 통신 복구 총력…이동기지국 투입(종합)",
-          "summary": "이동통신 사업자들이 최근 집중호우로 피해를 입은 경남 거제 지역에서 통신망 복구와 이재민 지원에 나섰다.",
-          "press": "뉴시스",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 15:26",
-          "link": "https://n.news.naver.com/mnews/article/003/0014149958?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "\"주파수 할당대가, 수익성·설비투자 함께 고려돼야\"",
-          "summary": "주파수 할당대가는 이동통신사 등 사업자의 수익뿐 아니라 투자·커버리지·품질 성과와 연동하는 방향으로 산정돼야 한다는 제언이 나왔다.",
-          "press": "아이뉴스24",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 14:52",
-          "link": "https://n.news.naver.com/mnews/article/031/0001052580?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "통신 3사 육아휴직 3년째 증가세…'맞돌봄 문화' 확산 앞장",
-          "summary": "이동통신 3사에서 육아휴직을 사용하는 직원이 빠르게 늘고 있다. 올해 상반기 육아휴직자는 1100명을 넘어 이미 지난해 연간 규모의 90%를 넘어섰다.",
-          "press": "파이낸셜뉴스",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 18:15",
-          "link": "https://n.news.naver.com/mnews/article/014/0005566285?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "접는 아이폰 드디어 나오나…'아이폰18·폴더블' 내달 9일 공개할 듯",
-          "summary": "25일 주요 외신과 이동통신업계에 따르면 다음달 9일(현지 시간) 아이폰18 프로와 프로 맥스, 애플 첫 폴더블폰 '아이폰 울트라(가칭)' 공개 시나리오가 유력하…",
-          "press": "뉴시스",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 16:39",
-          "link": "https://n.news.naver.com/mnews/article/003/0014147459?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "품귀 우려에도…아이폰18 한국 1차 출시 확정",
-          "summary": "25일 이동통신업계에 따르면 SK텔레콤·KT·LG유플러스 등 통신 3사는 아이폰18 출시에 맞춰 온·오프라인 판매 시스템을 정비하고 프로모션 등 관련 작업을 진행…",
-          "press": "전자신문",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 14:21",
-          "link": "https://n.news.naver.com/mnews/article/030/0003460179?sid=105",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[허순강 특별기고] '21세기 동물의 왕국' 1회 : 미국이 세계를 지배하는...",
-          "summary": "- 2023년 1인당 에너지 소비량: 2억 3,466만 8천 Btu - 2023년 유선 회선 총 가입자 수: 22,155만 명 - 2024년 이동통신 총 가입자…",
-          "press": "intn.co.kr",
+          "title": "LG유플러스, 디지털고객경험지수 이통 부문 3년 연속 1위",
+          "summary": "LG유플러스는 한국표준협회(KSA)가 주관하는 '2026 디지털고객경험지수(DCXI)' 이동통신 부문에서 1위에 올랐다고 27일 밝혔다.",
+          "press": "worktoday.co.kr",
           "date": "2026-08-27",
-          "datetime": "2026-08-27 06:50",
-          "link": "http://www.intn.co.kr/news/articleView.html?idxno=2052804",
+          "datetime": "2026-08-27 12:48",
+          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88472",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "이통 3사, AI 비롯 실적 강세 속 희비 갈려",
-          "summary": "2020년대 들어 인공지능(AI)이 대세로 자리하면서 국내 이동통신 3사가 올해 선전했다. 다만, 희비가 갈렸다.",
-          "press": "koreareport.co.kr",
+          "title": "LG유플러스, 디지털고객경험지수 이동통신 부문 3년 연속 1위",
+          "summary": "LG유플러스가 한국표준협회 주관 '2026 디지털고객경험지수(DCXI)' 이동통신 부문에서 1위를 차지하며 3년 연속 수상했다고 27일 밝혔다.",
+          "press": "lawissue.co.kr",
           "date": "2026-08-27",
-          "datetime": "2026-08-27 06:10",
-          "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=52369",
+          "datetime": "2026-08-27 12:46",
+          "link": "http://www.lawissue.co.kr/view.php?ud=2026082710184676539817d053b9_12",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "[특허, 톡!] AI 경쟁력, 특허 공유에 달렸다",
-          "summary": "이동통신에서는 3G·4G·5G 표준 구현에 여러 기업의 표준필수특허(SEP)가 필요해 이를 묶어 라이선스하는 특허 풀이 오래전부터 활용돼 왔다.",
+          "title": "모바일 신분증 애용한다면… 내일(28일)부터 바뀌는 '이것' 꼭 확인하세...",
+          "summary": "이와 함께 이동통신사에 휴대전화 분실 신고를 하거나 통신 서비스를 일시 정지할 경우에도 모바일 신분증 이용이 자동으로 중지돼 타인이 분실된 스마트폰을 습득하더라도…",
+          "press": "wikitree.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:28",
+          "link": "https://www.wikitree.co.kr/articles/1155369",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 이동통신 소식_LG유플러스, SK텔레콤, KT(8.27)",
+          "summary": "▲ 용산사옥 전경 LG유플러스, DCXI 이동통신 부문 3년 연속 1위 LG유플러스가 통합 고객 앱 'U+one'을 중심으로 디지털 서비스를 고도화한 성과를 인정…",
+          "press": "weeklytoday.com",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:10",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791836",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AI, 이제 성능보다 '쓸 곳'… 산업 현장으로 번지는 활용 경쟁",
+          "summary": "이런 디지털 고객 경험을 바탕으로 한국표준협회가 주관하는 디지털고객경험지수(DCXI) 이동통신 부문에서 3년 연속 1위를 차지했다.",
+          "press": "pressman.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:08",
+          "link": "https://www.pressman.kr/news/articleView.html?idxno=103358",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“AI 검색·셀프서비스 강화”…LG U+, 디지털고객경험지수 3년 연속 1위",
+          "summary": "LG유플러스가 통합 고객 앱 ‘U+one’을 중심으로 인공지능(AI) 검색과 셀프서비스를 강화하며 디지털고객경험지수(DCXI) 이동통신 부문 1위를 3년 연속 차…",
+          "press": "sentv.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:02",
+          "link": "https://www.sentv.co.kr/article/view/sentv202608270042",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 통합앱 AI로 심플화…디지털고객경험지수 3년 연속 1위",
+          "summary": "이투데이=김연진 기자 | LG유플러스는 한국표준협회(KSA)가 주관하는 ‘2026 디지털고객경험지수(DCXI)’ 이동통신 부문에서 1위를 차지했다고 27일 밝혔다…",
           "press": "etoday.co.kr",
           "date": "2026-08-27",
-          "datetime": "2026-08-27 06:02",
-          "link": "https://www.etoday.co.kr/news/view/2618564",
+          "datetime": "2026-08-27 12:02",
+          "link": "https://www.etoday.co.kr/news/view/2618771",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "아이폰18 프로, 한국 1차 출시 확정⋯첫 폴더블도 공개 임박",
-          "summary": "애플이 다음 달 공개 예정인 아이폰18 프로 시리즈의 1차 출시국에 한국을 포함한 가운데, 국내 이동통신 3사가 출시 일정에 맞춰 판매 준비에 들어간 것으로 알려…",
-          "press": "autodaily.co.kr",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 14:48",
-          "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=546881",
+          "title": "AI로 심플해진 U+one..LG유플러스, DCXI 3년 연속 1위",
+          "summary": "LG유플러스는 한국표준협회(KSA)가 주관하는 ‘2026 디지털고객경험지수(DCXI)’ 이동통신 부문에서 1위를 차지하며 3년 연속 수상했다고 27일 밝혔다.",
+          "press": "kpenews.com",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:02",
+          "link": "https://kpenews.com/View.aspx?No=4201352",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "32년 멈춤 없는 위성관제…KT SAT, GEO 넘어 LEO·6G로",
-          "summary": "KT SAT은 위성 관제·운영 경험에 KT그룹의 이동통신·AI·클라우드 역량을 결합해 6G 시대 지상과 우주를 하나의 네트워크로 연결한다는 구상입니다.",
-          "press": "newstomato.com",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 14:10",
-          "link": "http://www.newstomato.com/ReadNews.aspx?no=1311462&inflow=N",
+          "title": "요금 조회부터 AI 해결사까지… LG유플러스, 디지털 고객경험 평가 3년 ...",
+          "summary": "|스마트투데이=최아랑 기자| LG유플러스는 한국표준협회(KSA)가 주관하는 ‘2026 디지털고객경험지수(DCXI)’ 이동통신 부문에서 3년 연속 1위를 차지했다고…",
+          "press": "smarttoday.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:02",
+          "link": "https://www.smarttoday.co.kr/ko-kr/articles/110845",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "피지컬 AI '1강' 노리는 한국…월드모델부터 로봇까지 기술 자립 나선다",
-          "summary": "이종식 KT 전무는 로봇과 AI가 실시간으로 연결되는 피지컬 AI 환경에서는 기존 이동통신과 다른 네트워크 요구가 커질 것으로 전망했다.",
-          "press": "epnc.co.kr",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 14:00",
-          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406047",
+          "title": "LG유플러스, DCXI 3년 연속 수상⋯ “U+one 중심 AI 기반 고객 경험 혁신...",
+          "summary": "LG유플러스가 한국표준협회(KSA)가 주관하는 ‘2026 디지털고객경험지수(DCXI)’ 이동통신 부문에서 1위를 차지하며 3년 연속 수상했다.",
+          "press": "viva100.com",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:02",
+          "link": "https://www.viva100.com/article/20260827500313",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "[기획] LG유플러스, 서버 OS 재설치‧페기로 유출 경위 '미궁'",
-          "summary": "'국내 이동통신사 유일 최고상'이라는 설명도 덧붙였다. 그러나 이 상은 실제로는 받지 못한 상이었다.",
-          "press": "rightknow.co.kr",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 13:46",
-          "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34585",
+          "title": "LGU+, 디지털고객경험지수 이동통신 부문 3년 연속 1위",
+          "summary": "LG유플러스는 한국표준협회(KSA)가 주관하는 '2026 디지털고객경험지수(DCXI)' 이동통신 부문에서 1위를 차지하며 3년 연속 수상에 성공했다고 27일 밝혔…",
+          "press": "nocutnews.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:01",
+          "link": "https://n.news.naver.com/mnews/article/079/0004183039?sid=105",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
         },
         {
-          "title": "[줌인] 이통3사 '기지국 담합'...KT는 면제 LGU+은 58억?",
-          "summary": "당시 통신3사의 담합이 발생한 이유는 4세대 이동통신서비스 도입 과정에서 건물 옥상이나 아파트 등에 설치되는 기지국, 중계기 등 통신장비 임차비용이 증가하면서 비…",
-          "press": "dailybrief.co.kr",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 09:36",
-          "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6586",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "[위클리오늘] 이동통신 소식_KT, LG유플러스(8.26)",
-          "summary": "▲ KT 채용안내 포스터 KT, 대졸 신입사원 채용…AI 역량 갖춘 현장 인재 확보 KT가 고객과 사업 현장에 필요한...",
-          "press": "weeklytoday.com",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 09:36",
-          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791450",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "스카이월드와이드, LG유플러스 NRAP 고도화 수주",
-          "summary": "NRAP은 LG유플러스가 5세대 이동통신(5G) 상용화에 맞춰 구축한 플랫폼이다.",
-          "press": "newspim.com",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 09:05",
-          "link": "https://www.newspim.com/news/view/20260826000206",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "'AI 컴퍼니' 선언 이통3사, 차세대 AI 인재 육성 가속",
-          "summary": "AI(인공지능) 확산에 따른 산업 변화에 맞춰 'AI 컴퍼니'로의 변신을 선언한 국내 이동통신 3사가 차세대 AI 인재 육성에 박차를 가한다.",
-          "press": "shinailbo.co.kr",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 07:20",
-          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054307",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "이통3사, '모두의 AI'에 출사표…대국민 AI 서비스 확대 나선다",
-          "summary": "이동통신3사가 정부의 '전 국민 AI 서비스 보편적 활용 지원(이하 모두의 AI)' 사업에 출사표를 던졌다.",
-          "press": "g-enews.com",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 17:30",
-          "link": "https://www.g-enews.com/view.php?ud=2026082511070722013d7a510102_1",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "이통3사, AX 시대 미래 인재 직접 '육성'…새 채용 트렌드로",
-          "summary": "KT, 신입 채용서 'AI 활용 역량' 평가…업무 혁신 인재로 육성 SKT·서울대, AI 공동 과정 개설…10년째 인연 이동통신2사(SK텔레콤·KT·LG유플러스)…",
-          "press": "srtimes.kr",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 14:28",
-          "link": "http://www.srtimes.kr/news/articleView.html?idxno=210806",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "이통3사, '모두의 AI' 격돌…통신 넘어 AI 서비스 경쟁",
-          "summary": "SK텔레콤과 KT, LG유플러스 등 이동통신 3사가 정부의 '모두의 AI' 사업에 출사표를 던졌다.",
-          "press": "sisaon.co.kr",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 14:14",
-          "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=203783",
+          "title": "LGU+, 디지털 고객경험 3년 연속 '통신 1위'…'U+one' 기반 AI·디지털 채...",
+          "summary": "LG유플러스(대표이사 사장 홍범식)는 한국표준협회(KSA)가 주관하는 '2026 디지털고객경험지수(DCXI)' 이동통신 부문에서 1위를 차지했다고 27일 밝혔다.…",
+          "press": "newsdream.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:00",
+          "link": "http://www.newsdream.kr/news/articleView.html?idxno=116963",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -383,26 +383,15 @@
       "id": "competitor",
       "num": "③",
       "title": "경쟁사 동향",
-      "digest": "U+유모바일은 신규 브랜드 프로젝트의 첫 프로그램으로 ‘유픽 폰&유심’을 출시한다. 약정 없이 검증된 S급 중고폰과 알뜰 유심 요금제를 한 번에 가입할 수 있다.",
+      "digest": "프리티캐나다가 8월 6일부터 31일까지 예약개통을 신청한 고객을 대상으로 추첨을 통해 팀홀튼 5달러 기프트카드와 요금제 결제 크레딧을 제공한다. 이번 이벤트는 캐나다 통신 요금제와 유심·이심 예약개통 고객을 대상으로 진행한다.",
       "articles": [
         {
-          "title": "[위클리오늘] 이동통신 소식_KT, U+유모바일(8.24)",
-          "summary": "▲ U+유모바일 '유픽 폰&유심' 출시 안내 이미지 U+유모바일, 약정 없는 '유픽 폰&유심' 출시 U+유모바일이 전문 검수를 거친 S급 중고폰과 알뜰폰 요금제를…",
-          "press": "weeklytoday.com",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 12:44",
-          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=791284",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
-        },
-        {
-          "title": "U+유모바일, 약정 없이 중고폰·알뜰 유심 요금제 가입 한 번에!",
-          "summary": "유픽 폰&유심은 유플러스유모바일에서 시작한 브랜드뉴 프로젝트의 첫 번째 프로그램이다.",
-          "press": "epnc.co.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 10:52",
-          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405933",
+          "title": "프리티캐나다, 캐나다 통신 요금제 ·캐나다 유심 이심 예약개통 이벤트...",
+          "summary": "8월 6일부터 8월 31일까지 예약개통을 신청한 고객 가운데 추첨을 통해 팀홀튼(Tim Hortons) 5달러 기프트카드와 요금제 결제에 사용할 수 있는 프리티…",
+          "press": "beyondpost.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 09:06",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=2026082614481948949aeda69934_30",
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
@@ -414,23 +403,12 @@
       "num": "④",
       "title": "그룹 동향",
       "digest": {
-        "powernet": "파워넷은 LFP 배터리 관리·전원공급장치 수요 확대와 데이터센터 전원·UPS 안전점검 강화에 힘입어 주가 상승세를 보이고 있다. 전자·자동차·AI 데이터센터 등 소부장·전원관리 시장 전반의 성장 흐름이 기업 가치를 부각시키고 있다.",
-        "mercury": "오늘 코스피는 상승세를 이어가며 대한광통신·머큐리 등 광통신주가 1% 가까이 올랐지만, 미국 AI칩 급락 이후 광통신·통신장비주가 장중 급감했다. 한편 AI 데이터센터 확대에 따라 구리·아라미드 등 광케이블 원재료 가격이 상승하고 있다.",
-        "encreative": "고물가와 편리함을 이유로 배달앱 대신 오픈채팅·밀키트·반찬 등 저렴·간편 식품 이용이 늘고, 닭고기·HMR 등 가공·편의식 시장이 확대된다. 사조푸디스트는 소비자 만족 1위와 1200여 품목 제공으로 입지를 강화하고, 한우물 등 강소기업과 AI 교육 협업으로 식품산업 혁신을 모색한다.",
+        "powernet": "Powernet은 고방열 스페이서·패키징 소재 수주 가시성 확대와 솔브레인홀딩스 지주사 할인 해제 후 계열사 지분 가치 부각으로 주가 상승 흐름을 보이고 있다. 동시에 데이터센터용 고효율 UPS·액체냉각 등 AI 기반 에너지 관리 국책과제가 활발히 진행돼 관련 소재 수요가 확대되고 있다.",
+        "mercury": "머큐리·광통신주가 6G·AI·초고속 데이터센터 수요와 광섬유·광케이블 해외 수주 확대 기대감에 상승세를 보이며, 미국 광통신주 급락에도 국내는 변동성을 보였지만 전반적 강세를 유지하고 있다.",
+        "encreative": "고금리·고물가·고환율 등 3고 여파로 실질 소비가 위축된다. 배달의민족은 자체 브랜드로 매출을 확대하고, 무인키오스크·오픈채팅 기반 ‘동네 공구’ 등 비대면·무인 서비스가 급증한다.",
         "ritco": ""
       },
       "articles": [
-        {
-          "title": "완성차 업계 LFP 채택 확산…셀업체·소부장 밸류체인 매수 온기 뚜렷",
-          "summary": "LFP 배터리 관리 시스템(BMS) 및 전원공급장치 기술을 영위하는 파워넷이 상승하고 있다.",
-          "press": "pinpointnews.co.kr",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 11:08",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479958",
-          "badge": "자사",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
         {
           "title": "코스텍시스, 고방열 스페이서·패키징 소재 수주 가시성에 주가 훈풍",
           "summary": "반면 에이엘티, 테스, 파워넷, 어보브반도체, 에스티아이, 디아이티, DB하이텍, 아이에이, LB세미콘은...",
@@ -531,23 +509,67 @@
           "subgroup_label": "파워넷"
         },
         {
+          "title": "중국에 밀린 K배터리, '미국 ESS'가 답인 이유",
+          "summary": "장기 공급계약 비중이 높아 안정적인 수익 확보에도 유리하다는 평가다.",
+          "press": "한국경제",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:16",
+          "link": "https://n.news.naver.com/mnews/article/050/0000110172?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "6G·글로벌 수주 기대... 통신장비주에 무슨 이슈 있나",
+          "summary": "이동통신 중계기 사업을 영위하는 CS, 쏠리드, 기산텔레콤, 에프알텍을 비롯해 프론트홀 장비 기업 에치에프알, 와이파이 공유기 공급사 머큐리, 통신 안테나 제조사…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 10:06",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480964",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "구리선 가고 빛이 온다… 빛과전자, 글로벌 빅테크 공급망 진입",
+          "summary": "광통신 장비 및 유무선 네트워크 솔루션을 공급하는 우리넷, 머큐리, 빛샘전자도 오름세를 나타내며 테마에 온기를 더하고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 09:56",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480959",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[특징주] 美 광통신주 훈풍에 대한광통신 8%↑",
+          "summary": "머큐리는 1.97% 오른 3630원, 자람테크놀로지는 1.17% 상승한 2만1700원을 나타내고 있다.",
+          "press": "newspim.com",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 09:48",
+          "link": "https://www.newspim.com/news/view/20260827000301",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산",
+          "summary": "머큐리가 3.5% 강세로 3,685원입니다. 빛샘전자가 4% 강세, LS가 2.5% 강세입니다. 전력설비 관련주도 엔비디아발 훈풍을 받고 있습니다.",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 09:34",
+          "link": "https://n.news.naver.com/mnews/article/374/0000529635?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
           "title": "[이 시각 시황] 코스피 상승세 지속…광통신·건설기계·원전주 강세",
           "summary": "대한광통신과 머큐리가 1%대 오름세 보이고 있습니다. 서울바이오시스가 0.5% 상승세 보이고 있습니다. 건설기계 관련주가 강세입니다.",
           "press": "biz.sbs.co.kr",
           "date": "2026-08-26",
           "datetime": "2026-08-26 09:40",
           "link": "https://n.news.naver.com/mnews/article/374/0000529394?sid=101",
-          "badge": "자사",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[단독] 코인트레이드, 슬래시 비전 랩스(SVL) 日 최초 상장",
-          "summary": "26일 JVCEA, 머큐리 등에 따르면 지난 19일부터 SVL/JPY 거래쌍을 개설해 거래 중이다.",
-          "press": "nbntv.co.kr",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 01:40",
-          "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4024181",
           "badge": "자사",
           "subgroup": "mercury",
           "subgroup_label": "머큐리 & 머큐리광통신"
@@ -564,6 +586,39 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
+          "title": "광통신주, AI 투자 기대감에 강세…대한광통신 7%↑",
+          "summary": "시장에서는 설비투자 확대로 인해 광섬유·광케이블 등 부품 수요도 늘어날 것으로 전망하고 있다.",
+          "press": "뉴시스",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 10:07",
+          "link": "https://n.news.naver.com/mnews/article/003/0014151412?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "5극3특 권역별 ‘성장엔진’ 지정…반도체·AI에 전폭 지원",
+          "summary": "로봇 시장을 공략하고 있다. 자체 개발 로봇 지능 프레임워크 ‘브레인X’를 탑재해 룰베이스와 모델...",
+          "press": "서울경제",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 10:01",
+          "link": "https://n.news.naver.com/mnews/article/011/0004655678?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "영풍·MBK, 최윤범 의결권 5% 막는다…‘허위 공시’ 가처분 신청",
+          "summary": "자본시장법은 중요 사항의 거짓 기재나 기재 누락에 대해 의결권 제한을 규정하고 있어, 다음 달 표결...",
+          "press": "서울경제",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 10:01",
+          "link": "https://n.news.naver.com/mnews/article/011/0004655677?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
           "title": "미친 듯이 오르는 가격…AI데이터센터에 몸값 치솟는 구리·인듐·갈륨 ...",
           "summary": "데이터센터와 이를 뒷받침할 전력망에 대량으로 들어가는 구리 가격이 사상 최고치를 기록한 데 이어...",
           "press": "헤럴드경제",
@@ -575,70 +630,15 @@
           "subgroup_label": "머큐리 & 머큐리광통신"
         },
         {
-          "title": "K-아라미드 3총사, AI 타고 中 공세 뚫는다",
-          "summary": "침체된 시장의 판도를 바꾼 것은 AI 데이터센터다.",
-          "press": "서울경제",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 17:27",
-          "link": "https://n.news.naver.com/mnews/article/011/0004655454?sid=101",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "아드반테스트, 실리콘 포토닉스 '통합 테스트 셀'로 대규모 양산 지원",
-          "summary": "인공지능(AI) 데이터센터의 데이터 전송 병목과 전력 문제를 해결할 차세대 기술로 주목받고 있다....",
-          "press": "디일렉",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 15:04",
-          "link": "https://www.thelec.kr/news/articleView.html?idxno=61366",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[테헤란로] 월가가 키우는 AI",
-          "summary": "이제는 금리와 채권시장도 AI의 속도를 좌우한다. 이자가 비싸지면 투자도 느려진다. 기술에는 꿈이 있지만...",
-          "press": "파이낸셜뉴스",
-          "date": "2026-08-24",
-          "datetime": "2026-08-24 19:00",
-          "link": "https://n.news.naver.com/mnews/article/014/0005565760?sid=110",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "태광산업, 섬유·석화 '선택과 집중'…저수익 정리·고부가 증설",
-          "summary": "아라미드는 방탄복과 광케이블 보강재로 들어간다. 방위산업 수요가 받쳐준다.",
-          "press": "ebn.co.kr",
+          "title": "소득 1.5% 늘었지만 실질 소비는 0.4%… 3고(高)·‘빚투’에 닫힌 지갑",
+          "summary": "고금리, 고물가, 고환율 등 3고(高) 여파와 함께 지난 6월 8000선을 뚫으며 초호황을 맞은 한국 주식시장이...",
+          "press": "조선일보",
           "date": "2026-08-27",
-          "datetime": "2026-08-27 06:00",
-          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721759",
+          "datetime": "2026-08-27 12:00",
+          "link": "https://n.news.naver.com/mnews/article/023/0003995215?sid=101",
           "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "코오롱인더스트리, 아라미드 정상화에 신사업도 속도…mPPO·CPI 확대",
-          "summary": "AI 데이터센터 확산에 따른 광케이블 사용이 늘면서 아라미드 수요도 확대될 것으로 예상된다.",
-          "press": "wikileaks-kr.org",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 18:04",
-          "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191328",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
-        },
-        {
-          "title": "[데스크의 창] 케냐, 선진국 도약 전략에 담긴 내용들",
-          "summary": "표준궤 철도 개통, 전국 도로망 확충, 항만·공항 현대화, 발전용량 및 광케이블망 확장, 콘자...",
-          "press": "weeklytrade.co.kr",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 13:52",
-          "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=101162",
-          "badge": "산업",
-          "subgroup": "mercury",
-          "subgroup_label": "머큐리 & 머큐리광통신"
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
         },
         {
           "title": "\"고물가 배달앱 대신 오픈채팅\" 외식비 부담에 '동네 공구' 뜬다",
@@ -663,89 +663,78 @@
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "정부·대학·기관 긴밀 협력…수산 식품산업 혁신 이끌 인재 첫 배출",
-          "summary": "해수부는 수산식품 수출 영토 확장과 산업 체질 고도화를 뒷받침하기 위해 국내 최초로 계약학과 신설을...",
-          "press": "뉴스1",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 17:12",
-          "link": "https://n.news.naver.com/mnews/article/421/0009134337?sid=101",
+          "title": "[Epic Why] ‘배달의 민족’은 왜 옷까지 배달할까",
+          "summary": "배민의 자체 브랜드 배민이지도 매출이 98% 증가했으며, 밀키트·정육·수산에서 출발한 상품군이 뷰티·패션...",
+          "press": "globalepic.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 12:12",
+          "link": "http://www.globalepic.co.kr/view.php?ud=20260827120820951548439a4874_29",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "[오늘의 주요일정]전북(8월25일 화요일)",
-          "summary": "협약식, 시장실 ▲오전 11시, 전북특별자치도 4-H 연합회 경진대회, 남원종합 스포츠타운 ▲오후 1시30분...",
+          "title": "사람 대신 키오스크 … 무인점포 1만2천 곳 시대, 사라지는 골목의 일자...",
+          "summary": "아이스크림 할인점과 밀키트 판매점, 문구점, 사진관, 카페, 세탁소, 반려동물용품점까지 무인영업이...",
+          "press": "dailyt.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 11:40",
+          "link": "https://www.dailyt.co.kr/newsView/dlt202608270002",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"고물가 배달앱 대신 오픈채팅\" 외식비 부담에 '동네 공구' 뜬다",
+          "summary": "판매 품목도 밀키트와 반찬, 육류, 과일 등 한 끼 식사에 활용할 수 있는 먹거리로 다양하다. 조리 과정이나...",
+          "press": "widedaily.com",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 10:32",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=300155",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "농식품부·aT, 북미 주력시장 진출 확대",
+          "summary": "aT는 권역별 수출 유망품목을 육성하기 위한 '글로벌 NEXT K-푸드 프로젝트'를 추진하고 있으며, 북미 시장에서는 현지 트렌드를 반영해 발효식품, 간편식품을…",
+          "press": "amnews.co.kr",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 10:28",
+          "link": "http://www.amnews.co.kr/news/articleView.html?idxno=74148",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "전남광주, K-푸드 기업 시제품부터 수출까지 키운다",
+          "summary": "생산, 수출까지 단계별로 지원하는 식품산업 육성 체계 구축에 나선다.",
+          "press": "매일경제",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 11:42",
+          "link": "https://n.news.naver.com/mnews/article/009/0005726539?sid=100",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "떡볶이·음료로 태국 젊은층 공략…K-푸드 30만弗 수출 협약",
+          "summary": "상담 품목은 떡볶이와 음료, 과자류 등이다. 총 42건의 수출 상담을 거쳐 30만 달러 규모의 업무협약을 체결했다.",
           "press": "뉴시스",
-          "date": "2026-08-25",
-          "datetime": "2026-08-25 05:00",
-          "link": "https://n.news.naver.com/mnews/article/003/0014145305?sid=102",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 10:06",
+          "link": "https://n.news.naver.com/mnews/article/003/0014151405?sid=101",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
         },
         {
-          "title": "사조푸디스트, '한국소비자만족지수 1위' 2개 부문 수상… 토탈 푸드 솔...",
-          "summary": "소규모 식음사업자를 위한 원가 경쟁력 상품과 가정간편식(HMR), 전처리 상품 등을 포함해 1200여개 상품을...",
-          "press": "newscj.com",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 19:18",
-          "link": "https://www.newscj.com/news/articleView.html?idxno=3427989",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "[전북 24시] 전북대, 산업현장 직접 연계 AI 프로젝트 교육 구체화",
-          "summary": "HMR 냉동식품 전문 강소기업 ㈜한우물과 협업한'식품산업조직론'교과목의 운영 사례를 발표했다.",
-          "press": "sisajournal.com",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 18:21",
-          "link": "https://n.news.naver.com/mnews/article/586/0000136838?sid=102",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "글루텐프리 인증 쌀가공식품… 수출·프리미엄 '두 토끼' 잡는다",
-          "summary": "국내외 시장 경쟁력 강화를 위한 마중물이라고 전망했다.연 센터장은 \"쌀가공식품이 글루텐프리 인지도가 큰...",
-          "press": "asiatoday.co.kr",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 18:16",
-          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009065",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "[식음료 Pick] 식품업계, 수급 안정과 팬덤 연계로 시장 공략",
-          "summary": "특정 지역 산지와의 장기적인 수급 구조 구축부터 한식의 가정간편식(HMR) 전환, 스포츠 문화 콘텐츠를 결합한 마케팅에 이르기까지 각 사의 시장 접근 방식이 한층…",
-          "press": "lcnews.co.kr",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 17:08",
-          "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=207211",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "홈플러스 익스프레스 인수한 NS홈쇼핑…유통망 사업 확장 시동",
-          "summary": "홈플러스 익스프레스는 전국 284개 운영 점포를 기반으로 근거리 장보기 시장을 공략해온 SSM이다. NS쇼핑은...",
-          "press": "weekly.hankooki.com",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 16:52",
-          "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7180747",
-          "badge": "산업",
-          "subgroup": "encreative",
-          "subgroup_label": "이앤크리에이티브"
-        },
-        {
-          "title": "Vietfood & Beverage – ProPack Vietnam 2026 전시회 참관기",
-          "summary": "com/en/ [자료: 전시회 공식 홈페이지 및 브로슈어] 베트남 식품산업 시장동향 미국 농무부(USDA)의 연간...",
-          "press": "dream.kotra.or.kr",
-          "date": "2026-08-26",
-          "datetime": "2026-08-26 16:50",
-          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=110&CONTENTS_NO=1&bbsGbn=245&bbsSn=245&pNttSn=243676",
+          "title": "전남광주, K-푸드 혁신 산·학·연·관 협력체계 본격 가동",
+          "summary": "판로·수출까지 실질적인 성과로 이어지도록 지원하겠다”고 말했다.",
+          "press": "아주경제",
+          "date": "2026-08-27",
+          "datetime": "2026-08-27 09:04",
+          "link": "https://www.ajunews.com/view/20260827085446007",
           "badge": "산업",
           "subgroup": "encreative",
           "subgroup_label": "이앤크리에이티브"
@@ -771,5 +760,5 @@
       ]
     }
   ],
-  "total": 62
+  "total": 61
 }
