@@ -63,7 +63,7 @@ def _parse_json(text: str):
 
 
 def _groq(system: str, user: str) -> str:
-    for attempt in range(4):  # 429(한도) 시 대기 후 재시도
+    for attempt in range(4):  # 429(한도) 시 대기 후 재시도 — 요약 품질 우선
         try:
             r = requests.post(
                 GROQ_URL,
@@ -80,7 +80,6 @@ def _groq(system: str, user: str) -> str:
             )
             if r.status_code == 429:
                 wait = 8 * (attempt + 1)  # 8,16,24s 점증 대기
-                # Retry-After 헤더가 있으면 우선 사용
                 ra = r.headers.get("retry-after")
                 if ra:
                     try:
@@ -121,13 +120,22 @@ RELEVANCE_CONTEXT = {
     "ritco": "리트코(미세먼지 저감·전기집진 환경설비 기업)의 사업 소식",
 }
 
+# 계열사 산업동향(badge=산업)용 — 업종 전반 동향까지 폭넓게 관련으로 인정
+RELEVANCE_CONTEXT_IND = {
+    "powernet": "전원공급장치·SMPS·파워서플라이 등 전력변환 부품 업종 동향",
+    "mercury": "광케이블·광통신·광섬유·FTTH 등 광통신 장비 업종 동향",
+    "encreative": "밀키트·간편식(HMR)·떡볶이·K-푸드 등 간편식 업종 동향",
+    "ritco": "미세먼지 저감·전기집진·배출가스 측정(TMS)·대기환경 설비 업종 동향",
+}
 
-def relevance_filter(articles: list, ctx_key: str, batch: int = 30) -> list:
+
+def relevance_filter(articles: list, ctx_key: str, batch: int = 30, lenient: bool = False) -> list:
     """AI로 각 기사가 해당 주제와 실제 관련 있는지 판단해 무관한 기사를 제거.
-    제목·요약만으로 판단. AI 실패 시 원본 유지(보수적)."""
+    제목·요약만으로 판단. AI 실패 시 원본 유지(보수적).
+    lenient=True: 업종 동향까지 폭넓게 인정(확실히 무관한 것만 제외) — 계열사 산업동향용."""
     if not articles or not GROQ_KEY:
         return articles
-    topic = RELEVANCE_CONTEXT.get(ctx_key)
+    topic = (RELEVANCE_CONTEXT_IND.get(ctx_key) if lenient else None) or RELEVANCE_CONTEXT.get(ctx_key)
     if not topic:
         return articles
     kept = []
@@ -138,16 +146,25 @@ def relevance_filter(articles: list, ctx_key: str, batch: int = 30) -> list:
             t = (a.get("title", "") or "")[:80]
             d = (a.get("desc", a.get("summary", "")) or "")[:100]
             lines.append(f"{idx}. {t} / {d}")
-        system = (
-            "너는 엄격한 뉴스 관련성 판별기다. 핵심 기준: 기사의 '주체(주인공)' 또는 '중심 소재'가 주제의 회사/제품인가? "
-            "주체가 다른 회사이고 주제 키워드가 스치듯 언급될 뿐이면 반드시 관련 없음으로 분류한다. "
-            "예1: 통신 주제인데 기사 주체가 언론사(AP통신·교도통신)·정치인·연예인·위성통신 기기면 관련 없음. "
-            "예2: '대한항공이 쌀을 기부(예전에 밀키트도 지원)'처럼 주체가 항공사이고 밀키트가 곁다리로만 나오면 관련 없음. "
-            "예3: '삼성이 국떡 떡볶이 1만개를 기부'처럼 해당 브랜드 제품이 거래·기부의 '중심'이면 관련 있음. "
-            "예4: '국떡이 대한항공 기내식에 납품'처럼 주체가 해당 브랜드면 관련 있음. "
-            "요컨대 그 회사/제품이 '주인공이거나 소식의 중심'이면 관련 있음, 배경에 스치면 관련 없음. "
-            'JSON만 출력: {"irrelevant":[관련없는 기사 번호 목록]}'
-        )
+        if lenient:
+            system = (
+                "너는 관대한 업종 동향 판별기다. 기사가 주어진 '업종'과 조금이라도 관련되면 관련 있음으로 둔다. "
+                "그 업종의 기술·제품·시장·정책·타사 동향도 모두 관련 있음. "
+                "확실히 다른 분야(정치·연예·스포츠·언론사명·전혀 무관한 산업)일 때만 관련 없음으로 분류한다. "
+                "애매하면 반드시 관련 있음으로 남긴다. "
+                'JSON만 출력: {"irrelevant":[확실히 무관한 기사 번호만]}'
+            )
+        else:
+            system = (
+                "너는 엄격한 뉴스 관련성 판별기다. 핵심 기준: 기사의 '주체(주인공)' 또는 '중심 소재'가 주제의 회사/제품인가? "
+                "주체가 다른 회사이고 주제 키워드가 스치듯 언급될 뿐이면 반드시 관련 없음으로 분류한다. "
+                "예1: 통신 주제인데 기사 주체가 언론사(AP통신·교도통신)·정치인·연예인·위성통신 기기면 관련 없음. "
+                "예2: '대한항공이 쌀을 기부(예전에 밀키트도 지원)'처럼 주체가 항공사이고 밀키트가 곁다리로만 나오면 관련 없음. "
+                "예3: '삼성이 국떡 떡볶이 1만개를 기부'처럼 해당 브랜드 제품이 거래·기부의 '중심'이면 관련 있음. "
+                "예4: '국떡이 대한항공 기내식에 납품'처럼 주체가 해당 브랜드면 관련 있음. "
+                "요컨대 그 회사/제품이 '주인공이거나 소식의 중심'이면 관련 있음, 배경에 스치면 관련 없음. "
+                'JSON만 출력: {"irrelevant":[관련없는 기사 번호 목록]}'
+            )
         user = f"주제: {topic}\n\n기사 목록:\n" + "\n".join(lines)
         out = _groq(system, user)
         data = _parse_json(out)
