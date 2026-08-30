@@ -381,6 +381,7 @@ ARCHIVE_IND_PER_COMPANY = 4   # 계열사 1곳당 산업 기사 최대
 
 # 매일 클리핑(최근 2일) 화면 노출 제한 — 저장은 위 아카이브 분량, 화면엔 이만큼만
 # 지난 소식으로 넘어가면 위 아카이브 분량(전체)이 펼쳐짐
+RECENT_DAYS = 3               # 최근 N일이 '매일 클리핑', 그 이전이 '지난 소식' (dashboard.py와 일치)
 RECENT_MAX_PER_SECTION = 8    # 최근 화면 기본 섹션당
 RECENT_MAX_BY_SECTION = {
     "industry": 15,
