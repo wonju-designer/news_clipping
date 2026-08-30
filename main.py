@@ -113,6 +113,30 @@ def run(preview: bool = False):
     sender.send(html_body, docx_path)
     print("[완료]")
 
+    # 지난 소식으로 막 넘어간 날짜(4일 전)를 백필로 재수집해 하루치를 온전히 채움.
+    # 매일 클리핑은 아침 수집이라 당일분이 적은데, 지난 소식으로 넘어갈 때 백필 품질로 교체.
+    # 실패해도 오늘 발송엔 영향 없음.
+    if not preview:
+        try:
+            _auto_backfill_past_day(now)
+        except Exception as e:
+            print(f"[자동 백필 실패] {e}")
+
+
+def _auto_backfill_past_day(now):
+    """오늘 막 지난 소식으로 넘어간 날(=RECENT_DAYS일 전)을 백필로 갱신.
+    RECENT_DAYS=3이면 최근 3일(오늘·어제·그제)이 매일 클리핑, 3일 전이 지난 소식 첫날."""
+    import os
+    from datetime import timedelta
+    target = now - timedelta(days=config.RECENT_DAYS)
+    day = f"{target:%Y-%m-%d}"
+    print(f"[자동 백필] 지난 소식 전환일 {day} 하루 재수집")
+    os.environ["START"] = day
+    os.environ["END"] = day
+    import backfill_august
+    backfill_august.run()
+    print(f"[자동 백필] {day} 갱신 완료")
+
 
 if __name__ == "__main__":
     run(preview="--preview" in sys.argv)
