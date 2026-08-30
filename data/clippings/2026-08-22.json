@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
-  "backfill_note": "※ 2026-08-27 소급 일괄 수집 (매일 발송분 아님)",
-  "generated_at": "2026-08-27 09:16 소급 정리",
+  "backfill_note": "※ 2026-08-30 소급 일괄 수집 (매일 발송분 아님)",
+  "generated_at": "2026-08-30 11:11 소급 정리",
   "top5": [],
   "sections": [
     {
@@ -53,17 +53,6 @@
           "badge": "",
           "subgroup": "",
           "subgroup_label": ""
-        },
-        {
-          "title": "\"투자 집중 vs 임금 인상\"…KT, 본업 둔화 속 노사 교섭 '진통'",
-          "summary": "2분기 무선서비스 매출은 1조6천749억원으로 전년 동기 대비 1.8% 감소했고, 가입자당 평균매출(ARPU)은 3만4천412원으로 2.3% 하락했다.",
-          "press": "youthdaily.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 08:00",
-          "link": "https://www.youthdaily.co.kr/news/article.html?no=225492",
-          "badge": "",
-          "subgroup": "",
-          "subgroup_label": ""
         }
       ]
     },
@@ -87,28 +76,6 @@
       "title": "그룹 동향",
       "digest": "",
       "articles": [
-        {
-          "title": "삼성SDI, 삼성디스플레이 지분 4.45조 매각…\"미래 성장동력 투자 재원 ...",
-          "summary": "전력용 에너지저장장치(ESS)와 무정전 전원장치(UPS) 시장이 가파르게 성장하는 가운데, 삼성SDI는 관련 배터리 공급을 확대하며 존재감을 키우고 있다.",
-          "press": "newsroad.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 07:00",
-          "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63215",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
-        {
-          "title": "[삼성SDI 대전환③] 전고체 조기 등판… '꿈의 배터리'로 미래 주도",
-          "summary": "회사는 올 하반기 중 휴머노이드용 샘플을 공급하고 고객사 검증을 거쳐 양산 준비에 들어갈 계획이다. 차세대 라인업은 전고체에 그치지 않는다.",
-          "press": "the-biz.co.kr",
-          "date": "2026-08-22",
-          "datetime": "2026-08-22 07:00",
-          "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=726558",
-          "badge": "산업",
-          "subgroup": "powernet",
-          "subgroup_label": "파워넷"
-        },
         {
           "title": "한미반도체, 1300억 들여 8공장 확보…\"장비 쇼티지 대비\"",
           "summary": "한미반도체는 지난 18일 통신기기 제조사 머큐리로부터 인천 주안국가산업단지에 위치한 토지 2만582㎡(약 6230평)와 건물 2만5694㎡(약 7770평) 규모의…",
@@ -185,5 +152,5 @@
       ]
     }
   ],
-  "total": 12
+  "total": 9
 }
