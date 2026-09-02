@@ -1,0 +1,599 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02 09:41",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "스테이지파이브, 로플랫 인수…알뜰폰 확장",
+      "category": "경쟁사",
+      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=47409"
+    },
+    {
+      "rank": 2,
+      "headline": "SKT 자급제 서비스 에어, 가입자 20만 돌파",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/243/0000102463?sid=105"
+    },
+    {
+      "rank": 3,
+      "headline": "KT엠모바일, 알뜰폰 최초 스마트서식지 도입",
+      "category": "산업",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861260"
+    },
+    {
+      "rank": 4,
+      "headline": "알뜰폰 QoS 도입 본격화…통신3사 흡수 글쎄",
+      "category": "산업",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260901010000355"
+    },
+    {
+      "rank": 5,
+      "headline": "알뜰폰도 데이터 소진 후 안심옵션 적용 시작",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/009/0005728632?sid=105"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "8월 물가 상승률이 3.1%에 달하면서 올해 휴대전화료 상승률이 높게 나타났다. 알뜰폰 시장에서는 ‘안심옵션’ 도입과 KT엠모바일의 전자문서 기반 ‘스마트서식지’ 적용으로 가입 절차가 15분에서 3분으로 단축되고 명의도용 방지 기능이 강화됐다. SK텔레콤은 ‘에어’ 가입자 20만 명을 돌파하고 신규 가입자에게 이심 발급 수수료를 전액 면제한다. LG유플러스는 어라이즈 AI와 협업해 AI 에이전트 관리체계를 구축한다.",
+      "articles": [
+        {
+          "title": "[속보]8월 물가 3.1%↑ 두 달 만에 다시 3%대…작년 통신요금 인하 기저...",
+          "summary": "SK텔레콤 망을 사용하는 알뜰폰 고객도 지원 대상에 포함됐다. 당시 일시적으로 낮아진 요금 수준과 비교하면서 올해 휴대전화료 상승률이 높게 나타난 것이다.",
+          "press": "헤럴드경제",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 08:01",
+          "link": "https://n.news.naver.com/mnews/article/016/0002691516?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“데이터 다 썼지만 카톡하고 싶어”…알뜰폰도 ‘안심옵션’ 적용 시작",
+          "summary": "통신업계에서는 침체된 알뜰폰 시장의 숨통을 틔워줄 정책으로 평가하고 있다.",
+          "press": "매일경제",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 14:04",
+          "link": "https://n.news.naver.com/mnews/article/009/0005728632?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 풍향계] SKT '에어 20만 회원' 돌파·KT '로밍 상품' 개편·LGU+ 'AI...",
+          "summary": "KT엠모바일의 알뜰폰 최초 스마트서식지 도입, KT밀리의서재의 창립 10주년 생일 프로모션 진행 등의...",
+          "press": "newsworks.co.kr",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 19:02",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=852343",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 종이 신청서 없앤다…알뜰폰도 '태블릿 개통' 시대",
+          "summary": "국내 알뜰폰 1위 사업자 KT엠모바일이 종이 가입 신청서를 태블릿 기반 전자문서로 전환하는 '스마트서식지'를 알뜰폰 업계 최초로 도입한다.",
+          "press": "popcornnews.net",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 17:30",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=131453",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT 자급제 서비스 ‘에어’, 가입자 20만 돌파…유튜브 프리미엄 라이...",
+          "summary": "SK텔레콤은 이달 말까지 에어 신규 가입자를 대상으로 이심(알뜰폰·자급제용 모바일 신분증) 발급 수수료를 전액 면제해 주는 지원도 병행한다.",
+          "press": "economist.co.kr",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 15:44",
+          "link": "https://n.news.naver.com/mnews/article/243/0000102463?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 알뜰폰 가입 3분 만에···'종이 신청서' 없앤다",
+          "summary": "서식지 작성 과정에는 녹취 기능도 적용해 명의도용 등 부정 사용을 방지한다.",
+          "press": "finomy.com",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 15:42",
+          "link": "http://www.finomy.com/news/articleView.html?idxno=260524",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 알뜰폰 최초 '스마트서식지' 도입",
+          "summary": "신청서 작성 과정에는 녹취 기능도 적용해 명의도용 등 부정사용을 예방하는 고객 보호 체계도 강화했다.",
+          "press": "hansbiz.co.kr",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 15:26",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861260",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'알뜰폰 QoS' 도입 본격화…통신3사 가입자 흡수는 '글쎄'",
+          "summary": "알뜰폰 경쟁력이 높아지면서 번호이동 시장 여파에 시선이 모인다.",
+          "press": "asiatoday.co.kr",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 15:16",
+          "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260901010000355",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 알뜰폰 가입신청 15분서 3분으로 단축",
+          "summary": "작성 과정에는 녹취 기능을 적용해 명의도용 등 부정사용을 방지한다.",
+          "press": "m-i.kr",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 15:06",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=1408605",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "가입 신청, 종이 대신 전자문서로…KT엠모바일 첫 도입",
+          "summary": "아울러 서식지 작성 과정에 녹취 기능을 적용해 명의도용 등 부정사용 방지를 위한 고객 보호 체계도 강화했습니다.",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 14:31",
+          "link": "https://n.news.naver.com/mnews/article/374/0000530542?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[IT는 지금] LG유플러스, 어라이즈 AI와 AI 에이전트 관리체계 구축 外",
+          "summary": "국내 B2B 시장에서 공동 사업 기회도 발굴할 계획이다. LG유플러스는 이번 협력을 바탕으로 AI 운영 관리...",
+          "press": "dealsite.co.kr",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 11:26",
+          "link": "https://dealsite.co.kr/articles/168194",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "스테이지파이브가 AI 위치데이터 기업 로플랫을 인수해 알뜰폰 브랜드 ‘핀다이렉트’ 경쟁력 강화와 위치 기반 신규 통신·서비스 개발에 나선다.",
+      "articles": [
+        {
+          "title": "스테이지파이브, AI 위치데이터 기업 로플랫 인수",
+          "summary": "자료=스테이지파이브스테이지파이브가 인공지능(AI) 위치 데이터 전문기업 로플랫을 인수한다.",
+          "press": "news.mtn.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 09:16",
+          "link": "https://news.mtn.co.kr/news-detail/2026090208451940043",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, 로플랫 인수...알뜰폰 키우고 新사업 확장",
+          "summary": "스테이지파이브는 이번 인수합병(M&A)을 계기로 자사의 알뜰폰 브랜드 '핀다이렉트'의 경쟁력을 강화하고, 위치 데이터 기반의 새로운 사업도 추진할 계획이다.",
+          "press": "newstopkorea.com",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 09:10",
+          "link": "https://www.newstopkorea.com/news/articleView.html?idxno=47409",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, AI 위치 데이터 기업 로플랫 인수…주식교환으로 자회...",
+          "summary": "스테이지파이브가 AI 위치 데이터 기업 로플랫을 인수한다.",
+          "press": "platum.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 08:58",
+          "link": "https://platum.kr/archives/293803",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, 로플랫 인수‥통신에 위치 기술 결합",
+          "summary": "스테이지파이브는 로플랫의 위치 기술을 자사 알뜰폰 브랜드 '핀다이렉트' 등 통신 서비스에 접목해 서비스 품질을 높이고 신규 서비스를 개발한다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 08:52",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697466",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, 로플랫 인수…제4이통 대신 ‘AI 통신’으로 승부",
+          "summary": "제4이동통신 사업에 도전했다가 사업자 선정이 취소된 스테이지파이브가 AI 위치기술을 앞세워 통신 서비스...",
+          "press": "이데일리",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 08:48",
+          "link": "https://n.news.naver.com/mnews/article/018/0006362106?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "AI 데이터센터 확대와 정부 그리드코드 수립으로 전력·UPS·ESS 수요가 급증하고, SK하이닉스·삼성전자의 전력반도체·삼성SDI의 UPS·ESS 사업이 성장세를 보인다. 솔루엠은 공급 지연으로 목표 하향, 내년부터 DC‑DC 컨버터 공급 예정이다.",
+        "mercury": "한미반도체가 (주)머큐리 560억에 인수해 반도체 공장 규모 확대를 발표했지만, 머큐리와 광통신 관련 주식은 미국 데이터센터·광케이블 수요에도 불구하고 급락세를 보였다.",
+        "encreative": "일본 바이어는 간편식·냉동식·건강·미용에 관심을 보이며 한국 식품의 수출 기회를 확대하고 있다. 국내 기업들은 냉동 치킨·소스·HMR 라인업을 강화해 가정용·배달 시장을 공략하고 있다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "차익 실현 물량에 하락 종목 출회… 선별적 접근 필요한 전기제품 업종",
+          "summary": "동양이엔피는 SMPS 전원공급장치 기술을 기반으로 전장 사업을 다각화하고 있다. 파워넷, 피에스텍도 내림세로 거래되고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-08-31",
+          "datetime": "2026-08-31 09:26",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482020",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"실적과 기술력 따라 옥석 가리기\"… 전력반도체주 차별화 국면",
+          "summary": "SK하이닉스와 삼성전자는 메모리 반도체 업황 회복과 함께 AI 전력 관리 솔루션 부문의 안정적 실적이...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 15:50",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482720",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[중국 특징주] 전력설비 업체 '이과이', A+H 이중상장 추진",
+          "summary": "(데이터센터 변압기, 데이터센터 전력공급 시스템), 배전 변압기, 산업제어 변압기 등이 포함된다. 조명 제품에는 조명 전원공급장치와 조명기구가 포함된다.",
+          "press": "newspim.com",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 01:03",
+          "link": "https://www.newspim.com/news/view/20260902000014",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "한국레노버, AMD 라이젠 프로 9000 탑재 ‘씽크스테이션 P4’ 출시…워크...",
+          "summary": "국내 시장에 선보였다. 한국레노버는 1일 모드리안 서울 이태원에서 ‘씽크스테이션 P4 미디어...",
+          "press": "케이벤치",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 16:30",
+          "link": "https://kbench.com/?q=node/281554",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "서울전자통신, 中 9800만 회원 하이즈왕과 K제품 유통 맞손",
+          "summary": "한편, 1983년 설립된 서울전자통신은 1999년 코스닥 시장에 입성했다.",
+          "press": "sentv.co.kr",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 14:22",
+          "link": "https://www.sentv.co.kr/article/view/sentv202609010134",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "오리엔트정공, 고성능 MgO 갭필러 시제품 개발…\"향후 검증 거쳐 양산체...",
+          "summary": "향후 고객사 적용 테스트와 시장 확대에 대응할 수 있도록 원재료 조달부터 배합, 생산, 품질관리까지...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 10:08",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482508",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "정부, AI 데이터센터 그리드코드 연내 수립",
+          "summary": "연산 장비뿐 아니라 냉각과 공조 등 시설 운영에 투입되는 전력까지 살펴 데이터센터의 소비 특성을 접속 전략에 반영하는 작업이다.",
+          "press": "vegannews.co.kr",
+          "date": "2026-08-31",
+          "datetime": "2026-08-31 11:10",
+          "link": "https://www.vegannews.co.kr/news/article.html?no=385416",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "지에프아이, 삼성SDI 해외 ESS 직분사 미주 사이트 설치 계약",
+          "summary": "북미 공급을 이정표 삼아 유럽과 동남아 등 글로벌 시장 진출을 가속화할 방침이다.",
+          "press": "이데일리",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 15:56",
+          "link": "https://n.news.naver.com/mnews/article/018/0006361787?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "AI 특수에 美 전력설비 업계 '일감 폭주'",
+          "summary": "데이터센터 부지와 건물 안에도 배전 변압기와 개폐장치, 차단기, 무정전전원장치가 필요하다....",
+          "press": "한국경제",
+          "date": "2026-08-31",
+          "datetime": "2026-08-31 16:06",
+          "link": "https://n.news.naver.com/mnews/article/015/0005326721?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "지에프아이, 삼성SDI 북미 ESS에 159억 규모 화재 안전솔루션 공급",
+          "summary": "DI-KIT는 ESS와 무정전전원장치(UPS) 등 배터리 기반 전력 인프라에 적용하는 화재 안전솔루션이다. 배터리...",
+          "press": "epnc.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 08:50",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406363",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "내셔널지오그래픽 키즈, 겨울 아우터 선판매로 라이브커머스 강화",
+          "summary": "방송에서는 '에어리 머스코비 라이트 다운 점퍼', '에어리 후디 머스코비 라이트 다운 점퍼', '머큐리 경량 머스코비 다운 베스트' 등이 소개됐다.",
+          "press": "ktnews.com",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 15:06",
+          "link": "http://www.ktnews.com/news/articleView.html?idxno=148117",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[유아동브랜드 트렌드] 마리떼 키즈, 공개 모집한 아이들과 가을 데님 ...",
+          "summary": "이번 방송에서는 26FW 시즌 신상품인 ▲에어리 머스코비 라이트 다운 점퍼 ▲에어리 후디 머스코비 라이트 다운 점퍼 ▲머큐리 경량 머스코비 다운 베스트 등을 선보…",
+          "press": "ibabynews.com",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 14:32",
+          "link": "https://www.ibabynews.com/news/articleView.html?idxno=154128",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "삼성전자·SK하이닉스·마이크론 첨단 D램·HBM 투자에 소부장도 '릴레이...",
+          "summary": "한미반도체는 이달 공시를 통해 인천 서해구 가좌동에 위치한 (주)머큐리의 6230평 규모 공장을 560억원에 인수했다고 발표했다.",
+          "press": "sisajournal-e.com",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 13:40",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423432",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "美 루멘텀 '상승'에도, 한국증시 광통신주 '장중 뚝'...왜?",
+          "summary": "또 한국첨단소재(-4.74%), 성호전자(-3.36%), RF머트리얼즈(-3.67%), 라이콤(-5.99%), 머큐리(-3.62%) 등도 급락 거래 중이다.",
+          "press": "choicenews.co.kr",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 11:00",
+          "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=170785",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[르포] 'AI시대의 애증' 美데이터센터 가보니…심장부까지 5중 철옹성",
+          "summary": "서버실 들어서자 냉각용 서늘한 공기에 헬기 엔진 같은 굉음 수천가닥 광케이블 연결 불빛 '깜박'…최첨단...",
+          "press": "연합뉴스",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 09:16",
+          "link": "https://n.news.naver.com/mnews/article/001/0016284235?sid=104",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "‘AI 컴퍼니’ 내건 통신 3사…“내부 혁신해야 밖에서도 팔린다” [베...",
+          "summary": "5세대(5G) 이동통신 시장이 성숙 국면에 접어드는 등 본업 사정이 녹록지 않다 보니 대외 메시지에서...",
+          "press": "한국경제",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 06:02",
+          "link": "https://n.news.naver.com/mnews/article/050/0000110360?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "게르마늄 국산화 나서는 고려아연",
+          "summary": "중국의 수출 통제와 제한적인 공급 여건에 산업 수요가 맞물리면서 게르마늄 가격도 상승세를 이어가고 있다.",
+          "press": "파이낸셜뉴스",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 18:21",
+          "link": "https://n.news.naver.com/mnews/article/014/0005569573?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS전선, 초전도 신기술로 데이터센터 전력난 뚫는다",
+          "summary": "LS전선이 초전도 기술을 앞세워 인공지능(AI) 데이터센터 전력 인프라 시장 공략에 나선다. 신규 변전소를...",
+          "press": "서울경제",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 17:30",
+          "link": "https://n.news.naver.com/mnews/article/011/0004657482?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS전선, 초전도 기술로 AI 데이터센터 전력시장 공략",
+          "summary": "LS전선은 AI 데이터센터의 외부 전력망에 초전도 시스템을 적용하고 내부에는 버스덕트와 광케이블 등을 공급할 계획이다.",
+          "press": "디일렉",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 16:38",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=61642",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "게르마늄 공급난 2~3년...고려아연 국산화 속도",
+          "summary": "주요 가격 상승 요인으로 작용했다면, 최근에는 제한적인 공급과 산업 수요 증가, 주요국의 전략 광물 확보 움직임 등이 함께 영향을 미치고 있다는 분석이다.",
+          "press": "파이낸셜뉴스",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 15:08",
+          "link": "https://n.news.naver.com/mnews/article/014/0005569374?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[관악S밸리 기업 공공서비스 실증 지원사업] 정성 데이터로부터 사람의...",
+          "summary": "중소 밀키트 및 급식업체, 푸드 제조사를 대상으로 롱테일 마켓을 빠르게 점유할 계획”이라고 말했다.... B2B 시장 진출을 추진하고 있다.",
+          "press": "한국경제",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 21:16",
+          "link": "https://magazine.hankyung.com/job-joy/article/202609017748d",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"조리 간편해야 잘 팔려요\" 일본 파고드는 K먹거리",
+          "summary": "이날 일본 바이어들의 관심은 △간편식 △냉동식품·디저트 △건강·미용 제품에 집중됐다. 떡볶이·잡채...",
+          "press": "파이낸셜뉴스",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 18:19",
+          "link": "https://n.news.naver.com/mnews/article/014/0005569562?sid=104",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"日소비자가 맛보고 바이어가 찜했다\" 역대 최대 K푸드전 [르포]",
+          "summary": "■간편식 넘어 건강·미용, 신선식품까지 이날 일본 바이어들의 관심은 △간편식 △냉동식품·디저트 △건강...",
+          "press": "파이낸셜뉴스",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 15:27",
+          "link": "https://n.news.naver.com/mnews/article/014/0005569402?sid=104",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"K-푸드로 뜬다\" 영광의 맛, 전통 넘어 미래산업 도약 시동",
+          "summary": "소비시장 확대가 핵심 현안이다.",
+          "press": "뉴시스",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 11:06",
+          "link": "https://n.news.naver.com/mnews/article/003/0014160850?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"냉면 육수 1위 찍더니\"…면사랑 이번엔 짜장·파스타로 승부수",
+          "summary": "올여름 이커머스에서 흥행을 거둔 냉면·동치미 육수에 이어 중·양식 사계절 소스 라인업을 보강하며 가정간편식(HMR) 시장 공략에 속도를 내는 행보다.",
+          "press": "한국경제",
+          "date": "2026-09-01",
+          "datetime": "2026-09-01 08:42",
+          "link": "https://n.news.naver.com/mnews/article/015/0005327000?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"고물가에도 치킨은 못 참지\" 식품업계, 가성비 '냉동치킨' 주목",
+          "summary": "냉동치킨 시장 공략에 속도를 내고 있다. 31일 업계에 따르면 주요 식품업체들은 최근 냉동치킨 신제품을...",
+          "press": "뉴시스",
+          "date": "2026-08-31",
+          "datetime": "2026-08-31 14:09",
+          "link": "https://n.news.naver.com/mnews/article/003/0014158851?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "롯데웰푸드, 배달 치킨 맛 집으로…'쉐푸드 치킨' 4종 출시",
+          "summary": "롯데웰푸드가 배달 치킨의 식감과 소스를 구현한 냉동 순살치킨 4종을 출시하며 가정간편식(HMR) 시장 공략을 강화한다.",
+          "press": "newsquest.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 09:24",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=300065",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "풀무원, 냉장 넘어 실온으로…상반기 매출 역대 최대",
+          "summary": "실온 제품은 냉장·냉동 제품보다 보관과 배송이 쉽고 콜드체인 비용 부담도 상대적으로 낮아 온라인 판매와 수출에 유리하다.",
+          "press": "newsquest.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 09:22",
+          "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=300064",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"하동군 기업 육성하려면?\"…중진공, 간담회 개최",
+          "summary": "이번 행사는 K-푸드, 환경 등의 분야에서 성장 잠재력을 가진 하동군 지역 기업의 경쟁력 강화를 돕고자 추진됐다.",
+          "press": "뉴시스",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 09:14",
+          "link": "https://n.news.naver.com/mnews/article/003/0014163056?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"실질 지원책 마련\"…강석진 중진공 이사장, 하동지역 기업 지원 논의",
+          "summary": "만나 수출 판로와 인력, 자금 등 현장 애로를 듣고 지원 방안을 논의했다.",
+          "press": "뉴스1",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 08:37",
+          "link": "https://n.news.naver.com/mnews/article/421/0009145357?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 46
+}
