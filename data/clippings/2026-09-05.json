@@ -1,0 +1,764 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05 09:31",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "알뜰폰 '400Kbps' 데이터안심옵션 통할까",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/092/0002436317?sid=105"
+    },
+    {
+      "rank": 2,
+      "headline": "토스모바일, 나라사랑카드 요금제 출시",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/018/0006363749?sid=105"
+    },
+    {
+      "rank": 3,
+      "headline": "스테이지파이브, 로플랫 인수해 통신·AI 결합",
+      "category": "경쟁사",
+      "link": "https://www.koit.co.kr/news/articleView.html?idxno=208807"
+    },
+    {
+      "rank": 4,
+      "headline": "4개월 만에 반등한 알뜰폰, 서비스 승부",
+      "category": "산업",
+      "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=727204"
+    },
+    {
+      "rank": 5,
+      "headline": "통신3사, OTT·AI 묶어 고가요금제 지키기",
+      "category": "산업",
+      "link": "https://www.ekn.kr/web/view.php?key=20260902025449594"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "알뜰폰 시장은 이동통신 3사의 400Kbps 데이터 안심옵션 무상 지원을 계기로 요금제 개편과 QoS 적용이 확대되고 있다. 토스모바일·롯데하이마트 등은 군·청년 대상 저가·고용량 요금과 자체 혜택을 내세워 경쟁한다. 동시에 번호이동이 활발해 KT 알뜰폰 가입자가 전월 대비 33% 증가했으며, eSIM·AI 비서·OTT 등 부가서비스로 차별화를 시도한다. 그러나 기본 데이터 초과 시 400Kbps 속도 저하에 대한 소비자 불만도 제기되고 있다.",
+      "articles": [
+        {
+          "title": "알뜰폰 '400Kbps' 데이터안심옵션 통할까",
+          "summary": "알뜰폰 업계가 이동통신 3사의 400Kbps 데이터안심옵션(QoS) 무상 지원에 힘입어 요금제 개편을 본격화하고...",
+          "press": "지디넷코리아",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 17:04",
+          "link": "https://n.news.naver.com/mnews/article/092/0002436317?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“최대 월 1500원에 71GB”…토스모바일, ‘나라사랑카드’ 요금제 출시",
+          "summary": "토스의 통신 자회사 토스모바일이 하나은행과 손잡고 군 장병과 청년 고객을 겨냥한 알뜰폰 제휴...",
+          "press": "이데일리",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:25",
+          "link": "https://n.news.naver.com/mnews/article/018/0006363749?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "롯데하이마트, '갤럭시 S26 FE' 출시…자체 요금제로 경쟁력 강화",
+          "summary": "자체 알뜰폰 요금제인 'Hi-mart(하이마트) 요금제'와 중고폰 현금 보상 서비스, 엘포인트 등을 제공한다. Hi...",
+          "press": "전자신문",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 06:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003463445?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[비즈톡톡] 갤럭시 Z8 역대급 흥행에도… 번호이동 Z7 출시 때보다 29% 줄...",
+          "summary": "자급제폰을 구매한 뒤 알뜰폰이나 자급제 전용 요금제에 가입하는 선택지도 있습니다.",
+          "press": "조선비즈",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 15:30",
+          "link": "https://n.news.naver.com/mnews/article/366/0001190236?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "망 투자는 늘고, 수익 길은 좁고…통신3사 “AI시대 정책 다시 짜야”(종...",
+          "summary": "알뜰폰 경쟁력 강화 방안을 통해 도매제공 의무 대상을 SK텔레콤에서 통신3사로 확대했고 LTE·5G 요금제를 통합했다.",
+          "press": "디지털데일리",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 17:44",
+          "link": "https://n.news.naver.com/mnews/article/138/0002239977?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "갤폴드8 흥행 승자는 LGU+…8월 번호이동 '들썩'",
+          "summary": "KT에서 알뜰폰으로 이동한 가입자는 2만 6985명으로 전월보다 6689명(33.0%) 증가했다.",
+          "press": "뉴스1",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 10:18",
+          "link": "https://n.news.naver.com/mnews/article/421/0009145789?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, AI 위치데이터 기업 로플랫 인수···통신 서비스 확장...",
+          "summary": "알뜰폰 브랜드 '핀다이렉트'를 비롯한 기존 통신 서비스에 위치 데이터 기술을 접목하고 신규 사업으로...",
+          "press": "이뉴스투데이",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 09:34",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2465636",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "페어폰 Gen 6+, 드라이버 하나로 부품 12개 분리…649달러에 미국 상륙",
+          "summary": "T모바일과 T모바일 통신망을 쓰는 알뜬폰(MVNO) 업체들과는 완전히 호환되며, 나노 심(eSIM이 아닌 물리 심)을 써야 한다.",
+          "press": "wikitree.co.kr",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 01:10",
+          "link": "https://www.wikitree.co.kr/articles/1157358",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일, 군 장병-청년 전용 '하나 나라사랑카드' 요금제 출시",
+          "summary": "가입 및 개통은 LG유플러스의 알뜰폰 통합 플랫폼 '알닷'에서 진행된다.",
+          "press": "thedailypost.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 20:10",
+          "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115389",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일·하나은행, '나라사랑카드' 제휴 요금제 출시…월 1500원에 ...",
+          "summary": "토스모바일이 하나은행과 제휴를 맺고 군 장병과 청년층을 위한 맞춤형 알뜰폰 요금제를 선보이며 청년층...",
+          "press": "beyondpost.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 17:10",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=202609041704218679be44c0aacd_30",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일, 하나은행과 '나라사랑카드' 제휴 요금제 출시",
+          "summary": "토스의 통신 자회사 토스모바일이 하나은행과 손잡고 '하나 나라사랑카드' 고객을 위한 전용 알뜰폰...",
+          "press": "ziksir.com",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 16:44",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=145500",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"통신비 월 1500원\"···토스모바일, 하나 나라사랑카드 전용 요금제 출...",
+          "summary": "하나 나라사랑카드와 알뜰폰을 결합해 통신비 부담을 낮추는 방식이다.",
+          "press": "smartbizn.com",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 15:58",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=153095",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일·하나은행, ‘나라사랑카드’ 제휴 요금제 출시",
+          "summary": "가입과 개통은 LG유플러스의 알뜰폰 통합 온라인 플랫폼 ‘알닷’을 통해 가능하다. 기본요금은 월 3만8800원으로 데이터 71GB와 음성·문자를 기본 제공한다.",
+          "press": "digitalchosun.dizzo.com",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 15:34",
+          "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/04/2026090480165.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[더밸류 브리핑] 오늘의 금융 소식…토스모바일·네이버페이",
+          "summary": "토스모바일이 하나은행과 손잡고 하나 나라사랑카드 이용 고객을 위한 전용 알뜰폰 제휴 요금제를...",
+          "press": "thevaluenews.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 15:30",
+          "link": "http://www.thevaluenews.co.kr/news/view.php?idx=201338",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일, 하나은행과 손잡고 군 장병 맞춤 요금제 선봬",
+          "summary": "가입과 개통은 LG유플러스의 알뜰폰 전용 온라인 플랫폼인 '알닷'을 통해 진행할 수 있다. 이 요금제의 정상가는 월 3만8800원이다.",
+          "press": "pointdaily.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 15:20",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318058",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일·하나은행, 나라사랑카드 제휴 요금제 출시…7개월간 월 150...",
+          "summary": "토스의 통신 자회사 토스모바일이 하나은행과 손잡고 '하나 나라사랑카드' 고객을 위한 전용 알뜰폰...",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:50",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698305",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일, 하나은행과 손잡았다…나라사랑카드 고객 통신비 7개월 할...",
+          "summary": "월 3만8800원짜리 알뜰폰 요금제를 조건에 따라 7개월 동안 월 1500원에 이용할 수 있는 제휴 상품이 나온다....",
+          "press": "thepowernews.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:34",
+          "link": "https://www.thepowernews.co.kr/view.php?ud=202609041433234871de3f0aa1be_7",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일·하나은행, 나라사랑카드 요금제…7개월간 월 1500원",
+          "summary": "있는 알뜰폰 요금제를 선보인다. 토스모바일은 오는 7일 '토스 알닷 하나 나라사랑 71GB+'를 출시한다.",
+          "press": "e-science.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:28",
+          "link": "https://www.e-science.co.kr/news/articleView.html?idxno=134790",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "롯데하이마트, 갤S26 FE 판매 돌입…'유통·통신 결합' 승부수",
+          "summary": "또한, 자체 알뜰폰 요금제와 중고 기기 보상 프로그램을 연계한 전방위 프로모션에 나선다.",
+          "press": "newsdream.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 06:00",
+          "link": "http://www.newsdream.kr/news/articleView.html?idxno=117465",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 맥락읽기] 끊기지만 않으면 기본권?…요금제 손질 '동상이몽'",
+          "summary": "이 논쟁은 알뜰폰으로도 이어지고 있습니다. SK텔레콤·KT·LG유플러스가 순차적으로 중저가 알뜰폰 요금제에도 QoS를 도입하고 있습니다.",
+          "press": "pointdaily.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 05:00",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317930",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 풍향계] SKT '수능응원 캠페인'·KT 'CU 디지털 사이니지 광고'-'유...",
+          "summary": "◆SKT, '수능응원백서' 캠페인 SK텔레콤(SKT)이 수능 77일을 맞아 학부모 응원을 담은 캠페인을 펼친다....",
+          "press": "newsworks.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 14:56",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=852573",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 이동통신 소식_KT엠모바일, LG유플러스(9.3)",
+          "summary": "▲ 국내 알뜰폰 1위 사업자 KT엠모바일은 고객 감사의 의미를 담아 이달 30일까지 'Big Event'를 진행한다....",
+          "press": "weeklytoday.com",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 10:00",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=792778",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독 인터뷰] 최혁진 의원 \"KT 개인정보 유출 증거 삭제 지시·묵인 여...",
+          "summary": "KT는 불법 소형기지국 '펨토셀'을 통해 알뜰폰 가입자 등 이용자 1만6647명의 휴대전화번호, 국제모바일가입자식별번호, 단말기 식별번호가 유출되는 사태가 발생했…",
+          "press": "rightknow.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 09:02",
+          "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34644",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이심 찾는 2030…통신 3사, 데이터·혜택으로 승부",
+          "summary": "이 같은 eSIM 선호는 알뜰폰(MVNO) 시장 확대와도 맞물려 있다.",
+          "press": "cstimes.com",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 07:54",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=719144",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, '로플랫' 인수 ··· 통신·AI 위치 기술 시너지 극대...",
+          "summary": "이번 인수는 스테이지파이브가 AI 위치 기술로 통신 서비스와 자사의 알뜰폰 브랜드 '핀다이렉트'의 경쟁력을 고도화하는 동시에 위치 데이터 기반의 새로운 사업을 위…",
+          "press": "datanet.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 20:20",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=214209",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아정당알뜰폰, 정보보호 관리체계'ISMS' 인증 취득",
+          "summary": "ABC뉴스=김현수 기자 / 아정당의 알뜰폰 통신 서비스를 운영하는 (주)아정커뮤니케이션이 지난 2026년 8월 5일...",
+          "press": "abcn.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 17:06",
+          "link": "https://www.abcn.kr/news/articleView.html?idxno=91255",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "갤럭시 Z 효과에 번호이동 '들썩'…LGU+ 1만101명 순증",
+          "summary": "알뜰폰(MVNO)으로 이동한 가입자는 33만1955명으로 전월보다 8010명(2.5%) 늘었다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 16:24",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697663",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "8월 번호이동 68만건… 폴드8 흥행에 LG유플 웃었다",
+          "summary": "알뜰폰으로 이동한 가입자 수는 33만1955명으로 나타났다. 순증 규모를 사업자별로 보면 LG유플러스 가입자 수가 1만101명 순증해 가장 높았다.",
+          "press": "asiatime.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 16:14",
+          "link": "https://www.asiatime.co.kr/article/20260902500330",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아정당, 정보보호 관리체계 ‘ISMS’ 인증 취득",
+          "summary": "▲사진 제공: 아정당 아정당의 알뜰폰 통신 서비스를 운영하는 (주)아정커뮤니케이션이 지난 2026년 8월 5일...",
+          "press": "gosiweek.com",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 15:52",
+          "link": "https://www.gosiweek.com/article/1065595777844190",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, 로플랫 인수…통신에 AI 위치기술 결합",
+          "summary": "스테이지파이브는 로플랫의 위치기술을 통신 서비스와 결합해 자사 알뜰폰 브랜드 '핀다이렉트'의 서비스...",
+          "press": "koit.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 15:36",
+          "link": "https://www.koit.co.kr/news/articleView.html?idxno=208807",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "스테이지파이브가 AI 위치 데이터 기업 로플랫을 인수했다. 이를 통해 알뜰폰 브랜드 핀다이렉트의 통신 서비스 경쟁력을 고도화하고, 위치 데이터 기반 신사업을 확대한다.",
+      "articles": [
+        {
+          "title": "스테이지파이브, AI 위치 기술 기업 '로플랫' 인수",
+          "summary": "스테이지파이브는 로플랫 지분을 확보한 뒤 자사 알뜰폰 브랜드 '핀다이렉트(PinDirect)'의 통신 서비스 경쟁력을 고도화하고, 위치 데이터 기반의 신사업을 추…",
+          "press": "머니투데이",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 11:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005408311?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, 로플랫 인수…AI 위치기술로 통신 서비스 차별화",
+          "summary": "스테이지파이브가 국내 인공지능(AI) 위치 데이터 전문기업 로플랫을 인수한다.",
+          "press": "전자신문",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 09:37",
+          "link": "https://n.news.naver.com/mnews/article/030/0003462600?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, AI 위치데이터 기업 로플랫 인수···통신 서비스 확장...",
+          "summary": "스테이지파이브가 인공지능(AI) 위치 데이터 전문기업 로플랫을 인수한다.",
+          "press": "이뉴스투데이",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 09:34",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2465636",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, '로플랫' 인수 ··· 통신·AI 위치 기술 시너지 극대...",
+          "summary": "이번 인수는 스테이지파이브가 AI 위치 기술로 통신 서비스와 자사의 알뜰폰 브랜드 '핀다이렉트'의 경쟁력을 고도화하는 동시에 위치 데이터 기반의 새로운 사업을 위…",
+          "press": "datanet.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 20:20",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=214209",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, 로플랫 인수…통신에 AI 위치기술 결합",
+          "summary": "스테이지파이브는 로플랫의 위치기술을 통신 서비스와 결합해 자사 알뜰폰 브랜드 '핀다이렉트'의 서비스 고도화에 활용할 예정이다. 위치정보를 활용해 이용자에게 보다",
+          "press": "koit.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 15:36",
+          "link": "https://www.koit.co.kr/news/articleView.html?idxno=208807",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, 통신·AI 위치기술 시너지 모색..로플랫 인수",
+          "summary": "이번 인수는 AI 위치 기술로 통신 서비스와 자사의 알뜰폰 브랜드 ‘핀다이렉트’의 경쟁력을 고도화하고 위치 데이터 기반의 새로운 사업 영역으로 나아가기 위해 추진…",
+          "press": "kpenews.com",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 14:38",
+          "link": "https://kpenews.com/View.aspx?No=4209916",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, 로플랫 품는다…알뜰폰 넘어 '위치데이터 사업자'로",
+          "summary": "스테이지파이브가 인공지능(AI) 위치데이터 전문기업 로플랫을 인수한다.",
+          "press": "itdaily.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 11:02",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241346",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, '로플랫' 인수...신규 통신 서비스 사업 개발",
+          "summary": "스테이지파이브는 통신 서비스와 AI 위치 기술을 접목해 서비스 품질을 높이고, 자사 알뜰폰 브랜드 '핀다이렉트'의 경쟁력을 강화하는 한편, 위치 데이터 기반의 신…",
+          "press": "it-b.co.kr",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 10:46",
+          "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89716",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "정밀 모터·전력 솔루션 등 핵심 장비 수요가 ESS·AI 데이터센터 확대와 원자재 가격 안정에 힘입어 상승하고 있다. IMO 탄소규제로 조선업계도 새로운 기회를 맞이하고 있다.",
+        "mercury": "머큐리는 인천 토지 매입·자산운용 대출 참여 등 사업 다각화를 진행하고, 통신장비주 상승세에 주가가 오르는 반면, 광통신 부문에서는 전체 약세에 따라 소폭 하락했다. AI 데이터센터 광케이블 수요 확대가 관련 기업 실적 개선에 영향을 미치고 있다.",
+        "encreative": "로로멜로·한정선 협업 ‘요거트 찹쌀떡’이 GS25 냉동식품 카테고리에서 누적 3억 원 매출을 기록하며 단품 1위를 차지해 K‑푸드 수요가 확대되고 있다. 한편 정부는 K‑뷰티·푸드·문화 등 ‘K정품’ 인증을 70개국에 확대해 가짜 제품 단속에 나선다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "\"정밀 모터 없으면 공장 안 돌아간다\"… 에스테크엠, 독보적 기술로 실...",
+          "summary": "파워넷과 아비코전자, 성호전자, 비츠로셀 등도 강세를 보이고 있다. 2차전지 관련주는 종목별로 엇갈린...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 10:50",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483857",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "ESS 대규모 수주에 2차전지주 반등…EV 캐즘 돌파구 찾나",
+          "summary": "여기에 리튬 등 주요 원자재 가격 안정과 하반기 실적 개선 기대가 더해지면서 소재와 장비주로 매수세가...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 13:44",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483519",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "울산항만공사, 화물·친환경·북극항로 인센티브 안내서 발간…울산항 ...",
+          "summary": "육상전원공급장치(AMP) 등으로 범위가 확대돼 있다. 울산항만공사는 물류비 절감과 신규 물동량 창출, 항만...",
+          "press": "아주경제",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 18:46",
+          "link": "https://www.ajunews.com/view/20260903183802148",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "AI 데이터센터 전력 고도화 속 솔루엠, 800Vdc 전력 솔루션 검증 본격화",
+          "summary": "AI 데이터센터의 전력 소비량이 늘어나면서 전력 공급 인프라 시장이 성장하고 있다. 서버랙당 전력...",
+          "press": "전자신문",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 09:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003463027?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, AI 데이터센터·전장 수주 확대…자회사 청한전자 시너지로 재...",
+          "summary": "전원공급장치(SMPS·CRPS)에 탑재되는 고용량·고사양 MLCC 수요가 증가하고 있다. 이와 함께 청한전자는 중국...",
+          "press": "머니투데이",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 08:57",
+          "link": "https://n.news.naver.com/mnews/article/008/0005408761?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "시놀로지 DVA7400, AI 영상 검색으로 대규모 관제 효율 높인다",
+          "summary": "시놀로지 DVA7400은 대용량 저장과 서버 기반 AI 영상 분석, 영상관리시스템(VMS) 'Surveillance Station'을 결합해...",
+          "press": "boannews.com",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 16:00",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=145660",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "IMO 탄소규제, K조선엔 기회...HD현대·한화·삼성重, 신조·엔진·개조 ...",
+          "summary": "개조 시장이 동시에 열릴 수 있어서다.[그래픽=구글 제미나이(Google Gemini) 활용 이미지] 국제해사기구(IMO)...",
+          "press": "joongangenews.com",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 15:04",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=545356",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, 본업 수주 확대에 청한전자 성장…AI 전력부품 사업 강화",
+          "summary": "에이텀은 성호전자와 협력해 글로벌 AI 데이터센터용 전원공급장치(SMPS·CRPS) 시장 진출을 추진하고 있으며 관련 차세대 평판 트랜스 기술을 개발하고 있다.",
+          "press": "etoday.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 08:26",
+          "link": "https://www.etoday.co.kr/news/view/2621307",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀, '알짜 자회사' 청한전자 성장 본격화…AI MLCC·반도체로 재평가...",
+          "summary": "에이텀은 평판 트랜스 기술을 기반으로 전기차 전장부품 시장에서 사업을 확대하는 한편 최근에는 성호전자와 협력해 글로벌 AI 데이터센터용 전원공급장치(SMPS·CR…",
+          "press": "view.asiae.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 08:16",
+          "link": "https://n.news.naver.com/mnews/article/277/0005811160?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "LS일렉·KT클라우드 맞손···AI 데이터센터 전력 인프라 공략",
+          "summary": "전력기기를 공급한다. 향후 무정전전원장치(UPS)와 공조 시스템 등으로 공급 품목도 넓힐 방침이다. 모듈형...",
+          "press": "이뉴스투데이",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 15:45",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466379",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"대만 패키징 시장 공략\" 한미반도체, 세미콘 타이완 참가",
+          "summary": "한미반도체는 머큐리로부터 인천 주안국가산업단지 2만595㎡ 규모 토지를 매입했다.",
+          "press": "파이낸셜뉴스",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 11:22",
+          "link": "https://n.news.naver.com/mnews/article/014/0005569881?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[더벨][Product Tracker] 이지스운용, 홈플러스 전주효자점 리파이낸싱 ...",
+          "summary": "중순위 대출은 머큐리자산운용과 SBI저축은행이 맡고 있다. 중순위 차입금은 250억원, 금리는 연 7.6%다. 전체 차입금은 1024억원이다.",
+          "press": "thebell.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:22",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609021108157880101589",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "파트론·AP위성 강세 무슨 호재?… 차세대 통신 관련주로 수급 쏠림 뚜렷",
+          "summary": "이외에도 쏠리드, 아이씨티케이, 에프알텍, 로스웰, 머큐리, 다산네트웍스, 코콤, 삼지전자, 한화비전이 주가 상승을 기록하며 섹터 전반의 온기를 더하고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 10:06",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483818",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "국내외 통신사 CAPEX 절감 및 인프라 투자 정체… 통신장비 테마 약세 흐...",
+          "summary": "통신 중계기와 무선통신 부품을 공급하는 기산텔레콤과 가정용 와이파이 단말기·네트워크 장비 제조사 머큐리도 오름세를 나타내고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 14:18",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483544",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "대한광통신·광전자 나란히 약세…미국 이란 전쟁 재격화 속 광통신 관...",
+          "summary": "우리넷과 파이버프로는 각각 2.12%, 라이콤은 1.74%, 머큐리는 1.63% 하락하고 있다.",
+          "press": "cbci.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 09:52",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=603434",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "유튜브 개국공신이 어쩌다…동전주 전락하더니 헐값매각 고프로",
+          "summary": "빅테크의 AI 인프라스트럭처 투자로 메모리 반도체 가격이 급등한 점도 수익성을 악화시켰다. 고프로의...",
+          "press": "매일경제",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 05:44",
+          "link": "https://n.news.naver.com/mnews/article/009/0005729640?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "유가·국채는 고공행진 중…빨간불 켜진 세계 경제 [글로벌 모닝 브리핑...",
+          "summary": "그동안 시장 충격을 줄이기 위해 뉴욕 증시 마감 이후에만 공습을 감행해 온 미군이 증시 개장 시간에...",
+          "press": "서울경제",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 05:06",
+          "link": "https://n.news.naver.com/mnews/article/011/0004658030?sid=104",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"지능의 가격 떨어진 AI시대… 기업 경쟁력, 조직 설계에 달려\" [미리 보...",
+          "summary": "사람의 시간은 한정되어 있기 때문에 지능에는 높은 가격이 붙었다. AI가 바꾸고 있는 것은 바로 이...",
+          "press": "파이낸셜뉴스",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 18:09",
+          "link": "https://n.news.naver.com/mnews/article/014/0005570161?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[미국 주식 돋보기] 액션캠 제왕서 동전주로…고프로, 결국 매각",
+          "summary": "가격·성능 앞선 중국에 고전 스타맨옵티컬에 최종 합병 새주인 소식에 주가 40% 급등 AI 광통신·방산 사업...",
+          "press": "매일경제",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 17:57",
+          "link": "https://n.news.naver.com/mnews/article/009/0005729532?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "망 투자는 늘고, 수익 길은 좁고…통신3사 “AI시대 정책 다시 짜야”(종...",
+          "summary": "글로벌 AI 데이터센터를 연결하는 핵심 인프라인 해저 광케이블도 있다.",
+          "press": "디지털데일리",
+          "date": "2026-09-02",
+          "datetime": "2026-09-02 17:44",
+          "link": "https://n.news.naver.com/mnews/article/138/0002239977?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "로로멜로, '한정선 요거트 찹쌀떡' GS25서 매출 3억 원 달성",
+          "summary": "정식 출시 이후에는 GS25 냉동식품 카테고리 내 판매를 바탕으로 GS25 전체 단품 매출 1위와 누적 매출 3억...",
+          "press": "한국경제",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 17:35",
+          "link": "https://n.news.naver.com/mnews/article/015/0005328810?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "로로멜로X한정선 ‘요거트 찹쌀떡’ 누적 매출 3억 돌파…GS25 단품 1위 ...",
+          "summary": "맞는 냉동식품으로 구현했으며, 이를 실제 소비자 구매와 매출 성과로 연결했다.",
+          "press": "서울신문",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 16:53",
+          "link": "https://n.news.naver.com/mnews/article/081/0003676989?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "K-뷰티 짝퉁만 '11조'? 정부, 칼 갈았다...70개국에 'K정품 도장' 박는다",
+          "summary": "K-푸드, K-뷰티, K-팝, K-무비까지 정말 K 자만 붙으면 다 빵 뜨는 세계적으로 그런 시대가 됐습니다. 그런데...",
+          "press": "YTN",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 13:47",
+          "link": "https://n.news.naver.com/mnews/article/052/0002402777?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 61
+}
