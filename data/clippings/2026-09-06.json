@@ -1,0 +1,752 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06 09:22",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "갤Z 효과에 번호이동 68만명…폴더블 아이폰이 열기 잇나",
+      "category": "산업",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169521"
+    },
+    {
+      "rank": 2,
+      "headline": "토스모바일, 군 장병-청년 전용 '하나 나라사랑카드' 요금제 출시",
+      "category": "산업",
+      "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115389"
+    },
+    {
+      "rank": 3,
+      "headline": "토스모바일·하나은행, '나라사랑카드' 제휴 요금제 출시…월 1500원에 ...",
+      "category": "산업",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202609041704218679be44c0aacd_30"
+    },
+    {
+      "rank": 4,
+      "headline": "알뜰폰 '400Kbps' 데이터안심옵션 통할까",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/092/0002436317?sid=105"
+    },
+    {
+      "rank": 5,
+      "headline": "토스모바일, 하나은행과 '나라사랑카드' 제휴 요금제 출시",
+      "category": "산업",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=145500"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "알뜰폰 가입자는 최근 번호 이동 68만명에 33만1955명(2.5%)이 추가돼 증가세를 보이고 있다. 이동통신 3사는 400Kbps 데이터 QoS 무상 지원을 확대해 알뜰폰 요금제 개편을 촉진하고 있다. 토스모바일은 하나은행과 제휴해 군 장병·청년 전용 ‘나라사랑카드’ 요금제를 출시했으며, 기본요금 3만8800원에 데이터 71GB를 제공한다. 해당 요금제는 조건에 따라 7개월간 월 1500원에 이용할 수 있고, 가입·개통은 LG유플러스 알닷 플랫폼을 통해 진행된다.",
+      "articles": [
+        {
+          "title": "갤Z 효과에 번호이동 68만명…폴더블 아이폰이 열기 잇나",
+          "summary": "알뜰폰으로 이동한 가입자도 33만1955명으로 2.5% 늘었다. 순증·순감 실적에서는 사업자별 희비가 갈렸다....",
+          "press": "IT조선",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 07:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169521",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 '400Kbps' 데이터안심옵션 통할까",
+          "summary": "알뜰폰 업계가 이동통신 3사의 400Kbps 데이터안심옵션(QoS) 무상 지원에 힘입어 요금제 개편을 본격화하고...",
+          "press": "지디넷코리아",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 17:04",
+          "link": "https://n.news.naver.com/mnews/article/092/0002436317?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“최대 월 1500원에 71GB”…토스모바일, ‘나라사랑카드’ 요금제 출시",
+          "summary": "토스의 통신 자회사 토스모바일이 하나은행과 손잡고 군 장병과 청년 고객을 겨냥한 알뜰폰 제휴...",
+          "press": "이데일리",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:25",
+          "link": "https://n.news.naver.com/mnews/article/018/0006363749?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일, 군 장병-청년 전용 '하나 나라사랑카드' 요금제 출시",
+          "summary": "가입 및 개통은 LG유플러스의 알뜰폰 통합 플랫폼 '알닷'에서 진행된다.",
+          "press": "thedailypost.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 20:10",
+          "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115389",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일·하나은행, '나라사랑카드' 제휴 요금제 출시…월 1500원에 ...",
+          "summary": "토스모바일이 하나은행과 제휴를 맺고 군 장병과 청년층을 위한 맞춤형 알뜰폰 요금제를 선보이며 청년층...",
+          "press": "beyondpost.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 17:10",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=202609041704218679be44c0aacd_30",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일, 하나은행과 '나라사랑카드' 제휴 요금제 출시",
+          "summary": "토스의 통신 자회사 토스모바일이 하나은행과 손잡고 '하나 나라사랑카드' 고객을 위한 전용 알뜰폰...",
+          "press": "ziksir.com",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 16:44",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=145500",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"통신비 월 1500원\"···토스모바일, 하나 나라사랑카드 전용 요금제 출...",
+          "summary": "하나 나라사랑카드와 알뜰폰을 결합해 통신비 부담을 낮추는 방식이다.",
+          "press": "smartbizn.com",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 15:58",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=153095",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일·하나은행, ‘나라사랑카드’ 제휴 요금제 출시",
+          "summary": "가입과 개통은 LG유플러스의 알뜰폰 통합 온라인 플랫폼 ‘알닷’을 통해 가능하다. 기본요금은 월 3만8800원으로 데이터 71GB와 음성·문자를 기본 제공한다.",
+          "press": "digitalchosun.dizzo.com",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 15:34",
+          "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/04/2026090480165.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[더밸류 브리핑] 오늘의 금융 소식…토스모바일·네이버페이",
+          "summary": "토스모바일이 하나은행과 손잡고 하나 나라사랑카드 이용 고객을 위한 전용 알뜰폰 제휴 요금제를...",
+          "press": "thevaluenews.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 15:30",
+          "link": "http://www.thevaluenews.co.kr/news/view.php?idx=201338",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일, 하나은행과 손잡고 군 장병 맞춤 요금제 선봬",
+          "summary": "가입과 개통은 LG유플러스의 알뜰폰 전용 온라인 플랫폼인 '알닷'을 통해 진행할 수 있다. 이 요금제의 정상가는 월 3만8800원이다.",
+          "press": "pointdaily.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 15:20",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318058",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일·하나은행, 나라사랑카드 제휴 요금제 출시…7개월간 월 150...",
+          "summary": "토스의 통신 자회사 토스모바일이 하나은행과 손잡고 '하나 나라사랑카드' 고객을 위한 전용 알뜰폰...",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:50",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698305",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일, 하나은행과 손잡았다…나라사랑카드 고객 통신비 7개월 할...",
+          "summary": "월 3만8800원짜리 알뜰폰 요금제를 조건에 따라 7개월 동안 월 1500원에 이용할 수 있는 제휴 상품이 나온다....",
+          "press": "thepowernews.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:34",
+          "link": "https://www.thepowernews.co.kr/view.php?ud=202609041433234871de3f0aa1be_7",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "토스모바일·하나은행, 나라사랑카드 요금제…7개월간 월 1500원",
+          "summary": "있는 알뜰폰 요금제를 선보인다. 토스모바일은 오는 7일 '토스 알닷 하나 나라사랑 71GB+'를 출시한다.",
+          "press": "e-science.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:28",
+          "link": "https://www.e-science.co.kr/news/articleView.html?idxno=134790",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 맥락읽기] 끊기지만 않으면 기본권?…요금제 손질 '동상이몽'",
+          "summary": "이 논쟁은 알뜰폰으로도 이어지고 있습니다. SK텔레콤·KT·LG유플러스가 순차적으로 중저가 알뜰폰 요금제에도 QoS를 도입하고 있습니다.",
+          "press": "pointdaily.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 05:00",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317930",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 풍향계] SKT '수능응원 캠페인'·KT 'CU 디지털 사이니지 광고'-'유...",
+          "summary": "◆SKT, '수능응원백서' 캠페인 SK텔레콤(SKT)이 수능 77일을 맞아 학부모 응원을 담은 캠페인을 펼친다....",
+          "press": "newsworks.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 14:56",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=852573",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "PX부터 알뜰폰까지…내게 맞는 3기 나라사랑카드 한 장은?",
+          "summary": "이동통신 3사와 알뜰폰 자동 납부도 5%, 월 최대 5000원을 제공했다. 생활 혜택의 통합 한도는 전월...",
+          "press": "straightnews.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 11:12",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=310326",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 이동통신 소식_KT엠모바일, LG유플러스(9.3)",
+          "summary": "▲ 국내 알뜰폰 1위 사업자 KT엠모바일은 고객 감사의 의미를 담아 이달 30일까지 'Big Event'를 진행한다....",
+          "press": "weeklytoday.com",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 10:00",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=792778",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "100만명 몰린 불꽃축제, CCTV 안 끊기게…KT, 안전통신에 '5G 전용차선' ...",
+          "summary": "불꽃쇼가 진행되는 동안 관람객들이 스마트폰으로 사진과 영상을 촬영·전송하면서 이동통신 트래픽이 짧은 시간에 집중된다.",
+          "press": "뉴시스",
+          "date": "2026-09-06",
+          "datetime": "2026-09-06 09:04",
+          "link": "https://n.news.naver.com/mnews/article/003/0014171666?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 서울세계불꽃축제에 5G SA 슬라이싱 적용…실시간 영상관제 지원",
+          "summary": "KT는 현재 국내 이동통신 3사 중 유일하게 5G SA 상용망을 운영하고 있으며, 이를 활용해 네트워크 슬라이싱의 기술 안정성과 현장 활용 가능성을 검증하고 있다…",
+          "press": "이데일리",
+          "date": "2026-09-06",
+          "datetime": "2026-09-06 09:03",
+          "link": "https://n.news.naver.com/mnews/article/018/0006364329?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "싼 맛에 산 여행용 이심, 알고보니 '중국 로밍망'",
+          "summary": "해외여행 필수품으로 자리 잡은 이심(eSIM) 상품 가운데 일부가 중국 이동통신사의 로밍 상품을 재판매하면서도 이를 소비자에게 명확히 알리지 않아 소비자 피해가…",
+          "press": "파이낸셜뉴스",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 10:00",
+          "link": "https://n.news.naver.com/mnews/article/014/0005571361?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[AI돋보기] 기지국이 AI 데이터센터로…통신사 '변신' 시작됐다",
+          "summary": "이동통신 기술 분야의 전문가는 \"6G에서는 통신과 AI 연산의 경계가 흐려질 가능성이 크다\"며 \"다만 기지국마다",
+          "press": "연합뉴스",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 06:33",
+          "link": "https://n.news.naver.com/mnews/article/001/0016291375?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, '서울세계불꽃축제'에 '5G SA 슬라이싱' 적용…실시간 영상관제 지원",
+          "summary": "KT는 현재 국내 이동통신 3사 중 유일하게 5G SA 상용망을 운영하고 있으며, 이를 활용해 네트워크 슬라이싱의 기술 안정성과 현장 활용 가능성을 지속 검증하고…",
+          "press": "popcornnews.net",
+          "date": "2026-09-06",
+          "datetime": "2026-09-06 09:12",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=131987",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 불꽃축제에 5G 네트워크 슬라이싱…안전관리 통신망 확보",
+          "summary": "KT는 현재 국내 이동통신 3사 중 유일하게 5G SA 상용망을 운영하고 있으며, 이를 활용해 네트워크 슬라이싱의 기술 안정성과 현장 활용 가능성을 지속 검증하고…",
+          "press": "dailian.co.kr",
+          "date": "2026-09-06",
+          "datetime": "2026-09-06 09:06",
+          "link": "https://n.news.naver.com/mnews/article/119/0003129496?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 서울세계불꽃축제에 5G SA 슬라이싱 적용⋯ 실시간 영상관제 지원",
+          "summary": "KT는 현재 국내 이동통신 3사 중 유일하게 5G SA 상용망을 운영하고 있으며, 이를 활용해 네트워크 슬라이싱의 기술 안정성과 현장 활용 가능성을 지속 검증하고…",
+          "press": "viva100.com",
+          "date": "2026-09-06",
+          "datetime": "2026-09-06 09:02",
+          "link": "https://www.viva100.com/article/20260906500087",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 빅3부터 쿠팡·티빙까지...민관합동조사단이 파헤친 침해사고 500일",
+          "summary": "이동통신 코어망과 유심정보를 비롯해 불법 기지국, 기업 서버, OTT 데이터베이스(DB)와 개발환경 등 통신·방송 플랫폼 핵심 인프라 곳곳이 조사 대상에 올랐다.…",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-06",
+          "datetime": "2026-09-06 08:14",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698304",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AI 비서는 무료인데…이통 3사는 어디서 돈 버나",
+          "summary": "국민 누구나 인공지능(AI)을 접할 수 있게 하겠다는 정부의 기조에 맞춰 이동통신 3사도 무료 AI 에이전트 개발에 박차를 가하고 있다.",
+          "press": "economist.co.kr",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 10:01",
+          "link": "https://n.news.naver.com/mnews/article/243/0000102660?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "카톡에 내준 ‘국민’ 타이틀…이통 3사, AI 비서로 되찾는다",
+          "summary": "과거 문자메시지(SMS) 시장에서 카카오톡에 밀려 ‘국민 서비스’ 자리를 내줬던 이동통신 3사가 무료 인공지능(AI) 비서로 설욕에 나섰다.",
+          "press": "economist.co.kr",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 09:01",
+          "link": "https://n.news.naver.com/mnews/article/243/0000102656?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'데이터 무제한'이라더니… \"다 쓰면 400Kbps, 사진 1장 보내기도 버거워...",
+          "summary": "이동통신 3사가 기본 데이터를 모두 써도 추가 요금 없이 데이터를 계속 이용할 수 있는 요금제를 확대했지만, 낮은 전송 속도를 놓고 소비자 불만이 나오고 있다.",
+          "press": "thepublic.kr",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 08:38",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=317594",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사, 서울세계불꽃축제 앞두고 안정성 확보 '총력전'",
+          "summary": "사진=SK텔레콤 제공 매년 극심한 통신장애를 동반했던 '서울세계불꽃축제' 개최를 앞두고 국내 이동통신 3사(SK텔레콤·KT·LG유플러스)가 안정적인 통신 서비스를…",
+          "press": "daily.hankooki.com",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 08:00",
+          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1402739",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[N2 포커스] 불꽃축제에 AI·5G 총출동…통신 3사, '트래픽 전쟁' 대비",
+          "summary": "[그림 = 챗GPT] [뉴스투데이=최현제 기자] 오는 5일 서울 여의도 한강공원 일대에서 열리는 불꽃축제를 앞두고 이동통신 3사가 대규모 트래픽 대응에 나섰다.",
+          "press": "news2day.co.kr",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 06:30",
+          "link": "https://www.news2day.co.kr/article/20260904500264",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "2차전지와 ESS 대규모 수주, 리튬 원자재 가격 안정, 하반기 실적 기대가 이어지며 배터리·전원장비주가 상승하고 있다. AI 데이터센터와 스마트 항만·감시 시스템 수요 확대가 전력·냉각·영상 장비 공급을 촉진하고 있다.",
+        "mercury": "머큐리자산운용이 이지스운용 리파이낸싱에 참여해 250억 차입을 연 7.6% 금리로 제공했다. 한편 가정용 와이파이·네트워크 장비 제조사 머큐리 주가는 섹터 상승세에 오름세를 보였지만, 광통신·광전자 전반 하락 흐름 속에서 1.63% 하락했다.",
+        "encreative": "1인 가구 확대와 건강·편리성을 중시해 유통업체가 소분·프리미엄 도시락을 늘리고, 본아이에프는 명절 잔칫상까지 확대한다. 동시에 K‑푸드가 호주 시장에 건강·윤리성을 앞세워 진출을 가속화하고, 패션 분야는 권은비·워터밤 사업에서 재고 문제로 어려움을 겪는다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "\"정밀 모터 없으면 공장 안 돌아간다\"… 에스테크엠, 독보적 기술로 실...",
+          "summary": "파워넷과 아비코전자, 성호전자, 비츠로셀 등도 강세를 보이고 있다. 2차전지 관련주는 종목별로 엇갈린...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 10:50",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483857",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "ESS 대규모 수주에 2차전지주 반등…EV 캐즘 돌파구 찾나",
+          "summary": "여기에 리튬 등 주요 원자재 가격 안정과 하반기 실적 개선 기대가 더해지면서 소재와 장비주로 매수세가...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 13:44",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483519",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "울산항만공사, 화물·친환경·북극항로 인센티브 안내서 발간…울산항 ...",
+          "summary": "육상전원공급장치(AMP) 등으로 범위가 확대돼 있다. 울산항만공사는 물류비 절감과 신규 물동량 창출, 항만...",
+          "press": "아주경제",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 18:46",
+          "link": "https://www.ajunews.com/view/20260903183802148",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "시놀로지 DVA7400, AI 영상 검색으로 대규모 관제 효율 높인다",
+          "summary": "시놀로지 DVA7400은 대용량 저장과 서버 기반 AI 영상 분석, 영상관리시스템(VMS) 'Surveillance Station'을 결합해...",
+          "press": "boannews.com",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 16:00",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=145660",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "LS일렉·KT클라우드 맞손···AI 데이터센터 전력 인프라 공략",
+          "summary": "향후 무정전전원장치(UPS)와 공조 시스템 등으로 공급 품목도 넓힐 방침이다.",
+          "press": "이뉴스투데이",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 15:45",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466379",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "LS일렉트릭-KT클라우드, AI 데이터센터 전력 인프라 협력",
+          "summary": "향후 무정전전원장치(UPS)와 공조 시스템으로 공급 품목을 확대한다.",
+          "press": "디일렉",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 13:30",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=61742",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "전력부터 냉각까지…AI 데이터센터로 몰려드는 산업계",
+          "summary": "인공지능(AI) 데이터센터 시장 확대가 산업계의 새로운 먹거리로 떠오르고 있다. AI 연산량 증가로... 전력기기를 공급할 계획이다.",
+          "press": "straightnews.co.kr",
+          "date": "2026-09-06",
+          "datetime": "2026-09-06 09:00",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=310435",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "벨킨, 부스트솔리드 셀 탑재 울트라차지 프로 공개",
+          "summary": "전력 공급을 목표로 했다고 밝혔다. 안전성 강화도 핵심 차별점으로 내세웠다. 벨킨은 새로운 배터리...",
+          "press": "technoa.co.kr",
+          "date": "2026-09-06",
+          "datetime": "2026-09-06 01:36",
+          "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101367",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "데이터센터 전력 수요 급증… LS일렉트릭, 국내외 전력 설비 수주 가속",
+          "summary": "등을 공급할 예정이다. 향후 무정전전원장치(UPS)와 공조설비까지 협력 범위를 넓히는 방안도 검토한다....",
+          "press": "polinews.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 17:45",
+          "link": "https://www.polinews.co.kr/news/articleView.html?idxno=742201",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "삼성SDI 55만원 회복 '2%↑'…美 ESS·GM 배터리 기대에 반등",
+          "summary": "특히 회사는 상반기 실적 개선 배경으로 전력용 ESS와 무정전전원장치(UPS), 배터리백업유닛(BBU) 등 AI 데이터센터 관련 고출력 제품 수요 대응을 꼽았다.…",
+          "press": "job-post.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:34",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=226233",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[더벨][Product Tracker] 이지스운용, 홈플러스 전주효자점 리파이낸싱 ...",
+          "summary": "중순위 대출은 머큐리자산운용과 SBI저축은행이 맡고 있다. 중순위 차입금은 250억원, 금리는 연 7.6%다. 전체 차입금은 1024억원이다.",
+          "press": "thebell.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:22",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609021108157880101589",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "파트론·AP위성 강세 무슨 호재?… 차세대 통신 관련주로 수급 쏠림 뚜렷",
+          "summary": "이외에도 쏠리드, 아이씨티케이, 에프알텍, 로스웰, 머큐리, 다산네트웍스, 코콤, 삼지전자, 한화비전이 주가 상승을 기록하며 섹터 전반의 온기를 더하고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 10:06",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483818",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "국내외 통신사 CAPEX 절감 및 인프라 투자 정체… 통신장비 테마 약세 흐...",
+          "summary": "통신 중계기와 무선통신 부품을 공급하는 기산텔레콤과 가정용 와이파이 단말기·네트워크 장비 제조사 머큐리도 오름세를 나타내고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 14:18",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483544",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "대한광통신·광전자 나란히 약세…미국 이란 전쟁 재격화 속 광통신 관...",
+          "summary": "우리넷과 파이버프로는 각각 2.12%, 라이콤은 1.74%, 머큐리는 1.63% 하락하고 있다.",
+          "press": "cbci.co.kr",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 09:52",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=603434",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"송전선로 한계의 문제, 플랫폼 기술로 돌파해야\"",
+          "summary": "하지만 1999년 6월, 광케이블 선로를 단 1미터도 보유하지 않은 한 기업이 해결책을 제시했다. 이 기업은... 전력 시장도 문제의 본질은 같다.",
+          "press": "이데일리",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 17:10",
+          "link": "https://n.news.naver.com/mnews/article/018/0006364161?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "24시간 365일 생산되는 무탄소 전기…구글도 반한 스몰캡 종목",
+          "summary": "시추공에 광섬유 케이블을 넣어 암반이 깨지는 소리와 물이 흐르는 온도를 분석하는 방식인데 셰일... 가격도 경쟁력이 있다.",
+          "press": "머니투데이",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 10:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005409778?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "공장 환경을 위한 무선 공존 설계",
+          "summary": "많은 경우 배선 설치비용이 센서 자체 가격보다 더 높으며, 무선 통신은 기존 배선을 변경하거나 철거하지...",
+          "press": "hellot.net",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 20:32",
+          "link": "https://www.hellot.net/news/article.html?no=114796",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[비바100] 우리는 어떤 미래를 그릴 것인가?",
+          "summary": "방탄조끼, 낙하산, 군용 텐트는 물론 광섬유를 제조에도 큰 잠재력을 보여준다. 'DNA 데이터 저장’ 이라는...",
+          "press": "viva100.com",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 07:02",
+          "link": "https://www.viva100.com/article/20260830500326",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "대한광통신 1만3000원선 공방…AI 데이터센터 광케이블 기대에 반등",
+          "summary": "한국투자증권은 글로벌 광섬유 가격 상승과 수출 물량 확대, 미국 법인 연결 편입 등이 실적 개선에 영향을 미쳤다고 분석했다. 수주잔고 증가도 눈에 띈다.",
+          "press": "job-post.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 14:56",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=226245",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "네오클라우드가 AI 컴퓨팅 시장을 장악할 수 있을까?",
+          "summary": "시간당 가격 측면에서 유리한 경제성을 갖추게 됐다”고 덧붙였다. 비용 절감 외에 네오클라우드가...",
+          "press": "itworld.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 10:36",
+          "link": "https://www.itworld.co.kr/article/4218335/네오클라우드가-ai-컴퓨팅-시장을-장악할-수-있을까.html",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "“혼자 먹어도 제대로”…804만 1인가구 식탁에 꽂힌 유통업계",
+          "summary": "도시락이나 가정간편식(HMR)을 내놓는 데 그치지 않고 1인분에 맞춰 제품 용량을 줄이고 건강과 영양을...",
+          "press": "세계일보",
+          "date": "2026-09-06",
+          "datetime": "2026-09-06 07:42",
+          "link": "https://n.news.naver.com/mnews/article/022/0004156655?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "“전 부치고 갈비 재울 필요 있나요”…명절 ‘잔칫상’까지 사 먹는다",
+          "summary": "잔칫상’ 시장을 넓히고 있다. 본아이에프 제공 6일 업계에 따르면 본아이에프의 프리미엄 도시락 브랜드...",
+          "press": "세계일보",
+          "date": "2026-09-06",
+          "datetime": "2026-09-06 06:42",
+          "link": "https://n.news.naver.com/mnews/article/022/0004156644?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "인건비 아끼려는 무인점포… 그 부담은 결국 누가 떠안나[이용재의 식사...",
+          "summary": "밀키트 매장이나 카페, 셀프 라면 가게 같은 요식업뿐만 아니라 구제 옷 상점 등으로 업종도 확산됐다. 관련...",
+          "press": "동아일보",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 23:01",
+          "link": "https://n.news.naver.com/mnews/article/020/0003745594?sid=110",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "딥플랜트 '고령친화 HMR' 상용화…NH 오픈이노베이션 결실 맺었다",
+          "summary": "이 제품들은 농협식품연구소와 딥플랜트가 약 2년간 공동연구를 통해 완성한 완전조리 냉동 가정간편식(HMR)... 차세대 단백질 식품 시장을 선도한다는 방침이다.",
+          "press": "머니투데이",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 16:45",
+          "link": "https://n.news.naver.com/mnews/article/008/0005409169?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "인산가, 상반기 매출 전년 동기 24% 증가",
+          "summary": "가정간편식(HMR)을 포함한 기타 제품 부문 역시 판매가 활발히 이뤄졌다. 이와 관련 '죽염 쌀국수' '천마차...",
+          "press": "조선일보",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 10:42",
+          "link": "https://monthly.chosun.com/news/articleView.html?idxno=71272",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "“짜장면 한 그릇도 부담”…외식비 오르자 유통업계가 꽂힌 ‘홈중식’",
+          "summary": "식품업체들은 ‘가성비’에 전문점 수준의 맛을 더한 가정간편식(HMR)을 잇달아 내놓으며 ‘홈중식’ 시장 공략에 속도를 내고 있다.",
+          "press": "세계일보",
+          "date": "2026-09-03",
+          "datetime": "2026-09-03 09:22",
+          "link": "https://n.news.naver.com/mnews/article/022/0004156020?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "K-푸드, 호주 시장 공략 가속… aT 한국관 4166만 달러 상담",
+          "summary": "최근 호주 식품시장에서는 건강·기능성 제품과 윤리적 가치를 중시하는 식품에 관한 관심이 높아지고...",
+          "press": "newscj.com",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 16:48",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3430299",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "'워터밤 여신'도 악성 재고만 500개?…권은비, 동반 사업 실패담 공개",
+          "summary": "두 사람은 직접 동대문 시장을 오가며 원단을 확인하고 핏을 맞추는 등 정성을 쏟았고 권은비가 로고...",
+          "press": "economist.co.kr",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 16:05",
+          "link": "https://n.news.naver.com/mnews/article/243/0000102669?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "불맛은 살리고 가격은 낮추고…‘홈중식’이 뜬다",
+          "summary": "재현율’이 시장 경쟁력 좌우 외식 물가가 가파르게 치솟으면서 대표적인 서민 음식으로 꼽히던 중식마저...",
+          "press": "etoday.co.kr",
+          "date": "2026-09-05",
+          "datetime": "2026-09-05 12:02",
+          "link": "https://www.etoday.co.kr/news/view/2622027",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "K-푸드+ 수출 160억달러 총력전…포도 단일품목 1억달러 도전",
+          "summary": "농림축산식품부가 올해 K-푸드+ 수출 160억달러 달성을 위해 포도 등 전략품목 육성과 해외시장 확대...",
+          "press": "youngnong.co.kr",
+          "date": "2026-09-04",
+          "datetime": "2026-09-04 22:56",
+          "link": "https://www.youngnong.co.kr/news/articleView.html?idxno=62081",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 60
+}
