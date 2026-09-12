@@ -1,0 +1,654 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12 09:47",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "알뜰폰 2.0에 업계 냉랭… 해법은 따로",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/008/0005411769?sid=105"
+    },
+    {
+      "rank": 2,
+      "headline": "알뜰폰, 0원 요금제 뿌리더니 줄줄이 적자",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/008/0005411766?sid=105"
+    },
+    {
+      "rank": 3,
+      "headline": "해킹 반복 시 과징금 10%… 이통3사 리스크",
+      "category": "산업",
+      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=245576"
+    },
+    {
+      "rank": 4,
+      "headline": "1천만 알뜰폰, 최적 요금 고지제 대상 제외",
+      "category": "산업",
+      "link": "http://www.nongaek.com/news/articleView.html?idxno=96719"
+    },
+    {
+      "rank": 5,
+      "headline": "우리은행, 실적 연계 0원 요금제로 알뜰폰 공략",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/016/0002694793?sid=101"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "알뜰폰 사업자는 보안 강화를 위해 KISA의 ISMS 인증을 취득하고, 시월모바일은 중고폰 거래 등 서비스 영역을 확대하고 있다. 우리은행은 통신비 0원 혜택을 거래 실적 연동형 요금제로 제공하며 가입자를 급증시키고, 퍼스트모바일도 안심폰 인증을 받았다. 그러나 SKT·KT·LGU+ 등 이통 3사는 유심 해킹 등 보안 사고로 과징금과 매출 감소(전년 대비 1.9% 감소) 등 리스크가 커지고 있다. 정부는 고가 스마트폰 중심 시장을 개선하고 중저가폰 활성화를 추진하는 한편, 알뜰폰 시장은 1천만 가입자를 넘어 최적 요금 고지제도 등 정책 논의가 이어지고 있다.",
+      "articles": [
+        {
+          "title": "아정당, 정보보호책임자 CISO 영입… 보안 관리체계 강화",
+          "summary": "아정당의 알뜰폰 통신 서비스를 운영하는 아정커뮤니케이션은 지난 8월 한국인터넷진흥원(KISA)으로부터 정보보호 관리체계(ISMS) 인증을 취득했다.",
+          "press": "동아일보",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 14:06",
+          "link": "https://edu.donga.com/news/articleView.html?idxno=111846",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, 9월 알뜰폰 가입 이벤트…“통신비 0원”",
+          "summary": "우리은행은 9월 한 달 동안 알뜰폰 서비스 ‘우리WON모바일’의 한가위 이벤트를 진행한다고 10일 밝혔다....",
+          "press": "헤럴드경제",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 11:45",
+          "link": "https://n.news.naver.com/mnews/article/016/0002695488?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"이걸로 살아날까\" 알뜰폰 2.0에 업계 냉랭…해법은 따로 있었다",
+          "summary": "알뜰폰 시장의 현황과 정책, 대안을 점검한다.",
+          "press": "머니투데이",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 07:30",
+          "link": "https://n.news.naver.com/mnews/article/008/0005411769?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "1000만명 몰린 알뜰폰의 반전…'0원 요금제' 뿌리더니 줄줄이 적자",
+          "summary": "알뜰폰 시장의 현황과 정책, 대안을 점검한다.",
+          "press": "머니투데이",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 07:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005411766?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "시장과 따로 가는 정부…또 꺼낸 중저가폰 활성화",
+          "summary": "9일 관련 업계에 따르면 과학기술정보통신부는 고가 제품 중심으로 굳어진 국내 스마트폰 시장을 개선하고...",
+          "press": "IT조선",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 15:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169759",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "거래 실적 많으면 통신비 0원…우리은행 알뜰폰 시장 새판 짠다",
+          "summary": "우리은행 관계자는 “우리WON모바일 알뜰폰 가입자가 1년 새 두 배 가까이 늘어난 만큼, 이번 요금제는 통신비 혜택을 매개로 신규 고객을 끌어들이고 이들을 은행…",
+          "press": "헤럴드경제",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 11:12",
+          "link": "https://n.news.naver.com/mnews/article/016/0002694793?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "금융거래 실적 많으면 통신비 0원…우리은행 알뜰폰 시장 새판 짠다",
+          "summary": "우리은행 관계자는 “우리WON모바일 알뜰폰 가입자가 1년 새 두 배 가까이 늘어난 만큼, 이번 요금제는 통신비 혜택을 매개로 신규 고객을 끌어들이고 이들을 은행…",
+          "press": "헤럴드경제",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 10:40",
+          "link": "https://n.news.naver.com/mnews/article/016/0002694758?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“아이폰18 재고 떴대”…모요, 자급제 재고 실시간 알림",
+          "summary": "알뜰폰 요금제 비교 서비스로 시작해 현재는 휴대폰·요금제·인터넷 등 통신 전 영역을 아우르는 서비스로 확장했다.",
+          "press": "dailian.co.kr",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 08:50",
+          "link": "https://n.news.naver.com/mnews/article/119/0003131895?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "시월모바일, 중고폰 서비스 론칭...유·무선 결합 통신 플랫폼 도약",
+          "summary": "알뜰폰 브랜드 시월모바일이 기존 무선 서비스와 인터넷·TV 결합 상품에 이어 ‘중고폰 거래 서비스’를 개시하며 사업 영역 확장에 나섰다.",
+          "press": "thepowernews.co.kr",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 08:02",
+          "link": "https://www.thepowernews.co.kr/view.php?ud=2026091116142980359aeda69934_7",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "전 고객 대상이었는데 어느새 'VIP'만…이통사 멤버십도 허리띠 졸라매...",
+          "summary": "올해 2분기 SK텔레콤의 이동통신 매출은 알뜰폰 확산과 요금제 경쟁 심화 등의 영향으로 전년 동기 대비 1.9% 감소했다.",
+          "press": "bizhankook.com",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 16:42",
+          "link": "https://bizhankook.com/articles/telecom-membership-privilege-reduction.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "시월모바일, 중고폰 서비스 개시...통신 서비스 영역 확대",
+          "summary": "알뜰폰 브랜드 시월모바일이 무선 통신 및 유선 인터넷·TV 결합 서비스에 이어 중고폰 거래 서비스를 개시했다고 밝혔다.",
+          "press": "beyondpost.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 16:10",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=2026091115544445159aeda69934_30",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[김재섭의 뒤집어보기] 우리은행 새 알뜰폰 요금제와 기자의 '주방 10년...",
+          "summary": "만들어내는 알뜰폰이 흥미롭다. 그냥 먹어도 되는 음식에 다른 것을 섞고 새 양념을 가미해 새로운 맛의 음식으로 탈바꿈시키는 '냉장고 털기' 조리법과 닮았다.",
+          "press": "businesspost.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 15:18",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=447002",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "2026 충북 보이스피싱 예방 포럼…민·관·경·언 대응책 모색",
+          "summary": "법·제도 보완해 피해 차단 토론자들은 충북경찰청의 전기통신금융사기 근절 TF 운영 성과와 함께 1인 법인 명의 대포통장 개설 제한, 알뜰폰 개통 시 실명확인 강화…",
+          "press": "ccreview.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 13:50",
+          "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=357300",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "추석 영상통화 공짜…카톡은 제외",
+          "summary": "또 이통 3사 망을 쓰는 알뜰폰도 전부 포함되는 만큼 사실상 전국민이 혜택을 받을 수 있을 것으로 보입니다. 단 선불폰은 지원이 불가합니다.",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 11:54",
+          "link": "https://n.news.naver.com/mnews/article/374/0000532421?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "프리티 주가, 상한가... 왜?",
+          "summary": "이동통신 3사의 무선통신망을 임차해 통합 MVNO 서비스를 운영하고 있다.",
+          "press": "ggilbo.com",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 09:58",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1181157",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "프리티캐나다 1주년 감사제 진행...캐나다유심·캐나다이심 고객 혜택 ...",
+          "summary": "국내 알뜰폰(MVNO) 업계 최초로 해외에 진출한 프리텔레콤의 프리티캐나다가 서비스 출시 1주년을 맞아 고객 성원에 보답하기 위한 '1주년 감사제'를 진행한다.",
+          "press": "globalepic.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 08:58",
+          "link": "http://www.globalepic.co.kr/view.php?ud=20260910145945104137600e7ec7_29",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, 추석 맞아 '우리WON모바일' 통신비 절감 이벤트",
+          "summary": "퍼블릭타임스=우리은행이 추석을 앞두고 알뜰폰 서비스 '우리WON모바일' 이용 고객의 통신비 부담을 낮추기...",
+          "press": "public25.com",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 07:00",
+          "link": "https://www.public25.com/news/articleView.html?idxno=54499",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[주식마감] '자사주 30% 소각'에 샘표·샘표식품 상한가... 원익피앤이,...",
+          "summary": "프리티는 지난 1970년 설립된 기업으로, 이동통신 3사의 무선통신망을 임차해 알뜰폰(MVNO) 서비스를 제공하고 있다.",
+          "press": "ggilbo.com",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 19:40",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1181093",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, 알뜰폰 ‘우리WON모바일’ 통신비 면제 이벤트",
+          "summary": "앞두고 알뜰폰 브랜드 ‘우리WON모바일’ 신규 고객을 대상으로 통신비 부담을 낮추는 이벤트를 진행한다....",
+          "press": "todayeconomic.com",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 17:50",
+          "link": "https://www.todayeconomic.com/news/article.html?no=32083",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, '우리WON모바일' 한가위 이벤트…6개월 통신비 0원 혜택",
+          "summary": "우리은행이 추석을 맞아 알뜰폰 서비스 '우리WON모바일' 고객의 통신비 부담을 낮추는 이벤트를 마련했다.",
+          "press": "the-today.com",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 16:00",
+          "link": "https://www.the-today.com/news/articleView.html?idxno=89885",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행 우리WON모바일, 추석 맞아 6개월 통신비 '0원' 혜택 이벤트",
+          "summary": "우리은행의 알뜰폰(MVNO) 서비스 우리WON모바일이 추석 명절을 맞아 파격적인 통신비 절감 혜택을 담은 대고객 이벤트를 진행한다.",
+          "press": "beyondpost.co.kr",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 10:56",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=202609101046566532be44c0aacd_30",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"추석 선물처럼 다가온 통신비 0원\"… 우리WON모바일, 파격 '한가위 이벤...",
+          "summary": "고물가·고금리 여파로 가계 통신비 부담이 갈수록 가중되는 가운데 금융권 알뜰폰(MVNO) 시장의 후발 주자가 한가위를 맞아 통신비 파괴를 선언하고 나섰다.",
+          "press": "dailysmart.co.kr",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 10:24",
+          "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=129514",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, 우리WON모바일 한가위 이벤트",
+          "summary": "우리WON모바일은 금융권 알뜰폰(MVNO) 서비스로서 우리은행 계좌 거래 실적에 따른 통신비 추가 할인 및 우리금융그룹 자산관리 서비스와의 연계 혜택을 제공하고…",
+          "press": "newsfreezone.co.kr",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 10:02",
+          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=708575",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 퍼스트모바일, '안심폰' 인정받아",
+          "summary": "﻿ 알뜰폰(MVNO)브랜드 '퍼스트모바일'을 운영하는 (주)더피엔엘이 한국인터넷진흥원(KISA)으로부터 정보보호 관리체계(ISMS) 인증을 획득했다고 9일 밝혔다…",
+          "press": "gnmaeil.com",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 21:40",
+          "link": "http://www.gnmaeil.com/news/articleView.html?idxno=594500",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "퍼스트모바일, 정보보호 관리체계 ‘ISMS’ 인증 획득",
+          "summary": "안심폰인 알뜰폰(MVNO)브랜드 ‘퍼스트모바일’을 운영하는 ㈜더피엔엘은 한국인터넷진흥원(KISA)으로부터... 덜어내고 시장 경쟁력을 한층 높이게 됐다.",
+          "press": "kgnews.co.kr",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 19:32",
+          "link": "https://www.kgnews.co.kr/news/article.html?no=911037",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "해킹 반복되면 매출 '10%' 과징금 … 이통3사 보안 리스크 더 커졌다",
+          "summary": "SKT는 지난해 유심 해킹으로 알뜰폰 이용자를 합쳐 2324만4649명의 개인정보가 유출돼 과징금 1347억9100만원과 시정명령을 받았다.",
+          "press": "safetimes.co.kr",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 16:40",
+          "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=245576",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "퍼스트모바일, 정보보호 관리체계 'ISMS' 인증 획득…시니어 전문 안심...",
+          "summary": "제공하는 알뜰폰이다.",
+          "press": "inews365.com",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 14:24",
+          "link": "https://www.inews365.com/news/article.html?no=935055",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "퍼스트모바일, 정보보호 관리체계 'ISMS' 인증 획득",
+          "summary": "제공하는 알뜰폰이다.",
+          "press": "hidomin.com",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 14:00",
+          "link": "https://www.hidomin.com/news/articleView.html?idxno=720419",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[성명] 1천만 알뜰폰 가입자, '최적 요금 고지제도' 대상서 빼…제도 전...",
+          "summary": "(사진=연합뉴스) 소비자주권은 따라서 \"다수의 사업자가 다양한 요금제를 판매하는 알뜰폰 시장 특성상 소비자 스스로 이용량에 맞는 요금제를 비교하기 어렵다\"며 \"저…",
+          "press": "nongaek.com",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 11:56",
+          "link": "http://www.nongaek.com/news/articleView.html?idxno=96719",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "퍼스트모바일, 정보보호 관리체계 'ISMS' 인증 획득…시니어 전문 '안심...",
+          "summary": "제공하는 알뜰폰이다.",
+          "press": "joongangenews.com",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 10:28",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=546676",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "프리티캐나다가 1주년 감사제를 열어 캐나다 SIM·eSIM으로 요금제를 개통한 신규 고객에게 자동으로 혜택을 제공한다. 신규 가입자는 별도 신청 없이 참여한다.",
+      "articles": [
+        {
+          "title": "프리티캐나다 1주년 감사제 진행...캐나다유심·캐나다이심 고객 혜택 ...",
+          "summary": "캐나다유심이나 캐나다이심으로 프리티캐나다 요금제를 개통한 신규 고객이라면 자동으로 참여된다.",
+          "press": "globalepic.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 08:58",
+          "link": "http://www.globalepic.co.kr/view.php?ud=20260910145945104137600e7ec7_29",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "전력 변환·스위칭 모듈 수요가 로봇·전기차·AI 데이터센터·초전도 등 다양한 분야에서 확대되면서 파워넷·코스텍시스 등 전력반도체·전원공급장비 관련주가 상승세를 보이고 있다.",
+        "mercury": "머큐리 주가가 4,740원으로 4.63% 하락했으며, 통신장비 브랜드평판 빅데이터에서 8위 안에 들어 업계 인지도를 유지한다. 광통신·해저케이블·AI 데이터센터 투자가 확대되는 가운데 통신 3사의 설비투자는 감소해 AI·광통신 중심으로 전환되고 있다.",
+        "encreative": "",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "로봇 산업 폭발적 성장… 에스피지, '심장' 부품 국산화로 수혜 독식 기...",
+          "summary": "업체들의 실적 회복 시점에 대한 불확실성도 투자심리에 부담으로 작용하고 있다. 10일 한국거래소에 따르면...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 14:10",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485808",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "전기차부터 AI 데이터센터까지... 에이엘티, 차세대 전력반도체 테스트...",
+          "summary": "전력 변환과 스위칭 모듈 관련주인 파워넷과 코스텍시스도 오름세를 나타내고 있다. 전력반도체 시장...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 13:36",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485399",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "전력 인프라 투자 대박… 원익피앤이 장비 몸값 솟구친다",
+          "summary": "전원공급장치와 충·방전 장비 등 전력 관련 기술을 보유하고 있어 초전도 연구 및 전력설비 투자 확대...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 15:10",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486222",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자, 연속 인수한 반도체 부문 관계사들서 올 상반기 쏠쏠한 이익...",
+          "summary": "중견기업으로 전원공급장치, 필름콘덴서, 증착필름 제조에 주력하며 서울 금천구에 본사를 두고 있다.",
+          "press": "womentimes.co.kr",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 13:24",
+          "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106097",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[리뷰] 미니스포럼 'AI X1 Pro-370': M.2 SSD 3개 넣는다···작은 데스크...",
+          "summary": "본체 안에 약 130W급 전원공급장치를 내장해 외부 전원 어댑터를 없앴고 M.2 SSD 3개와 OCuLink, USB4 등 확장성을 강화했다.",
+          "press": "cnet.co.kr",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 19:10",
+          "link": "https://www.cnet.co.kr/view/?no=20260909151911",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[특징주] 버라이즌·코닝 광섬유 계약…머큐리 등 광통신株 급등",
+          "summary": "장 초반 가장 큰 폭의 오름세를 보인 머큐리는 유무선 공유기(AP) 국내 시장 점유율 1위 기업으로...",
+          "press": "etoday.co.kr",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 10:02",
+          "link": "https://www.etoday.co.kr/news/view/2623452",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"보호부터 충전까지\" 벨킨이 제안하는 갤럭시 Z 폴드 8 액세서리 생태계",
+          "summary": "케이스 후면에는 무선충전 규격 치2(Qi2) 인증을 받은 자성 장치(마그네틱 어레이)가 탑재됐다. 갤럭시 Z...",
+          "press": "동아일보",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 21:06",
+          "link": "https://it.donga.com/109523/",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[코스닥 루키즈 점검] 지에프아이, 반년 만에 목표치 달성…투자처 물색",
+          "summary": "에너지저장장치(ESS)·무정전전원장치(UPS)용 소화안전 솔루션 기업 지에프아이가 코스닥 입성 첫해부터...",
+          "press": "블로터",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 16:05",
+          "link": "https://n.news.naver.com/mnews/article/293/0000090349?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "마우저, 온세미 '가넥서스 GaN FET' 제품군 글로벌 공급",
+          "summary": "저전압 및 중전압 시스템에서는 AI 서버, 48V 중간 버스 컨버터(IBC), 배터리 백업 유닛(BBU), 모터 드라이브 등에서 스위칭 손실을 줄이고 전력 밀도와…",
+          "press": "디지털데일리",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 13:11",
+          "link": "https://n.news.naver.com/mnews/article/138/0002240911?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "씨케이솔루션, 슈나이더와 AI 데이터센터 사업 확대",
+          "summary": "씨케이솔루션은 슈나이더의 AI 데이터센터 솔루션을 국내에 공급하고 기술지원과 서비스를 제공한다.",
+          "press": "디일렉",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 11:40",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=62069",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "머큐리, 북미 광케이블 시장 영토 확장…AI 데이터센터용 고성능 제품 ...",
+          "summary": "정보통신장비 전문기업 머큐리가 북미 광케이블 시장에서 성과를 내며 초고속 성장이 예상되는 인공지능(AI) 데이터센터용 광케이블 시장 공략에 속도를 낸다.",
+          "press": "한국경제",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 09:56",
+          "link": "https://n.news.naver.com/mnews/article/015/0005330792?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "머큐리, 美 공공 인프라 넘어 AI 데이터센터 정조준 \"광통신 공급 확대...",
+          "summary": "정보통신장비 전문기업 머큐리가 미국 공공 광대역망 공급 레퍼런스를 바탕으로 급성장하는 북미 AI(인공지능(AI) 데이터센터용 고성능 광케이블 시장 공략에 본격 착…",
+          "press": "머니투데이",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 08:48",
+          "link": "https://n.news.naver.com/mnews/article/008/0005411789?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "美 광통신주 급등에 국내도 강세…머큐리 상한가[핫종목]",
+          "summary": "미국 광통신주가 대규모 광섬유 공급계약과 인공지능(AI) 네트워크 투자 확대 기대에 급등하자 국내 관련 종목도 동반 강세다.",
+          "press": "뉴스1",
+          "date": "2026-09-09",
+          "datetime": "2026-09-09 09:49",
+          "link": "https://n.news.naver.com/mnews/article/421/0009159490?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[특징주] 머큐리, 美 광케이블 초도 납품 완료…AI 데이터센터 수요 선...",
+          "summary": "정보통신장비 전문기업 머큐리(100590)가 미국 공공 광대역 인프라 사업 공급 실적 확보와 인공지능(AI) 데이터센터 시장 진출 소식에 힘입어 장중 강세를 보이…",
+          "press": "widedaily.com",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 11:04",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=300906",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[더벨][i-point] 머큐리, AI데이터센터 광케이블 수요 확대 대응",
+          "summary": "정보통신장비 전문기업 머큐리가 북미 광케이블 사업을 확대하고, AI 데이터센터용 고성능 광케이블 시장 공략에 나선다고 10일 밝혔다.",
+          "press": "thebell.co.kr",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 08:42",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609100815093560106678",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "머큐리, 북미 광케이블 사업 확대…AI 데이터센터 시장 공략",
+          "summary": "이투데이=김우람 기자 | 정보통신장비 전문기업 머큐리가 미국 동북부 공공 광대역 인프라 프로젝트에...",
+          "press": "etoday.co.kr",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 08:20",
+          "link": "https://www.etoday.co.kr/news/view/2623826",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "GPU 백만개가 무슨 소용? 젠슨 황 사로잡은 광섬유 뭐길래[김창영의 실...",
+          "summary": "줄이고 광 트랜시버를 확대하고 있다. HCF가 신호 손실을 줄이고 속도를 높이는 장점이 있지만 극복해야 할 한계점도 있다. 복잡한 제조 기술과 비용이다.",
+          "press": "서울경제",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 06:58",
+          "link": "https://n.news.naver.com/mnews/article/011/0004661067?sid=104",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "KKR “한국은 AI 시대 아시아 인프라 투자 핵심시장”[제 27회 세계지식...",
+          "summary": "“아시아 시장 디지털·탈탄소화·탈집중화 중요” “한국은 AI 시대 아시아 인프라 투자의 핵심 시장이다.... 광케이블과 통신탑, 해저케이블 등을 포함한 규모다.",
+          "press": "매일경제",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 13:35",
+          "link": "https://n.news.naver.com/mnews/article/009/0005733861?sid=104",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "구글, '전력 부자' 핀란드에 20조 AI인프라 투자...낮은 기온도 한몫",
+          "summary": "오픈AI의 경우 현지 에너지 기업 수르 에너지(Sur Energy)와 손잡고 최대 250억달러(약 33조원) 규모, 최대 500MW 용량의 친환경 데이터센터 건설…",
+          "press": "디일렉",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 14:56",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=62094",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "알파칩스 관계사 포스텍, CPO 핵심부품 양산 채비…2027년 본격화",
+          "summary": "광통신 칩과 광섬유 사이에서 빛을 연결하는 데 사용되는 핵심 부품이다. 두 부품을 정밀하게 정렬·결합해 하나의 FAU를 구성한다.",
+          "press": "이데일리",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 14:32",
+          "link": "https://n.news.naver.com/mnews/article/018/0006366873?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 51
+}
