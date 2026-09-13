@@ -1,0 +1,720 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13 09:32",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "시월모바일, 중고 단말 유통 부문 진출… 종합 통신 서비스망 고도화",
+      "category": "산업",
+      "link": "https://www.gosiweek.com/article/1065600009113282"
+    },
+    {
+      "rank": 2,
+      "headline": "[금주 재판일정] 尹 '재판 위증' 항소심 선고…SKT 과징금 1300억 취소 소...",
+      "category": "산업",
+      "link": "https://www.newspim.com/news/view/20260911001071"
+    },
+    {
+      "rank": 3,
+      "headline": "시월모바일, 중고폰 서비스 론칭...유·무선 결합 통신 플랫폼 도약",
+      "category": "산업",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=2026091116142980359aeda69934_7"
+    },
+    {
+      "rank": 4,
+      "headline": "美 8월 CPI 미스터리…시장 뒤흔든 '휴대전화 요금'",
+      "category": "산업",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434543"
+    },
+    {
+      "rank": 5,
+      "headline": "무선전화 물가 5.9% 상승, 8월 근원 CPI 0.3%",
+      "category": "산업",
+      "link": "https://www.tokenpost.kr/news/economy/406534"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "알뜰폰 사업자가 청년 무료 핀다이렉트 제공, 중고폰 거래·통합 유·무선 플랫폼 구축 등 서비스 영역을 확대하고 있다. 주요 통신사 매출은 알뜰폰 확산과 요금제 경쟁 심화로 전년 대비 감소했으며, SK텔레콤 과징금 1300억 원이 취소되는 등 규제 환경도 변하고 있다. 미국 CPI 조사 방식이 통신요금 자료 활용으로 바뀌면서 요금 변동이 물가에 반영되는 한계가 지적된다. 은행·기업도 알뜰폰 이용 고객 대상 통신비 경감 이벤트를 진행해 시장 활성화를 지원하고 있다.",
+      "articles": [
+        {
+          "title": "스테이지파이브, '2026 대한민국 ESG소비자 브랜드 대상' 스마트커뮤니...",
+          "summary": "홀로서기에 나선 청년들이 자사의 알뜰폰 서비스인 핀다이렉트를 무상으로 이용할 수 있도록 지원하며 통신비 부담을 덜어줬다.",
+          "press": "이뉴스투데이",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 17:42",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2469563",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, 9월 알뜰폰 가입 이벤트…“통신비 0원”",
+          "summary": "우리은행은 9월 한 달 동안 알뜰폰 서비스 ‘우리WON모바일’의 한가위 이벤트를 진행한다고 10일 밝혔다....",
+          "press": "헤럴드경제",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 11:45",
+          "link": "https://n.news.naver.com/mnews/article/016/0002695488?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "시월모바일, 중고 단말 유통 부문 진출… 종합 통신 서비스망 고도화",
+          "summary": "▲사진 제공: 시월모바일 알뜰폰 브랜드 시월모바일이 유무선 통신 연계 상품에 이어 중고 스마트폰 유통 서비스를 추가 도입해 종합 통신 플랫폼 체계를 구축했다.",
+          "press": "gosiweek.com",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 08:06",
+          "link": "https://www.gosiweek.com/article/1065600009113282",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[금주 재판일정] 尹 '재판 위증' 항소심 선고…SKT 과징금 1300억 취소 소...",
+          "summary": "개보위 조사에 따르면 SK텔레콤이 제공하는 LTE·5G 서비스 전체 이용자 2324만4649명(알뜰폰 포함, 중복 제거)의 ▲휴대전화번호 ▲가입자식별번호(IMSI…",
+          "press": "newspim.com",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 06:00",
+          "link": "https://www.newspim.com/news/view/20260911001071",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "시월모바일, 중고폰 서비스 론칭...유·무선 결합 통신 플랫폼 도약",
+          "summary": "알뜰폰 브랜드 시월모바일이 기존 무선 서비스와 인터넷·TV 결합 상품에 이어 ‘중고폰 거래 서비스’를 개시하며 사업 영역 확장에 나섰다.",
+          "press": "thepowernews.co.kr",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 08:02",
+          "link": "https://www.thepowernews.co.kr/view.php?ud=2026091116142980359aeda69934_7",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "美 8월 CPI 미스터리…시장 뒤흔든 '휴대전화 요금'",
+          "summary": "이는 알뜰폰 사업자의 급성장과 다회선 요금제, 선불 및 후불 요금제의 빠른 교체 주기 등 최신 업황을 오롯이 반영하는 데 한계가 있었다.",
+          "press": "news.einfomax.co.kr",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 06:26",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434543",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "무선전화 물가 5.9% 상승, 8월 근원 CPI 0.3%",
+          "summary": "BLS는 2025년 7월 지수부터 조사원이 직접 수집한 가격 대신 통신사와 이동통신망임대사업자(MVNO)의 요금제 자료를 활용하고 있다.",
+          "press": "tokenpost.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 22:02",
+          "link": "https://www.tokenpost.kr/news/economy/406534",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[9월12일자] 비즈니스포스트 아침의 주요기사",
+          "summary": "새 알뜰폰 요금제와 기자의 '주방 10년' 요리가 닮은 점 ● 아모레퍼시픽 '더마 브랜드 3각편대' 급성장, 서경배 내년 '매출 5조 클럽' 복귀 예열 ● 보험…",
+          "press": "businesspost.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 20:42",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=447063",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "전 고객 대상이었는데 어느새 'VIP'만…이통사 멤버십도 허리띠 졸라매...",
+          "summary": "올해 2분기 SK텔레콤의 이동통신 매출은 알뜰폰 확산과 요금제 경쟁 심화 등의 영향으로 전년 동기 대비 1.9% 감소했다.",
+          "press": "bizhankook.com",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 16:42",
+          "link": "https://bizhankook.com/articles/telecom-membership-privilege-reduction.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "시월모바일, 중고폰 서비스 개시...통신 서비스 영역 확대",
+          "summary": "알뜰폰 브랜드 시월모바일이 무선 통신 및 유선 인터넷·TV 결합 서비스에 이어 중고폰 거래 서비스를 개시했다고 밝혔다.",
+          "press": "beyondpost.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 16:10",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=2026091115544445159aeda69934_30",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "추석 영상통화 공짜…카톡은 제외",
+          "summary": "또 이통 3사 망을 쓰는 알뜰폰도 전부 포함되는 만큼 사실상 전국민이 혜택을 받을 수 있을 것으로 보입니다. 단 선불폰은 지원이 불가합니다.",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 11:54",
+          "link": "https://n.news.naver.com/mnews/article/374/0000532421?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "프리티 주가, 상한가... 왜?",
+          "summary": "이동통신 3사의 무선통신망을 임차해 통합 MVNO 서비스를 운영하고 있다.",
+          "press": "ggilbo.com",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 09:58",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1181157",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "프리티캐나다 1주년 감사제 진행...캐나다유심·캐나다이심 고객 혜택 ...",
+          "summary": "국내 알뜰폰(MVNO) 업계 최초로 해외에 진출한 프리텔레콤의 프리티캐나다가 서비스 출시 1주년을 맞아 고객 성원에 보답하기 위한 '1주년 감사제'를 진행한다.",
+          "press": "globalepic.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 08:58",
+          "link": "http://www.globalepic.co.kr/view.php?ud=20260910145945104137600e7ec7_29",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, 추석 맞아 '우리WON모바일' 통신비 절감 이벤트",
+          "summary": "퍼블릭타임스=우리은행이 추석을 앞두고 알뜰폰 서비스 '우리WON모바일' 이용 고객의 통신비 부담을 낮추기...",
+          "press": "public25.com",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 07:00",
+          "link": "https://www.public25.com/news/articleView.html?idxno=54499",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, 알뜰폰 ‘우리WON모바일’ 통신비 면제 이벤트",
+          "summary": "앞두고 알뜰폰 브랜드 ‘우리WON모바일’ 신규 고객을 대상으로 통신비 부담을 낮추는 이벤트를 진행한다....",
+          "press": "todayeconomic.com",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 17:50",
+          "link": "https://www.todayeconomic.com/news/article.html?no=32083",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이폰 듀오vs갤럭시 폴드8..'폴드8' 접었을 떼 더 얇고 가볍고 싸다",
+          "summary": "실구매 부담을 낮추는 장치가 이미 시장에서 작동 중이다. ■ 두께와 무게 애플은 듀오를 두고 역대 가장...",
+          "press": "betanews.net",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 16:38",
+          "link": "https://www.betanews.net/article/view/beta202609100118",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행 우리WON모바일, 추석 맞아 6개월 통신비 '0원' 혜택 이벤트",
+          "summary": "우리은행의 알뜰폰(MVNO) 서비스 우리WON모바일이 추석 명절을 맞아 파격적인 통신비 절감 혜택을 담은 대고객 이벤트를 진행한다.",
+          "press": "beyondpost.co.kr",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 10:56",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=202609101046566532be44c0aacd_30",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"추석 선물처럼 다가온 통신비 0원\"… 우리WON모바일, 파격 '한가위 이벤...",
+          "summary": "고물가·고금리 여파로 가계 통신비 부담이 갈수록 가중되는 가운데 금융권 알뜰폰(MVNO) 시장의 후발 주자가 한가위를 맞아 통신비 파괴를 선언하고 나섰다.",
+          "press": "dailysmart.co.kr",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 10:24",
+          "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=129514",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, 우리WON모바일 한가위 이벤트",
+          "summary": "우리WON모바일은 금융권 알뜰폰(MVNO) 서비스로서 우리은행 계좌 거래 실적에 따른 통신비 추가 할인 및 우리금융그룹 자산관리 서비스와의 연계 혜택을 제공하고…",
+          "press": "newsfreezone.co.kr",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 10:02",
+          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=708575",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신사 넷제로 달성, 재생에너지에 달렸다",
+          "summary": "세계이동통신사업자연합회(GSMA)가 공개한 '모바일 넷제로: 아시아태평양 2026' 보고서에 따르면 전 세계 이동통신사가 사용하는 전력 가운데 구매하거나 직접 생…",
+          "press": "지디넷코리아",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 07:50",
+          "link": "https://n.news.naver.com/mnews/article/092/0002437207?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "명절 피싱 잔혹사 끝… LG유플러스 AI 중심 특별 방어막 가동",
+          "summary": "경찰서나 매장을 방문해 조치를 받길 바란다\"고 말했습니다.",
+          "press": "newsclaim.co.kr",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 09:00",
+          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075153",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 추석 연휴 앞두고 AI 보안시스템 가동 … 보이스피싱 24시간...",
+          "summary": "국내 이동통신사 가운데 자체적으로 보이스피싱 범죄 조직의 서버를 역추적하는 곳은 LG유플러스가 유일한 것으로 전해졌다. 경찰과의 공조 체계도 가동된다.",
+          "press": "worktoday.co.kr",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 09:00",
+          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=89156",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[이진호의 신통방통] 바다 밑 통신 '해저케이블'의 세계",
+          "summary": "예를 들어 국내 이용자가 미국 데이터센터에 있는 AI 서비스에 질문을 입력하면 데이터는 먼저 이동통신망이나 유선인터넷망을 거쳐 국내 백본망에 도달한다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 08:54",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699909",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "美의회, 中통신기에 우려 목소리…국내도 점검필요",
+          "summary": "국내 이동통신사들은 유선 전송망 등 일부 영역에서 중국산 장비를 사용해왔으며 한 국내 통신사는 일부 지역 이동통신 기지국에 화웨이 장비를 운용 중인 것으로 알려졌…",
+          "press": "g-enews.com",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 08:00",
+          "link": "https://www.g-enews.com/view.php?ud=2026091109303160963d7a510102_1",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이폰18 프로·프로맥스 사전예약 시작…SKT·KT·LGU+ 혜택 경쟁 돌입",
+          "summary": "(사진=통신 3사) 애플의 아이폰18 프로와 아이폰18 프로 맥스 국내 사전예약이 12일 오후 9시부터 시작되면서 SK텔레콤과 KT, LG유플러스 등 이동통신 3…",
+          "press": "efnews.co.kr",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 16:46",
+          "link": "http://www.efnews.co.kr/news/articleView.html?idxno=132370",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이폰 18 프로 오늘 사전예약…최고 399만원, 통신 3사 혜택 경쟁",
+          "summary": "사전예약을 앞두고 이동통신 3사도 고객 유치 경쟁에 들어갔다.",
+          "press": "news.tvchosun.com",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 15:56",
+          "link": "https://n.news.naver.com/mnews/article/448/0000638953?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "프리티캐나다가 1주년 감사제를 진행한다. 캐나다 유심·이심으로 요금제를 개통한 신규 고객은 자동으로 참여해 혜택을 받는다.",
+      "articles": [
+        {
+          "title": "프리티캐나다 1주년 감사제 진행...캐나다유심·캐나다이심 고객 혜택 ...",
+          "summary": "캐나다유심이나 캐나다이심으로 프리티캐나다 요금제를 개통한 신규 고객이라면 자동으로 참여된다.",
+          "press": "globalepic.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 08:58",
+          "link": "http://www.globalepic.co.kr/view.php?ud=20260910145945104137600e7ec7_29",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "로봇·AI·전기차 등 고전압·고효율 전력 부품 수요가 확대돼 국내·글로벌 기업이 GaN FET·800V DC‑DC·AI 데이터센터 솔루션 등 공급·협업을 강화하고 있다.",
+        "mercury": "머큐리 주가는 9월 11일 4,740원으로 4.63 % 하락했으며, 최신 브랜드평판 빅데이터 순위에 포함됐다. 한편 KT는 글로벌 미디어 전시회 IBC 참가와 앰로직과의 미디어 칩셋 공급 협약을 통해 해외 공급망 확대를 추진하고 있다.",
+        "encreative": "가정간편식(HMR) 시장이 패키지 경쟁과 신제품 출시로 급성장하고 있다. CJ·동원 등 기존 식품·유통업체가 어묵·치킨 등 다양한 라인업을 확대하고, BBQ·맘스터치 등 외식 브랜드도 진출해 시장 규모가 확대되고 있다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "로봇 산업 폭발적 성장… 에스피지, '심장' 부품 국산화로 수혜 독식 기...",
+          "summary": "업체들의 실적 회복 시점에 대한 불확실성도 투자심리에 부담으로 작용하고 있다. 10일 한국거래소에 따르면...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 14:10",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485808",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "전력 인프라 투자 대박… 원익피앤이 장비 몸값 솟구친다",
+          "summary": "전원공급장치와 충·방전 장비 등 전력 관련 기술을 보유하고 있어 초전도 연구 및 전력설비 투자 확대...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 15:10",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486222",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"보호부터 충전까지\" 벨킨이 제안하는 갤럭시 Z 폴드 8 액세서리 생태계",
+          "summary": "케이스 후면에는 무선충전 규격 치2(Qi2) 인증을 받은 자성 장치(마그네틱 어레이)가 탑재됐다. 갤럭시 Z...",
+          "press": "동아일보",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 21:06",
+          "link": "https://it.donga.com/109523/",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[코스닥 루키즈 점검] 지에프아이, 반년 만에 목표치 달성…투자처 물색",
+          "summary": "에너지저장장치(ESS)·무정전전원장치(UPS)용 소화안전 솔루션 기업 지에프아이가 코스닥 입성 첫해부터...",
+          "press": "블로터",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 16:05",
+          "link": "https://n.news.naver.com/mnews/article/293/0000090349?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "마우저, 온세미 '가넥서스 GaN FET' 제품군 글로벌 공급",
+          "summary": "저전압 및 중전압 시스템에서는 AI 서버, 48V 중간 버스 컨버터(IBC), 배터리 백업 유닛(BBU), 모터 드라이브 등에서 스위칭 손실을 줄이고 전력 밀도와…",
+          "press": "디지털데일리",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 13:11",
+          "link": "https://n.news.naver.com/mnews/article/138/0002240911?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "씨케이솔루션, 슈나이더와 AI 데이터센터 사업 확대",
+          "summary": "씨케이솔루션은 슈나이더의 AI 데이터센터 솔루션을 국내에 공급하고 기술지원과 서비스를 제공한다.",
+          "press": "디일렉",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 11:40",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=62069",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[中 거인의 공급망] ②AI 서버 강자 '낭조정보' 없으면 '딥시크'도 없다",
+          "summary": "등을 공급한다. 3. '데이터센터 인프라'까지, 종합 AI 인프라 기업으로 낭조정보는 최근 데이터센터의 전력과 냉각 영역까지 제품 포트폴리오를 확대하고 있다.",
+          "press": "newspim.com",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 07:00",
+          "link": "https://www.newspim.com/news/view/20260911000928",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[흑과백⑨-백] 삼성SDI, 북미 생산능력 2배…각형 안전성 통해 ESS 공략",
+          "summary": "특히 AI 데이터센터용 전력 인프라 시장 확대에 맞춰 ESS와 UPS(무정전전원장치)까지 사업기회를 넓힌다는... 현지 공급능력을 확보한다는 전략이다.",
+          "press": "shinailbo.co.kr",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 06:06",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5061370",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "'K-배터리쇼 2026' “유류·전기 등 산업 복합 화재 모두 잡는다”… 이...",
+          "summary": "이지에스플러스는 리튬 배터리 열폭주에 특화된 친환경 소화약제와 특수 소화 장비를 공급해 온 방재...",
+          "press": "digitalchosun.dizzo.com",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 16:34",
+          "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/11/2026091180161.html",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "카드업계, 아이폰18 프로 출시에 고객 잡기 경쟁",
+          "summary": "메모리·저장장치 단가 상승 등의 영향으로 프로 모델 가격이 전작 대비 최대 300달러 오를 수 있다는... USB-C 전원 어댑터와 강화유리 필름이 증정된다.",
+          "press": "news2day.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 14:50",
+          "link": "https://www.news2day.co.kr/article/20260911500170",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "머큐리, 북미 광케이블 시장 영토 확장…AI 데이터센터용 고성능 제품 ...",
+          "summary": "정보통신장비 전문기업 머큐리가 북미 광케이블 시장에서 성과를 내며 초고속 성장이 예상되는 인공지능(AI) 데이터센터용 광케이블 시장 공략에 속도를 낸다.",
+          "press": "한국경제",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 09:56",
+          "link": "https://n.news.naver.com/mnews/article/015/0005330792?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[특징주] 머큐리, 美 광케이블 초도 납품 완료…AI 데이터센터 수요 선...",
+          "summary": "정보통신장비 전문기업 머큐리(100590)가 미국 공공 광대역 인프라 사업 공급 실적 확보와 인공지능(AI) 데이터센터 시장 진출 소식에 힘입어 장중 강세를 보이…",
+          "press": "widedaily.com",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 11:04",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=300906",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"약보다 낫네\" 70대 남성 혈관 건강·수명 가른 '결혼 습관'",
+          "summary": "고혈압 환자가 과도한 음주를 줄일 경우 수축기 혈압은 평균 3.31밀리미터머큐리(mmHg), 이완기 혈압은 2.04밀리미터머큐리(mmHg) 낮아지는 효과가 보고됐…",
+          "press": "insight.co.kr",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 12:54",
+          "link": "https://www.insight.co.kr/news/573141",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[오피니언 리더 메시지] 버락 오바마 \"NASA는 늘 민간 산업에 의존해 왔...",
+          "summary": "사실 NASA는 약 50년 전 존 글렌을 궤도에 올린 머큐리 캡슐과 지금 머리 위 궤도를 도는 우주왕복선 디스커버리 사례에서 보듯, 우주비행사를 우주로 실어 나르…",
+          "press": "econovill.com",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 21:02",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=750364",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "머큐리 주가, 9월 11일 장중 4,740원 4.63% 하락",
+          "summary": "따르면 머큐리 주가는 현재 코스닥 시장에서 4,740원에 거래되며 지난 종가 대비 230원, 4.63% 하락한 상태이다.",
+          "press": "joongangenews.com",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 15:30",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=547534",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "‘우리옷 효원’ 한복쇼, 창원장애인사격세계선수권 개막식 수놓아",
+          "summary": "11일 아시아문화콘텐츠개발원에 따르면 지난 9일 창원그랜드머큐리앰버서더호텔 그랜드볼룸에서 열린 창원장애인사격세계선수권대회 개막식에서 디자이너 박건희의 ‘우리옷 효…",
+          "press": "sentv.co.kr",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 15:16",
+          "link": "https://www.sentv.co.kr/article/view/sentv202609110156",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "KT, 미디어 단말·칩 공급망 챙긴다…앰로직과 협력 확대",
+          "summary": "국내 시장을 넘어 해외 판로를 확보하려는 협력사를 지원하기 위해 2013년부터 진행해온 프로그램이다....",
+          "press": "지디넷코리아",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 09:13",
+          "link": "https://n.news.naver.com/mnews/article/092/0002437225?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "KT, 글로벌 팹리스 '앰로직'과 미디어 단말 칩셋 공급 협약",
+          "summary": "협력사의 국내 시장 성장 한계를 넘어 해외 판로를 넓히도록 2013년부터 운영해 온 상생협력...",
+          "press": "뉴시스",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 09:02",
+          "link": "https://n.news.naver.com/mnews/article/003/0014186289?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "GPU 백만개가 무슨 소용? 젠슨 황 사로잡은 광섬유 뭐길래[김창영의 실...",
+          "summary": "줄이고 광 트랜시버를 확대하고 있다. HCF가 신호 손실을 줄이고 속도를 높이는 장점이 있지만 극복해야 할 한계점도 있다. 복잡한 제조 기술과 비용이다.",
+          "press": "서울경제",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 06:58",
+          "link": "https://n.news.naver.com/mnews/article/011/0004661067?sid=104",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "KKR “한국은 AI 시대 아시아 인프라 투자 핵심시장”[제 27회 세계지식...",
+          "summary": "“아시아 시장 디지털·탈탄소화·탈집중화 중요” “한국은 AI 시대 아시아 인프라 투자의 핵심 시장이다.... 광케이블과 통신탑, 해저케이블 등을 포함한 규모다.",
+          "press": "매일경제",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 13:35",
+          "link": "https://n.news.naver.com/mnews/article/009/0005733861?sid=104",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"5kg 찌며 쓴 피자 백서\"…삼성웰스토리가 피자에 '진심'인 이유 [씬메이...",
+          "summary": "삼성웰스토리가 피자에 주목한 이유는 급변하는 기업간거래(B2B) 식음 시장 흐름 때문이다. 국내...",
+          "press": "한국경제",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 07:31",
+          "link": "https://n.news.naver.com/mnews/article/015/0005331635?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "컵밥·육개장 이어 이번엔 어묵…CJ-동원 '패키지 전쟁' 또 붙었다",
+          "summary": "과거 컵밥과 죽, 육개장 등 가정간편식(HMR) 패키지를 둘러싸고 잇달아 갈등을 빚은 데 이어 양사의 '패키지...",
+          "press": "뉴스1",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 07:10",
+          "link": "https://n.news.naver.com/mnews/article/421/0009166515?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[숲코노미] ④가을엔 표고다…食·藥 넘나드는 ‘임산물’",
+          "summary": "식당에서는 표고와 표고국수 밀키트도 판매한다. 다음 목표는 해외다. 지난해 호주 시장 반응을 보기 위해 시험 제품을 내놨고 일본 진출도 준비하고 있다.",
+          "press": "조선비즈",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 06:01",
+          "link": "https://n.news.naver.com/mnews/article/366/0001191953?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"스팸 대신 곱도리탕\"⋯추석 선물판 흔드는 '간편식'",
+          "summary": "장기보관용 가공식품이 명절선물 주류를 이루던 시장에서 한끼식사로 즉시 활용할 수 있는 가정간편식(HMR)이 새로운 선택지로 부상했다.",
+          "press": "아이뉴스24",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 08:10",
+          "link": "https://n.news.naver.com/mnews/article/031/0001057768?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "3억원 와인부터 9만원대 한우까지…호텔 추석선물, 가격도 취향도 넓어...",
+          "summary": "올해 호텔업계 추석 선물 시장이 한층 넓어졌다. 최고급 한우와 수산물 중심이던 명절 선물에 수억원대 희귀...",
+          "press": "세계일보",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 07:01",
+          "link": "https://n.news.naver.com/mnews/article/022/0004158369?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "“자주 가던 백반집이 사라졌어요”…1년 새 6000곳 문 닫았다",
+          "summary": "외식 물가가 오르면서 편의점 도시락이나 즉석섭취식품, 가정간편식(HMR) 등 상대적으로 부담이 적은...",
+          "press": "세계일보",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 05:02",
+          "link": "https://n.news.naver.com/mnews/article/022/0004158333?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"배달은 안 한다\"더니…1년 새 6000곳 문 닫은 식당 정체가",
+          "summary": "간편식은 즉석밥과 국·탕류 같은 즉석조리식품뿐 아니라 도시락·김밥 등 즉석섭취식품, 신선편의식품과 밀키트 등으로 시장을 구성한다.",
+          "press": "한국경제",
+          "date": "2026-09-11",
+          "datetime": "2026-09-11 10:46",
+          "link": "https://n.news.naver.com/mnews/article/015/0005331266?sid=103",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "쿠팡·쿠팡이츠, 청주 육거리시장서 전통시장 디지털 전환 지원 시작",
+          "summary": "청주 육거리시장을 찾은 시민들.(사진=지디넷코리아) 전통시장의 특색 있는 메뉴를 발굴해 밀키트로 상품화하는 사업도 추진한다.",
+          "press": "지디넷코리아",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 14:22",
+          "link": "https://n.news.naver.com/mnews/article/092/0002436979?sid=105",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "맛있는 곱창, 집에서 즐기게 밀키트 판매",
+          "summary": "조성만 대표는 “10여 년간 곱창 판매 외길을 걸으며 코로나19 팬데믹까지 극복해 온 경험을 살려, 가정간편식(HMR) 시장에서도 소비자들에게 사랑받을 수 있도록…",
+          "press": "한국일보",
+          "date": "2026-09-10",
+          "datetime": "2026-09-10 14:00",
+          "link": "https://n.news.naver.com/mnews/article/469/0000953316?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "BBQ·맘스터치도 뛰어들었다…커지는 '집치킨' 시장",
+          "summary": "이에 따라 간편식 시장 규모도 커지고 있다.",
+          "press": "dailian.co.kr",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 09:01",
+          "link": "https://n.news.naver.com/mnews/article/119/0003131991?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 57
+}
