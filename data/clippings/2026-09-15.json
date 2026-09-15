@@ -1,0 +1,764 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15 10:06",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "LG유플러스, '골드번호' 1만개 푼다…내일부터 신청",
+      "category": "산업",
+      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=129720"
+    },
+    {
+      "rank": 2,
+      "headline": "\"내 번호에 특별한 의미를\"… LG유플러스, 선호번호 1만개 공개 추첨",
+      "category": "산업",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=157153"
+    },
+    {
+      "rank": 3,
+      "headline": "“나만의 폰번호 1004”…LGU+, 선호번호 1만개 추첨",
+      "category": "산업",
+      "link": "https://www.sentv.co.kr/article/view/sentv202609150058"
+    },
+    {
+      "rank": 4,
+      "headline": "[Telecom & Now] 1004·7777…LGU+, '골드번호' 1만개 추첨 등",
+      "category": "산업",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1724250"
+    },
+    {
+      "rank": 5,
+      "headline": "\"1004 번호 탐나네\"…LG유플러스, 나만의 황금번호 1만 개 푼다",
+      "category": "산업",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/111600"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "LG유플러스가 1111·7777·1004 등 4자리 ‘골드번호’ 1만개를 공개 추첨한다. 신청은 16일부터 가능하며 당첨자는 LG유플러스로 번호이동해 해당 번호를 사용할 수 있다. 알뜰폰(MVNO) 이용 고객도 가입 사업자를 통해 번호 변경이 가능하다. 지난해 추첨에는 2만9905명이 신청해 3540명이 당첨돼 선호번호에 대한 관심이 꾸준히 이어지고 있다.",
+      "articles": [
+        {
+          "title": "1111·1004·1234 등…LG유플러스, '골드번호' 1만개 추첨한다",
+          "summary": "후 LG유플러스로 번호이동하면 해당 선호번호를 사용할 수 있다. LG유플러스망 알뜰폰 이용 고객은 가입한 알뜰폰 사업자를 통해 번호를 변경할 수 있다.",
+          "press": "아주경제",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:02",
+          "link": "https://www.ajunews.com/view/20260915082125681",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, '1111·7777·1004' 선호번호 1만개 공개 추첨",
+          "summary": "LG유플러스망 알뜰폰 이용 고객은 가입한 알뜰폰 사업자를 통해 번호를 변경할 수 있다.",
+          "press": "뉴스1",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009170051?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 1111·7777 '골드번호' 1만개 푼다…내일부터 응모",
+          "summary": "LG유플러스망 알뜰폰 가입자는 이용 중인 알뜰폰 사업자를 통해 번호를 변경하면 된다. 선호번호를 확보하려는 이용자들의 관심도 꾸준히 이어지고 있다.",
+          "press": "뉴시스",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:00",
+          "link": "https://n.news.naver.com/mnews/article/003/0014190009?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[2026 한국고객만족도 1위] 알뜰폰 브랜드, 프리티",
+          "summary": "프리티가 ‘2026 한국고객만족도 1위’ 통신(알뜰폰) 부문을 2년 연속 수상했다.",
+          "press": "한국경제",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 05:27",
+          "link": "https://n.news.naver.com/mnews/article/050/0000110880?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB pricing plan halted just one day after launch",
+          "summary": "medium-sized MVNO operators.\" However, the Ministry of Science and ICT and the Korea...",
+          "press": "IT조선",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 12:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170045",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB리브모바일 단말기 요금제 출시 하루 만에 중단… 왜",
+          "summary": "13일 관련 업계에 따르면 알뜰폰 서비스 'KB리브모바일'을 운영하는 KB국민은행은 9월 1일부터 30일까지...",
+          "press": "IT조선",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 06:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169946",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"통신비 25% 더 할인\" 문자 돌던데…진짜 대상자 따로 있다",
+          "summary": "알뜰폰 이용자는 선택약정 25% 할인 대상이 아니다. 25% 요금할인은 SK텔레콤·KT·LG유플러스 등 이동통신 3사 가입자에게 적용된다.",
+          "press": "아주경제",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 10:06",
+          "link": "https://www.ajunews.com/view/20260913100252681",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, '골드번호' 1만개 푼다…내일부터 신청",
+          "summary": "당첨 후 LG유플러스로 번호이동하면 해당 번호를 이용할 수 있으며, LG유플러스망 알뜰폰 고객은 가입한 알뜰폰 사업자를 통해 번호를 변경할 수 있다.",
+          "press": "dailysmart.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:56",
+          "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=129720",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"내 번호에 특별한 의미를\"… LG유플러스, 선호번호 1만개 공개 추첨",
+          "summary": "LG유플러스망을 사용하는 알뜰폰 가입자는 이용 중인 알뜰폰 사업자를 통해 번호 변경이 가능하다. 선호번호에 대한 높은 관심은 지난해 추첨 결과에서도 확인됐다.",
+          "press": "koreaittimes.com",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:52",
+          "link": "https://www.koreaittimes.com/news/articleView.html?idxno=157153",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“나만의 폰번호 1004”…LGU+, 선호번호 1만개 추첨",
+          "summary": "LGU+망을 쓰는 알뜰폰 가입자는 알뜰폰 사업자를 통해 번호 변경이 가능하다. 지난해 선호번호 추첨에는 2만9905명이 신청해 3540명이 당첨됐다.",
+          "press": "sentv.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:42",
+          "link": "https://www.sentv.co.kr/article/view/sentv202609150058",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[Telecom & Now] 1004·7777…LGU+, '골드번호' 1만개 추첨 등",
+          "summary": "LG유플러스망 알뜰폰 이용 고객은 가입한 알뜰폰 사업자를 통해 번호를 변경할 수 있다. 한편 선호번호에 대한 고객 관심은 꾸준히 이어지고 있다.",
+          "press": "ebn.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:30",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1724250",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"1004 번호 탐나네\"…LG유플러스, 나만의 황금번호 1만 개 푼다",
+          "summary": "LG유플러스망을 임대해 사용하는 알뜰폰(MVNO) 가입자 역시 자신이 가입한 사업자를 통해 번호를 변경할 수 있다.",
+          "press": "smarttoday.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:28",
+          "link": "https://www.smarttoday.co.kr/ko-kr/articles/111600",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'1111·7777 골라볼까'…LG유플러스, 선호번호 1만개 푼다",
+          "summary": "LG유플러스망 알뜰폰 이용자는 가입한 알뜰폰 사업자를 통해 번호를 변경할 수 있다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:26",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700547",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] LG유플러스 소식(9.15)",
+          "summary": "통신사에서 LG유플러스로 번호를 이동한 고객이었다.",
+          "press": "weeklytoday.com",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:24",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=794488",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 글로벌 전시회서 홈미디어 신제품 공개…선호번호 1만개 추...",
+          "summary": "LG유플러스망 알뜰폰 이용 고객은 가입한 알뜰폰 사업자를 통해 번호를 변경할 수 있다.",
+          "press": "newstnt.com",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:24",
+          "link": "https://www.newstnt.com/news/articleView.html?idxno=718315",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 네 자리에 담는 나만의 숫자 ‘선호번호’ 1만 개 추첨",
+          "summary": "LG유플러스망 알뜰폰 이용 고객은 가입한 알뜰폰 사업자를 통해 번호를 변경할 수 있다. 한편 선호번호에 대한 고객 관심은 꾸준히 이어지고 있다.",
+          "press": "thetracker.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:24",
+          "link": "https://thetracker.co.kr/View.aspx?No=4227112",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 나만의 숫자 '선호번호' 1만개 공개 추첨…16일부터 신청",
+          "summary": "LG유플러스망 알뜰폰 이용자는 가입한 알뜰폰 사업자를 통해 번호를 변경할 수 있다.",
+          "press": "ngonews.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:06",
+          "link": "https://www.ngonews.kr/news/articleView.html?idxno=238179",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "1111·7777...LG유플러스 '골드번호' 1만개 추첨",
+          "summary": "LG유플러스망 알뜰폰 이용객은 가입한 알뜰폰 사업자를 통해 번호를 변경할 수 있다.",
+          "press": "newstree.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:06",
+          "link": "https://www.newstree.kr/newsView/ntr202609150002",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, '1111·1004' 선호번호 1만개 추첨",
+          "summary": "LG유플러스망 알뜰폰 고객은 가입한 알뜰폰 사업자를 통해 번호를 변경할 수 있다.지난해 추첨에는 2만9905명이 신청해 3540명이 당첨됐다.",
+          "press": "news.mtn.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:04",
+          "link": "https://news.mtn.co.kr/news-detail/2026091508320354885",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, ‘1111·1004’ 등 선호번호 1만개 추첨",
+          "summary": "LG유플러스망 알뜰폰 이용 고객은 가입한 알뜰폰 사업자를 통해 번호를 변경할 수 있다.",
+          "press": "dailian.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:01",
+          "link": "https://n.news.naver.com/mnews/article/119/0003132652?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, '1111' 등 선호번호 1만개 추첨…16일 신청 접수 시작",
+          "summary": "타 통신사 이용자도 응모할 수 있으며, 당첨 후 LG유플러스로 번호이동하면 해당 번호를 사용할 수 있으며, LG유플러스망 알뜰폰 고객은 가입한 알뜰폰 사업자를 통…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:00",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487033",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"1111·1004 잡아라\"…LG유플러스, '골드번호' 1만 개 공개 추첨",
+          "summary": "사용하는 알뜰폰(MVNO) 가입자도 제한 없이 응모할 수 있다.",
+          "press": "newsdream.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:00",
+          "link": "http://www.newsdream.kr/news/articleView.html?idxno=118131",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"1111부터 1004까지\"…LG유플러스, 골드번호 1만개 추첨 개시",
+          "summary": "당첨자는 타사 이용자라도 LG유플러스로 번호이동을 하거나 알뜰폰 사업자를 통해 해당 번호를 신규 등록해 사용할 수 있다.",
+          "press": "thefairnews.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 08:32",
+          "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=88038",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "시월모바일, 중고 스마트폰 유통 개시",
+          "summary": "알뜰폰 브랜드 시월모바일이 무선 요금제와 유선 통신 결합에 이어 중고폰 거래 부문으로 서비스 보폭을 넓히며 사업 체질 개선에 나섰다.",
+          "press": "lawissue.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 08:02",
+          "link": "http://www.lawissue.co.kr/view.php?ud=2026091116225590329aeda69934_12",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "시월모바일, 중고폰 거래 서비스 신설...통신 포트폴리오 다변화",
+          "summary": "알뜰폰 사업자 시월모바일이 유무선 통신 회선 공급에 이어 '중고폰 거래 서비스'를 개시하며 플랫폼 기능 고도화에 착수했다.",
+          "press": "gokorea.kr",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 08:00",
+          "link": "https://www.gokorea.kr/news/articleView.html?idxno=878085",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 풍향계] LGU+ '추석 보이스피싱 대응' 강화·KT '미디어 칩셋 공급...",
+          "summary": "폐지된 이후에도 더 나은 조건으로 단말기를 구매하려는 소비자들의 관심은 여전히 높다.",
+          "press": "newsworks.co.kr",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 11:56",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=853574",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "시월모바일, 중고 단말 유통 부문 진출… 종합 통신 서비스망 고도화",
+          "summary": "▲사진 제공: 시월모바일 알뜰폰 브랜드 시월모바일이 유무선 통신 연계 상품에 이어 중고 스마트폰 유통 서비스를 추가 도입해 종합 통신 플랫폼 체계를 구축했다.",
+          "press": "gosiweek.com",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 08:06",
+          "link": "https://www.gosiweek.com/article/1065600009113282",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[금주 재판일정] 尹 '재판 위증' 항소심 선고…SKT 과징금 1300억 취소 소...",
+          "summary": "개보위 조사에 따르면 SK텔레콤이 제공하는 LTE·5G 서비스 전체 이용자 2324만4649명(알뜰폰 포함, 중복 제거)의 ▲휴대전화번호 ▲가입자식별번호(IMSI…",
+          "press": "newspim.com",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 06:00",
+          "link": "https://www.newspim.com/news/view/20260911001071",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성, 버라이즌과 6G 핵심기술 실증…AI로 인파 밀집도 분석",
+          "summary": "월드컵 현장서 가상화 네트워크 기반 ISAC 기술 검증 무선신호 반사정보로 움직임 감지…히트맵으로 실시간 시각화 삼성전자가 미국 이동통신사 버라이즌과 가상화 네트…",
+          "press": "연합뉴스",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:55",
+          "link": "https://n.news.naver.com/mnews/article/001/0016310748?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT, AI 에이전트 시대 '문자 승인' 표준화 제안",
+          "summary": "SK텔레콤은 15일부터 18일까지 서울 SKT타워에서 세계이동통신사업자연합회(GSMA) RCS 그룹 대면 표준화 회의를 개최한다고 밝혔다.",
+          "press": "koreastocknews.com",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:58",
+          "link": "http://www.koreastocknews.com/news/articleView.html?idxno=121229",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "프리티가 2026년 한국 고객만족도 1위를 차지했으며, 합리적인 서비스와 고객 중심 요금제를 제공하고 있다.",
+      "articles": [
+        {
+          "title": "[2026 한국고객만족도 1위] 알뜰폰 브랜드, 프리티",
+          "summary": "주식회사 프리텔레콤의 알뜰폰 브랜드 ‘프리티’는 합리적인 통신 서비스와 고객 중심의 요금제를 선보이고 있다.",
+          "press": "한국경제",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 05:27",
+          "link": "https://n.news.naver.com/mnews/article/050/0000110880?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "전기·전력 부품 시장은 AI 데이터센터와 고효율 디지털 전원·역률보정 솔루션 수요가 확대되는 반면, 전기차 배터리 수요 회복 불확실성으로 2차전지 실적 기대는 낮아졌다. 동시에 고집적 파워컨트롤러·고속 DSC 등 SiC·GaN 기반 고주파 전력 변환 기술이 가전·산업·의료 등 다양한 분야에 적용되고 있다.",
+        "mercury": "머큐리 주가는 9월 14일 4,835원으로 1.79% 상승했으며, AI 데이터센터 수요 확대와 광통신주 상승 흐름 속 4,930원까지 3.79% 오른 모습을 보였다. 그러나 AI 트래픽 부담과 인프라 급증 우려로 통신장비·광통신 관련 주가가 약세를 보이는 등 변동성이 나타난다.",
+        "encreative": "냉동 간편식 시장이 정책자금과 국내 원료 활용으로 성장하고 있다. 팜조아·오뚜기 등은 HMR 라인업을 확대하고, 극소수는 부대찌개 밀키트 1위·5만팩 판매를 기록했다. CJ올리브영은 옴니채널 고도화와 K‑뷰티 브랜드 글로벌 진출을 지원한다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "전기제품株 '극과 극'…MLCC 웃고 2차전지 울었다",
+          "summary": "글로벌 전기차 수요 회복 속도에 대한 불확실성이 이어지는 가운데 배터리 업종의 실적 개선 기대가 약해진...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 15:00",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486519",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "ST마이크로, 고집적 역률보정 컨트롤러 출시",
+          "summary": "(사진=ST마이크로) 주요 응용처는 EN 61000-3-2와 일본 JEIDA-MITI 표준 등 사양을 충족해야 하는 가전제품과 산업·의료 전원공급장치, 고출력조명…",
+          "press": "지디넷코리아",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 20:08",
+          "link": "https://n.news.naver.com/mnews/article/092/0002437408?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "마우저, 마이크로칩 32비트 디지털 신호 컨트롤러 공급",
+          "summary": "이를 통해 실리콘 카바이드(SiC) 및 질화갈륨(GaN) 전력 반도체 기반 시스템과 서버 전원공급장치, 산업 자동화, 모터 제어 환경에서 고속 제어 루프를 구현한…",
+          "press": "디지털데일리",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 10:46",
+          "link": "https://n.news.naver.com/mnews/article/138/0002241254?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "ST마이크로, 고집적 역률보정 컨트롤러 ‘L4983’ 출시",
+          "summary": "가전제품, 산업·의료용 전원공급장치, 고출력 조명, 서버·PC 등에 적용 가능하며, 미국 에너지스타·EU 에코디자인 지침 등 글로벌 효율 기준을 충족하는 3가지…",
+          "press": "조선비즈",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 10:28",
+          "link": "https://n.news.naver.com/mnews/article/366/0001192160?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "ST, 고집적 역률 보정 컨트롤러 L4983 출시",
+          "summary": "주요 적용 분야는 가전제품, 산업 및 의료용 전원공급장치, 고출력 조명기기, 서버, PC 등이다.",
+          "press": "디지털데일리",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 09:18",
+          "link": "https://n.news.naver.com/mnews/article/138/0002241224?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "나오테크, KES 2026서 고효율 디지털 전원장치 '2.4kW 48V 디지털 SMPS' 선...",
+          "summary": "인지도와 시장 적합성을 높여 후속 계약과 매출 창출로 연결한다는 구상이다.",
+          "press": "kr.aving.net",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:54",
+          "link": "https://kr.aving.net/news/articleView.html?idxno=1814448",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "마우저, 마이크로칩 고속·고분해능 'dsPIC33AK256MPS306' 32비트 DSC 공급",
+          "summary": "이러한 기능을 통해 높은 스위칭 주파수로 동작하는 실리콘 카바이드(Silicon Carbide, SiC) 및 질화갈륨(Gallium Nitride, GaN) 전력…",
+          "press": "epnc.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:10",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406917",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "(김형중의 전기에너지 이야기)AI 데이터센터, 얼마나 쓰느냐보다 어떻게...",
+          "summary": "AI 서버에 전력을 공급하는 과정에는 무정전전원장치(UPS)와 서버 전원공급장치 등 다양한 전력변환 설비가 사용된다.",
+          "press": "electimes.com",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:04",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=372380",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "ST마이크로, CCM 설계 간소화하는 고집적 역률 보정 컨트롤러 L4983 출시",
+          "summary": "EN 61000-3-2 및 일본 JEIDA-MITI 표준 등 글로벌 사양 요건을 충족해야 하는 가전제품, 산업·의료용 전원공급장치, 고출력 조명기기, 서버 및 P…",
+          "press": "hellot.net",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 17:40",
+          "link": "https://www.hellot.net/news/article.html?no=114958",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "마우저, 마이크로칩 32비트 DSC 신제품 공급",
+          "summary": "이러한 기능을 통해 높은 스위칭 주파수로 동작하는 실리콘 카바이드(SiC) 및 질화갈륨(GaN) 전력 반도체 기반 시스템을 비롯해 차세대 서버 전원공급장치와 산업…",
+          "press": "it-b.co.kr",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 14:36",
+          "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89868",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "머큐리 주가, 9월 14일 장중 4,835원 1.79% 상승",
+          "summary": "따르면 머큐리 주가가 지난 종가 4,750원 대비 85원 상승한 4,835원에 거래되고 있다. 이는 1.79%의 등락률을 기록 중이다.",
+          "press": "joongangenews.com",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 12:26",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=547956",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"AI 트래픽 감당하려면 통신망 필수\"… 통신장비株 꿈틀",
+          "summary": "에치에프알은 2.93% 내렸고 머큐리와 오이솔루션도 약세다. CS는 5.09% 하락하며 상대적으로 큰 낙폭을 보이고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 10:06",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486682",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "AI 데이터센터가 불붙인 광통신株… 한국첨단소재 29% 급등",
+          "summary": "머큐리는 3.79% 상승한 4930원에 거래되고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 09:32",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486646",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "AI 인프라 급증 속 카티스 부각… 데이터센터 물리보안·통신 제어 '눈길...",
+          "summary": "자람테크놀로지와 CS, 에치에프알, 대한광통신, 머큐리 등도 내림세를 보였다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 14:04",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486500",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"약보다 낫네\" 70대 남성 혈관 건강·수명 가른 '결혼 습관'",
+          "summary": "고혈압 환자가 과도한 음주를 줄일 경우 수축기 혈압은 평균 3.31밀리미터머큐리(mmHg), 이완기 혈압은 2.04밀리미터머큐리(mmHg) 낮아지는 효과가 보고됐…",
+          "press": "insight.co.kr",
+          "date": "2026-09-12",
+          "datetime": "2026-09-12 12:54",
+          "link": "https://www.insight.co.kr/news/573141",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[마켓뷰] 고유가·고금리·AI 브레이크 ‘3중고’… 코스피, 3% 넘게 급락",
+          "summary": "유가증권시장에서 외국인과 기관은 각각 3조9243억원, 1조6027억원을 순매도하며 지수를 강하게...",
+          "press": "조선비즈",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 16:03",
+          "link": "https://n.news.naver.com/mnews/article/366/0001192280?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS전선, 37년만에 첫 파업 초읽기…전선·전력업계 확산 우려",
+          "summary": "특히 글로벌 전력망 투자와 AI 데이터센터 확대로 수주가 급증한 상황에서 파업이 장기화할 경우 생산과...",
+          "press": "이데일리",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 14:36",
+          "link": "https://n.news.naver.com/mnews/article/018/0006369094?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "타이어코드 증설 기대감…“주가 85% 상승 여력”[스타즈 IR]",
+          "summary": "시장에서는 베트남 타이어코드 증설의 비용 효율성에 주목한다. 코오롱인더스트리는 올 4분기 증설을...",
+          "press": "서울경제",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 17:48",
+          "link": "https://n.news.naver.com/mnews/article/011/0004661306?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "KT, 세계 최대 미디어 전시회 참가…미디어 단말 칩셋 공급 MOU",
+          "summary": "KT글로벌상생성장관은 KT가 협력사의 글로벌 시장 사업 영역 확대를 위해 2013년부터 운영해 온...",
+          "press": "머니투데이",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 10:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005412873?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "KT, 미디어 단말·칩 공급망 챙긴다…앰로직과 협력 확대",
+          "summary": "국내 시장을 넘어 해외 판로를 확보하려는 협력사를 지원하기 위해 2013년부터 진행해온 프로그램이다....",
+          "press": "지디넷코리아",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 09:13",
+          "link": "https://n.news.naver.com/mnews/article/092/0002437225?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"세계가 반한 냉동 간편식 … 정책자금이 큰힘\"",
+          "summary": "팜조아 농업회사법인(이하 팜조아)은 치열한 밀키트 시장에서 '도마 없는 주방'이라는 슬로건을 내걸고 성장해왔다.",
+          "press": "매일경제",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 16:14",
+          "link": "https://n.news.naver.com/mnews/article/009/0005734943?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"5kg 찌며 쓴 피자 백서\"…피자에 '진심'인 이 회사 직원들 [씬메이커]",
+          "summary": "삼성웰스토리가 피자에 주목한 이유는 급변하는 기업간거래(B2B) 식음 시장 흐름 때문이다. 국내...",
+          "press": "한국경제",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 07:31",
+          "link": "https://n.news.naver.com/mnews/article/015/0005331635?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "컵밥·육개장 이어 이번엔 어묵…CJ-동원 '패키지 전쟁' 또 붙었다",
+          "summary": "과거 컵밥과 죽, 육개장 등 가정간편식(HMR) 패키지를 둘러싸고 잇달아 갈등을 빚은 데 이어 양사의 '패키지...",
+          "press": "뉴스1",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 07:10",
+          "link": "https://n.news.naver.com/mnews/article/421/0009166515?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[숲코노미] ④가을엔 표고다…食·藥 넘나드는 ‘임산물’",
+          "summary": "식당에서는 표고와 표고국수 밀키트도 판매한다. 다음 목표는 해외다. 지난해 호주 시장 반응을 보기 위해 시험 제품을 내놨고 일본 진출도 준비하고 있다.",
+          "press": "조선비즈",
+          "date": "2026-09-13",
+          "datetime": "2026-09-13 06:01",
+          "link": "https://n.news.naver.com/mnews/article/366/0001191953?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "올리브영 이선정-칠갑농산 이영주 ‘동반 상승’...K-브랜드지수 여성 ...",
+          "summary": "이선정 CJ올리브영 대표는 옴니채널 전략 고도화와 K-뷰티 유망 브랜드의 글로벌 시장 진출 지원에 주력하고 있으며, 이영주 칠갑농산 대표는 쌀 가공식품 기반의 가…",
+          "press": "megaeconomy.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 09:02",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570290526911",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "극소수, 부대찌개 판매량 5만팩 돌파···부대찌개 밀키트 분야 1위",
+          "summary": "국탕류 밀키트 전문 브랜드 극소수가 높은 부대찌개 판매량을 보이며 간편식 시장 경쟁력을 입증하고 있다.",
+          "press": "enetnews.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 08:58",
+          "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=54384",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "오뚜기, 100% 한돈 쓴 '일품 떡갈비' 출시…HMR 라인업 확대",
+          "summary": "오뚜기가 간편식(HMR) 수요 확대에 발맞춰 국산 원료육을 앞세운 냉동 육가공 신제품으로 밥반찬 시장 공략에...",
+          "press": "newsdream.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 08:42",
+          "link": "http://www.newsdream.kr/news/articleView.html?idxno=118126",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "인구구조와 고물가가 바꾼 추석 밥상…노동 대신 '효율·실용' 얹는다",
+          "summary": "면·소스 전문기업 면사랑의 냉동면밀키트 '전통한식잡채'는 명절 직전 달마다 판매량이 급증하는 양상을...",
+          "press": "metroseoul.co.kr",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 14:44",
+          "link": "http://www.metroseoul.co.kr/article/20260914500356",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"수고는 덜고 미식은 더하고\"…롯데百, 손질 부담 낮춘 'NO 손질' 추석 선...",
+          "summary": "손질·밀키트·완성형 한상차림 등 취식 편의성을 극대화한 상품을 전면에 배치함으로써, 프리미엄 신선식품 수요와 간편식(HMR) 성장세를 동시에 흡수하고 백화점 명절…",
+          "press": "thepublic.kr",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 14:28",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=318629",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "황기연 수은 행장, \"K-푸드 해외진출 적극 지원\"",
+          "summary": "세준에프앤비는 떡·누룽지 간편식 제조 기업으로 기존 주문자 개발생산(ODM) 사업 외 자체 브랜드를 개발해 해외시장에 진출했다.",
+          "press": "newsfreezone.co.kr",
+          "date": "2026-09-14",
+          "datetime": "2026-09-14 10:48",
+          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=709043",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 61
+}
