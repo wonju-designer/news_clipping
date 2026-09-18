@@ -1,0 +1,642 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18 09:54",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "이통3사, 추석 명절 트래픽 집중 관리… AI 관제 등 총력",
+      "category": "산업",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3433728"
+    },
+    {
+      "rank": 2,
+      "headline": "이통3사, 추석 통신대란 막는다 … AI 관제·24시간 대응체계 가동",
+      "category": "산업",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800057.html"
+    },
+    {
+      "rank": 3,
+      "headline": "통신 3사, 추석 연휴 특별 대책 가동…AI 관제·기지국 증설 총력",
+      "category": "산업",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=276364"
+    },
+    {
+      "rank": 4,
+      "headline": "통신 3사, 추석 연휴 'AI 품질 관제·대금 조기 지급' 총력 대응",
+      "category": "산업",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=133415"
+    },
+    {
+      "rank": 5,
+      "headline": "LG유플러스, 인공지능 자율망으로 추석 트래픽 대응",
+      "category": "산업",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/111788"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "이통 3사는 추석 연휴(9월 24~27일) 트래픽 급증에 대비해 AI 기반 품질 관제와 24시간 긴급복구 체계를 가동한다. 기지국 증설·캐시서버 용량 확대 등 네트워크 집중 관리와 함께 전 고객(알뜰폰 가입자 포함)에게 영상통화를 무료로 제공한다(선불폰·데이터 기반 mVoIP 제외). SK텔레콤·KT·LG유플러스는 AI 자율망·AI 관제로 트래픽을 자동 관리하고 비상 대응 인력을 배치한다. KT의 자회사 KT엠모바일는 8년 연속 알뜰폰 부문 우수기업으로 선정되었다.",
+      "articles": [
+        {
+          "title": "\"귀성길 통신 끊김 막아라\"…통신 3사, 추석 특별소통대책 가동",
+          "summary": "LG유플러스는 24일부터 27일까지 알뜰폰 가입자를 포함한 고객에게 영상통화도 무료로 제공한다.",
+          "press": "뉴스1",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:21",
+          "link": "https://n.news.naver.com/mnews/article/421/0009178074?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 추석 연휴 특별 소통 대책 마련…AI 네트워크 플랫폼 활용",
+          "summary": "한편, LG유플러스는 추석 연휴 기간인 오는 24일부터 27일까지 알뜰폰 가입자를 포함한 고객이 가족·지인에게 안부를 전할 수 있도록 무료 영상통화 혜택을 제공한…",
+          "press": "헤럴드경제",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:01",
+          "link": "https://n.news.naver.com/mnews/article/016/0002699150?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"데이터 폭증해도 수익 정체\"…통신 3사 \"미래망 투자 여력 키워달라\"",
+          "summary": "신상민 SK텔레콤 부사장은 알뜰폰 정책을 가입자 수와 점유율 확대 중심에서 서비스 차별화와 자생력을 높이는 방향으로 전환하고, 소매시장에서도 이용자 보호에 필요한…",
+          "press": "뉴시스",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 18:10",
+          "link": "https://n.news.naver.com/mnews/article/003/0014198141?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AI 트래픽 48배 느는데 매출은 하락…통신업계 \"투자 중심 정책 전환해...",
+          "summary": "신상민 SKT 부사장은 \"현재의 통신정책이 요금 인하와 사업자 수 확대에 지나치게 무게를 두고 있다\"며 \"알뜰폰이 이미 주요 경쟁축으로 성장한 만큼 가입자 확대…",
+          "press": "아주경제",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 18:04",
+          "link": "https://www.ajunews.com/view/20260917174413172",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사 \"AX·6G 투자 지속하려면 통신 규제 바뀌어야\"",
+          "summary": "그러면서 \"알뜰폰이 이미 하나의 경쟁축으로 성장한 만큼 양적 성장보다는 자생력과 서비스 차별화를 중심으로 한 질적 성장 정책으로 전환해야 한다\"고 주장했다.",
+          "press": "아이뉴스24",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 18:02",
+          "link": "https://n.news.naver.com/mnews/article/031/0001059493?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "어떤 VIP 오길래…심야 놀이공원 전세낸 이들 정체",
+          "summary": "요금을 최우선시하는 고객층이 알뜰폰으로 이동하자, 3사는 할인·적립뿐만 아니라 오프라인 체험에 힘을 싣고 있다.",
+          "press": "중앙일보",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 05:00",
+          "link": "https://n.news.naver.com/mnews/article/025/0003551966?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“이제 요금제 바꾸세요” 통신사가 알려준다…6개월 유지 끝나면 자동...",
+          "summary": "알뜰폰 시장에 대한 감시도 강화된다.",
+          "press": "디지털데일리",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 23:07",
+          "link": "https://n.news.naver.com/mnews/article/138/0002241715?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"약정 끝나면 문자로 안내\"…방미통위, 단통법 폐지 후속 시책 마련",
+          "summary": "이통사 자회사와 중소 알뜰폰 사업자 간 보조금 차별 행위, 알뜰폰을 활용한 대포폰 개통을 막기 위한 가입 절차 준수 여부도 점검 대상이다.",
+          "press": "블로터",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 21:58",
+          "link": "https://n.news.naver.com/mnews/article/293/0000090566?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"휴대폰 유통점 추가지원금 공개…요금제 유지기간 끝나면 알림\"",
+          "summary": "지원금 액수보다 '부당한 차별' 점검…제조사·알뜰폰도 대상 시장 모니터링 방식도 바뀐다. 과거에는...",
+          "press": "아이뉴스24",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 19:34",
+          "link": "https://n.news.naver.com/mnews/article/031/0001059103?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "앞으로 '성지' 지원금도 공시…방미통위, 단통법 대신 시책 꺼내들었다",
+          "summary": "앞으로 이동통신사의 공통지원금 외에 유통점의 추가 지원금도 공시되는 등 불공정행위에 대한 대처가...",
+          "press": "머니투데이",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 19:26",
+          "link": "https://n.news.naver.com/mnews/article/008/0005414863?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "방미통위, 고가요금제 유도 대처 강화",
+          "summary": "통신위원회는 16일 '2026년 제35차 전체회의'를 열고 이용자 권익 증진 및 불공정행위 방지를 위한 '이동통신단...",
+          "press": "IT조선",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 19:10",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170320",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "고가요금제 유도 막는다…방미통위, 휴대폰 판매점 불공정행위 엄정 대...",
+          "summary": "시장 모니터링도 진행한다. 통신사 자회사와 중소 알뜰폰 간의 보조금 차별 행위 등도 점검한다. 대포폰 개통 방지를 위해 알뜰폰 가입 절차 준수 여부도 살핀다.",
+          "press": "아주경제",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 18:56",
+          "link": "https://www.ajunews.com/view/20260916182428492",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“6개월 지났습니다” 휴대폰 요금제 변경 알림 온다…추가지원금도 공...",
+          "summary": "통신 3사와 제조사, 알뜰폰 사업자, 유통점 등을 대상으로 시장 모니터링도 강화한다.",
+          "press": "이데일리",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 18:53",
+          "link": "https://n.news.naver.com/mnews/article/018/0006370637?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'6개월 요금 약정' 끝나면 문자로 알려준다…휴대폰 지원금 정보도 투명...",
+          "summary": "시장 모니터링 방식도 바뀐다. 과거 지원금 총액이나 과도한 지원금 지급 여부를 주로 들여다봤다면 앞으로는 부당한 이용자 차별과 피해 발생 여부에 초점을 맞춘다.",
+          "press": "뉴시스",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 18:50",
+          "link": "https://n.news.naver.com/mnews/article/003/0014195419?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "휴대폰 성지점 지원금도 투명하게 공개…방미통위, 단통법 폐지 후속시...",
+          "summary": "시장 모니터링 기준도 바뀐다.",
+          "press": "전자신문",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 18:42",
+          "link": "https://n.news.naver.com/mnews/article/030/0003467541?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "단통법 폐지 후 불공정행위 관리 강화…고가요금제 가입 유도 점검",
+          "summary": "구체적으로 △통신사의 지원금·장려금 관련 불공정행위 △제조사의 장려금 관련 불공정행위 △알뜰폰 시장의 불공정경쟁 △본인 가입 의사 확인 절차 준수 여부 등을 분야…",
+          "press": "뉴스1",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 18:18",
+          "link": "https://n.news.naver.com/mnews/article/421/0009174921?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "휴대폰 지원금·고가요금제 ‘깜깜이 판매’ 막는다",
+          "summary": "통신3 사와 제조사, 알뜰폰 사업자, 유통점에 대한 시장 모니터링 방식도 바꾼다.",
+          "press": "지디넷코리아",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 18:12",
+          "link": "https://n.news.naver.com/mnews/article/092/0002437746?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, 추석 명절 트래픽 집중 관리… AI 관제 등 총력",
+          "summary": "연휴 기간인 24~27일에는 알뜰폰 가입자를 포함한 모든 LG유플러스 고객에게 무료 영상통화 혜택을 제공해 고향에 가지 못하는 고객들이나 친지들이 마음 편히 영상…",
+          "press": "newscj.com",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:46",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3433728",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, 추석 통신대란 막는다 … AI 관제·24시간 대응체계 가동",
+          "summary": "LG유플러스의 경우 알뜰폰 가입자도 대상에 포함되지만 선불폰과 카카오톡·페이스톡 등 데이터를 이용하는 영상통화(mVoIP)는 제외된다.",
+          "press": "biz.newdaily.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:44",
+          "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800057.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사, 추석 연휴 특별 대책 가동…AI 관제·기지국 증설 총력",
+          "summary": "U+tv와 OTT 이용 증가에 맞춰 캐시서버 용량을 증설했으며, 알뜰폰 가입자를 포함한 고객 대상으로 연휴 동안 무료 영상통화 혜택을 제공한다.",
+          "press": "financialpost.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:42",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=276364",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사, 추석 연휴 'AI 품질 관제·대금 조기 지급' 총력 대응",
+          "summary": "알뜰폰(MVNO) 가입자를 포함한 전 고객에게 24일부터 27일까지 영상통화 무료 혜택(선불폰 및 데이터 기반 mVoIP 제외)도 지원한다.",
+          "press": "popcornnews.net",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:36",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=133415",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 인공지능 자율망으로 추석 트래픽 대응",
+          "summary": "LG유플러스는 오는 24일부터 27일까지 알뜰폰 가입자를 포함한 전 고객에게 무료 영상통화 혜택을 제공하기로 했다.",
+          "press": "smarttoday.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:34",
+          "link": "https://www.smarttoday.co.kr/ko-kr/articles/111788",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "추석 명절 트래픽 잡아라…이통 3사, 특별 소통체계 가동",
+          "summary": "한편 LG유플러스는 24일부터 27일까지 알뜰폰 가입자를 포함한 고객에게 영상통화를 무료로 제공한다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:32",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701550",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사, 추석 연휴 네트워크 특별 관리 돌입",
+          "summary": "24일부터 27일까지는 알뜰폰 가입자를 포함한 고객에게 무료 영상통화를 제공한다.",
+          "press": "news.tf.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:32",
+          "link": "https://n.news.naver.com/mnews/article/629/0000534995?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사, 추석 앞두고 네트워크 집중관리…AI 관제·기지국 증설",
+          "summary": "24일부터 27일까지는 알뜰폰 가입자를 포함한 고객을 대상으로 영상통화 무료 이용도 제공한다.",
+          "press": "businessplus.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:32",
+          "link": "https://www.businessplus.kr/news/articleView.html?idxno=117054",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "추석엔 영상통화 공짜…통신3사, 24시간 비상대응",
+          "summary": "SK텔레콤과 LG유플러스는 오는 24일부터 27일까지 영상통화를 무료로 제공합니다.",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:28",
+          "link": "https://n.news.naver.com/mnews/article/374/0000533659?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, 추석 연휴 대비 'AI 관제·긴급복구' 체계 가동",
+          "summary": "한편 LG유플러스는 추석 연휴 기간(9월 24일~27일) 고객들(알뜰폰 가입자 포함)이 가족·지인에게 안부를 전할 수 있도록 무료 영상통화 혜택을 제공한다.",
+          "press": "itdaily.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:28",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241712",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스 AI 자율운영 추석 소통 대책",
+          "summary": "또한 LG유플러스는 24일부터 27일까지 알뜰폰 가입자를 포함한 고객들에게 무료 영상통화 혜택을 제공합니다.",
+          "press": "newsclaim.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:22",
+          "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075845",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 2026년 추석 연휴 맞아 'AION' 기반 특별 소통 대책 가동",
+          "summary": "아울러, 9월 24일부터 27일까지 추석 연휴 기간에 LG유플러스 고객과 알뜰폰 가입자에게 무료 영상통화 혜택을 제공한다.",
+          "press": "cbci.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:18",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=607947",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, '콜센터품질지수' 8년 연속 알뜰폰 우수기업 선정",
+          "summary": "연속 알뜰폰 부문 우수기업으로 선정됐다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:14",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701540",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "파워넷은 전력변환·전력반도체 기술을 기반으로 AI·데이터센터·LFP 배터리·고사양 스마트폰 등 전력 효율화 수요 확대에 대응해 성장세를 이어가고 있다. 위지트 등 반도체 공급 확대와 친환경차·전력 인프라 투자 확대도 관련 시장을 견인한다.",
+        "mercury": "AI·데이터센터와 5G·6G 확대에 광통신·통신장비 수요가 급증하면서 머큐리와 대한광통신 주가가 각각 9%·8% 상승했다. 특히 대한광통신은 광케이블 생산 기업으로 올해 실적 개선 여부가 시장 관심을 받고 있다.",
+        "encreative": "",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "\"전력 없이는 AI도 없다\"…전력반도체 관련주 불꽃랠리",
+          "summary": "에이루트와 파워넷은 전원공급장치 및 전력 관련 사업을 영위하고 있어 전력 효율화 시장 확대 기대와 함께 투자자들의 관심을 받고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-15",
+          "datetime": "2026-09-15 11:00",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487109",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "위지트, 대만 T사 다수 팹에 평가품 공급…반도체 시장 공략 본격화",
+          "summary": "이를 기반으로 해외 고객사를 지속 확대해 반도체 사업을 위지트의 핵심 성장축으로 육성할 것\"이라고 말했다.",
+          "press": "머니투데이",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 10:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005415072?sid=101",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "카메라부터 FC-BGA까지… 고사양 스마트폰 확산에 관련주 매수 온기 확산",
+          "summary": "파워넷은 고도화된 전력변환 기술을 모듈 및 팩 단위에 적용해 전력 효율성을 극대화하며 LFP 배터리...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 14:00",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487569",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "ESS·전기차 LFP 대호황 타고… 파워넷, 전력변환 독보적 기술력 꽂았다",
+          "summary": "전력변환장치 사업을 하는 파워넷도 5.95% 상승한 3560원에 거래 중이다. 배터리 모듈과 팩에 적용되는... 기업별 실적 전망이 달라질 수 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 13:22",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487538",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"글로벌 밸류체인 진입 기대\"… 뉴인텍·에스테크엠 주가 날개",
+          "summary": "글로벌 친환경차 시장 성장과 전력 인프라 투자 증가에 맞물려 핵심 소재·부품 부문에서 실적 모멘텀을...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 09:24",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487435",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "쎄미하우, 소부장 으뜸기업 선정…글로벌 전력반도체 시장 공략 확대",
+          "summary": "AI 확산으로 서버 전원장치(PSU)와 배전 시스템의 고효율 고밀도화 되고 있다.",
+          "press": "디일렉",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 13:34",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=62431",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "쎄미하우, 소부장 으뜸기업 선정으로 글로벌 전력반도체 시장 공략 박차",
+          "summary": "5G·6G 통신 인프라와 신재생 에너지 등 미래 시장도 차세대 성장동력으로 키우고 있다. 미래 성장축의 중심은 AI·데이터센터와 차세대 전력 인프라다.",
+          "press": "이데일리",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 10:01",
+          "link": "https://n.news.naver.com/mnews/article/018/0006370892?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "SemiHow, '소부장 으뜸기업' 선정…전력반도체 글로벌 공략 가속",
+          "summary": "특히 AI와 데이터센터를 새로운 성장시장으로 보고 있다.",
+          "press": "전자신문",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 16:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003467474?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "800VDC 2030년 미국 도입률 21% 전망",
+          "summary": "전망 하향의 배경으로는 AI 추론 시장의 성장세가 제시됐다. AI 학습은 대규모 GPU를 동시에 가동하는...",
+          "press": "tokenpost.kr",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 17:36",
+          "link": "https://www.tokenpost.kr/news/ai/409590",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[오늘의 특징주] AI·우주항공·바이오 '강세'...나라스페이스·큐라티스...",
+          "summary": "첨단 산업 분야에 대한 투자 기대감과 종목별 개별 모멘텀이 어우러지며 코스닥 시장 내 첨단 부품...",
+          "press": "ppss.kr",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 11:10",
+          "link": "https://www.ppss.kr/news/articleView.html?idxno=311228",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "데이터 고속도로 터졌다… 대한광통신, 초고속 광케이블로 글로벌 시장...",
+          "summary": "5G와 차세대 네트워크 관련주 가운데서는 우리넷과 머큐리의 상승세가 이어지고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:14",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488286",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "옛 STX 지주사, 범한산업 품으로…회생계획안 가결",
+          "summary": "기존 최대주주인 APC머큐리가 보유한 보통주와 특수관계인 채권을 출자전환한 지분은 전량 소각된다.",
+          "press": "헤럴드경제",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 11:14",
+          "link": "https://n.news.naver.com/mnews/article/016/0002698712?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "이토록 다채로운 재즈… 올가을 전설부터 뛰노는 젊음까지",
+          "summary": "2023년 정규 2집 '웨어 아임 멘트 투 비'로 평단의 극찬을 받으며 재즈 장르 최초로 영국 머큐리상을 거머쥔 에즈라 콜렉티브는 공연 도중 관객에게 격렬한 점핑…",
+          "press": "한국일보",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 04:31",
+          "link": "https://n.news.naver.com/mnews/article/469/0000954512?sid=103",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[단독] 옛 STX 지주사도 결국 매각…STX 회생계획안 가결",
+          "summary": "기존 최대주주인 APC머큐리가 보유한 보통주와 특수관계인 채권을 출자전환한 지분은 전량 소각된다.",
+          "press": "헤럴드경제",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 15:37",
+          "link": "https://n.news.naver.com/mnews/article/016/0002698260?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "주미 대사관, 자문사 6곳에 20억 지출… “그간 성과 평가해 재계약 추...",
+          "summary": "도널드 트럼프 정부 2기 실세인 수지 와일스 비서실장이 과거 근무한 탓에 로비 회사가 즐비한 K스트리트에서도 가장 주목받는 회사 중 하나인 ‘머큐리 퍼블릭 어페어…",
+          "press": "조선일보",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 04:50",
+          "link": "https://n.news.naver.com/mnews/article/023/0003998687?sid=104",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "새 주인 맞은 STX, 범한산업 품에서 '명가' 재건할까",
+          "summary": "기존 최대주주인 APC머큐리가 보유한 보통주와 특수관계인 채권을 출자전환한 주식은 전량 소각된다.",
+          "press": "hbnpress.com",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 14:06",
+          "link": "https://hbnpress.com/news/view/1065588974310337",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS, 중앙아 3개국과 핵심광물 등 사업협력 확대",
+          "summary": "현지 인프라 수요와 풍부한 광물 자원을 바탕으로 신시장 개척과 공급망 다변화에 나선다는 전략이다....",
+          "press": "서울경제",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 17:44",
+          "link": "https://n.news.naver.com/mnews/article/011/0004663012?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "기업 AI 성과 가르는 3대 기술…데이터 인프라·에이전트 자동화·신뢰 ...",
+          "summary": "기업은 가격 최적화와 수요 예측, 고객 이탈 예측에 활용할 수 있다. 통합 거버넌스는 플랫폼 안팎의 분석... 규모 광섬유 기반 AI WAN으로 묶는다.",
+          "press": "전자신문",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 09:03",
+          "link": "https://n.news.naver.com/mnews/article/030/0003467663?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "메타, 자체 AI 칩 본격 배치...비용·전력 절감 속도",
+          "summary": "대규모 데이터센터에서 수GW 규모의 연산 능력을 운용하게 되면 칩 가격이 핵심 요소가 되기 때문이다....",
+          "press": "AI타임스",
+          "date": "2026-09-16",
+          "datetime": "2026-09-16 17:14",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215334",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "삼성액티브 'KoAct 광통신&위성네트워크액티브', 주간 수익률 1위",
+          "summary": "AI 데이터센터 확대와 AI 에이전트 등 추론 수요 증가로 네트워크 성능 고도화가 부각되면서 새로운 병목...",
+          "press": "bizwnews.com",
+          "date": "2026-09-17",
+          "datetime": "2026-09-17 21:38",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=146652",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 50
+}
