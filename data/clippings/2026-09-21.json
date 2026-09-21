@@ -1,0 +1,775 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21 09:40",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "알뜰폰 티플러스, 보이는 ARS 출시…고객 편의 개선",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/030/0003468604?sid=105"
+    },
+    {
+      "rank": 2,
+      "headline": "KG모바일, 월 10원 알뜰폰 요금제 출시",
+      "category": "산업",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=310522"
+    },
+    {
+      "rank": 3,
+      "headline": "[AX·6G③] 알뜰폰, 가입자 늘린 다음은? SKT가 꺼낸 '자생력 과제'",
+      "category": "산업",
+      "link": "http://www.economytalk.kr/news/articleView.html?idxno=424222"
+    },
+    {
+      "rank": 4,
+      "headline": "통신비 연체해도 최대 3개월 수신 가능···소액결제 연체로 통신 안 끊...",
+      "category": "산업",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2472266"
+    },
+    {
+      "rank": 5,
+      "headline": "정부-통신·플랫폼사, 추석 맞아 디지털 서비스 종합 대책 마련",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/030/0003468508?sid=105"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "알뜰폰 사업자는 보이는 ARS 도입·월 10원 초저가 요금제·AI 기반 요금제 추천 등 서비스 다양화를 추진하고 있다. 정부는 추석 기간 영상통화 무료 제공·연체료 부담 완화 등 디지털 지원책을 확대하며, KTX 통신설비를 3배 확충해 이동 중 서비스 안정성을 높인다. 동시에 규제 강화와 대포폰 등 범죄 우려가 제기돼 이동통신 3사 계열 알뜰폰의 점유율 확대와 일부 사업자의 수익성 악화가 관찰된다. KT엠모바일은 콜센터 품질지수에서 8년 연속 알뜰폰 부문 우수기업으로 선정되었다.",
+      "articles": [
+        {
+          "title": "알뜰폰 티플러스, 보이는 ARS 출시…고객 편의 개선",
+          "summary": "한국케이블텔레콤(kct) 알뜰폰 브랜드 티플러스가 고객센터 이용 편의 개선을 위해 '보이는 ARS'를 출시했다.",
+          "press": "전자신문",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 09:22",
+          "link": "https://n.news.naver.com/mnews/article/030/0003468604?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신비 연체해도 최대 3개월 수신 가능···소액결제 연체로 통신 안 끊...",
+          "summary": "추석 연휴에는 알뜰폰 가입자를 포함한 전체 통신 이용자에게 영상통화가 무료로 제공되고 귀성·귀경객이...",
+          "press": "이뉴스투데이",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 12:02",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2472266",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"무료로 영상통화하세요\"…과기정통부, 통신·플랫폼 업계와 추석 지원...",
+          "summary": "통신 3사(SK텔레콤·KT·LG유플러스)는 물론 알뜰폰 가입자를 포함한 전체 통신 이용자가 대상이다.",
+          "press": "아주경제",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 12:02",
+          "link": "https://www.ajunews.com/view/20260919091006726",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "과기정통부, 이통사·플랫폼과 추석 연휴 지원…영상통화 무료·통신망...",
+          "summary": "알뜰폰을 포함한 전체 통신 이용자에게는 오는 24일부터 27일까지 영상통화 데이터를 무료 제공한다.",
+          "press": "아이뉴스24",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 12:01",
+          "link": "https://n.news.naver.com/mnews/article/031/0001059974?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "추석 영상통화 공짜로...KTX 통신망 늘리고 연체 부담도 완화",
+          "summary": "추석 연휴 동안 알뜰폰을 포함한 모든 이동통신 이용자가 영상통화를 무료로 이용할 수 있다. 귀성객과...",
+          "press": "지디넷코리아",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 12:01",
+          "link": "https://n.news.naver.com/mnews/article/092/0002438183?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "정부-통신·플랫폼사, 추석 맞아 디지털 서비스 종합 대책 마련",
+          "summary": "지원 대상은 알뜰폰 가입자를 포함한 전체 통신이용자이다. 플랫폼 기업들도 디지털 서비스 지원에 동참한다.",
+          "press": "전자신문",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 12:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003468508?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "정부, 통신비 연체자 부담 낮춘다…수신 가능기간 ‘최대 21일→3개월’...",
+          "summary": "알뜰폰 가입자를 포함한 전체 통신 이용자가 대상이다.",
+          "press": "디지털데일리",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 12:00",
+          "link": "https://n.news.naver.com/mnews/article/138/0002242103?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "귀성길 '먹통' 막는다…KTX 통신설비 3배 확충",
+          "summary": "이통 3사는 또 오는 24∼27일 알뜰폰 가입자를 포함한 전체 통신 이용자에게 통신사 제공 영상통화 서비스를 무료로 제공한다.",
+          "press": "연합뉴스",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 12:00",
+          "link": "https://n.news.naver.com/mnews/article/001/0016323434?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "추석 연휴 영상통화 무료…지도앱서는 응급진료·무료주차장 한눈에",
+          "summary": "추석 연휴 기간 알뜰폰을 포함한 전체 통신 이용자에게 영상통화가 무료로 제공된다. 귀성·귀경객이 몰리는...",
+          "press": "뉴시스",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 12:00",
+          "link": "https://n.news.naver.com/mnews/article/003/0014202331?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"추석엔 영상통화가 무료\"…통신·플랫폼 업계, 디지털 지원 가동",
+          "summary": "추석 연휴 동안 알뜰폰을 포함한 이동통신 이용자라면 영상통화를 무료로 쓸 수 있다. 국내 주요 통신사는... 지원 대상은 알뜰폰 가입자를 포함한 전체 이용자다.",
+          "press": "뉴스1",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 12:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009181118?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 막자 통신 3사로…규제 피해 다시 늘어나는 ‘대포폰’",
+          "summary": "알뜰폰을 중심으로 규제가 강화되자 이동통신 3사 회선을 이용하거나 외국인 명의를 동원하는 등 범죄...",
+          "press": "서울경제",
+          "date": "2026-09-19",
+          "datetime": "2026-09-19 06:31",
+          "link": "https://n.news.naver.com/mnews/article/011/0004663521?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“추석에 통신 끊길라”…통신3사 비상체계 가동, 협력사엔 3175억 조기...",
+          "summary": "9월 24일부터 27일까지는 알뜰폰 가입자를 포함한 고객에게 영상통화 무료 혜택을 제공한다.",
+          "press": "이데일리",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 17:59",
+          "link": "https://n.news.naver.com/mnews/article/018/0006372259?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“10만원 대출 미끼로 유심 개통”…外人 명의까지 동원",
+          "summary": "알뜰폰 사업자에 대한 규제가 강화되면서 통신 3사 회선으로 수요가 옮겨가는 것 아니냐는 분석이 나온다....",
+          "press": "서울경제",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 17:44",
+          "link": "https://n.news.naver.com/mnews/article/011/0004663432?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 8년 연속 KSQI 알뜰폰 우수 기업 선정",
+          "summary": "KT엠모바일은 한국표준협회 주관 ‘2026 콜센터품질지수(KSQI)’ 조사에서 알뜰폰 부문 우수 기업으로...",
+          "press": "지디넷코리아",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 16:51",
+          "link": "https://n.news.naver.com/mnews/article/092/0002438080?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, 추석연휴 트래픽 증가 대비 특별 소통책 가동",
+          "summary": "알뜰폰 가입자도 대상이다. LG유플러스가 추석 연휴 기간 주요 거점 기지국 점검과 품질 최적화를 마쳤고, 미디어 이용 증가에 맞춰 캐시서버 용량을 늘렸다.",
+          "press": "지디넷코리아",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 12:48",
+          "link": "https://n.news.naver.com/mnews/article/092/0002438038?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, '콜센터품질지수' 알뜰폰 부문 8년 연속 우수기업 선정",
+          "summary": "KT엠모바일이 한국표준협회(KSA) 주관 '2026 콜센터품질지수(KS-CQI)' 조사에서 8년 연속 알뜰폰 부문 우수기업으로 선정됐다.",
+          "press": "전자신문",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 10:59",
+          "link": "https://n.news.naver.com/mnews/article/030/0003468205?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KG모바일, 월 10원 알뜰폰 요금제 출시",
+          "summary": "알뜰폰 브랜드 KG모바일이 추석을 맞아 월 통신요금 10원부터 이용할 수 있는 초저가 요금제 3종을 출시했다.",
+          "press": "fetv.co.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 09:08",
+          "link": "https://www.fetv.co.kr/news/articleView.html?idxno=310522",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "매달 1만원 넘는 돈인데... 200만명이 몰라서 못 받고 있다는 혜택",
+          "summary": "자격이 생겼다면 곧바로 신청하는 편이 유리하다.알뜰폰(MVNO) 이용자는 별도 확인이 필요하다.",
+          "press": "wikitree.co.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 09:00",
+          "link": "https://www.wikitree.co.kr/articles/1160908",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[AX·6G③] 알뜰폰, 가입자 늘린 다음은? SKT가 꺼낸 '자생력 과제'",
+          "summary": "알뜰폰의 다음 성장 과제로 자생력과 서비스 차별화가 제시됐다.",
+          "press": "economytalk.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 07:00",
+          "link": "http://www.economytalk.kr/news/articleView.html?idxno=424222",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"연체자도 피싱·스팸 차단\"... 과기부-통신3사, 추석맞아 사이버 민생범...",
+          "summary": "지원 대상은 알뜰폰 가입자를 포함한 전체 통신이용자이다. 작년 추석 연휴에는 약 280만명이 31만여 시간 동안 무료 영상통화를 이용했다.",
+          "press": "boannews.com",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 18:06",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=145963",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "추석 연휴 통신망 특별관리, KTX 설비 3배 확충·영상통화 무료",
+          "summary": "이통 3사는 오는 24일부터 27일까지 알뜰폰 가입자를 포함한 전체 통신 이용자에게 통신사가 제공하는 영상통화 서비스를 무료로 제공한다.",
+          "press": "mediafine.co.kr",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 14:42",
+          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=90328",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "귀성길에도 통신 문제없다…KTX 통신망 확충·영상통화 무료",
+          "summary": "이통 3사는 또 오는 24∼27일 알뜰폰 가입자를 포함한 전체 통신 이용자에게 통신사 제공 영상통화 서비스를 무료로 제공합니다.",
+          "press": "mbn.mk.co.kr",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 14:03",
+          "link": "https://n.news.naver.com/mnews/article/057/0001969907?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "과기정통부, 이통3사·플랫폼사와 '추석 디지털 민생 지원책' 가동",
+          "summary": "확충하고, 알뜰폰을 포함한 전 국민에게 나흘간 무료 영상통화 서비스를 제공한다. 요금 연체로 인한 수신...",
+          "press": "srtimes.kr",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 13:54",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=212914",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“추석에 영상통화 무료”…KTX 통신망 늘리고 연체 부담 완화",
+          "summary": "추석 연휴 동안 알뜰폰을 포함한 모든 이동통신 이용자는 영상통화를 무료로 이용할 수 있다. 귀성... 알뜰폰 가입자를 포함한 전체 통신 이용자가 대상이다.",
+          "press": "kyeonggi.com",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 13:38",
+          "link": "https://n.news.naver.com/mnews/article/666/0000124201?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, 한가위 앞두고 특별 대응 체계 가동···트래픽 관리 '총력'",
+          "summary": "이외에도 24일부터 27일까지 알뜰폰 가입자를 포함한 고객들에게 무료 영상통화 혜택을 제공해 가족·지인에게 안부를 전할 수 있도록 지원할 방침이다.",
+          "press": "todaykorea.co.kr",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 13:06",
+          "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=406322",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "추석 연휴 영상통화 무료...통신망 늘리고 연체 부담 낮춘다",
+          "summary": "알뜰폰 가입자를 포함한 전체 통신 이용자가 대상이다. 지난해 추석 연휴에는 약 280만명이 31만여 시간 동안 무료 영상통화를 이용했다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 12:00",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701688",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "과기정통부, '디지털로 편안하고 따뜻한 추석명절' 지원",
+          "summary": "지원 대상은 알뜰폰 가입자를 포함한 전체 통신이용자이며 지난해 추석 연휴에는 약 280만명이 31만여 시간 동안 무료 영상통화를 이용했습니다.",
+          "press": "news.bbsi.co.kr",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 12:00",
+          "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4107611",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[챗ICT]통신비 고지서는 왜 여전히 부담스러울까",
+          "summary": "이 때문에 자급제 단말기에 알뜰폰 요금제를 활용하는 방법이 각광받았으나, 스마트폰 단말기 값이 빠르게 상승해 이마저도 쉽지가 않습니다.",
+          "press": "news.bizwatch.co.kr",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 11:00",
+          "link": "https://n.news.naver.com/mnews/article/648/0000050931?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "추석 앞둔 LG유플러스, AI 네트워크 점검부터 250억 조기 지급까지…'통...",
+          "summary": "고객 편의 증진을 위해 추석 연휴 기간인 9월 24일부터 27일까지 사흘간 알뜰폰 가입자를 포함한 전 고객에게 무료 영상통화 혜택을 제공한다.",
+          "press": "dailypop.kr",
+          "date": "2026-09-19",
+          "datetime": "2026-09-19 13:50",
+          "link": "http://www.dailypop.kr/news/articleView.html?idxno=102745",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 추석 연휴 기간 트래픽 급증 대비 비상 운영 체계 운영 ... ...",
+          "summary": "해당 혜택은 알뜰폰 가입자에게도 적용된다. 다만 선불폰 이용자는 무료 영상통화 대상에서 제외된다.",
+          "press": "worktoday.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 21:34",
+          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=89471",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "알뜰폰 사업자들이 고객 편의 개선을 위해 보이는 ARS를 도입했다. 동시에 중고폰 이용자에게는 월 10GB 데이터가 추가 제공되는 등 혜택을 확대하고 있다.",
+      "articles": [
+        {
+          "title": "알뜰폰 티플러스, 보이는 ARS 출시…고객 편의 개선",
+          "summary": "한국케이블텔레콤(kct) 알뜰폰 브랜드 티플러스가 고객센터 이용 편의 개선을 위해 '보이는 ARS'를 출시했다.",
+          "press": "전자신문",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 09:22",
+          "link": "https://n.news.naver.com/mnews/article/030/0003468604?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "U+유모바일, 중고폰 고객에 매월 데이터 10GB 더한다",
+          "summary": "LG유플러스 자회사 미디어로그의 알뜰폰 브랜드 U+유모바일이 ‘유픽 폰&유심’ 고객의 데이터 혜택을 강화한다.",
+          "press": "dailian.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 14:58",
+          "link": "https://n.news.naver.com/mnews/article/119/0003134371?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "전기차·AI·클라우드 확대에 따라 전력반도체·전원공급장치 수요가 급증해 파워넷·성호전자 등 관련주가 상승했으며, 데이터센터 냉각·UPS 등 전·냉각 설비 투자도 활발히 진행되고 있다.",
+        "mercury": "머큐리는 지능형 스텔스 무선접속장치(AP) 개발·현장 실증을 완료했으며, 이와 함께 광통신주 전반이 데이터센터 확충 기대감에 힘입어 상승해 머큐리 주가도 8% 이상 올랐다.",
+        "encreative": "스카이푸드가 최현석 셰프가 개발한 초이닷 파스타 밀키트를 미국에 수출하면서 한식 HMR 해외 진출이 가속화되고 있다. 한편 강원혁신센터·SSG닷컴이 지역 소상공인 HMR 고도화를 지원하고, CJ의 북미 전략 담당 임원이 시장 확대를 주도하는 등 국내·외에서 편리식 수요가 확대되고 있다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "전기차·AI가 키운 전력 효율 시장… 전력반도체 관련주 크게 웃었다",
+          "summary": "전력변환장치(SMPS) 기술을 보유한 파워넷도 5.98% 상승한 3810원에 거래 중이다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 15:48",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488524",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자·삼화콘덴서 주가 폭풍랠리… 전원공급장치 및 적층세라믹콘...",
+          "summary": "한국거래소에 따르면 전원공급장치(SMPS)와 필름 콘덴서를 생산하는 성호전자가 17.82% 오른 2만5450원에...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 11:12",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488378",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[ANDA 포커스] 비츠로셀, '드론용 배터리' 국내 대기업과 단계적 계약 추...",
+          "summary": "플렉스와 전원공급장치 업체 라이트온도 잠재 공급 대상으로 보고 있다. 비츠로셀 관계자는 \"AI...",
+          "press": "newspim.com",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 09:14",
+          "link": "https://www.newspim.com/news/view/20260921000193",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[부산 변호사 한변의 리얼상담실 60] 대한광통신·가온전선·성호전자, ...",
+          "summary": "성호전자는 1973년에 세워진 필름콘덴서·전원공급장치 회사다. 광트랜시버 정렬장비를 만드는...",
+          "press": "civicnews.com",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 17:40",
+          "link": "http://www.civicnews.com/news/articleView.html?idxno=40427",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "더 싣고 덜 샌다…HD현대, 3탱크 LNG선으로 '해운 경제성' 혁신",
+          "summary": "육상 전원공급장치(AMP)와 질소산화물 저감장치(SCR), 쇄빙급 내빙 설계(Ice Class 1C)를 결합해 차세대 탄소 포집·운송 시장의 표준을 선점했다.",
+          "press": "financialpost.co.kr",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 07:00",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=276558",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[테크 톡톡] AI 시대의 데이터 폭증, HAMR 기술과 고밀도 스토리지가 해...",
+          "summary": "유통 시장에 공급하고 있다. HAMR는 단순히 하드 드라이브 한 개의 용량을 늘리는 기술이 아니다. 동일한...",
+          "press": "boannews.com",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 14:42",
+          "link": "https://www.boannews.com/news/articleView.html?idxno=145948",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "데이터센터 고속도로 탄다… 빛샘전자, 초고속 광통신 부품 수요 급증 ...",
+          "summary": "AI와 클라우드 시장이 빠르게 성장하면서 데이터 트래픽이 늘어나자 광통신 인프라 관련주가 18일 강세를...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 13:24",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488394",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "'흑자 전환' 해성디에스, '패키지 기판' 7월부터 기존 중국고객 납품",
+          "summary": "리드프레임이 차량용 반도체 기판 외에 데이터센터 전력 반도체의 기판에도 적용, 데이터센터의 PSU(파워 서플라이)→ 48V → 파워스테이지 →GPU 단계마다",
+          "press": "newsfc.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 09:54",
+          "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81223",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "AIDC 냉각효율 20% 개선…LG전자 칠러 신제품 출격",
+          "summary": "LG전자는 이를 통해 전력 소모와 고장도 줄일 수 있는 신기술들을 앞세워 AI 데이터센터 냉각기 시장을... 현장에 공급하는 방식이다.",
+          "press": "서울경제",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 13:40",
+          "link": "https://n.news.naver.com/mnews/article/011/0004663687?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "LG전자, AI 데이터센터용 대용량 터보 칠러 출시",
+          "summary": "펌프와 밸브, 비상용 버퍼탱크 등 냉각수 공급에 필요한 설비를 ISO 표준 컨테이너 내부에 미리 조립한 뒤...",
+          "press": "IT조선",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 11:34",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170538",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "머큐리, ‘지능형 스텔스 AP’ 개발·실증 완료…공공·국방 무선통신 ...",
+          "summary": "전문기업 머큐리가 네트워크 식별 신호를 숨겨 비인가자의 접근을 원천 차단하는 ‘지능형 스텔스 무선접속장치(AP)’ 개발과 현장 실증을 완료하고, 고보안 공공 및…",
+          "press": "etoday.co.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 09:04",
+          "link": "https://www.etoday.co.kr/news/view/2627780",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "빛샘전자 1만4480원, 8.55% 상승…장중 20% 넘게 급등",
+          "summary": "같은 날 빛과전자와 라이콤, 머큐리, 대한광통신 등 다른 광통신 관련 종목도 동반 상승해 특정 기업의 개별 재료보다는 광통신 업종 전반에 대한 기대가 주가에 반영…",
+          "press": "job-post.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 14:48",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=228246",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[장중시황] 코스피, 2.6% 상승해 6880선⋯ 삼성전자·SK하이닉스 강세",
+          "summary": "대한광통신이 16.12% 급등하고 있으며 RFHIC(14.42%), 우리넷(12.59%), 아이씨티케이(8.78%), 머큐리(8.72%), 쏠리드(7.49%) 등…",
+          "press": "viva100.com",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 13:46",
+          "link": "https://www.viva100.com/article/20260918500566",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "광통신주 동반 강세…성호전자 19%대·대한광통신 14%대 급등",
+          "summary": "빛샘전자는 1.20% 오른 1만3500원, 머큐리는 0.64% 상승한 4965원이다. 국내 증시도 강세 흐름을 보이고 있다. 같은 시각 코스피는 전 거래일보다",
+          "press": "cbci.co.kr",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 10:54",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=608015",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "24시간 소음에 새들도 떠났다… 데이터센터 덕 부유해진 美지역, \"이제 ...",
+          "summary": "마침내 팔렸을 때는 피리오가 생각하던 '정상 가격'에 비해 8만 달러(약 1억1,000만 원)나 낮은 수준에...",
+          "press": "한국일보",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 04:30",
+          "link": "https://n.news.naver.com/mnews/article/469/0000955163?sid=104",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "AI 투자, 문명 전환인가 과열의 진통인가 [로터리]",
+          "summary": "그러나 인터넷은 사라지지 않았고 그때 깔린 광케이블과 네트워크, 통신망 위에 구글과 아마존·메타 같은...",
+          "press": "서울경제",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 17:54",
+          "link": "https://n.news.naver.com/mnews/article/011/0004663759?sid=100",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[AINEX 2026] LS전선 “AI 시대 해저광망, 국가 전략 공급망으로 키워야...",
+          "summary": "인공지능(AI) 시대에 대응하려면 해저광케이블을 국가 전략 공급망으로 보고 국내 제조·설계·시공 역량을... 시장의 투자 주체도 달라지고 있다.",
+          "press": "전자신문",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 08:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003468415?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"농촌에 인터넷 깔아야 하나\"...스타링크가 던진 보편서비스 논쟁",
+          "summary": "둘러싼 시장 환경이 달라졌다는 데 있다.",
+          "press": "지디넷코리아",
+          "date": "2026-09-19",
+          "datetime": "2026-09-19 08:50",
+          "link": "https://n.news.naver.com/mnews/article/092/0002438129?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "알파칩스, '빛 반도체' 4종 내년 출하",
+          "summary": "유지보수업', '광섬유 케이블, 접착 장치업' 등 사업목적을 추가했다. 내년 1분기 IC에 대한 자체 평가를...",
+          "press": "디일렉",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 18:56",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=62519",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "코로나 도시 우한은 어떻게 세계 반도체 중심이 됐나",
+          "summary": "지금 광곡에는 광(光)산업 기업만 1만6000곳이 모여 있고, 지난해 이 분야 산업 규모는 6500억위안, 약 134조원을 넘어섰다.",
+          "press": "조선일보",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 14:04",
+          "link": "https://n.news.naver.com/mnews/article/023/0003999221?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "식품 맞수 CJ vs 동원, 또 붙었다…추석앞 선물세트 전쟁",
+          "summary": "김·만두·컵밥·캔햄 등 가정간편식(HMR) 전 영역에서 팽팽히 맞붙었던 두 회사는 참치캔과 냉동치킨, 즉석밥 등 전선을 넓히며 시장 선점과 추격을 반복하는 모습이…",
+          "press": "이데일리",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 09:30",
+          "link": "https://n.news.naver.com/mnews/article/018/0006372785?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"비싸서 안 사요\" vs \"싸서 사요\"⋯간편식의 역설",
+          "summary": "소비자들이 가정간편식(HMR)을 사지 않는 가장 큰 이유는 '비싼 가격'이었다. 그런데 간편식을 사는 소비자...",
+          "press": "아이뉴스24",
+          "date": "2026-09-19",
+          "datetime": "2026-09-19 10:01",
+          "link": "https://n.news.naver.com/mnews/article/031/0001059894?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "㈜한우사랑, 김해시에 7,500만원 상당 한우 HMR 기탁",
+          "summary": "한우고기 가정간편식(HMR)을 기탁하며 따뜻한 나눔을 실천했다. 김해시는 ㈜한우사랑(대표 김석희)이...",
+          "press": "이뉴스투데이",
+          "date": "2026-09-18",
+          "datetime": "2026-09-18 13:25",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2472175",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "스카이푸드, 최현석 셰프 '초이닷 파스타' 3종 미국 수출 개시",
+          "summary": "업소용 간편 한식소스 브랜드 '고추명가'를 운영하는 스카이푸드가 최현석 셰프가 개발한 '초이닷 파스타' 밀키트 3종의 미국 수출 프로젝트에 참여해 제품 수출을 진…",
+          "press": "e2news.com",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 09:00",
+          "link": "http://www.e2news.com/news/articleView.html?idxno=334347",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[Who Is ?] 이건일 CJ프레시웨이 및 CJ푸드빌 대표이사",
+          "summary": "CJ제일제당 미국법인 CJ Foods USA 대표를 맡아 북미 시장 전략을 총괄했다. CJ제일제당 식품사업부...",
+          "press": "businesspost.co.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 07:02",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=447627",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "강원혁신센터·SSG닷컴, HMR 소상공인 상품 고도화 지원",
+          "summary": "강원창조경제혁신센터가 SSG닷컴과 손잡고 강원지역 가정간편식(HMR) 소상공인의 상품 고도화를 지원한다....",
+          "press": "kado.net",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 00:09",
+          "link": "https://n.news.naver.com/mnews/article/654/0000201739?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[트렌드 경제] \"굽고 끓이고, 주부 고생 끝\"…명절 준비 외주화 확산",
+          "summary": "◆\"전 부칠 시간 없어요\"…시장에 생긴 '제사 코너' 추석 연휴 전 마지막 주말인 19일 대구 관문시장은 명절...",
+          "press": "imaeil.com",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 17:31",
+          "link": "https://n.news.naver.com/mnews/article/088/0001029574?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "㈜한우사랑, 김해시에 7,500만원 상당 한우고기 가정간편식(HMR) 기탁",
+          "summary": "김해시는 ㈜한우사랑(대표 김석희)에서 7,500만원 상당의 한우고기 가정간편식(HMR) 9,357개를 기탁했다고...",
+          "press": "newsgn.com",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 13:20",
+          "link": "https://www.newsgn.com/news/articleView.html?idxno=574937",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[국경 넘은 K푸드] 오뚜기, 내수 한계 깬다…2030년 해외 매출 1.1조 달성...",
+          "summary": "글로벌 시장을 향해 깃발을 내걸었다. 국내 라면 시장 2위 자리를 굳건히 지켜왔으나, 극심한 내수 침체와...",
+          "press": "theguru.co.kr",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 07:32",
+          "link": "https://www.theguru.co.kr/news/article.html?no=107224",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[티조챗] \"과일·채소 몇 개 담았는데 10만원\"…공포의 추석 물가, 지원...",
+          "summary": "■ \"담자니 겁나고 빼자니 민망\"…헐거워진 명절 장바구니 추석을 앞둔 시장과 마트 매대 곳곳에서는...",
+          "press": "news.tvchosun.com",
+          "date": "2026-09-20",
+          "datetime": "2026-09-20 00:00",
+          "link": "https://n.news.naver.com/mnews/article/448/0000640342?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 62
+}
