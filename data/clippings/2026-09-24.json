@@ -1,0 +1,709 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24 10:01",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "추석 맞은 은행권…중기 자금지원부터 통신·영화 할인행사 '풍성'",
+      "category": "산업",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=854562"
+    },
+    {
+      "rank": 2,
+      "headline": "\"추석 안부는 무료 영상통화로\" 통신 3사, 명절 대응체계 가동",
+      "category": "산업",
+      "link": "https://www.thebigdata.co.kr/view.php?ud=2026092215455035140a47484cf8_23"
+    },
+    {
+      "rank": 3,
+      "headline": "이리듐·스카일로 위성 IoT 선점...통신시장 새 먹거리로",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/092/0002438694?sid=105"
+    },
+    {
+      "rank": 4,
+      "headline": "내달부터 '최적요금제' 알림…또 하나의 '스팸' 될라",
+      "category": "산업",
+      "link": "https://news.mtn.co.kr/news-detail/2026092316434728166"
+    },
+    {
+      "rank": 5,
+      "headline": "알뜰폰에 샴푸·세제 묶었다···티플러스, 애경산업과 이색 요금제",
+      "category": "산업",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2474056"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "최근 알뜰폰 시장이 다양한 서비스와 혜택으로 확대되고 있다. 통신 3사는 추석 연휴에 영상통화 무료 제공·AI 관제·기지국 점검 등 비상 체제를 가동하고, 은행·제조업체와 연계해 통신비 지원·생필품 정기 구독 등 복합 요금제를 출시하고 있다. 정부는 알뜰폰 활성화를 위한 추가 방안을 모색하며 업계 간담회를 개최하고, 단통법 폐지 이후 소비자 보호에 대한 불안이 남아 있다. 한편 이리듐·스카일로 등 기업이 위성 IoT 시장 진출을 선언하면서 이동통신사·MVNO·칩·단말·플랫폼 업체들의 관심이 확대되고 있다.",
+      "articles": [
+        {
+          "title": "이리듐·스카일로 위성 IoT 선점...통신시장 새 먹거리로",
+          "summary": "이어 “이에 따라 이동통신사(MNO)와 가상이동통신망사업자(MVNO), 칩셋 모듈 업체, 단말 제조사, IoT 플랫폼 사업자들이 위성 부문에 관심을 갖기 시작했다…",
+          "press": "지디넷코리아",
+          "date": "2026-09-24",
+          "datetime": "2026-09-24 07:46",
+          "link": "https://n.news.naver.com/mnews/article/092/0002438694?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰에 샴푸·세제 묶었다···티플러스, 애경산업과 이색 요금제",
+          "summary": "알뜰폰 요금제와 샴푸·세제 등 생활용품 정기 제공 서비스를 결합한 상품이 나왔다.",
+          "press": "이뉴스투데이",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 16:44",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2474056",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] '알뜰폰 2.0' 다음 카드 고심···과기정통부 30일 업계 회동",
+          "summary": "정부가 알뜰폰 활성화를 위한 추가 해법 찾기에 나선다.",
+          "press": "이뉴스투데이",
+          "date": "2026-09-22",
+          "datetime": "2026-09-22 15:13",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2473500",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 쓰면 샴푸·세제도 온다…티플러스 '생필품 요금제' 출시",
+          "summary": "알뜰폰 요금제에 가입하면 별도 비용 없이 샴푸·세제 등 생활용품을 정기적으로 받아볼 수 있는 상품이 나온다.",
+          "press": "뉴스1",
+          "date": "2026-09-22",
+          "datetime": "2026-09-22 09:44",
+          "link": "https://n.news.naver.com/mnews/article/421/0009185307?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'국민' 독주 깨고 '우리' 추격···은행들의 알뜰폰 시장 경쟁",
+          "summary": "이른바 '알뜰폰' 시장을 놓고 벌어지는 경쟁이다. KB국민은행은 이미 40만명이 넘는 가입자를 확보하며 시장을 선점하고 있다.",
+          "press": "이뉴스투데이",
+          "date": "2026-09-22",
+          "datetime": "2026-09-22 08:00",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2472887",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "티플러스, ‘보이는 ARS’ 출시…고객센터 셀프서비스 강화",
+          "summary": "한국케이블텔레콤(KCT)의 알뜰폰 브랜드 티플러스(tplus)는 고객센터 이용 편의를 높이기 위해 ‘3세대 디지털 ARS’를 출시했다고 21일 밝혔다.",
+          "press": "디지털데일리",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 09:57",
+          "link": "https://n.news.naver.com/mnews/article/138/0002242150?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "추석 맞은 은행권…중기 자금지원부터 통신·영화 할인행사 '풍성'",
+          "summary": "◆우리WON모바일, 개통·친구 추천 따라 꿀머니 우리은행의 알뜰폰 서비스 '우리WON모바일'은 9월 한 달간 신규 개통 고객을 대상으로 통신비 지원 행사를 진행한…",
+          "press": "newsworks.co.kr",
+          "date": "2026-09-24",
+          "datetime": "2026-09-24 09:00",
+          "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=854562",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"추석 안부는 무료 영상통화로\" 통신 3사, 명절 대응체계 가동",
+          "summary": "이번 서비스는 알뜰폰 이용자를 포함한 전체 통신 가입자가 대상이다.",
+          "press": "thebigdata.co.kr",
+          "date": "2026-09-24",
+          "datetime": "2026-09-24 08:12",
+          "link": "https://www.thebigdata.co.kr/view.php?ud=2026092215455035140a47484cf8_23",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "내달부터 '최적요금제' 알림…또 하나의 '스팸' 될라",
+          "summary": "향후에는 알뜰폰까지 포함해 소비자가 시장 전체의 요금제를 쉽게 비교할 수 있는 시스템으로 발전시키는 것이 바람직합니다.\"]반복되는 안내가 또 하나의 광고성 문자에…",
+          "press": "news.mtn.co.kr",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 17:44",
+          "link": "https://news.mtn.co.kr/news-detail/2026092316434728166",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "은행권 올해 추석 키워드는 '민생금융, 상생, 편의성 제고'",
+          "summary": "알뜰폰 서비스 '우리WON모바일' 신규 가입 고객을 대상으로 네이버페이와 멤버십 쿠폰 등을 제공하고, 특정 요금제 가입 고객에게 포인트를 지급하는 행사를 진행한다…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 14:48",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489956",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "티플러스, 애경산업과 '생필품 요금제' 출시…생활밀착형 혜택 확대",
+          "summary": "태광그룹 계열사 한국케이블텔레콤(kct)의 알뜰폰 브랜드 티플러스(tplus)가 애경산업과 손잡고 통신 서비스와 생활용품 정기 구독을 결합한 '생필품 요금제'를…",
+          "press": "itdaily.kr",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 14:16",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241808",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신비 미환급금 1494억… 추석 연휴엔 조회도 안 된다",
+          "summary": "알뜰폰 이용자는 자신이 쓰던 통신망을 고르면 그 망을 빌려 쓰는 사업자의 미환급액이 함께 조회된다....",
+          "press": "imaeil.com",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 13:55",
+          "link": "https://n.news.naver.com/mnews/article/088/0001030295?sid=004",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신량 몰리는 추석···통신3사, AI 관제·기지국 점검 '총력'",
+          "summary": "알뜰폰 가입자도 혜택을 받을 수 있다. 다만 카카오톡 페이스톡처럼 모바일 데이터를 사용하는 영상통화는 대상에서 제외된다.",
+          "press": "smartbizn.com",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 13:16",
+          "link": "https://www.smartbizn.com/news/articleView.html?idxno=154775",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[줌! 이기업] \"통신비 0원 쏩니다\"…알뜰폰으로 일상 파고드는 우리은행",
+          "summary": "기존 알뜰폰 시장에서도 카드 이용실적이나 금융거래 조건을 활용한 할인은 존재했다.",
+          "press": "goodkyung.com",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 11:14",
+          "link": "https://www.goodkyung.com/news/articleView.html?idxno=291680",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "해외여행→집콕까지…LG유플러스, 추석 혜택 총집결",
+          "summary": "전국 주요 교통 거점의 기지국 사전 점검과 U+tv·OTT 트래픽 대비 캐시서버 증설을 마쳤으며, 추석 연휴 동안 알뜰폰을 포함한 전체 가입자를 대상으로 무료 영…",
+          "press": "financialpost.co.kr",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 09:18",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=277172",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 3사, 추석 연휴 24시간 비상 체제 가동",
+          "summary": "영상통화가 가능한 단말을 쓰면 별도 신청 없이 적용되고, 3사 망을 쓰는 알뜰폰 가입자도 대상이다.",
+          "press": "cstimes.com",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 07:52",
+          "link": "https://www.cstimes.com/news/articleView.html?idxno=721294",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'알뜰폰 2.0' 현장 안착 나선 정부…30일 업계 간담회",
+          "summary": "과학기술정보통신부가 알뜰폰 업계와 시장 활성화 방안을 논의한다. [사진: 셔터스톡] 과학기술정보통신부가 알뜰폰 업계와 시장 활성화 방안을 논의한다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-22",
+          "datetime": "2026-09-22 16:18",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702468",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "단통법 폐지 14개월 만에 후속 시책... 소비자 보호는 여전히 불안",
+          "summary": "가장 큰 타격을 입은 곳은 알뜰폰 시장이다.",
+          "press": "lawtv.kr",
+          "date": "2026-09-22",
+          "datetime": "2026-09-22 12:00",
+          "link": "https://www.lawtv.kr/news/articleView.html?idxno=60998",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통 3사, 추석 통신량 급증 대비 비상체계 가동",
+          "summary": "LG유플러스는 24일부터 27일까지 알뜰폰 가입자를 포함한 고객에게 영상통화를 무료로 제공한다. 선불폰과 모바일 데이터를 이용하는 영상통화는 대상에서 제외된다.",
+          "press": "nspna.com",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 17:54",
+          "link": "https://www.nspna.com/news/?mode=view&newsid=829250",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "신한·하나, 인천시 금고 쟁탈전 이어 나라사랑카드 경쟁 ‘후끈’",
+          "summary": "뿐만 아니라 하나은행은 최근 토스모바일과 함께 하나 나라사랑카드 고객을 위한 알뜰폰 제휴 요금제를 출시하기도 했다.",
+          "press": "ceoscoredaily.com",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 17:42",
+          "link": "https://www.ceoscoredaily.com/page/view/2026092114340983925",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "가전에서 스마트폰까지…롯데하이마트 ‘평생케어’ 넓힌다",
+          "summary": "롯데하이마트는 지난 7월 자체 알뜰폰 요금제인 '하이마트 요금제'를 출시하고 기존 모바일케어 서비스의 보장 범위를 확대했다.",
+          "press": "mediapen.com",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 15:20",
+          "link": "https://www.mediapen.com/news/view/1125092",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "티플러스, 고객 상담에 '보이는 ARS 서비스' 적용",
+          "summary": "앱 설치 없이 실시간 사용 요금 등 확인 티플러스 3세대 디지털 ARS 이미지./한국케이블텔레콤 한국케이블텔레콤은 알뜰폰 브랜드 티플러스가 '3세대 디지털 ARS…",
+          "press": "metroseoul.co.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 13:42",
+          "link": "http://www.metroseoul.co.kr/article/20260921500261",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK텔레콤 독과점…해킹에 흔들린 아성 [연도별 국감]",
+          "summary": "뒤 알뜰폰 성장 등의 영향으로 완만한 하락세를 이어왔다. 해킹사태는 이 같은 흐름을 급격히 가속한 계기로 보는 것이 정확하다.",
+          "press": "sisaon.co.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 13:34",
+          "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=204613",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "티플러스, '보이는 ARS' 출시… \"화면 보며 셀프 처리\"",
+          "summary": "태광그룹 계열사 한국케이블텔레콤(kct)의 알뜰폰 브랜드 티플러스(tplus)가 보이는 자동응답시스템(ARS) 서비스를 선보인다.",
+          "press": "itdaily.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 13:32",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241757",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KCT, '보이는 ARS' 출시…추석 요금제 프로모션도 진행",
+          "summary": "한국케이블텔레콤(KCT)의 알뜰폰 브랜드 티플러스(tplus)가 고객센터 이용 편의를 높이기 위해 '보이는  ARS'를 출시했다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 10:02",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701943",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "추석 연휴 더 알뜰하게…통신3사 혜택 한눈에",
+          "summary": "추석 연휴를 앞두고 이동통신 3사가 모처럼 긴 휴일을 보내는 고객들을 위한 혜택을 잇달아 내놨다.",
+          "press": "디지털데일리",
+          "date": "2026-09-24",
+          "datetime": "2026-09-24 06:00",
+          "link": "https://n.news.naver.com/mnews/article/138/0002242597?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "‘여행부터 집콕까지’ 통신사 추석 혜택 가득",
+          "summary": "이동통신 3사가 추석 연휴를 맞아 해외로 떠나는 고객을 위한 로밍 혜택을 강화하고 집이나 가까운 곳에서 연휴를 보내는 고객을 겨냥한 콘텐츠·멤버십 할인을 선보인다…",
+          "press": "서울신문",
+          "date": "2026-09-24",
+          "datetime": "2026-09-24 05:04",
+          "link": "https://n.news.naver.com/mnews/article/081/0003683282?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT도 신규 가입 중단…3G시대 완전히 끝난다",
+          "summary": "국내 이동통신 3G 서비스가 도입 23년 만에 퇴장 수순에 들어갔다. 지난달 SK텔레콤에 이어 KT도 연내 3G 신규 가입자 모집을 중단하기로 하면서다.",
+          "press": "한국경제",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 16:12",
+          "link": "https://n.news.naver.com/mnews/article/015/0005335701?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사, 추석 맞아 통신망 살피고 거래대금 '조기지급'",
+          "summary": "SK텔레콤과 KT, LG유플러스 등 이동통신3사가 추석 연휴를 맞아 통신망 특별 관리체계를 가동하고 있다.",
+          "press": "sisajournal-e.com",
+          "date": "2026-09-24",
+          "datetime": "2026-09-24 09:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423860",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[추석기획] AI로 쇄신 나선 이통3사…'승부' 어디서 갈리나",
+          "summary": "지난해 해킹 피해가 발생해 고객 이탈을 겪은 이동통신3사(SK텔레콤·KT·LG유플러스) 대표들이 AI로 쇄신에 나서고 있다.",
+          "press": "srtimes.kr",
+          "date": "2026-09-24",
+          "datetime": "2026-09-24 08:10",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=213134",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "티플러스는 애경산업과 손잡고 통신 서비스와 생활용품 정기 구독을 결합한 ‘생필품 요금제’를 출시했다. 동시에 화면으로 안내하는 ‘보이는 ARS’를 도입해 고객센터 셀프서비스를 강화하고 있다.",
+      "articles": [
+        {
+          "title": "알뜰폰 쓰면 샴푸·세제도 온다…티플러스 '생필품 요금제' 출시",
+          "summary": "한국케이블텔레콤(kct)은 알뜰폰 브랜드 '티플러스'(tplus)가 애경산업(018250)과 손잡고 통신 서비스와 생활용품 정기 구독을 결합한 '생필품 요금제'를…",
+          "press": "뉴스1",
+          "date": "2026-09-22",
+          "datetime": "2026-09-22 09:44",
+          "link": "https://n.news.naver.com/mnews/article/421/0009185307?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "티플러스, ‘보이는 ARS’ 출시…고객센터 셀프서비스 강화",
+          "summary": "한국케이블텔레콤(KCT)의 알뜰폰 브랜드 티플러스(tplus)는 고객센터 이용 편의를 높이기 위해 ‘3세대 디지털 ARS’를 출시했다고 21일 밝혔다.",
+          "press": "디지털데일리",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 09:57",
+          "link": "https://n.news.naver.com/mnews/article/138/0002242150?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "티플러스, 애경산업과 '생필품 요금제' 출시…생활밀착형 혜택 확대",
+          "summary": "태광그룹 계열사 한국케이블텔레콤(kct)의 알뜰폰 브랜드 티플러스(tplus)가 애경산업과 손잡고 통신 서비스와 생활용품 정기 구독을 결합한 '생필품 요금제'를…",
+          "press": "itdaily.kr",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 14:16",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241808",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "티플러스, 고객 상담에 '보이는 ARS 서비스' 적용",
+          "summary": "앱 설치 없이 실시간 사용 요금 등 확인 티플러스 3세대 디지털 ARS 이미지./한국케이블텔레콤 한국케이블텔레콤은 알뜰폰 브랜드 티플러스가 '3세대 디지털 ARS…",
+          "press": "metroseoul.co.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 13:42",
+          "link": "http://www.metroseoul.co.kr/article/20260921500261",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "티플러스, '보이는 ARS' 출시… \"화면 보며 셀프 처리\"",
+          "summary": "태광그룹 계열사 한국케이블텔레콤(kct)의 알뜰폰 브랜드 티플러스(tplus)가 보이는 자동응답시스템(ARS) 서비스를 선보인다.",
+          "press": "itdaily.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 13:32",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241757",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KCT, '보이는 ARS' 출시…추석 요금제 프로모션도 진행",
+          "summary": "한국케이블텔레콤(KCT)의 알뜰폰 브랜드 티플러스(tplus)가 고객센터 이용 편의를 높이기 위해 '보이는  ARS'를 출시했다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 10:02",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701943",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "AI·전기차·UPS 등 전력 수요 급증으로 SiC·GaN 등 화합물 전력반도체와 고전압 전원공급장치에 대한 관심이 확대되고 있다. 동시에 공급망 다변화를 위해 북극항로 컨테이너 운송도 검토되지만 가격·기술 경쟁력이 관건이다.",
+        "mercury": "머큐리아는 미국 전략 광물 비축 사업에 5억 달러를 투입하고, 머큐리 리조트는 베트남 여행 패키지에 포함돼 브랜드 확장을 꾀한다. 한편 유비쿼스는 AI 탑재 광통신 장비를 KT와 실증하고, 무인선 해저케이블 감시와 NEC‑Meta의 페타비트 해저망 구축 등 고대역폭·AI 기반 네트워크 인프라 투자가 활발히 진행 중이다.",
+        "encreative": "",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "\"전기 많이 쓰는 AI 시대\" 전력반도체株 들썩…화합물 반도체 주목을",
+          "summary": "화합물 전력반도체 모듈과 자체 소자 기술을 기반으로 전기차와 산업용 무정전전원공급장치(UPS) 분야 공급...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 09:44",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489860",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "산업용 인버터부터 충전 인프라까지… 전력 변환 핵심 반도체주 부각",
+          "summary": "무정전 전원공급장치(UPS) 등 전 분야에서 전력 효율화 요구가 가파르게 증가함에 따라 관련 기업들로...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 10:48",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489021",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "부산 돌아오는 북극항로 '컨'선…정기노선 관건은 '경제성·기술력'",
+          "summary": "개척이 공급망 다변화 측면에서는 \"타당한 방안\"이라면서도 컨테이너 해운시장에서 결국 가격 경쟁력을... 육상전원공급장치 등을 갖출 방침이다.",
+          "press": "뉴스1",
+          "date": "2026-09-24",
+          "datetime": "2026-09-24 08:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009189969?sid=102",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "메모리 피크아웃 우려 속… 조용히 질주하는 ‘틈새 반도체’",
+          "summary": "기존 실리콘(Si) 대비 고전압·고열에 강한 SiC와 고주파 스위칭에 유리한 GaN은 전력 변환 손실을 최소화하는 고효율 전원공급장치(PSU) 및 에너지저장장치(…",
+          "press": "asiatime.co.kr",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 15:16",
+          "link": "https://www.asiatime.co.kr/article/20260923500290",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[더벨][스케일업 나선 이에스티] 대주주 그린파워, 창업주 김영곤 대표...",
+          "summary": "그린파워는 정전척에 전압을 인가하는 고전압 전원공급장치(HPS)와 분배기를 이에스티에 공급하는 업체다....",
+          "press": "thebell.co.kr",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 15:02",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609230053271590108856",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "ICT로 배터리 이상 조기 감지…최적의 안전시스템 구축",
+          "summary": "인프라 시장으로 바라볼 필요가 있다. 특히 전기차 충전 구역 내 '전기차 배터리 온도 모니터링 시스템...",
+          "press": "koit.co.kr",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 14:48",
+          "link": "https://www.koit.co.kr/news/articleView.html?idxno=209216",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자 2.97% 하락…2만6000원선에서 공방",
+          "summary": "가격대가 빠르게 바뀌는 가운데 거래량과 최근 기업 실적이 함께 시장의 관심을 받고 있다. 23일 오후...",
+          "press": "job-post.co.kr",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 14:34",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=229110",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "태국 인쇄회로기판 시장동향",
+          "summary": "해당 공장은 데이터 서버, EV 전원공급장치, 데이터센터 및 AI 전자제품 등에 사용되는 HDI·Multilayer PCB를 생산하며, 최대 30층 제품에서 향후…",
+          "press": "dream.kotra.or.kr",
+          "date": "2026-09-22",
+          "datetime": "2026-09-22 11:57",
+          "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=244249",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "(특별기고)AI 데이터센터의 다음 과제, AC(교류)에서 직류(DC)로의 전환",
+          "summary": "현재 데이터센터에서는 전력이 전력망에서 서버까지 전달되는 과정에서 변압기, UPS, PDU, 서버 전원공급장치(PSU) 등 여러 변환 단계를 거치며 에너지 손실이…",
+          "press": "electimes.com",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 18:26",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=372468",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "AI 데이터센터 18.4GW 청사진…성패 가를 '전력망 접속'",
+          "summary": "대규모 투자를 유치하고 서버를 확보하더라도 필요한 시점에 전기를 공급받지 못하면 연산 인프라의 가동을...",
+          "press": "energy-news.co.kr",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 15:20",
+          "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=228455",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "머큐리, '스텔스 와이파이' 기술 개발 완료…국방·공공 보안통신 진출",
+          "summary": "한편 2000년 8월 설립된 머큐리는 가정용 와이파이(Wi-Fi) 공유기(AP), 광섬유·광케이블, 유무선 통신장비를 제조해 국내외 주요 통신사에 공급하는 종합…",
+          "press": "머니투데이",
+          "date": "2026-09-21",
+          "datetime": "2026-09-21 11:26",
+          "link": "https://n.news.naver.com/mnews/article/008/0005416650?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "무보, 글로벌 중개기업 ‘머큐리아’에 2억달러 금융 지원",
+          "summary": "머큐리아는 싱가포르 및 제네바에 거점을 둔 원유·광물 등 핵심 원자재 중개기업이다. 안정적인 수송을 위해 세계 각국의 해운사와 용선계약을 맺고 있다.",
+          "press": "디지털타임스",
+          "date": "2026-09-22",
+          "datetime": "2026-09-22 15:56",
+          "link": "https://n.news.naver.com/mnews/article/029/0003049515?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "무보, 머큐리아에 2억달러 금융 지원…K-해운 확산한다",
+          "summary": "중개기업 머큐리아에 2억달러 규모 중장기 금융 지원에 나선다.",
+          "press": "전자신문",
+          "date": "2026-09-22",
+          "datetime": "2026-09-22 10:56",
+          "link": "https://n.news.naver.com/mnews/article/030/0003469287?sid=100",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "무보, 머큐리아에 2억달러 금융지원…국적선사 수주 확대",
+          "summary": "중개기업 머큐리아(Mercuria)에 2억달러(약 2700억원) 규모의 중장기 금융을 지원한다.",
+          "press": "파이낸셜뉴스",
+          "date": "2026-09-22",
+          "datetime": "2026-09-22 09:26",
+          "link": "https://n.news.naver.com/mnews/article/014/0005579425?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "무보, 원자재 중개사 머큐리아에 2억달러 금융지원",
+          "summary": "중개기업 머큐리아에 한국 해운사 용선료 지급을 위한 2억달러(약 2천700억원) 규모의 중장기 금융을 제공한다고 22일 밝혔다.",
+          "press": "연합뉴스",
+          "date": "2026-09-22",
+          "datetime": "2026-09-22 09:15",
+          "link": "https://n.news.naver.com/mnews/article/001/0016328434?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "머큐리아, 미국 전략 광물 비축에 5억달러 약속",
+          "summary": "머큐리아가 미국 전략 핵심 광물 비축 사업인 프로젝트 볼트(Project Vault)에 5억달러(약 6770억원)를 투입하기로 했다.",
+          "press": "tokenpost.kr",
+          "date": "2026-09-24",
+          "datetime": "2026-09-24 00:58",
+          "link": "https://www.tokenpost.kr/news/breaking/413039",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "2035년 중동산 원유 의존도 50% 이하로…핵심광물 38종→51종 확대",
+          "summary": "가격과 수급 상황에 따라 물량을 확보하는 현물구매에서 벗어나 비중동산 원유를 안정적으로 들여올...",
+          "press": "서울경제",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 13:38",
+          "link": "https://n.news.naver.com/mnews/article/011/0004664948?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "유비쿼스, 광통신 장비에 AI 심었다…KT와 상용망 실증 추진",
+          "summary": "회사는 향후 KT와 공동 개발한 기술을 실제 통신망에서 검증하고, 상용화와 해외 시장 진출을 타진할...",
+          "press": "전자신문",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 12:25",
+          "link": "https://n.news.naver.com/mnews/article/030/0003469734?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "서울에서 가장 높은 스타벅스…63빌딩 꼭대기에서 맛본 ‘한국의 맛’ ...",
+          "summary": "밤이 되면 매장 중앙에 설치된 광섬유 조명이 은은하게 내려와 포근한 분위기를 연출한다. 카페라기보다...",
+          "press": "헤럴드경제",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 09:45",
+          "link": "https://n.news.naver.com/mnews/article/016/0002701238?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[경제 단신] 포스코퓨처엠·SK온 LFP 공급계약 외",
+          "summary": "최근 인공지능(AI)용 데이터센터 증설 등으로 전력 수요가 급증하면서 에너지저장장치(ESS)용 LFP 배터리...",
+          "press": "세계일보",
+          "date": "2026-09-23",
+          "datetime": "2026-09-23 05:02",
+          "link": "https://n.news.naver.com/mnews/article/022/0004161232?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 56
+}
