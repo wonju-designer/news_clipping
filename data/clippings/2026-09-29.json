@@ -1,0 +1,642 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29 11:25",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "알뜰폰 대기업 자본력 증가…정부에 \"공정경쟁 환경 조성하라\" 목소리",
+      "category": "산업",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1410328"
+    },
+    {
+      "rank": 2,
+      "headline": "번호이동보다 집토끼…이통 3사, '가입자 지키기' 전쟁",
+      "category": "산업",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=147591"
+    },
+    {
+      "rank": 3,
+      "headline": "8000억 주고 산 LG헬로비전, 초라한 성적에 3년 연속 희망퇴직",
+      "category": "산업",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=255374"
+    },
+    {
+      "rank": 4,
+      "headline": "日 “서울 통신비 1위” vs 韓 “3위”…직접 계산해보니",
+      "category": "산업",
+      "link": "https://www.ekn.kr/web/view.php?key=20260928020269487"
+    },
+    {
+      "rank": 5,
+      "headline": "통신 ‘최적요금제 고지’ 이번주 시행…통신비 절감효과 볼까",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/016/0002702508?sid=105"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "통신비 절감과 투명성을 위해 이번 주부터 최적요금제 고지제도가 시행되며, 10월부터는 데이터가 남아도 비싼 요금제 이용자를 사전에 알려준다. 알뜰폰 가입자는 1천만명을 넘어섰지만 최적요금 고지에서 제외되는 등 MVNO 시장은 성장과 규제 사이에서 조정되고 있다. 5G 보급률이 80%를 초과하고 신규 가입자 확보 경쟁이 제한적인 상황에서 이동통신 3사는 AI·데이터센터·국방 5G·6G 표준화 등 신규 사업과 해외 특허 확보에 나선다. 동시에 개인정보 유출에 대한 최대 매출액 10% 짜리 과징금 제도 도입과 보안 투자 확대가 강조되고 있다.",
+      "articles": [
+        {
+          "title": "통신 ‘최적요금제 고지’ 이번주 시행…통신비 절감효과 볼까",
+          "summary": "더 나아가 최적요금제가 안착할 경우 통신사를 넘어 알뜰폰 이용자에게까지 해당 제도가 확대될지도 관심사다.",
+          "press": "헤럴드경제",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 11:26",
+          "link": "https://n.news.naver.com/mnews/article/016/0002702508?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "데이터 남는데 비싼 요금제 썼다면…10월부터 먼저 알려준다",
+          "summary": "알뜰폰까지 포함해 다른 사업자의 상품과 직접 비교하고 싶다면 한국통신사업자연합회가 운영하는 통신요금 정보포털 '스마트초이스' 등을 활용할 수 있다.",
+          "press": "아주경제",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 09:56",
+          "link": "https://www.ajunews.com/view/20260928091407031",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신 ‘최적요금제’ 고지, 이번 주 시행…통신비 절감 효과 얼마나",
+          "summary": "더 나아가 최적요금제가 안착할 경우 통신사를 넘어 알뜰폰 이용자에게까지 해당 제도가 확대될지도 관심사다.",
+          "press": "헤럴드경제",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 09:52",
+          "link": "https://n.news.naver.com/mnews/article/016/0002702402?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 1000만명 넘었는데…이주희·경실련 “이제는 질적 성장”",
+          "summary": "알뜰폰 가입자가 1000만명을 넘어선 가운데 시장의 지속가능한 성장을 위한 정책 전환을 논의하는 자리가...",
+          "press": "이데일리",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 08:30",
+          "link": "https://n.news.naver.com/mnews/article/018/0006376130?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[ZD브리핑] 마이크론 최대실적 예고...개보위원장·통신3사 CEO 첫회동",
+          "summary": "왼쪽부터 홍범식 LG유플러스 대표, 정재헌 SK텔레콤 대표, 박윤영 KT 대표 알뜰폰의 양적 성장에서 질적 성장으로 정책 방향을 전환하자는 논의가 내달 2일 국회…",
+          "press": "지디넷코리아",
+          "date": "2026-09-27",
+          "datetime": "2026-09-27 12:18",
+          "link": "https://n.news.naver.com/mnews/article/092/0002438851?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 대기업 자본력 증가…정부에 \"공정경쟁 환경 조성하라\" 목소리",
+          "summary": "과학기술정보통신부와 한국정보통신진흥협회가 운영하는 '알뜰폰허브' 홈페이지.",
+          "press": "daily.hankooki.com",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:44",
+          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1410328",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "번호이동보다 집토끼…이통 3사, '가입자 지키기' 전쟁",
+          "summary": "5G 보급률이 80%를 넘어선 데다 알뜰폰(MVNO)으로 이동하는 수요도 늘면서 신규 가입자 유치 경쟁의 효과 역시 제한적인 상황이다.",
+          "press": "ziksir.com",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 00:00",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=147591",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "개보위원장, 통신 3사 CEO에 \"개인정보 보호 직접 챙겨야\"",
+          "summary": "SK텔레콤의 유출 규모는 2324만4649명(알뜰폰 포함)으로 추산됐다.",
+          "press": "newsprime.co.kr",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 17:06",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=749125",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "8000억 주고 산 LG헬로비전, 초라한 성적에 3년 연속 희망퇴직",
+          "summary": "방송에 이어 알뜰폰과 렌탈까지 매출이 줄면서 인력 감축만으로는 실적 반등을 기대하기 어려워졌다는...",
+          "press": "insightkorea.co.kr",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 15:56",
+          "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=255374",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "日 “서울 통신비 1위” vs 韓 “3위”…직접 계산해보니",
+          "summary": "다만 아하모는 알뜰폰(MVNO)처럼 도코모와 별개 사업자가 운영하는 상품은 아니다. NTT도코모가 직접 제공하는 온라인 전용 요금제다.",
+          "press": "ekn.kr",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 15:30",
+          "link": "https://www.ekn.kr/web/view.php?key=20260928020269487",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "서울 통신비 주요 6개 도시 중 최고 수준…4G 20GB 도쿄의 2.3배",
+          "summary": "실제 소비자의 데이터 사용량이나 알뜰폰 등 저가 요금제 이용 실태를 직접 비교한 것은 아니다.",
+          "press": "etoday.co.kr",
+          "date": "2026-09-27",
+          "datetime": "2026-09-27 10:54",
+          "link": "https://www.etoday.co.kr/news/view/2629507",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 0원 요금제 8종, 10월 최적요금 고지 1000만명 제외",
+          "summary": "10월 1일 시행되는 최적 요금 고지제도에서 알뜰폰 가입자 1000만명이 전면 제외된 것으로 확인됐다.... 중인 알뜰폰 0원 요금제는 8종이다.",
+          "press": "imaeil.com",
+          "date": "2026-09-27",
+          "datetime": "2026-09-27 09:23",
+          "link": "https://n.news.naver.com/mnews/article/088/0001030694?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[경제일보] 통신 다음은 AIDC…LG유플러스, 파주 200MW에 미래 건다 [LGU+...",
+          "summary": "이동통신 시장이 성숙기에 접어든 가운데 27년간의 데이터센터 운영 경험을 AI 시대의 인프라 사업으로 확장하는 전략이다.",
+          "press": "아주경제",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 07:44",
+          "link": "https://www.ajunews.com/view/20260927224258580",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "과징금 10% 시대…통신3사 CEO “각성하고, 유출 없도록 최선 다할 것”",
+          "summary": "개인정보 유출 시 전체 매출액의 최대 10%까지 과징금을 물 수 있는 ‘징벌적 과징금’ 시대가 열리면서 이동통신 3사 최고경영자(CEO)들이 개인정보 보호를 경영…",
+          "press": "이데일리",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 07:14",
+          "link": "https://n.news.naver.com/mnews/article/018/0006376721?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "잇단 개인정보 유출… 개보위·통신3사, 예방 중심 체계 전환 공감대",
+          "summary": "정부와 기업이 모두 무겁게 받아들여야 할 일입니다.\" 송경희 개인정보보호위원회(이하 개보위) 위원장이 28일 서울 중구 한국프레스센터에서 이동통신 3사(SK텔레콤…",
+          "press": "머니투데이",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 04:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005419339?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“수습만 말고 예방도 잘하자” 이 여성 한마디에…통신사 사장들 집합",
+          "summary": "SKT “정보보호 7000억 투자” KT “IT 인프라 2.2조 투입” LGU+ “개인정보 보호는 책임경영” 통신3사 CEO 보안 강화 한목소리 송경희 개인정보보…",
+          "press": "매일경제",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 21:09",
+          "link": "https://n.news.naver.com/mnews/article/009/0005741055?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT 정재헌 “AI 서비스 개인정보 처리기준, 정부가 명확히 해야”",
+          "summary": "정 대표는 28일 서울 중구 한국프레스센터에서 열린 송경희 개인정보보호위원장과 이동통신3사 최고경영자(CEO) 간담회 직후 취재진과 만나 이같이 밝혔다.",
+          "press": "디지털데일리",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 18:08",
+          "link": "https://n.news.naver.com/mnews/article/138/0002242877?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "6G·양자…해외특허 선점전 나선 통신3사",
+          "summary": "이동통신과 인공지능(AI), 양자통신 등 핵심 기술의 해외 권리를 확보해 차세대 통신기술 경쟁에 대비하고...",
+          "press": "서울경제",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 18:06",
+          "link": "https://n.news.naver.com/mnews/article/011/0004666090?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"개인정보 보호, CEO가 직접 챙긴다\"…개보위, 이통3사 실태점검 추진(종...",
+          "summary": "SK텔레콤·KT·LG유플러스 등 이동통신 3사가 개인정보 보호를 경영의 최우선 가치로 두고 최고경영자(CEO)와 이사회가 직접 책임지는 관리체계를 강화한다.",
+          "press": "아이뉴스24",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 17:47",
+          "link": "https://n.news.naver.com/mnews/article/031/0001061693?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "개보위원장 만난 통신3사 CEO, 노후 시스템·인력난에 \"보안 개선 시간 ...",
+          "summary": "송경희 개인정보보호위원장이 SK텔레콤, KT, LG유플러스 등 이동통신 3사 최고경영자(CEO)에게 개인정보 보호 강화 선언을 실제 투자와 실천으로 옮겨 달라고…",
+          "press": "뉴시스",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 17:44",
+          "link": "https://n.news.naver.com/mnews/article/003/0014218767?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사 \"보안 강화에 망 안정성 부담\"…개인정보위, 실태점검 검토",
+          "summary": "이동통신 3사가 개인정보 보호를 강화하는 과정에서 통신망 안정성을 유지하기 어렵다는 우려를 정부에 전달했다.",
+          "press": "IT조선",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 17:28",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170967",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"터지고 수습은 그만\"…통신3사 CEO, 개인정보 유출 직접 챙긴다",
+          "summary": "이동통신 3사 최고경영자(CEO)가 개인정보 보호 현황을 상시 점검하고 관련 투자와 전문인력을 확대하기로 했다.",
+          "press": "IT조선",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 17:20",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170931",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 통신 인프라에 AI 입힌다…국방·공공 AX 확장",
+          "summary": "NWCSP는 NATO 동맹국과 파트너국의 정부기관 및 민간 전문가가 차세대 이동통신 기술의 국방 분야 활용과 표준화를 논의하는 민·군 협력 프로젝트다.",
+          "press": "wikileaks-kr.org",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 11:00",
+          "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192565",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "삼성전자, 뉴욕 타임스스퀘어에 젠슨 황 축하 영상 송출",
+          "summary": "한편, 삼성전자는 미국 이동통신사업자 버라이즌(Verizon)과 함께 가상화 네트워크 솔루션을 활용해 6G 핵심 기술인 'ISAC(Integrated Sensin…",
+          "press": "megaeconomy.co.kr",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 09:40",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572293639458",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[Why&Next]서울 통신비 세계 최고? 국내 통신업계 반박한 이유",
+          "summary": "지난해 서울의 스마트폰 이동통신 요금이 세계 6개 도시 가운데 가장 높은 수준이라는 일본 총무성 발표에 대해 국내 통신사들이 적극 반박에 나섰다.",
+          "press": "view.asiae.co.kr",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 09:08",
+          "link": "https://n.news.naver.com/mnews/article/277/0005821890?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[핀포인트] [KT] '유무선서비스' 인증, 정작 이통망은 개인정보보호 밖",
+          "summary": "인증범위 사업자 먼저 정해 신청…세부 범위는 비공개 KT가 개인정보보호 인증범위에 ‘유무선서비스’를 내걸었지만 정작 이동통신서비스는 빠져 있었던 것으로 드러났다.…",
+          "press": "news.dealsitetv.com",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 08:02",
+          "link": "https://news.dealsitetv.com/articles/176122",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[브랜드 인사이트] 연결을 만들던 기업, 새로운 흐름을 설계하다",
+          "summary": "2002년 민영화를 거치며 시장 중심의 기업으로 전환했고, 2009년에는 이동통신 기업 KTF와 합병하며 유선과 무선의 경계를 넘어 종합 정보통신기업으로 변화했다…",
+          "press": "newscj.com",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 07:02",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3436271",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 韓 통신사 최초 '나토 5G·6G 표준화' 참여…국방통신 '룰' 만든다",
+          "summary": "국내 국방 5G 사업에서 쌓은 네트워크 구축 경험을 국제 표준 논의로 확장하면서 차세대 이동통신 기술을 국방 분야에 적용하기 위한 민·군 협력에도 속도가 붙을 전…",
+          "press": "에이피신문",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 22:50",
+          "link": "https://www.apnews.kr/news/articleView.html?idxno=3051562",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, NATO 국방통신 표준화 회의 참가…국내 통신사 최초 5G·6G 위원 합류",
+          "summary": "KT는 \"NATO의 국방통신 표준화 프로젝트인 'NWCSP' 9차 회의에 국내 이동통신사 중 처음으로 5G·6G 표준화위원 자격을 얻어 글로벌 표준화 협력에 나선…",
+          "press": "thedailypost.kr",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 22:50",
+          "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115886",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "개인정보위·통신 3사 CEO 첫 회동…\"CEO가 직접 챙겨야\"",
+          "summary": "사진=개인정보위  송경희 개인정보보호위원장이 SK텔레콤·KT·LG유플러스 등 이동통신 3사 최고경영자(CEO)들과 만나 잇따른 개인정보 유출 사고를 막기 위한 사…",
+          "press": "pointdaily.co.kr",
+          "date": "2026-09-28",
+          "datetime": "2026-09-28 21:56",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320617",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "파워넷은 AI 데이터센터용 HVPSU 사업화와 8kW·800VDC 제품 확대로 전력 인프라 국산화를 가속하고, 삼성SDI는 원통형 LFP 배터리·UPS·BBU 솔루션을 공개해 무정전 전원 시장을 확대한다. 양사는 국내 전원·배터리 기술 확보와 함께 삼성그룹이 냉각·EPC·GPUaaS 등 AI 인프라 전반에 협력·투자를 확대하는 흐름에 맞춘다.",
+        "mercury": "머큐리는 2026년 지상군페스티벌에서 차세대 방위 무선보안 솔루션 ‘스텔스넷’ 전시·시연하며 국방 무선보안 사업 확대를 알렸다. 이를 통해 군용 무선통신 보안 시장 진입을 가속화한다.",
+        "encreative": "",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "파워넷, AI 데이터센터 전력기술 확장 가속",
+          "summary": "파워넷은 사이드카용 고전압 전원공급장치인 HVPSU(고전압 전원공급장치)의 사업화를 위해 국내 전력·자동화 분야 선도기업과 데이터센터 전력 인프라 사업 참여를 위…",
+          "press": "머니투데이",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:11",
+          "link": "https://n.news.naver.com/mnews/article/008/0005419486?sid=101",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[TOP's Pick] 파워넷, AI 데이터센터 전력 솔루션 국산화 추진",
+          "summary": "파워넷은 이 시스템에 적용되는 HVPSU(High Voltage Power Supply Unit·고전압 전원공급장치)의 사업화를 위해 국내 전력·자동화 분야 기업…",
+          "press": "topdaily.kr",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 09:30",
+          "link": "https://www.topdaily.kr/articles/112130",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "파워넷, AI 데이터센터 전원기술 국산화…8kW급 PSU·800VDC로 확대",
+          "summary": "이투데이=김우람 기자 | 전원공급장치 전문기업 파워넷이 생성형 AI 확산에 따른 데이터센터 전력 수요 증가에 대응해 AI 서버용 핵심 전원기술 국산화와 제품 포트…",
+          "press": "etoday.co.kr",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 08:34",
+          "link": "https://www.etoday.co.kr/news/view/2630143",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "삼성SDI, AI 데이터센터용 원통형 LFP 첫 공개",
+          "summary": "삼성SDI가 인공지능(AI) 데이터센터 시장을 겨냥한 배터리 제품군을 확대한다. 무정전 전원장치(UPS)부터...",
+          "press": "헤럴드경제",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 11:14",
+          "link": "https://n.news.naver.com/mnews/article/016/0002703074?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "삼성SDI, AI 데이터센터용 배터리 솔루션 공개…'차세대 원통형 LFP 배터...",
+          "summary": "(AI)데이터센터 시장에 최적화된 배터리 솔루션과 제품 라인업을 공개했다. DCWA는 데이터센터 설계...",
+          "press": "전자신문",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:29",
+          "link": "https://n.news.naver.com/mnews/article/030/0003470615?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "삼성SDI, AIDC용 배터리 라인업 확대…원통형 LFP 첫 공개",
+          "summary": "데이터센터 시장에 최적화된 배터리 솔루션과 제품 라인업을 공개했다고 밝혔다. DCWA는 데이터센터 설계...",
+          "press": "조선비즈",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:29",
+          "link": "https://n.news.naver.com/mnews/article/366/0001194964?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "LG전자, '블록형 냉각설비' 모듈러 솔루션 공개…AI 데이터센터 구축기...",
+          "summary": "LG전자가 펌프와 배관 등 데이터센터 냉각설비를 컨테이너에 미리 조립해 공급하는 모듈형 솔루션을...",
+          "press": "전자신문",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:27",
+          "link": "https://n.news.naver.com/mnews/article/030/0003470614?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "“블록처럼 연결해 AI 데이터센터 냉각”… LG전자, 모듈형 인프라 첫 공...",
+          "summary": "조립해 공급하는 방식이다. 기존에는 냉각장치인 칠러가 만든 냉수를 서버실로 보내기 위해 현장에서...",
+          "press": "조선비즈",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:19",
+          "link": "https://n.news.naver.com/mnews/article/366/0001194956?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "삼성SDI, DCWA 2026 참가…AI 데이터센터용 배터리 솔루션 공개",
+          "summary": "삼성SDI가 싱가포르에서 열린 '데이터센터 월드 아시아(DCWA) 2026'에 참가해 AI(인공지능) 데이터센터 시장...",
+          "press": "머니투데이",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:18",
+          "link": "https://n.news.naver.com/mnews/article/008/0005419500?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "삼성 6개사, 美 AI 인프라社 '헬릭스'에 10억달러 투자",
+          "summary": "삼성SDI는 서버의 24시간 가동에 필수적인 무정전전원장치(UPS)와 배터리 백업 유닛(BBU) 사업을 맡는다.",
+          "press": "IT조선",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:12",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170990",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "머큐리, 육군 지상군페스티벌서 '스텔스넷' 전시…국방 무선보안 공략",
+          "summary": "정보통신장비 전문기업 머큐리가 다음달 1일부터 5일까지 충남 계룡대 활주로에서 열리는 '2026...",
+          "press": "머니투데이",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:12",
+          "link": "https://n.news.naver.com/mnews/article/008/0005419490?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[더벨][i-point] 머큐리 '스털스넷' 앞세워 국방 무선보안 사업 확대",
+          "summary": "정보통신장비 전문기업 머큐리가 10월 1일부터 5일까지 충남 계룡대 활주로에서 열리는 ‘2026...",
+          "press": "thebell.co.kr",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 09:02",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609290841121400104756",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "머큐리, ‘지상군페스티벌’서 국방 특화 무선보안 솔루션 ‘스텔스넷...",
+          "summary": "전문기업 머큐리가 충남 계룡대 활주로에서 열리는 ‘2026 지상군페스티벌’에 참가해 차세대 국방 특화...",
+          "press": "etoday.co.kr",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 08:40",
+          "link": "https://www.etoday.co.kr/news/view/2630150",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS전선, AI 데이터센터용 신제품 출시…서버랙까지 공략",
+          "summary": "전력망부터 서버랙까지 아우르는 제품군을 구축해 급성장하는 AI 데이터센터 전력 인프라 시장 공략에...",
+          "press": "이데일리",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:44",
+          "link": "https://n.news.naver.com/mnews/article/018/0006376887?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS전선, AIDC용 신제품 공개…서버랙 내부로 사업 확대",
+          "summary": "LS전선의 광케이블은 데이터센터 간 연결(DCI)과 내부 서버·장비 간 초고속·대용량 데이터 전송을...",
+          "press": "조선비즈",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:38",
+          "link": "https://n.news.naver.com/mnews/article/366/0001194973?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS전선, 데이터센터 전시회서 서버랙용 신제품 공개",
+          "summary": "LS전선은 그동안 가온전선과 협력해 북미 인공지능 데이터센터(AIDC) 시장을 중심으로 대용량 전력을...",
+          "press": "연합뉴스",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:33",
+          "link": "https://n.news.naver.com/mnews/article/001/0016342847?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS전선, AI 데이터센터용 신제품 선봬…서버랙 내부로 사업 확대",
+          "summary": "LS전선의 광케이블은 데이터센터 간 연결과 내부 서버·장비 사이의 초고속·대용량 데이터 전송에...",
+          "press": "파이낸셜뉴스",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:30",
+          "link": "https://n.news.naver.com/mnews/article/014/0005582118?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS전선, AI 데이터센터 전력망 제품군 ‘서버랙’까지 확장",
+          "summary": "LS전선의 광케이블은 데이터센터 간 연결(DCI)과 서버·장비 간 초고속·대용량 데이터 전송을 지원한다. AI...",
+          "press": "디지털타임스",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:17",
+          "link": "https://n.news.naver.com/mnews/article/029/0003050354?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS전선, 직류 버스덕트·초전도 기술로 고성능 데이터센터 공략",
+          "summary": "LS전선은 이와 함께 광케이블을 활용해 데이터센터 간 연결(DCI)과 내부 서버·장비 간 초고속·대용량 데이터 전송을 지원하는 통신 솔루션과 전력 안정화 솔루션도…",
+          "press": "서울경제",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:16",
+          "link": "https://n.news.naver.com/mnews/article/011/0004666300?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "LS전선, AI 데이터센터 서버랙용 전력기기 출시",
+          "summary": "LS전선의 광케이블은 데이터센터 간 연결(DCI)과 서버·장비 간 초고속·대용량 데이터 전송에 활용할 수...",
+          "press": "아이뉴스24",
+          "date": "2026-09-29",
+          "datetime": "2026-09-29 10:10",
+          "link": "https://n.news.naver.com/mnews/article/031/0001061798?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 50
+}
