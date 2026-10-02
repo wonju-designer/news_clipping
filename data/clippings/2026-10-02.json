@@ -1,0 +1,808 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02 10:57",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "해외여행 이심전심? 이제는 유심에서 ‘이심’…데이터 이용법 달라졌다",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/022/0004163569?sid=103"
+    },
+    {
+      "rank": 2,
+      "headline": "'국감 코앞인데' 韓 통신요금 세계 1위?…日 정부 통계 논란",
+      "category": "산업",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=145191"
+    },
+    {
+      "rank": 3,
+      "headline": "알뜰폰 5G 요금제 확대 통신 3사와 정면승부",
+      "category": "산업",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=880264"
+    },
+    {
+      "rank": 4,
+      "headline": "“韓 통신비, 파리의 2배” 세계 최고 수준이라더니…“일본이 통계 왜...",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/011/0004667611?sid=105"
+    },
+    {
+      "rank": 5,
+      "headline": "[비즈톡톡] 국감 앞두고 불거진 韓 통신요금 논쟁… 日 정부 통계 진실...",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/366/0001195748?sid=105"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "알뜰폰 가입자가 1000만명을 넘어섰고 eSIM 도입으로 온라인 개통이 활발해지면서 저가 요금제 수요가 확대되고 있다. 5G 요금제와 콘텐츠 제휴 등 차별화된 상품을 내놓으며 MVNO가 통신 3사와 정면 승부를 벌이고 있다. 대기업과 금융권이 공격적인 마케팅으로 시장에 진입하면서 중소 알뜰폰 사업자의 경쟁력이 약화되고 공정 경쟁에 대한 논란이 제기되고 있다. 이에 국회·감사기관이 진입 기준 강화와 공정 경쟁 확보를 점검하고, 주요 이동통신사는 온라인 전용 요금제와 고객 이탈 방어에 집중하고 있다.",
+      "articles": [
+        {
+          "title": "해외여행 이심전심? 이제는 유심에서 ‘이심’…데이터 이용법 달라졌다",
+          "summary": "특히 주로 온라인에서 개통하는 알뜰폰 활성화에 기여할 것으로 내다봤다.",
+          "press": "세계일보",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 10:30",
+          "link": "https://n.news.naver.com/mnews/article/022/0004163569?sid=103",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“韓 통신비, 파리의 2배” 세계 최고 수준이라더니…“일본이 통계 왜...",
+          "summary": "국가별 이용량 차이와 결합·가족할인 반영 여부, 이동통신사(MNO)와 알뜰폰(MVNO) 및 세컨드 브랜드 포함 여부 등에 따라서도 결과가 달라질 수 있다.",
+          "press": "서울경제",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 09:01",
+          "link": "https://n.news.naver.com/mnews/article/011/0004667611?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[비즈톡톡] 국감 앞두고 불거진 韓 통신요금 논쟁… 日 정부 통계 진실...",
+          "summary": "물론 국가마다 온라인 전용 요금제, 결합할인, 선택약정, 알뜰폰, 데이터 제공량, 통화조건 등이 다르기...",
+          "press": "조선비즈",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 06:01",
+          "link": "https://n.news.naver.com/mnews/article/366/0001195748?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"아이폰18 나왔는데도 썰렁\"…번호이동 한 달 새 12% '뚝'",
+          "summary": "반면 KT는 유일하게 4670명 순감한 것으로 집계됐다. 직전달 1만명 넘게 순감했던 것에 비하면 순감폭은 축소됐다.",
+          "press": "뉴시스",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 18:00",
+          "link": "https://n.news.naver.com/mnews/article/003/0014228457?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "조경태 의원 \"대기업의 과도한 알뜰폰 마케팅, 공정 경쟁 저해\"",
+          "summary": "조경태 \"대기업이 알뜰폰 시장에 진입하는 기준 강화\"…국감서 정부 관리·감독 실태 점검 아주경제=박종호 기자 jjongho0918@ajunews.com [사진=연…",
+          "press": "아주경제",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 16:24",
+          "link": "https://www.ajunews.com/view/20261001154237912",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "슈가모바일, 윌라 제휴 알뜰폰 요금제 6종 출시",
+          "summary": "알뜰폰 브랜드 슈가모바일이 독서·콘텐츠 플랫폼 윌라와 제휴해 LG유플러스망 기반의 제휴요금제를 출시한다고 1일 밝혔다.",
+          "press": "한국경제",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 15:04",
+          "link": "https://n.news.naver.com/mnews/article/015/0005338180?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "대기업에 치이는 알뜰폰…조경태 \"공정경쟁 환경 조성 방안 시급\"",
+          "summary": "알뜰폰 시장 성장세가 둔화하는 가운데 이동통신사 계열사와 금융권 대기업의 공격적인 영업이 중소 알뜰폰 사업자 경쟁 기반을 위축시키고 있다는 지적이 나왔다.",
+          "press": "뉴스1",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 14:44",
+          "link": "https://n.news.naver.com/mnews/article/421/0009203972?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이폰 18 신작 나왔지만…9월 번호이동 12% 감소",
+          "summary": "반면 KT는 4670명 순감했으며 알뜰폰(MVNO)도 1502명 줄었다.",
+          "press": "아이뉴스24",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 11:08",
+          "link": "https://n.news.naver.com/mnews/article/031/0001062690?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"아이폰18 프로도 힘 못쓰네\"…9월 번호이동 12% 뚝",
+          "summary": "번호이동 시장이 9월 한풀 꺾였다. 애플의 아이폰18 프로·프로맥스가 출시됐지만 번호이동 규모는...",
+          "press": "뉴스1",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 10:04",
+          "link": "https://n.news.naver.com/mnews/article/421/0009202718?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "한국 통신비 세계 최고가?…기준 바꾸니 순위 뒤집혔다",
+          "summary": "일본 총무성은 각 도시에서 시장점유율이 가장 높은 이동통신사의 메인 브랜드를 대표 요금제로 삼아...",
+          "press": "연합뉴스",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 07:45",
+          "link": "https://n.news.naver.com/mnews/article/001/0016348849?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "과기정통부, 알뜰폰 활성화 방안 후속조치 이행",
+          "summary": "최 실장은 “이번 알뜰폰 활성화 방안은 사업자의 비용 부담을 낮추고 서비스 차별화와 혁신 여력을 확대해 알뜰폰 시장의 체질을 개선하기 위한 출발점”이라며 “후속조…",
+          "press": "디지털타임스",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 17:52",
+          "link": "https://n.news.naver.com/mnews/article/029/0003050805?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "과기정통부, 알뜰폰 업계 목소리 청취…현장 간담회 개최",
+          "summary": "최 실장은 \"이번 알뜰폰 활성화 방안은 사업자의 비용 부담을 낮추고 서비스 차별화와 혁신 여력을 확대해 알뜰폰 시장의 체질을 개선하기 위한 출발점\"이라며 \"정부는…",
+          "press": "아주경제",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 16:34",
+          "link": "https://www.ajunews.com/view/20260930160929075",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 요금 더 싸질까…정부·업계, 가격 경쟁력 높인다",
+          "summary": "과학기술정보통신부는 30일 서울 알뜰폰 스퀘어에서 주요 알뜰폰 사업자들과 현장 간담회를 열고 알뜰폰 시장의 가격 경쟁력을 높이기 위한 방안을 논의했다고 밝혔다.",
+          "press": "IT조선",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 16:22",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171146",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'국감 코앞인데' 韓 통신요금 세계 1위?…日 정부 통계 논란",
+          "summary": "국가겹 리용량 차이와 결합 및 가족할인 반영 여부, 이동통신사(MNO)와 알뜬폰(MVNO) 및 세컨드 브랜드 포함 여부 등에 따라 실제 결과는 달라질 수 있다.",
+          "press": "opinionnews.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 10:20",
+          "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=145191",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 5G 요금제 확대 통신 3사와 정면승부",
+          "summary": "매달 통신비 고지서를 받아 들 때마다 한숨을 쉬던 소비자들이 알뜰폰으로 눈을 돌리고 있다.",
+          "press": "gokorea.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 09:36",
+          "link": "https://www.gokorea.kr/news/articleView.html?idxno=880264",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "‘패닉풀’ 논란 겹친 아이폰18…9월 번호이동 60만명 아래로",
+          "summary": "KT는 4670명 순감하며 유일하게 가입자가 줄었다. 다만 전월 1만명 넘게 순감한 것과 비교하면 감소폭은 축소됐다.",
+          "press": "g-enews.com",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 18:16",
+          "link": "https://www.g-enews.com/view.php?ud=202610011811228562153ddfb15a_1",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"고객에게 묻는다\"…SKT·KT, '집토끼' 잡기 총력",
+          "summary": "◆ 해킹·알뜰폰에 고객 이탈…'신규 유치'보다 '이탈 방어' 통신사들이 기존 고객 관리에 힘을 싣는 가장...",
+          "press": "hansbiz.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 17:54",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=869361",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 잠식하는 대기업…조경태 “공정경쟁 조성 시급”",
+          "summary": "알뜰폰 시장 성장세가 둔화하는 가운데 이동통신사 계열사와 금융권 대기업의 공격적인 영업이 경쟁력을 약화시키고 있다는 지적이 나왔다.",
+          "press": "byline.network",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 16:44",
+          "link": "https://byline.network/?p=9004111222621975",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이주희 의원, '알뜰폰 2.0, 양적 성장에서 질적 성장으로' 정책 세미나 ...",
+          "summary": "간담회의실에서 「알뜰폰 2.0, 양적 성장에서 질적 성장으로」 정책 세미나를 개최한다.",
+          "press": "betanews.net",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 16:38",
+          "link": "https://www.betanews.net/article/view/beta202610010083",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "조경태 의원 \"이통사 계열사·대기업 알뜰폰 시장 진입 기준 강화해야\"...",
+          "summary": "알뜰폰 시장 성장세가 둔화하는 가운데 주요 이통회사의 계열사와 대형 금융회사들이 막대한 자금을 앞세워 공격적인 알뜰폰 마케팅에 나서면서 중소 사업자들이 경쟁에서…",
+          "press": "livebiz.today",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 16:12",
+          "link": "https://www.livebiz.today/news/articleView.html?idxno=205268",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT 에어 포인트 사용률 96% \"출시 1년 만에 자급제 시장 안착\"",
+          "summary": "알뜰폰 업체들이 낮은 요금을 앞세워 자급제 이용자를 끌어오는 가운데 이동통신 3사도 온라인 전용 요금제를 잇달아 내놓고 있기 때문이다.",
+          "press": "econovill.com",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 15:38",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=752380",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 맥락읽기] 알뜰폰 시장, 가입자 다음은 '지속 가능한 경쟁'",
+          "summary": "알뜰폰 업계가 파격적인 요금제 경쟁을 벌이고 있다. 사진=연합뉴스  알뜰폰 가입자가 1000만명을 넘어섰지만 시장의 수익성은 오히려 악화하고 있습니다.",
+          "press": "pointdaily.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 15:34",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321059",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "슈가모바일, LG U+망 알뜰폰 최초 '윌라' 제휴요금제 출시",
+          "summary": "알뜰폰 브랜드 슈가모바일이 독서·콘텐츠 플랫폼 윌라와 손잡고 LG U+망 알뜰폰 최초로 윌라 구독권을 제공하는 제휴요금제를 선보인다고 1일 밝혔다.",
+          "press": "businesskorea.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 15:24",
+          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278064",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 번호이동 3개월 연속 홀로 '순감'···갤럭시·아이폰 신제품 효과...",
+          "summary": "알뜰폰(MVNO)은 1502명 순감했다. KT의 순감 규모는 지난 8월보다 줄었지만, 통신3사 가운데 유일하게 가입자 유출이 유입을 웃돌았다.",
+          "press": "sisajournal-e.com",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 15:02",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424057",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "한국 통신비, 최저가 경쟁력에도 고가 논란…대표 상품과 실제 지출 따...",
+          "summary": "이동통신사와 알뜰폰, 할인브랜드의 포함 여부는 물론 통화·문자 조건과 가격환산 기준도 결과에 영향을 미친다.",
+          "press": "seouleconews.com",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 13:58",
+          "link": "http://www.seouleconews.com/news/articleView.html?idxno=94061",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "국감 앞둔 통신 3사…보안 점검에 투자 평가·알뜰폰 구조도 쟁점",
+          "summary": "통신 3사 CISO 증인 채택…해킹 조치 질의 전망 알뜰폰 대기업 쏠림에 중소 사업자 보호 요구도 올해 국회...",
+          "press": "news.tf.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 13:25",
+          "link": "https://n.news.naver.com/mnews/article/629/0000538549?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "3G폰은 떠났는데…3G망 발목 잡은 승강기·차량관제",
+          "summary": "사업자별로는 SKT 13만4413개, KT 5만8948개, 알뜰폰 13만4763개다.",
+          "press": "smarttoday.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 11:22",
+          "link": "https://www.smarttoday.co.kr/ko-kr/articles/112176",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "시각장애인용 AI 단말기 엠브이아이, 아이콘빌더 투자 유치…시니어 돌...",
+          "summary": "수익 구조도 단말기 판매에서 단말기 대여, 알뜰폰(MVNO) 통신, AI 비서 구독을 결합한 반복 매출 모델로 바꾼다.",
+          "press": "platum.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 10:56",
+          "link": "https://platum.kr/archives/295517",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "한국 통신비 세계 최고? … 기준 바꾸니 최저가권",
+          "summary": "일본 총무성은 각 도시 점유율 1위 사업자의 대표 브랜드를 기준으로 신규 가입 때 가장 저렴한 요금을...",
+          "press": "safetimes.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 10:48",
+          "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=246151",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "정부, 알뜰폰 '저가 경쟁' 넘어 설비·서비스 키운다",
+          "summary": "/과기정통부 | 서울=한스경제 박정현 기자 | 과학기술정보통신부가 알뜰폰 사업자의 자체 설비 투자를 확대하고 중소·중견 사업자의 비용 부담을 낮추는 등 알뜰폰 시…",
+          "press": "hansbiz.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 10:30",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=869304",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "국제전화 00700은 12년 연속 1위이며, SK세븐모바일은 2026년 알뜰폰 1위와 브랜드평판 3위를 차지했다. 한편 스테이지파이브는 알뜰폰 ‘핀다이렉트’ 기반 AI·Web3 플랫폼을 구축해 결제·정산 등 디지털 금융과 연계하고 있다.",
+      "articles": [
+        {
+          "title": "남은 데이터가 코인으로...스테이지파이브, 통신에 웹3 접목",
+          "summary": "스테이지파이브가 알뜰폰 브랜드 핀다이렉트를 운영하며 확보한 기술과 경험을 기반으로 가입·개통부터 회선 관리, 정산, 고객서비스(CS)까지 통신 사업에 필요한 기능…",
+          "press": "지디넷코리아",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 15:18",
+          "link": "https://n.news.naver.com/mnews/article/092/0002439320?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, 통신·Web3 시너지 소개…통신에 리워드 접목",
+          "summary": "스테이지온은 스테이지파이브가 알뜰폰 브랜드 '핀다이렉트'를 운영하며 쌓은 노하우를 바탕으로 자체 개발한 AI 통신 플랫폼이다.",
+          "press": "전자신문",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 09:50",
+          "link": "https://n.news.naver.com/mnews/article/030/0003470980?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "남는 데이터 코인으로 바꾼다···스테이지파이브, 통신에 Web3 접목",
+          "summary": "가운데 스테이지파이브가 통신과 Web3의 결합 범위를 스테이블코인 결제·정산 등으로 확대한다....",
+          "press": "이뉴스투데이",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 09:45",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475426",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "‘00700’은 12년 연속… ‘세븐모바일’ 1위 탈환",
+          "summary": "국제전화 ‘00700’은 12년 연속 1위, 알뜰폰 ‘SK 세븐모바일’은 2025년 2위로 밀려났다가 2026년 1위를 재탈환했다.",
+          "press": "동아일보",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 04:32",
+          "link": "https://n.news.naver.com/mnews/article/020/0003751528?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SK텔링크, 맞춤 요금제 제안부터 간편 인증으로 업계 1위",
+          "summary": "SK텔링크 알뜰폰 서비스인 SK세븐모바일의 1위 재탈환 배경에는 고객 이용 환경 변화에 대한 선제적 대응이 자리 잡고 있다.",
+          "press": "매일경제",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 00:01",
+          "link": "https://n.news.naver.com/mnews/article/009/0005741667?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, '더 브릿지 서밋 2026' 기조연설…'Web3 통신' 확장",
+          "summary": "이 같은 사업을 뒷받침하는 기반은 스테이지파이브의 AI 통신 플랫폼 '스테이지온(STAGE-ON)'이다.",
+          "press": "itdaily.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 13:50",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241913",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 2026년 9월 브랜드평판...KT엠모바일, 프리티, SK세븐모바일 順",
+          "summary": "알뜰폰 브랜드평판 2026년 9월 빅데이터 분석결과, 1위 KT엠모바일 알뜰폰 2위 프리티 알뜰폰 3위 SK세븐모바일 알뜰폰 순으로 분석됐다.",
+          "press": "energy-news.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 12:36",
+          "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=228657",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 브랜드평판 2026년 9월 빅데이터 분석…1위 KT엠모바일·2위 프리...",
+          "summary": "한국기업평판연구소가 실시한 알뜰폰 브랜드평판 2026년 9월 빅데이터 분석결과, KT엠모바일 알뜰폰이 1위를 차지했으며 프리티 알뜰폰과 SK세븐모바일 알뜰폰이 각…",
+          "press": "cbci.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 11:00",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=611111",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, 통신에 Web3 접목...디지털 자산 서비스 확장",
+          "summary": "스테이지파이브가 알뜰폰 브랜드 '핀다이렉트'를 운영하며 쌓은 노하우를 기반으로 자체 개발한 플랫폼으로 가입·개통과 회선 관리부터 정산·고객서비스(CS)까지 통신…",
+          "press": "newstopkorea.com",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 10:18",
+          "link": "https://www.newstopkorea.com/news/articleView.html?idxno=47917",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[빅데이터투데이] 알뜰폰 2026년 9월 브랜드평판 랭킹... 1위 KT엠모바일...",
+          "summary": "2위 프리티 알뜰폰은 참여지수 336,969, 소통지수 298,279, 커뮤니티지수 212,114로 브랜드평판지수 847,362를 기록했다.",
+          "press": "fntoday.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 09:50",
+          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=394094",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 9월 알뜰폰 브랜드평판 1위…프리티·SK세븐 추격",
+          "summary": "국내 알뜰폰 시장에서 KT엠모바일이 브랜드평판 1위 자리를 지켰다.",
+          "press": "businesskorea.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 09:26",
+          "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=277874",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 9월 알뜰폰 브랜드평판 1위...프리티·SK세븐모바일 뒤이어",
+          "summary": "이에 따라 9월 알뜰폰 브랜드평판 순위는 KT엠모바일, 프리티, SK세븐모바일, 티플러스, LG헬로, 우체국, 모빙, 이야기모바일, 스노우맨, 스마텔, 리브모바일…",
+          "press": "popcornnews.net",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 08:56",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=134394",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "일상 인프라·디지털 금융 접목..스테이지파이브, ‘더 브릿지 서밋 202...",
+          "summary": "한국정경신문 변동휘 기­자 kkobugi89021@naver.com [한국정경신문=변동휘 기자] 스테이지파이브가 일상 통신...",
+          "press": "kpenews.com",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 08:40",
+          "link": "https://kpenews.com/View.aspx?No=4246033",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일, 알뜰폰 브랜드평판 2026년 9월...1위",
+          "summary": "2026년 9월 알뜰폰 브랜드평판 조사에서 KT엠모바일이 1위를 기록했다. 프리티와 SK세븐모바일이 각각 2위와 3위에 올랐다.",
+          "press": "beyondpost.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 08:04",
+          "link": "http://www.beyondpost.co.kr/view.php?ud=2026093008012087846a9e4dd7f_30",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT엠모바일 알뜰폰, 브랜드평판 1위…프리티·SK세븐모바일 順",
+          "summary": "프리티 알뜰폰과 SK세븐모바일 알뜰폰이 뒤를 이었으며, 프리티와 SK세븐모바일은 전월보다 브랜드평판지수가 상승한 것으로 나타났다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 07:10",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491223",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "전력반도체·배터리 시장이 산업용 인버터·UPS를 넘어 AI 데이터센터와 전기차·LFP 배터리까지 확대되며, LS전선·배터리 3사 등 주요 업체가 전원 공급 솔루션을 선보이고 투자심리가 회복되고 있다.",
+        "mercury": "AI 데이터센터 확대 기대와 미국 광통신주 급등 영향으로 머큐리·광통신 관련주가 20~30% 상승하며 강세를 보였다. 차세대 광통신망 구축 기대가 투자 심리를 주도하고 있다.",
+        "encreative": "",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "산업용 인버터부터 AI 서버까지…전력반도체 모듈주 매수세 봇물",
+          "summary": "최근 인버터, 무정전 전원공급장치(UPS), 용접기, 엘리베이터 등 전통 산업용 응용 분야를 넘어서 전기차...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 10:06",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491762",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자·나인테크 주가 폭등랠리…무슨 호재 있나",
+          "summary": "전력 효율성을 극대화하기 위한 특수 전원공급장치 및 MLCC 부품의 몸값이 높아진 데다, 글로벌 전고체...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 15:20",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491503",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "국민학교떡볶이, '고객의 입맛'으로 신제품 만든다",
+          "summary": "원하는 제품을 만들고, 소비자와 함께 성장하는 브랜드로 발전해 나가겠다\"고 말했다. 한편 이엔크리에이티브는 아이즈비전 자회사다.",
+          "press": "머니투데이",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 10:24",
+          "link": "https://n.news.naver.com/mnews/article/008/0005421498?sid=101",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "글로벌 전기차 가격 전쟁 격화… 저렴한 LFP 배터리 몸값 상승",
+          "summary": "LFP 양극재 양산 라인 구축 및 기술 개발에 따른 실적 개선 기대감이 주가를 견인하는 것으로 풀이된다....",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 10:36",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491345",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "이수스페셜티케미컬·후성 주가 신바람… 2차전지 전반 투자심리 회복",
+          "summary": "여부가 실적에 직접적인 영향을 줄 수 있다는 점에서 시장의 관심이 이어지고 있다. 자동화와 검사·공정 기술 관련 종목도 강세를 보이고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 10:32",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491339",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자 주가, 급등세... 어떤 회사길래?",
+          "summary": "지난 2001년 11월 코스닥시장에 상장했으며, 서울 금천구에 본사를 두고 있다. 주요 사업은 전원공급장치, 필름콘덴서, 증착필름 제조다.",
+          "press": "ggilbo.com",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 09:12",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1184920",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자 7.37% 상승해 장중 고가 2만8400원",
+          "summary": "1일 오후 2시19분 기준 코스닥 시장에서 성호전자는 2만8400원에 거래되고 있다. 전 거래일보다 1950원(7.37%) 오른 수준이다.",
+          "press": "job-post.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 14:36",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=230204",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "다가온 전기국가의 시간... 대한민국은 어떻게 전기국가 건설자가 되는...",
+          "summary": "랙 안에서는 전원공급장치가 다시 교류를 54볼트 직류로 바꾸고, 이것을 12볼트로, 마지막에는 칩이 쓰는...",
+          "press": "ohmynews.com",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 11:46",
+          "link": "https://n.news.naver.com/mnews/article/047/0002530857?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "송상근 BPA 사장, \"글로벌 공급망 불확실성 대응 위해 항만 회복탄력성...",
+          "summary": "AI 데이터센터 건설붐이 일어났기 때문이라고 설명했다. 특히 그는 2030년에는 대규모 신조선 인도가 역대...",
+          "press": "klnews.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 16:58",
+          "link": "https://www.klnews.co.kr/news/articleView.html?idxno=322921",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "AI·클라우드 확산에 광케이블 수요 폭발…광통신주 빛샘전자 등 들썩",
+          "summary": "AI 서비스 확산으로 데이터센터의 연산 능력이 빠르게 높아지면서 서버와 서버를 연결하는 네트워크의...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 09:28",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491285",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "AI 데이터센터가 불붙인 광통신주…관련주 두 자릿수 급등",
+          "summary": "34% 오른 2780원, 머큐리는 29.80% 오른 6250원, 오이솔루션은 9.43% 상승한 3만2500원, 우리넷은 4.91% 오른...",
+          "press": "한국경제",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 09:44",
+          "link": "https://n.news.naver.com/mnews/article/015/0005338482?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "데이터를 더 빨리, 더 멀리…AI 시대 광통신주에 매수세 유",
+          "summary": "테마 상승을 이끄는 종목은 머큐리다. 한국거래소에 따르면 이날 오전 9시48분 현재 머큐리가 29.80% 올라 6250원에 거래되고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 09:52",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492153",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "하나증권 \"AI·클라우드 확산에 광통신망 투자 확대, 관련주 대한광통신...",
+          "summary": "<대한광통신 홈페이지> 관련종목으로는 대한광통신, 오이솔루션, 우리넷, 코위버, 머큐리, 빛샘전자, RFHIC 등을 꼽았다.",
+          "press": "businesspost.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 08:58",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448236",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "AI 인프라 기대에 광통신株 동반 상승…대한광통신·머큐리 급등",
+          "summary": "머큐리는 29.80% 급등했으며 오이솔루션은 9.09% 올랐다. 라이콤과 쏠리드도 각각 6.10%, 6.00% 상승하며 광통신 관련주가 일제히 올랐다.",
+          "press": "뉴시스",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 10:49",
+          "link": "https://n.news.naver.com/mnews/article/003/0014229583?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "美 훈풍·AI데이터센터 기대에 통신장비주 강세…머큐리 '上'[핫종목]",
+          "summary": "기대에 머큐리 등 국내 통신장비주가 2일 장 초반 강세다. 간밤 뉴욕증시에서 광통신 관련주가 급등한 영향이 국내 관련 종목으로 확산하는 모습이다.",
+          "press": "뉴스1",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 10:49",
+          "link": "https://n.news.naver.com/mnews/article/421/0009205891?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "광통신주, 장초반 줄상승...AI 인프라 확대 기대감",
+          "summary": "이날 한국거래소에 따르면 코스닥 시장 오전 9시 46분 통신장비 업체 머큐리는 전일 종가 대비 1435원(29.80%) 올라 상한가(6250원)를 기록하고 있다.…",
+          "press": "파이낸셜뉴스",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 10:17",
+          "link": "https://n.news.naver.com/mnews/article/014/0005584172?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "중앙아시아도 AI로 대변신...삼성 손 잡는다",
+          "summary": "인공지능·디지털개발부를 신설하고 Alem(알렘) AI 인공지능센터와 아스타나 허브를 운영한다. 카심...",
+          "press": "머니투데이",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 10:20",
+          "link": "https://n.news.naver.com/mnews/article/008/0005421491?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "무라타 전기·광학·열 통합 CPO 로드맵 공개…AI 인터커넥트 패권 정조...",
+          "summary": "구리가 아닌 광케이블을 활용해 대용량 데이터를 빠르게 전송할 수 있다. 신호 손실과 전력 소비량을...",
+          "press": "디일렉",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 16:30",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63059",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "다이나믹솔루션, 울산 실리카슬러리 공장 착공…'로보틱스·BCI·소재' 3...",
+          "summary": "광케이블 등의 절연성과 내열성을 높이고 열팽창을 억제하는 데 활용된다.",
+          "press": "블로터",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 10:37",
+          "link": "https://n.news.naver.com/mnews/article/293/0000091104?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "EU, 고위험 통신장비 '36개월 퇴출' 없앤다",
+          "summary": "특히 독일은 통신망에서 화웨이 장비 의존도가 높은 시장 가운데 하나로 꼽힌다. 이달 초에는 티모테우스...",
+          "press": "지디넷코리아",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 10:07",
+          "link": "https://n.news.naver.com/mnews/article/092/0002439240?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 65
+}
