@@ -1,0 +1,676 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03 10:35",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "알뜰폰 시장 이통사 자회사 점유율 상한제 논의",
+      "category": "산업",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407760"
+    },
+    {
+      "rank": 2,
+      "headline": "알뜰폰 가입자 늘어도 적자…자생력 확보 시급",
+      "category": "산업",
+      "link": "https://www.itdaily.kr/news/articleView.html?idxno=241998"
+    },
+    {
+      "rank": 3,
+      "headline": "알뜰폰 5G 가입자 70만…비중 7%에 불과",
+      "category": "산업",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1315568&inflow=N"
+    },
+    {
+      "rank": 4,
+      "headline": "혁신 알뜰폰 선별 지원…내년 풀MVNO 추진",
+      "category": "산업",
+      "link": "https://www.sisaweek.com/news/articleView.html?idxno=238195"
+    },
+    {
+      "rank": 5,
+      "headline": "국감 앞둔 통신 3사…알뜰폰 구조 쟁점 부각",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/629/0000538549?sid=105"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "알뜰폰 가입자는 1천만 회선을 넘어섰고 5G 가입자는 70만 명으로 전체 회선의 7%에 불과하다. 그러나 독립 알뜰폰 사업자는 가입자 증가에도 영업이익이 2023년 296억 원 흑자에서 2024년 258억 원 적자로 전환되는 등 적자를 기록하고 있다. 이동통신 3사 자회사와 대기업 계열사의 공격적인 마케팅·출혈 경쟁이 중소·독립 사업자의 생존 기반을 위협하고 있다. 이에 업계와 일부 의원은 공정경쟁을 위한 규제·점유율 상한제 등 제도적 장치를 요구하고 있다. 정부는 내년 자체 설비 보유 풀 MVNO 확대 등을 검토하고 있다.",
+      "articles": [
+        {
+          "title": "중소 알뜰폰 업계 \"대기업 출혈경쟁에 고사 위기\"…규제 요구 분출",
+          "summary": "\" 2일 서울 여의도 국회의원회관에서 열린 '알뜰폰 2.0, 양적 성장에서 질적 성장으로' 정책 세미나에서는 이통3사 계열 알뜰폰 사업자와 금융권 등 대기업의 시…",
+          "press": "아이뉴스24",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 15:44",
+          "link": "https://n.news.naver.com/mnews/article/031/0001063200?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "가입자 늘어도 적자인 독립 알뜰폰...\"공정경쟁·자생력 키워야\"",
+          "summary": "알뜰폰 가입자가 1000만 회선을 넘어섰지만 중소·독립 사업자의 경영 기반은 좀처럼 나아지지 않고 있다.",
+          "press": "지디넷코리아",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 15:34",
+          "link": "https://n.news.naver.com/mnews/article/092/0002439718?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통사 잡으랬더니…이통사에 기대야 사는 ‘알뜰폰’의 역설",
+          "summary": "알뜰폰 시장의 구조 자체를 원점에서 재검토해야 한다는 주장이 제기됐다. 이동통신사의 대항마를 키운다는...",
+          "press": "디지털데일리",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 15:00",
+          "link": "https://n.news.naver.com/mnews/article/138/0002243515?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"아이폰18 나왔는데도 썰렁\"…번호이동 한 달 새 12% '뚝'",
+          "summary": "지난달 국내 이동통신 시장의 번호이동 규모가 60만 명 선 아래로 떨어졌다. 삼성전자의 '갤럭시Z 폴드8... 넘게 순감했던 것에 비하면 순감폭은 축소됐다.",
+          "press": "뉴시스",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 18:00",
+          "link": "https://n.news.naver.com/mnews/article/003/0014228457?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이폰 18 신작 나왔지만…9월 번호이동 12% 감소",
+          "summary": "가입자 순증감에서는 LG유플러스가 3606명으로 가장 많이 늘었고 SK텔레콤도 2566명 순증했다.",
+          "press": "아이뉴스24",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 11:08",
+          "link": "https://n.news.naver.com/mnews/article/031/0001062690?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "최적요금제 고지 1일 시행…무제한 6만9000원→4만9000원, 월 2만원",
+          "summary": "◆ 알뜰폰 1048만명은 빠졌다… \"3년간 437억원\" 비용 공방 고지 의무가 매출 1조원 초과 사업자로 한정되면서 알뜰폰 가입자 1048만명은 대상에서 빠졌다.…",
+          "press": "imaeil.com",
+          "date": "2026-10-03",
+          "datetime": "2026-10-03 07:17",
+          "link": "https://n.news.naver.com/mnews/article/088/0001031983?sid=004",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "유심 분실 땐 회선 정지 후 재발급 신청",
+          "summary": "알뜰폰 이용자는 망 제공 통신사가 아니라 실제 가입한 알뜰폰 사업자에게 문의한다.",
+          "press": "vegannews.co.kr",
+          "date": "2026-10-03",
+          "datetime": "2026-10-03 03:22",
+          "link": "https://www.vegannews.co.kr/news/article.html?no=390720",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "저소득층 통신요금 월 최대 3만3500원 감면",
+          "summary": "복지로와 정부24에서도 온라인으로 신청할 수 있으며 연중 접수한다.",
+          "press": "vegannews.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 23:20",
+          "link": "https://www.vegannews.co.kr/news/article.html?no=390612",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "하루 새 27만 원 오른 스마트폰…메모리값 급등 여파",
+          "summary": "알뜰폰이 싸니까.\" [박은애 / 인천 계양구] \"요즘 아이들이 삼성 휴대폰이나 아이폰 많이 갖고 싶어 하는데 가격이 자꾸 올라가잖아요.",
+          "press": "ichannela.com",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 19:52",
+          "link": "https://n.news.naver.com/mnews/article/449/0000362863?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 시장, 이통사 자회사 점유율 상한제 이뤄질까…\"공정경쟁 위한 ...",
+          "summary": "국내 알뜰폰(MVNO) 시장이 지속 성장하는 가운데 이통3사의 자회사 및 금융 대기업 계열 사업자의 영향력이...",
+          "press": "epnc.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 17:38",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407760",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 1000만 이후는 '질적 성장'…공정경쟁 해법 찾는다",
+          "summary": "가입자 1000만명을 넘어선 알뜰폰 시장이 공정한 거래 여건과 수익성, 서비스 품질을 함께 높여야 한다는 지적이 나왔다.",
+          "press": "moneystorm.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 17:11",
+          "link": "https://www.moneystorm.kr/news/articleView.html?idxno=7022",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"알뜰폰 가입자 늘어도 적자\"…독립 알뜰폰 '자생력 확보' 시급",
+          "summary": "알뜰폰 가입자가 1000만 회선을 넘어선 가운데 알뜰폰이 이동통신 3사(MNO)를 견제하는 경쟁 주체로 자리 잡기 위해서는 MNO 자회사와 금융권 계열사를 제외한…",
+          "press": "itdaily.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 16:22",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241998",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 5G 가입자 70만…비중은 여전히 7% 불과",
+          "summary": "뉴스토마토 = 이지은 기자 | 알뜰폰(MVNO) 5G 가입자가 1년 새 60% 넘게 늘었지만, 전체 알뜰폰 휴대폰 회선에서 차지하는 비중은 여전히 7%에 그치는…",
+          "press": "newstomato.com",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 16:08",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1315568&inflow=N",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이러려고 알뜰폰 시작했나...이상한 나라의 0원 알뜰폰",
+          "summary": "알뜰폰은 이동통신 3사가 나눠 가진 시장에 경쟁을 불어넣기 위해 정부가 키워 온 정책 시장으로 평가된다....",
+          "press": "econovill.com",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 15:58",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=752627",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "중소 알뜰폰 업계 \"대기업 출혈 경쟁…규칙은 있으나 작동하지 않는 공...",
+          "summary": "과기정통부와 한국정보통신진흥협회가 운영하는 '알뜰폰허브' 홈페이지.",
+          "press": "daily.hankooki.com",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 15:54",
+          "link": "https://daily.hankooki.com/news/articleView.html?idxno=1411839",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "혁신 투자 알뜰폰사 선별 지원 목소리… 정부, 내년 부분·풀MVNO 자신",
+          "summary": "시사위크|국회=조윤찬 기자  정부가 내년 자체 설비 보유 알뜰폰 사업자(풀MVNO)가 나오는 것을 목표로 하고...",
+          "press": "sisaweek.com",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 15:34",
+          "link": "https://www.sisaweek.com/news/articleView.html?idxno=238195",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사 알뜰폰 자회사 공정경쟁 논란, 1천만 명 가입 걸맞는 '질적 성장...",
+          "summary": "알뜰폰 가입자 1천만 시대를 맞아 통신3사 계열사와 독립 사업자 사이 공정경쟁 여건을 개선하는 동시에 알뜰폰 사업자의 도매협상력·수익성·서비스·보안 역량을 높여야…",
+          "press": "businesspost.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 15:28",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448530",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "대기업 알뜰폰 출혈 경쟁…중소사업자 \"규제 우회 막아야\"",
+          "summary": "중소 알뜰폰 사업자들이 대기업 계열사의 공격적인 마케팅으로 생존 기반이 위협받고 있다며 정부와 국회에 대책 마련을 촉구했다.",
+          "press": "newsprime.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 14:56",
+          "link": "http://www.newsprime.co.kr/news/article.html?no=749834",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "MNO 자회사 절반 차지한 알뜰폰…전문가들 \"공정경쟁 판 다시 짜야\"",
+          "summary": "알뜰폰 업계가 가입자 수 중심의 양적 성장에서 벗어나 지속가능한 사업모델과 서비스 경쟁력을 갖춘 시장으로 전환해야 한다는 진단이 나왔다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 14:02",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704589",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "한국 통신비, 세계서 제일 비싸다?…비교 기준 따라 '극과 극'",
+          "summary": "선택약정, 알뜰폰, 데이터 제공량, 통화조건 등이 다르기 때문에 하나의 요금표만으로 실제 소비자가...",
+          "press": "ebn.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 14:00",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726550",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[현장] 인당 11만원 손실에도 페이백 공세…이통 3사 자회사, 알뜰폰 말...",
+          "summary": "이동통신 3사 자회사가 자금력과 모기업 지원을 바탕으로 알뜰폰 시장에서 과도한 현금성 혜택을 제공해...",
+          "press": "dailian.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 13:09",
+          "link": "https://n.news.naver.com/mnews/article/119/0003139010?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, 알뜰폰 ‘부당지원’ 도마",
+          "summary": "알뜰폰 시장에서 10%도 안 되는 이동통신3사(MNO) 계열사들이 출혈경쟁으로 전체 가입자의 절반가량을...",
+          "press": "naeil.com",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 13:06",
+          "link": "https://www.naeil.com/news/read/604132?ref=naver",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[현장] 망은 통신 3사가 쥐고, 가입자 절반은 계열사가 차지…알뜰폰 \"...",
+          "summary": "알뜰폰 가입자가 1000만명을 넘어서면서 시장의 고민은 이제 '얼마나 더 늘릴 것인가'에서 '어떻게 경쟁하게 할 것인가'로 옮겨가고 있다.",
+          "press": "popcornnews.net",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 12:54",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=134830",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 시장, '양적 성장' 넘어 공정경쟁 제도 손질 필요",
+          "summary": "더불어민주당 이주희 국회의원은 2 일 국회의원회관 제 10 간담회의실에서 '알뜰폰 2.0, 양적 성장에서 질적 성장으로' 정책 세미나를 개최했다.",
+          "press": "koit.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 11:18",
+          "link": "https://www.koit.co.kr/news/articleView.html?idxno=209328",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "‘패닉풀’ 논란 겹친 아이폰18…9월 번호이동 60만명 아래로",
+          "summary": "지난달 국내 이동통신 시장의 번호이동 규모가 60만명 아래로 떨어졌다. 삼성전자의 ‘갤럭시Z 폴드8’...",
+          "press": "g-enews.com",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 18:16",
+          "link": "https://www.g-enews.com/view.php?ud=202610011811228562153ddfb15a_1",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"고객에게 묻는다\"…SKT·KT, '집토끼' 잡기 총력",
+          "summary": "알뜰폰은 SKT 사고 직후인 지난 6월 처음으로 1000만명을 돌파했다.",
+          "press": "hansbiz.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 17:54",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=869361",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT 에어 포인트 사용률 96% \"출시 1년 만에 자급제 시장 안착\"",
+          "summary": "알뜰폰 업체들이 낮은 요금을 앞세워 자급제 이용자를 끌어오는 가운데 이동통신 3사도 온라인 전용 요금제를 잇달아 내놓고 있기 때문이다.",
+          "press": "econovill.com",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 15:38",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=752380",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT, 번호이동 3개월 연속 홀로 '순감'···갤럭시·아이폰 신제품 효과...",
+          "summary": "KT가 이동전화 번호이동 시장에서 3개월 연속 가입자 순감을 기록했다. 올해초 대규모 가입자 이탈 이후... 알뜰폰(MVNO)은 1502명 순감했다.",
+          "press": "sisajournal-e.com",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 15:02",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424057",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "국감 앞둔 통신 3사…보안 점검에 투자 평가·알뜰폰 구조도 쟁점",
+          "summary": "소비자주권에 따르면 알뜰폰 업계 영업이익은 2023년 296억원 흑자에서 2024년 258억원 적자로 돌아섰다.",
+          "press": "news.tf.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 13:25",
+          "link": "https://n.news.naver.com/mnews/article/629/0000538549?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "경쟁사들은 웹3와 디지털 금융을 접목해 데이터 코인화·AI 기반 플랫폼 등 새로운 서비스를 출시하고 있다. SK텔레콤 계열은 0원 요금제에 매월 1만원 올리브영 상품권을 제공해 요금 부담을 낮추고 있다.",
+      "articles": [
+        {
+          "title": "남은 데이터가 코인으로...스테이지파이브, 통신에 웹3 접목",
+          "summary": "스테이지파이브가 알뜰폰 브랜드 핀다이렉트를 운영하며 확보한 기술과 경험을 기반으로 가입·개통부터 회선 관리, 정산, 고객서비스(CS)까지 통신 사업에 필요한 기능…",
+          "press": "지디넷코리아",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 15:18",
+          "link": "https://n.news.naver.com/mnews/article/092/0002439320?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이러려고 알뜰폰 시작했나...이상한 나라의 0원 알뜰폰",
+          "summary": "SK텔레콤 계열 세븐모바일도 올리브영 상품권을 매달 1만원씩 12개월 지급하는 방식으로 요금 대부분을 상쇄했다.",
+          "press": "econovill.com",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 15:58",
+          "link": "https://www.econovill.com/news/articleView.html?idxno=752627",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, '더 브릿지 서밋 2026' 기조연설…'Web3 통신' 확장",
+          "summary": "이 같은 사업을 뒷받침하는 기반은 스테이지파이브의 AI 통신 플랫폼 '스테이지온(STAGE-ON)'이다.",
+          "press": "itdaily.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 13:50",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=241913",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "스테이지파이브, 통신 기반 웹3 확대…디지털 금융 접점 제시",
+          "summary": "마일스클럽은 스테이지파이브와 키인사이드가 공동 설립한 합작법인 더마일스의 통신 서비스 브랜드다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 15:06",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703924",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "LFP 배터리 양산과 전력반도체 모듈 수요 확대가 주가 상승을 견인해 파워넷·성호전자 등 관련주가 급등했으며, AI 데이터센터용 CPO와 전통 산업용 인버터·UPS 등 적용 범위 확대가 투자심리 회복으로 이어졌다.",
+        "mercury": "AI 데이터센터 확대와 대용량 트래픽 증가로 머큐리 주가가 상한가를 기록했으며, LG유플러스·KT에 보안칩을 공급해 통신사 레퍼런스가 강화됐다. 동시에 광섬유·광케이블 사업을 영위하는 대한광통신 등 광통신주도 통신망 투자와 AI 인프라 확대에 힘입어 상승세를 보였다.",
+        "encreative": "",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "산업용 인버터부터 AI 서버까지…전력반도체 모듈주 매수세 봇물",
+          "summary": "최근 인버터, 무정전 전원공급장치(UPS), 용접기, 엘리베이터 등 전통 산업용 응용 분야를 넘어서 전기차...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 10:06",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491762",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자·나인테크 주가 폭등랠리…무슨 호재 있나",
+          "summary": "전력 효율성을 극대화하기 위한 특수 전원공급장치 및 MLCC 부품의 몸값이 높아진 데다, 글로벌 전고체...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 15:20",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491503",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "국민학교떡볶이, '고객의 입맛'으로 신제품 만든다",
+          "summary": "원하는 제품을 만들고, 소비자와 함께 성장하는 브랜드로 발전해 나가겠다\"고 말했다. 한편 이엔크리에이티브는 아이즈비전 자회사다.",
+          "press": "머니투데이",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 10:24",
+          "link": "https://n.news.naver.com/mnews/article/008/0005421498?sid=101",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "파워넷 7%·SK이노베이션 6%↑… LFP 배터리株 요동",
+          "summary": "LFP 배터리 테마의 상승세를 이끄는 종목은 파워넷이다. 한국거래소에 따르면 이날 오전 10시58분 현재...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 11:02",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492194",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "글로벌 전기차 가격 전쟁 격화… 저렴한 LFP 배터리 몸값 상승",
+          "summary": "LFP 양극재 양산 라인 구축 및 기술 개발에 따른 실적 개선 기대감이 주가를 견인하는 것으로 풀이된다....",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 10:36",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491345",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "이수스페셜티케미컬·후성 주가 신바람… 2차전지 전반 투자심리 회복",
+          "summary": "여부가 실적에 직접적인 영향을 줄 수 있다는 점에서 시장의 관심이 이어지고 있다. 자동화와 검사·공정 기술 관련 종목도 강세를 보이고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-09-30",
+          "datetime": "2026-09-30 10:32",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491339",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[베스트&워스트] 코스피 1% 하락에도 티엠씨 29% 상승…정리매매 부산주...",
+          "summary": "전자가격표시기(ESL)와 전원공급장치 사업의 실적 회복 기대가 이어지는 가운데 주가가 연중 저점...",
+          "press": "etoday.co.kr",
+          "date": "2026-10-03",
+          "datetime": "2026-10-03 06:02",
+          "link": "https://www.etoday.co.kr/news/view/2632155",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "시지트로닉스, 광반도체 사업 대폭 확대",
+          "summary": "시스템 시장 성장에 발맞춰 광반도체 사업을 대폭 확대한다고 밝혔다. 적외선 발광다이오드(IRED)와...",
+          "press": "hansbiz.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 18:24",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=869712",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"AI 데이터센터용 CPO 뜬다\"...성호전자, 한 달 새 71% 급등",
+          "summary": "이투데이=신혜주 기자 | AI 데이터센터 열풍 속 광집적패키징(CPO)을 중심으로 한 광반도체 후공정 시장이...",
+          "press": "etoday.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 16:34",
+          "link": "https://www.etoday.co.kr/news/view/2632146",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자 8%대 상승…거래량 810만주 집중",
+          "summary": "2일 오후 1시21분 기준 코스닥 시장에서 성호전자은 3만950원에 거래되고 있다. 전 거래일보다 2,450원(+8.60...",
+          "press": "job-post.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 13:36",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=230456",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[특징주] 광통신株, 美 빅테크 투자 확대 소식에 일제히 강세",
+          "summary": "이날 오전 9시 42분 코스닥 시장에서 머큐리는 전 거래일 대비 1435원(29.80%) 오른 6250원에 거래되며... 기존 구리선보다",
+          "press": "조선비즈",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 09:52",
+          "link": "https://n.news.naver.com/mnews/article/366/0001195813?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "AI 데이터센터가 불붙인 광통신주…관련주 두 자릿수 급등",
+          "summary": "상한가에 도달한 머큐리는 유무선 공유기(AP)와 광섬유 케이블 등 홈네트워크 및 광통신 설비를 주력으로 공급하는 통신장비 전문 기업이다.",
+          "press": "한국경제",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 09:44",
+          "link": "https://n.news.naver.com/mnews/article/015/0005338482?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[특징주] AI 데이터센터發 광통신 투자 확대, 머큐리 29% 급등",
+          "summary": "2일 한국거래소에 따르면 이날 오전 9시 35분 머큐리는 전거래일 대비 1435원(29.80%) 오른 6250원에 거래되고...",
+          "press": "아이뉴스24",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 09:43",
+          "link": "https://n.news.naver.com/mnews/article/031/0001063013?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "머큐리 가격제한폭 근접…광통신 부문 흑자 전환 주목",
+          "summary": "코스닥 상장사 머큐리는 2일 오후 2시41분 기준 1,435원 오른 6,250원을 나타냈다. 등락률은 29.80%다. 2분기...",
+          "press": "job-post.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 14:56",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=230550",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[26.10.2 증시 인싸잇] AI 데이터센터 투자 확대 기대… 광통신 관련주 ...",
+          "summary": "종목별로는 머큐리가 전 거래일 대비 29.80% 오른 6250원으로 상한가를 기록했다. 덕우전자는 22.68% 상승한...",
+          "press": "mediawatch.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 12:20",
+          "link": "https://www.mediawatch.kr/news/article.html?no=261259",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "데이터를 더 빨리, 더 멀리…AI 시대 광통신주에 매수세 유",
+          "summary": "한국거래소에 따르면 이날 오전 9시48분 현재 머큐리가 29.80% 올라 6250원에 거래되고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 09:52",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492153",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "“조국 모르면 나도 없다”…6조달러 한·일 경제 동맹 꿈꾸는 영원한 ...",
+          "summary": "2002년 한·일 월드컵을 앞두고 부산과 후쿠오카를 잇는 해저 광케이블 부설을 주도한 일화가 대표적이다....",
+          "press": "한국경제",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 15:27",
+          "link": "https://n.news.naver.com/mnews/article/050/0000111565?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[특징주] 덕우전자 등 광통신주 일제히 상승세…AIDC 수요 증가 영향",
+          "summary": "이날 광통신 관련주의 상승은 AI 데이터센터 확산과 대용량 트래픽 증가에 따라 초고속 전송망과 광통신...",
+          "press": "아주경제",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 11:10",
+          "link": "https://www.ajunews.com/view/20261002105657660",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "중앙아시아도 AI로 대변신...삼성 손 잡는다",
+          "summary": "인공지능·디지털개발부를 신설하고 Alem(알렘) AI 인공지능센터와 아스타나 허브를 운영한다. 카심...",
+          "press": "머니투데이",
+          "date": "2026-10-02",
+          "datetime": "2026-10-02 10:20",
+          "link": "https://n.news.naver.com/mnews/article/008/0005421491?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "무라타 전기·광학·열 통합 CPO 로드맵 공개…AI 인터커넥트 패권 정조...",
+          "summary": "구리가 아닌 광케이블을 활용해 대용량 데이터를 빠르게 전송할 수 있다. 신호 손실과 전력 소비량을...",
+          "press": "디일렉",
+          "date": "2026-10-01",
+          "datetime": "2026-10-01 16:30",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63059",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 53
+}
