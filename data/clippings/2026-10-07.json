@@ -1,0 +1,753 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07 10:59",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "[스코어보드-과방위]국감장 걸어들어온 中휴머노이드…파행 대신 정책질...",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/008/0005422859?sid=100"
+    },
+    {
+      "rank": 2,
+      "headline": "[ICT 종합] 한국레노버 및 HP코리아 소식 외",
+      "category": "산업",
+      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=61236"
+    },
+    {
+      "rank": 3,
+      "headline": "대기업 알뜰폰 '1만원에 50만원 혜택'…조경태 의원 \"중소업체 버티겠나...",
+      "category": "산업",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=554140"
+    },
+    {
+      "rank": 4,
+      "headline": "'신상폰' 지원금에 짐 싼 알뜰폰족…LGU+가 최대 수혜 입은 이유",
+      "category": "산업",
+      "link": "https://www.kpinews.kr/newsView/1065597193288337"
+    },
+    {
+      "rank": 5,
+      "headline": "野조경태 \"1만원 요금에 50만원 혜택 알뜰폰…대기업 지원 조사해야\"",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/008/0005422734?sid=105"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "최근 알뜰폰 시장에서 대기업과 자회사들의 과반 점유율과 1만원 요금에 50만원 혜택 등 과도한 프로모션이 논란이 되고 있다. 국회에서는 공정 경쟁 환경 조성을 위한 실태조사와 경쟁평가 방안을 요구하고, 기존 규제가 도매대가·제공조건까지 제한해 투자 여력을 저해한다는 지적이 나오고 있다. 한편, KT Japan이 ‘tt mobile’ 등 새로운 MVNO 서비스를 출시하고, 우리은행이 ‘우리WON모바일’로 맞춤형 요금제와 0원 프로모션을 선보이며 차별화된 혜택 경쟁이 확대되고 있다.",
+      "articles": [
+        {
+          "title": "[스코어보드-과방위]국감장 걸어들어온 中휴머노이드…파행 대신 정책질...",
+          "summary": "최다선 조경태 국민의힘 의원은 국제이동가입자식별번호(IMSI)와 알뜰폰 시장 등 생활 속 통신 문제를 파고들었고, 이연희 민주당 의원은 R&D 사업의 기획자와 심…",
+          "press": "머니투데이",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 22:35",
+          "link": "https://n.news.naver.com/mnews/article/008/0005422859?sid=100",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "野조경태 \"1만원 요금에 50만원 혜택 알뜰폰…대기업 지원 조사해야\"",
+          "summary": "조경태 국민의힘 의원이 이동통신 3사와 대기업 자회사가 과반 시장점유율을 차지하고 있는 알뜰폰 시장에 대해 실태조사를 주문했다.",
+          "press": "머니투데이",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 17:01",
+          "link": "https://n.news.naver.com/mnews/article/008/0005422734?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신규제, 틀을 바꾸자]〈상〉AI 시대 통신정책, 요금 아닌 혁신 경쟁...",
+          "summary": "통신 3사의 소매요금 인하 압박은 물론 알뜰폰 경쟁력 강화를 위해 도매대가와 제공 조건까지 규제하면서 통신시장 전체 투자 여력과 지속가능한 경쟁까지 저해하고 있다…",
+          "press": "전자신문",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 14:28",
+          "link": "https://n.news.naver.com/mnews/article/030/0003472633?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“출국 전에 번호 받자”…KT 재팬, 日 모바일 가입 서비스 출시",
+          "summary": "KT의 일본 현지 법인 KT 재팬은 출국 전 여권과 PASS 간편인증을 통해 일본 이동통신 회선을 신청할 수 있는 알뜰폰(MVNO) 서비스 ‘티티 모바일(tt m…",
+          "press": "조선비즈",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 13:23",
+          "link": "https://n.news.naver.com/mnews/article/366/0001196139?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[AI 시대, 통신법을 다시 묻다㊦] ‘땜질’로 버틴 35년…길 잃은 정책 ...",
+          "summary": "달라진 시장에서 전기통신사업법이 다시 짜야 할 규제 질서를 들여다봤다. ◆ 플랫폼·AI 영향력 커졌는데...",
+          "press": "디지털데일리",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 13:02",
+          "link": "https://n.news.naver.com/mnews/article/138/0002243666?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT 저팬, 출국 전 일본 번호 신청 가능한 ‘tt 모바일’ 출시",
+          "summary": "있는 알뜰폰(MVNO) 서비스 ‘tt mobile(티티 모바일)’을 선보인다고 5일 밝혔다. 일본 전화번호는 은행 계좌...",
+          "press": "디지털데일리",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 12:00",
+          "link": "https://n.news.naver.com/mnews/article/138/0002243656?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT 재팬, 日 장기체류 고객 대상 알뜰폰 '티티 모바일' 출시",
+          "summary": "있는 알뜰폰 서비스 'tt mobile(티티 모바일)'을 선보인다. 이 서비스는 출국 전 여권과 PASS 간편인증만으로...",
+          "press": "전자신문",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 11:53",
+          "link": "https://n.news.naver.com/mnews/article/030/0003472279?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "한국서 유심 받고 일본서 바로 개통... KT재팬, 日 알뜰폰 서비스 출시",
+          "summary": "KT의 일본 현지 법인 KT재팬이 일본 장기 체류 예정인 국내 고객을 대상으로 알뜰폰 서비스를 선보인다.... 요금은 가입자 명의 카드로 결제하면 된다.",
+          "press": "한국일보",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 11:48",
+          "link": "https://n.news.naver.com/mnews/article/469/0000957703?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "한국서 日 알뜰폰 미리 가입한다…KT 재팬, ‘tt 모바일’ 출시",
+          "summary": "있는 알뜰폰(MVNO) 서비스 '티티 모바일'(tt mobile)을 선보인다고 5일 밝혔다. tt 모바일은 유학이나...",
+          "press": "디지털타임스",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 11:25",
+          "link": "https://n.news.naver.com/mnews/article/029/0003051406?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“여권만 있으면 일본 번호 만든다고?”…KT Japan, 알뜰폰 요금제 출시",
+          "summary": "5일 KT Japan은 일본 장기 체류 예정자를 대상으로 알뜰폰(MVNO) 서비스 ‘티티 모바일(tt mobile)’을...",
+          "press": "매일경제",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 11:16",
+          "link": "https://n.news.naver.com/mnews/article/009/0005743962?sid=103",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT 재팬, 알뜰폰 'tt 모바일' 출시…출국 전 일본 현지 모바일 가입",
+          "summary": "있는 알뜰폰(MVNO) 서비스 '티티 모바일(tt mobile)'을 선보인다고 5일 밝혔다. 그동안 일본 장기 체류가...",
+          "press": "아주경제",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 11:12",
+          "link": "https://www.ajunews.com/view/20261005101946299",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT 재팬, 출국 전 여권으로 일본 현지 모바일 가입 '티티 모바일' 출시",
+          "summary": "KT 재팬이 일본 장기 체류 예정인 국내 고객을 대상으로 출국 전 여권만으로 일본 전화번호를 한국어로 신청할 수 있는 알뜰폰 서비스 '티티 모바일'을 선보인다고…",
+          "press": "연합뉴스",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 11:08",
+          "link": "https://n.news.naver.com/mnews/article/001/0016357460?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT재팬, 출국 전 여권·PASS 인증으로 일본 번호 개통 티티모바일 출시",
+          "summary": "KT 재팬은 일본 장기 체류 예정인 한국 가입자를 대상으로 출국 전 여권과 PASS(패스) 간편인증만으로 일본 전화번호를 신청할 수 있는 알뜰폰 서비스 티티모바일…",
+          "press": "지디넷코리아",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 10:53",
+          "link": "https://n.news.naver.com/mnews/article/092/0002439839?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[테크스냅] KT재팬, 일본 장기체류용 알뜰폰 출시",
+          "summary": "KT, 산불 대비 민관 합동 훈련 참여 KT의 일본 법인 KT 재팬이 일본 장기 체류를 앞둔 국내 고객을 겨냥해 출국 전 한국에서 가입할 수 있는 알뜰폰 서비스를…",
+          "press": "연합뉴스",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 10:42",
+          "link": "https://n.news.naver.com/mnews/article/001/0016357428?sid=102",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT Japan, 출국 전 여권으로 일본 현지 모바일 가입 ‘tt mobile’ 출시",
+          "summary": "= KT Japan(법인장 박찬범)이 일본 장기 체류 예정인 국내 고객을 대상으로 출국 전 여권만으로 일본 전화번호를 한국어로 신청할 수 있는 알뜰폰(MVNO)…",
+          "press": "뉴스1",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 10:13",
+          "link": "https://n.news.naver.com/mnews/article/421/0009209556?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT Japan, 출국 전 여권으로 일본 현지 모바일 가입 ‘tt mobile’ 출시",
+          "summary": "= KT Japan(법인장 박찬범)이 일본 장기 체류 예정인 국내 고객을 대상으로 출국 전 여권만으로 일본 전화번호를 한국어로 신청할 수 있는 알뜰폰(MVNO)…",
+          "press": "뉴스1",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 10:13",
+          "link": "https://n.news.naver.com/mnews/article/421/0009209557?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT Japan, 출국 전 여권으로 일본 현지 모바일 가입 ‘tt mobile’ 출시",
+          "summary": "= KT Japan(법인장 박찬범)이 일본 장기 체류 예정인 국내 고객을 대상으로 출국 전 여권만으로 일본 전화번호를 한국어로 신청할 수 있는 알뜰폰(MVNO)…",
+          "press": "뉴스1",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 10:12",
+          "link": "https://n.news.naver.com/mnews/article/421/0009209555?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"일본 갈 때 손쉽게 현지 알뜰폰 가입\"…KT 재팬, 티티 모바일 출시",
+          "summary": "KT가 일본에 장기 체류하는 국내 고객을 위한 현지 알뜰폰 서비스를 선보인다. KT 일본 현지법인 KT 재팬은...",
+          "press": "뉴시스",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 10:09",
+          "link": "https://n.news.naver.com/mnews/article/003/0014233437?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"출국 전에 번호 받자\"…KT 저팬, 日 모바일 가입 서비스 출시",
+          "summary": "있는 알뜰폰(MVNO) 서비스 'tt mobile'(티티 모바일)을 선보인다고 5일 밝혔다. 업계에 따르면 유학이나...",
+          "press": "뉴스1",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 10:04",
+          "link": "https://n.news.naver.com/mnews/article/421/0009209536?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "日 장기 체류 고객, 한국서 KT로 일본 전화번호 미리 개통",
+          "summary": "KT Japan(재팬)이 일본 장기 체류 예정인 국내 고객을 대상으로 출국 전 여권만으로 일본 전화번호를 한국어로 신청할 수 있는 알뜰폰(MVNO) 서비스 'tt…",
+          "press": "머니투데이",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 09:37",
+          "link": "https://n.news.naver.com/mnews/article/008/0005422049?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독]\"알뜰폰 1만명당 1명\"이라더니…정부, 상담사 수도 몰랐다",
+          "summary": "그러나 정작 정부는 기존 규제를 적용받는 SKT 망 알뜰폰 사업자들의 상담 인력 수조차 제출받지 않은 채 요건 충족 여부만 확인해온 것으로 나타났다.",
+          "press": "이데일리",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 09:03",
+          "link": "https://n.news.naver.com/mnews/article/018/0006381038?sid=100",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "김우영 “알뜰폰 1050만은 착시”…후불폰 55.5% 이통3사 자회사",
+          "summary": "사진=이데일리 DB 국회 과학기술정보방송통신위원회 김우영 의원(더불어민주당·서울 은평을)이 과학기술정보통신부에서 제출받은 자료에 따르면 2026년 7월 기준 전체…",
+          "press": "이데일리",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 08:26",
+          "link": "https://n.news.naver.com/mnews/article/018/0006380934?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[ICT 종합] 한국레노버 및 HP코리아 소식 외",
+          "summary": "있는 알뜰폰(MVNO) 서비스 'tt mobile(티티 모바일)'을 선보인다고 5일 밝혔다. 유학이나 워킹홀리데이...",
+          "press": "gamevu.co.kr",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 20:06",
+          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=61236",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "대기업 알뜰폰 '1만원에 50만원 혜택'…조경태 의원 \"중소업체 버티겠나...",
+          "summary": "그는 \"기술력과 경쟁력이 있는 중소기업이 살아남을 수 있도록 정부가 적극적으로 권장해야 한다\"며 알뜰폰 시장의 공정경쟁 환경 조성을 요구했다.",
+          "press": "ngetnews.com",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 17:46",
+          "link": "https://www.ngetnews.com/news/articleView.html?idxno=554140",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'신상폰' 지원금에 짐 싼 알뜰폰족…LGU+가 최대 수혜 입은 이유",
+          "summary": "이 중 약 89%는 알뜰폰 이동에서 발생했다. SKT·KT와의 이동을 합친 순증은 1539건에 그쳤다. 업계에서는...",
+          "press": "kpinews.kr",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 17:44",
+          "link": "https://www.kpinews.kr/newsView/1065597193288337",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행 '우리WON모바일', 10월 한 달간 \"통신비 최종 0원\"",
+          "summary": "우리은행의 알뜰폰(MVNO) 통신 서비스 '우리WON모바일'이 고객 유형별 맞춤 요금제를 통해 체감 통신비를 대폭 낮추는 파격적인 가입 프로모션을 선보인다.",
+          "press": "newsdream.kr",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 16:26",
+          "link": "http://www.newsdream.kr/news/articleView.html?idxno=119461",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행 '우리WON모바일', 10월 '모두의통신 이벤트' 진행",
+          "summary": "알뜰폰 시장에서 요금뿐 아니라 고객별 이용 패턴에 맞춘 혜택 경쟁이 확대되는 가운데 우리WON모바일의 고객층을 넓히기 위한 것으로 풀이된다.",
+          "press": "econonews.co.kr",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 15:30",
+          "link": "http://www.econonews.co.kr/news/articleView.html?idxno=445324",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KT재팬, 출국 전 가입하는 日 알뜰폰 ‘tt mobile’ 선봬…KT, 산불 대비...",
+          "summary": "위한 알뜰폰 서비스 ‘tt mobile’을 선보였다. tt mobile은 출국 전 한국에서 여권과 PASS 간편인증으로...",
+          "press": "nspna.com",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 13:50",
+          "link": "https://www.nspna.com/news/?mode=view&newsid=830647",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[국감 2026] \"후불·선불·IoT 따로\"…김우영 의원, 알뜰폰 경쟁평가 개...",
+          "summary": "김우영 민주당 의원은 이에 대해 \"알뜰폰 시장이 1천만 가입자 시대에 들어선 만큼 전체 가입자 숫자만으로 경쟁 상황을 판단하기보다",
+          "press": "financialpost.co.kr",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 13:42",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=278841",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] KT Japan, KT(10.6)",
+          "summary": "▲ KT Japan 모델이 tt mobile(티티 모바일)을 소개하는 모습 KT Japan, 한국서 미리 가입하는 일본 알뜰폰 'tt...",
+          "press": "weeklytoday.com",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 10:28",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=796918",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "KT·LGU+ 계열 알뜰폰이 0원·마이너스 요금 등 초저가 정책을 내세워 소매시장에서 직접 경쟁하고 있다. 이로 인해 공정경쟁 훼손 우려가 제기되고 있다.",
+      "articles": [
+        {
+          "title": "KT·LGU+ 계열 알뜰폰 '0원·마이너스 요금' 도마...\"공정경쟁 훼손 우려...",
+          "summary": "계열 알뜰폰을 통해 소매시장에서 직접 경쟁하는 수직계열 구조를 문제로 지목했다.",
+          "press": "wolyo.co.kr",
+          "date": "2026-10-04",
+          "datetime": "2026-10-04 19:58",
+          "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=318648",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "글로벌 완성차의 LFP 배터리 확대와 데이터센터·AI·로봇 수요 증가로 ESS·UPS·전원부품 시장이 급성장하고, 파워넷은 UPS·배터리 공급으로 주가 상승세를 보이고 있다.",
+        "mercury": "머큐리는 SK텔링크·테크트리·인핸스 등과 함께 AI·위성·네트워크·보안 분야를 선보인 SKT 전시·국방 AX에 참여해 방위·통신 융합 역할을 강조했다. AI 데이터센터 확대와 광케이블·광모듈 수요 증가가 광통신 장비·머큐리광통신의 시장 확대와 연결된다.",
+        "encreative": "K푸드가 마라탕·불고기 소스·간편·냉동 등 다양한 품목으로 확대되고, 이와 함께 스마트워치·전기차 충전 등 비식품까지 진출한다. 쿠팡은 신선식품 회수 없이 즉시 환불 실험으로 이커머스 장보기 경쟁을 가속화한다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "글로벌 완성차 LFP 채택 확산에 ESS 수요 급증… 엘앤에프·LG엔솔 상승 ...",
+          "summary": "SFA넥셀이 6.47% 오르고 있으며, 탑머티리얼(4.86%), 아모그린텍(2.59%), 코윈로보틱스(1.86%), 파워넷(1.35%), EG(1.05%) 등이…",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 10:56",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492889",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "매그나칩, TV·노트북 어댑터·PC 전원공급장치용 6세대 E6 Super Junction M...",
+          "summary": "적합한 성능과 패키지 옵션을 제공하게 됐다”고 말했다.",
+          "press": "전자신문",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 10:42",
+          "link": "https://n.news.naver.com/mnews/article/030/0003472477?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "감속기부터 협동로봇까지 매수 온기 확산… 실적 모멘텀 겸비한 로봇 핵...",
+          "summary": "등을 공급하는 기업들이 기술 경쟁력을 바탕으로 수혜 기대감을 키우고 있다. 시장 전문가들은 대기업과의...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 14:46",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492985",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "“전고체 배터리가 꿈의 배터리라고?”…‘전천후 배터리’ 야망 키우는...",
+          "summary": "변동과 공급망 리스크를 낮출 수 있다.",
+          "press": "경향신문",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 07:00",
+          "link": "https://n.news.naver.com/mnews/article/032/0003474678?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "마이크로칩-나비타스, AI 서버 800V 전력 레퍼런스 디자인 공개",
+          "summary": "서버 랙에 공급되는 800V 직류 전기를 서버 내부의 6V 전원으로 한 번에 낮추는 설계다. 기존 2단 변환...",
+          "press": "디일렉",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 15:22",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63297",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "엔진·배터리·공조… AI 데이터센터, 제조업 신시장을 열다",
+          "summary": "무정전전원장치(UPS)·배터리백업장치(BBU)까지 다양한 배터리 시스템이 필요하다. 특히 AI 서버의 전력...",
+          "press": "국민일보",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 00:04",
+          "link": "https://n.news.naver.com/mnews/article/005/0001876863?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[리뷰] MSI PRO MAX 271UPXW12G: 선 없는 화이트 데스크 셋업 완성, 크리에...",
+          "summary": "입력 장치를 따로 갖출 필요가 없다. AI 케어 센서는 CMOS 센서와 AI 알고리즘으로 사용자의 자리 비움을...",
+          "press": "cnet.co.kr",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 10:10",
+          "link": "https://www.cnet.co.kr/view/?no=20261006202235",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "군산 이어 인천까지…현대엔지니어링, 데이터센터 연타 수주",
+          "summary": "냉각탑·냉동기·수배전반은 현대엔지니어링이, 무정전전원장치(UPS)·배터리·자동제어는 kt cloud가 맡는다....",
+          "press": "ftoday.co.kr",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 09:40",
+          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=366747",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "K-배터리 3사, AI 데이터센터 '전력 해결사' 노린다",
+          "summary": "전력 공급 영역으로 확장되는 흐름이다.",
+          "press": "koreareport.co.kr",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 09:24",
+          "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53461",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "AI 데이터센터용 직류 배전망 시장 급성장 전망, 구자균 LS일렉트릭 800볼...",
+          "summary": "이정우 다올투자증권 연구원은 6일 보고서에서 \"LS일렉트릭은 반도체 변압기, 반도체 차단기, DC-DC 컨버터까지 이어지는 직류 배전 라인업을 구축했으며, 자체…",
+          "press": "businesspost.co.kr",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 16:50",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448707",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "지휘관 전장 분석 돕는다… SKT ‘AI 참모’",
+          "summary": "이번 전시에는 SK텔링크, 테크트리이노베이션, 인핸스, 머큐리, KCS, 파블로항공 등이 협력했다.",
+          "press": "국민일보",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 05:26",
+          "link": "https://n.news.naver.com/mnews/article/005/0001877182?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "“전장 분석부터 판단까지 돕는다”… SKT, 軍지휘관 돕는 ‘AI 참모’ ...",
+          "summary": "이번 전시에는 SK텔링크, 테크트리이노베이션, 인핸스, 머큐리, KCS, 파블로항공 등이 협력했다.",
+          "press": "국민일보",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 18:39",
+          "link": "https://n.news.naver.com/mnews/article/005/0001877090?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "전장 분석하고 판단… SKT 'AI참모' 눈길",
+          "summary": "AI·드론·로봇 등 다양한 전력이 실시간으로 정보를 주고받을 수 있는 통신 환경을 구축하는 데 초점을 맞췄다.",
+          "press": "파이낸셜뉴스",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 18:14",
+          "link": "https://n.news.naver.com/mnews/article/014/0005585687?sid=105",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "지휘관 옆에 ‘AI 참모’ 둔다…SKT, 미래 전투 기술 선봬",
+          "summary": "이번 전시에는 SK텔링크와 테크트리이노베이션, 인핸스, 머큐리, KCS·파블로항공 등 AI·위성·네트워크·보안 분야 기업들도 협력했다.",
+          "press": "매일경제",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 17:37",
+          "link": "https://n.news.naver.com/mnews/article/009/0005744711?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "전장에 ‘AI 참모’ 뜬다…SKT, 국방 AX 기술 공개",
+          "summary": "이번 전시에는 SK텔링크와 테크트리이노베이션, 인핸스, 머큐리, KCS, 파블로항공 등 관련 분야 기업들도 참여했다.",
+          "press": "디지털데일리",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 16:04",
+          "link": "https://n.news.naver.com/mnews/article/138/0002243815?sid=105",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "SKT, ‘AI 참모’ 공개…전장 정보 모아 지휘관 판단 돕는다",
+          "summary": "이번 전시에는 SK텔링크, 테크트리이노베이션, 인핸스, 머큐리, KCS, 파블로항공 등 AI·위성·네트워크·보안 분야 기업들도 참여했다.",
+          "press": "이데일리",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 11:45",
+          "link": "https://n.news.naver.com/mnews/article/018/0006381898?sid=105",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"가입자 1명 남아도 망 못 끈다\"…'낡은 HFC'에 갇힌 케이블TV",
+          "summary": "광케이블을 가정까지 연결하는 FTTH와 달리 망 중간에 노드·증폭기 등 전력이 필요한 장비가 있어 유지... 소모는 FTTH보다 약 6배 많다.",
+          "press": "파이낸셜뉴스",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 16:25",
+          "link": "https://n.news.naver.com/mnews/article/014/0005585629?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[단독] 고속도로 '노는 땅'에 AI데이터센터 짓는다",
+          "summary": "고속도로 주변은 발전소와 도시를 연결하는 송전선이 많고, 지하에 광케이블이 깔려 있어 전력 인프라를...",
+          "press": "한국경제",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 17:50",
+          "link": "https://n.news.naver.com/mnews/article/015/0005339236?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[인문자의 앤트로픽 이야기 | 인간·문화·자연] 앤트로픽 상장, 반도체...",
+          "summary": "아니면 철도·인터넷처럼 거품이 걷힌 뒤 거대한 인프라가 남을까' 세계 자본시장이 다시 한번 거대한...",
+          "press": "아주경제",
+          "date": "2026-10-04",
+          "datetime": "2026-10-04 16:24",
+          "link": "https://www.ajunews.com/view/20261004161541017",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[더벨][thebell interview] 사이먼 QIC 사모대출 총괄 \"인프라 대출, 한국...",
+          "summary": "인공지능(AI) 관련해서는 데이터센터 건물뿐 아니라 냉각·전력·광섬유 등 연관 인프라에서도 기회를 찾고...",
+          "press": "thebell.co.kr",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 08:18",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610021326545080104819",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "GS샵, 하반기 최대 쇼핑행사 '판타지에스' 개최",
+          "summary": "애플하우스 즉석 떡볶이와 박은영 셰프의 중식당 누와 밀키트도 준비했다. 자체 브랜드 상품은 1만원대...",
+          "press": "전자신문",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 10:25",
+          "link": "https://n.news.naver.com/mnews/article/030/0003472460?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "마라탕만 먹는 줄 알았는데…국밥·버거·파스타·치킨까지 번진 마라",
+          "summary": "이번에 새로 들어가는 품목은 마라탕을 비롯해 샐러드, 밀키트, 스마트워치, 전기차 충전료, 소프트웨어... 면 시장에서도 같은 흐름이 나타났다.",
+          "press": "세계일보",
+          "date": "2026-10-05",
+          "datetime": "2026-10-05 07:02",
+          "link": "https://n.news.naver.com/mnews/article/022/0004164083?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "김밥 싸고 천일염도 사고…전남광주, 여수서 'K-수산푸드 축제' 연다",
+          "summary": "글로벌 K-푸드의 주역인 김과 천일염을 주제로 한 대형 수산물 문화 축제를 개최한다. 7일 전남광주시에...",
+          "press": "세계일보",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 10:13",
+          "link": "https://n.news.naver.com/mnews/article/022/0004164689?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "세계 김밥·소금 페스티벌 9~11일 여수서 개최",
+          "summary": "친숙한 K-푸드 콘텐츠와 연계해 체험과 공연, 먹거리, 판매 등을 한자리에서 즐기도록 마련했다.",
+          "press": "뉴스1",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 09:54",
+          "link": "https://n.news.naver.com/mnews/article/421/0009213469?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "김밥·천일염 한자리에…여수서 '세계 김밥&소금 페스티벌' 열린다",
+          "summary": "[사진=전남광주통합특별시] 전남광주의 대표 수산물인 김과 천일염을 K-푸드와 연계해 맛보고 체험하는...",
+          "press": "아주경제",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 09:08",
+          "link": "https://www.ajunews.com/view/20261007085901531",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "불고기로 눈길 끌고, 불닭소스로 주방 침투…K푸드, 美 공략법 바꿔라",
+          "summary": "떡볶이·김밥 등으로 확보한 K푸드에 대한 관심을 소스와 간편조리식품, 냉동식품 등으로 연결해 반복적인 소비를 만들어야 한다는 것이다.",
+          "press": "조선비즈",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 11:36",
+          "link": "https://n.news.naver.com/mnews/article/366/0001196307?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "쿠팡, 신선식품 '회수 없이 즉시 환불' 파격 실험…이커머스 장보기 혈...",
+          "summary": "치열해지는 이커머스 장보기 시장에서 시장 주도권을 굳히는 전략으로 풀이된다.",
+          "press": "전자신문",
+          "date": "2026-10-06",
+          "datetime": "2026-10-06 10:18",
+          "link": "https://n.news.naver.com/mnews/article/030/0003472448?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"김치는 너무 뻔해!\" 파리 사로잡은 신상 K-푸드?",
+          "summary": "차세대 수출 유망 품목에 대해서는 저희도 당초에는 조금 생소하게 느끼지 않을까 그렇게 생각을 했는데, 의외로 현지 소비자들이 발효와 비건 식품, 냉동식품, 그리고…",
+          "press": "YTN",
+          "date": "2026-10-04",
+          "datetime": "2026-10-04 19:20",
+          "link": "https://n.news.naver.com/mnews/article/052/0002414696?sid=104",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "김 생산 2위 전북, 가공-수출에 주력하자",
+          "summary": "김이 대표적 K-푸드로 세계인의 식탁을 파고들면서 새로운 수출 효자산업으로 떠올랐다.",
+          "press": "jeollailbo.com",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 10:52",
+          "link": "http://www.jeollailbo.com/news/articleView.html?idxno=812999",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 60
+}
