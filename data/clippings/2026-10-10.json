@@ -1,0 +1,609 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10 11:05",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "알뜰폰 후불 시장 절반 이상 통신 3사 계열",
+      "category": "산업",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424185"
+    },
+    {
+      "rank": 2,
+      "headline": "요금제 줄였는데 통신비 선택은 여전히 난항",
+      "category": "산업",
+      "link": "https://theviewers.co.kr/View.aspx?No=4254431"
+    },
+    {
+      "rank": 3,
+      "headline": "LGU+, 가입자 868만 유심 원격 업데이트",
+      "category": "산업",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=267626"
+    },
+    {
+      "rank": 4,
+      "headline": "편하자고 만든 eSIM, 유심보다 개통 번거로워",
+      "category": "산업",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=135266"
+    },
+    {
+      "rank": 5,
+      "headline": "통신 3사, 3분기 영업이익 1.4조 원 전망",
+      "category": "산업",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171696"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "라쿠텐은 자체망을 확대하면서 KDDI 망 의존을 줄였고, 10월부터 로밍 제공 지역을 크게 축소했지만 여전히 알뜰폰 수준에 머물고 있다. 알뜰폰 가입자는 1000만명을 넘어섰으며, 후불 시장 절반 이상이 이동통신 3사 계열사가 점유하고 있다. 현재 전기통신사업법은 AI·플랫폼·알뜰폰 등으로 재편된 시장 구조를 반영하지 못하고 있다. LG유플러스는 22일부터 868만 건의 유심을 원격 자동 업데이트해 IMSI 보안 우려를 해소하고 있다. 해킹·구조조정 비용 감소와 함께 3사는 3분기 영업이익이 1조4000억원에 육박할 전망이다.",
+      "articles": [
+        {
+          "title": "라쿠텐 자체망 구축했다더니...통신 커버리지 과장 논란",
+          "summary": "자체망을 확대하면서 KDDI 망 이용을 줄였고, 올해 10월부터는 로밍 제공 지역을 대폭 축소했다고 밝혔으나 여전히 통신사의 망을 빌려쓰는 알뜰폰 지위에 머무른…",
+          "press": "지디넷코리아",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 08:30",
+          "link": "https://n.news.naver.com/mnews/article/092/0002440372?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신규제, 틀을 바꾸자]〈하〉AI 변화 못담는 전기통신사업법…기간통...",
+          "summary": "시장 경쟁 구도가 이동통신 3사 중심에서 알뜰폰·인공지능(AI)·플랫폼으로 재편됐지만 법·제도는 여전히...",
+          "press": "전자신문",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 14:08",
+          "link": "https://n.news.naver.com/mnews/article/030/0003473069?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[ET톡] 롯데하이마트의 반격",
+          "summary": "알뜰폰은 매장에서 가입부터 개통까지 지원한다. 단순히 가전을 파는 곳에서 고객의 생활 전반을 관리하는 플랫폼으로 영역을 확장하고 있다.",
+          "press": "전자신문",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 11:18",
+          "link": "https://n.news.naver.com/mnews/article/030/0003472955?sid=110",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 후불 시장 절반 이상은 통신3사 계열",
+          "summary": "알뜰폰 가입자가 1000만명을 넘어선 가운데 일반 소비자가 주로 이용하는 후불 휴대전화 시장에서는 SK텔레콤·KT·LG유플러스 등 이동통신3사 자회사의 점유율이…",
+          "press": "sisajournal-e.com",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 09:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424185",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신3사 경제학②] 요금제 줄였는데…통신비 선택은 왜 어려울까",
+          "summary": "따라서 SK텔레콤 고객에게 KT나 LG유플러스, 알뜰폰의 더 저렴한 상품까지 비교해 알려주는 것은 아니다. 알뜰폰 역시 초기 의무 대상에서 빠져 있다.",
+          "press": "theviewers.co.kr",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 07:02",
+          "link": "https://theviewers.co.kr/View.aspx?No=4254431",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[와이파이] 10월 2주, 챗GPT서 최적요금제 탐색…LGU+ 외 2가지 통신혜택",
+          "summary": "◇KT, 알뜰폰 서비스 '티티 모바일' 선봬 - 여권만으로 일본 모바일 가입 KT 재팬은 일본 장기 체류 예정인 국내 고객을 대상으로 출국 전 여권과 PASS 간…",
+          "press": "shinailbo.co.kr",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 12:30",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069957",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, '우리WON셀럽' 2종 출시",
+          "summary": "우리은행이 금융거래 실적에 따라 최대 1년간 통신비를 할인해주는 알뜰폰 요금제 '우리WON셀럽' 2종을 선보였다.",
+          "press": "hdhy.co.kr",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 09:54",
+          "link": "https://www.hdhy.co.kr/news/articleView.html?idxno=35366",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신3사 경제학①] 수조원 쓰고 제자리…점유율 순위 왜 안 바뀌나",
+          "summary": "■ 제4이통·알뜰폰 키웠지만…여전히 높은 진입장벽 정부도 오래전부터 이런 시장구조를 바꾸기 위해...",
+          "press": "theviewers.co.kr",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 07:00",
+          "link": "https://theviewers.co.kr/View.aspx?No=4248181",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 22일부터 유심 원격 자동 업데이트…가입자 식별정보 난수...",
+          "summary": "8일 통신업계에 따르면 LG유플러스는 알뜰폰 가입자를 포함한 업데이트 대상 고객에게 안내 문자를 순차적으로 발송하고 있다.",
+          "press": "e-science.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 17:06",
+          "link": "https://www.e-science.co.kr/news/articleView.html?idxno=137028",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 22일부터 868만 가입자 유심 원격 업데이트로 '보안 강화'",
+          "summary": "(사진=LG U+)  LG유플러스가 알뜰폰 가입자를 포함한 868만 건을 대상으로 국제이동가입자식별번호(IMSI) 생성 방식의 보안을 강화하기 위해 오는 22일부…",
+          "press": "whitepaper.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 16:34",
+          "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=267626",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 868만 가입자 유심 원격 업데이트 착수...구형 220만건은 '직접 교...",
+          "summary": "LG유플러스가 알뜰폰 가입자를 포함한 868만 건을 대상으로 유심(USIM) 원격 자동 업데이트 안내 절차에...",
+          "press": "livebiz.today",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 14:32",
+          "link": "https://www.livebiz.today/news/articleView.html?idxno=205440",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] LG유플, 868만 유심 원격 업데이트 안내 착수…구형은 불가",
+          "summary": "LG유플러스가 오늘(8일) 오후부터 알뜰폰 가입자를 포함해 총 868만 건을 대상으로 유심(USIM) 원격 자동...",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 13:14",
+          "link": "https://n.news.naver.com/mnews/article/374/0000536874?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[2026 국감] 편하자고 만든 eSIM, 유심보다 번거로워…김남국 의원, 개통...",
+          "summary": "알뜰폰 5G 요금제도 대부분 일정 기간만 싸게 파는 구조여서, 할인이 끝나면 이동통신3사 요금제와 비교해...",
+          "press": "popcornnews.net",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 16:50",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=135266",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "해킹·구조조정 비용 걷히자…통신 3사, 3분기 영업익 1.4조 전망",
+          "summary": "이동통신 3사의 올해 3분기 합산 영업이익이 1조4000억원에 육박할 전망이다.",
+          "press": "IT조선",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 07:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171696",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "정재헌vs박윤영vs홍범식, AI 이용자서비스 개편…이통3사, AX 2차대전",
+          "summary": "정재헌·박윤영·홍범식 등 이동통신 3사 사장들이 AI(인공지능) 기술력을 바탕으로 이용자 서비스 개편에 나섰다.",
+          "press": "shinailbo.co.kr",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 07:10",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068387",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 22일부터 유심 자동 업데이트…IMSI 보안 우려 해소",
+          "summary": "IMSI는 이동통신망에서 가입자를 식별하는 15자리 고유번호로, 유심에 저장됩니다.",
+          "press": "newstomato.com",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 18:20",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1316165&inflow=N",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 22일부터 유심 자동 업데이트…보안 우려 해소 나서",
+          "summary": "이번 조치는 국제이동가입자식별번호(IMSI) 생성 방식의 보안 우려를 해소하기 위해 마련됐다. IMSI는 통신망에서 가입자를 식별하는 유심 내 15자리 번호다.",
+          "press": "m-i.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 18:10",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=2004202",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "전기·배터리·전장 부품 수주가 확대돼 전기제품 테마 거래가 활발하고, LFP 안전·가격 경쟁력으로 차별화되며, 전력반도체는 데이터센터 PSU 효율화에 주력한다. 성호전자는 필름콘덴서 사업을 확대하고, 미국 BESS 규제와 스마트홈 카메라 부품 수요가 관련 공급망에 영향을 미친다.",
+        "mercury": "광케이블 수요 급증으로 LS전선은 가입자망 보급률을 91%→98%로 확대하고, 뷰웍스는 초당 100 Gbps 이미지 전송용 광케이블을 공급한다. AI 기반 통신 마비 예측·Open‑RAN 실증이 진행되는 가운데 7년 만에 장비 구매가 몰려 일부 품목에 공급 부족이 발생한다.",
+        "encreative": "1인 가구와 캠핑 인구 증가로 간편식·HMR 수요가 급증해 K‑라면 수출이 20억 달러를 넘어 사상 최대를 기록했지만, 오뚜기·팔도는 성장세가 둔화하고 있다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "\"차세대 배터리·전장부품 수주 결실\"… 전기제품 테마, 거래대금 몰리...",
+          "summary": "2차전지 배터리용 정밀 부품 및 전원 공급 장치, 차세대 전장용 전자부품을 생산하는 기업들을 중심으로...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 12:54",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493717",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "안전성과 가격 다 잡은 LFP…LFP 테마주 종목별 차별화 장세",
+          "summary": "파워넷은 2.41% 내린 3855원에 거래 중이다. LFP 모듈 관련 사업을 영위하고 있으나 단기 시세 반영에 따른...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 09:16",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493598",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "전력반도체 업계, 데이터센터 전력공급장치 효율 높여서 대응",
+          "summary": "KETI는 서버용 전원공급장치(PSU)를 중심으로 데이터센터 전력 효율을 높인다. PSU는 데이터센터에 공급된 전력을 서버가 사용할 수 있도록 변환하는 장치다.",
+          "press": "디일렉",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 16:12",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63444",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자 230만주 거래…필름콘덴서 사업 확장 속 강보합",
+          "summary": "성호전자 주가는 8일 오후 2시24분 기준 코스닥 시장에서 3만2,750원에 거래됐다. 전일보다 100원 올라 0.31...",
+          "press": "job-post.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 14:32",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=231352",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"내 뇌에 전파가\" 전자장치 파손...법무부 6일간 몰랐다 [앵커리포트]",
+          "summary": "지난해 10월 6일에 전자감독장치의 전원 어댑터를 뽑고 차단기까지 내려 약 21분 동안 전원을 차단했고, 같은 달 10일에는 등하교 시간대와 야간외출을 제한하는…",
+          "press": "YTN",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 12:37",
+          "link": "https://n.news.naver.com/mnews/article/052/0002416232?sid=102",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"내 뇌에 전파를 쏜다\" 망상...조두순 전자감독장치 훼손, 엿새간 몰랐다...",
+          "summary": "지난해 10월 6일에 전자감독장치의 전원 어댑터를 뽑고 차단기까지 내려 약 21분 동안 전원을 차단하는가 하면 같은 달 10일에는 등하교 시간대와 야간외출을 제한…",
+          "press": "YTN",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 10:25",
+          "link": "https://n.news.naver.com/mnews/article/052/0002416170?sid=102",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "조두순, \"내 뇌에 전파가\" 전자장치 파손...법무부 6일간 '깜깜' [앵커리...",
+          "summary": "지난해 10월 6일에 전자감독장치의 전원 어댑터를 뽑고 차단기까지 내려 약 21분 동안 전원을 차단하는가 하면 같은 달 10일에는 등하교 시간대와 야간외출을 제한…",
+          "press": "YTN",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 08:16",
+          "link": "https://n.news.naver.com/mnews/article/052/0002416114?sid=102",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "반도체·전력·냉각 총결집…삼성·SK·LG, AI 데이터센터 승부수",
+          "summary": "전원 공급에 최적화된 원통형·각형 리튬인산철(LFP) 배터리를 처음 공개했다.",
+          "press": "IT조선",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 06:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171600",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"내 뇌에 전파가\" 조두순이 부순 전자감독장치…당국 엿새간 몰랐다",
+          "summary": "조두순은 같은 해 10월 6일 전자감독장치의 전원 어댑터를 뽑은 뒤 집 안 전기 차단기까지 내려 약 21분간 장치에 전원이 공급되지 않도록 했다.",
+          "press": "조선일보",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 23:00",
+          "link": "https://n.news.naver.com/mnews/article/053/0000062078?sid=102",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "“뇌에 전파 쏜다” 조두순, 전자감독장치 훼손…법무부 보호관찰소는...",
+          "summary": "조두순은 같은 해 10월 6일 전원 어댑터를 뽑고 집 안의 전기 차단기까지 내려 약 21분간 장치에 전원이 공급되지 않도록 했다.",
+          "press": "조선비즈",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 20:58",
+          "link": "https://n.news.naver.com/mnews/article/366/0001196755?sid=102",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에즈라 콜렉티브, 서울 가을밤에 세운 '기쁨의 신전'…\"살아있음을 축하...",
+          "summary": "2023년 영국 재즈 밴드 최초로 머큐리상(Mercury Prize)을 거머쥔 5인조 '에즈라 컬렉티브(Ezra Collective·에즈라 콜렉티브)'.",
+          "press": "뉴시스",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 11:33",
+          "link": "https://m.entertain.naver.com/article/003/0014243323",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "무명 글씨에서 전설적인 고전 서체가 된 고담 폰트 이야기",
+          "summary": "1949년 포트 오소리티 버스 터미널 공사 안내 게시판과 1964년 뉴욕세계 박람회에 설치된 포트 오소리티 헬리패드의 공사용 레터링(자료=모노타입) 이후 호플러는…",
+          "press": "ditoday.com",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 10:14",
+          "link": "https://ditoday.com/%eb%ac%b4%eb%aa%85-%ea%b8%80%ec%94%a8%ec%97%90%ec%84%9c-%ec%a0%84%ec%84%a4%ec%a0%81%ec%9d%b8-%ea%b3%a0%ec%a0%84-%ec%84%9c%ec%b2%b4%ea%b0%80-%eb%90%9c-%ea%b3%a0%eb%8b%b4-%ed%8f%b0%ed%8a%b8-%ec%9d%b4/",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "뷰웍스, 검사 이미지 초당 100Gbps 전송…카메라·광케이블 묶어 공급",
+          "summary": "시스템 시장 공략에 나섰다. 고해상도 카메라로 촬영한 대용량 이미지를 빠르게 전송하면서 고객사가...",
+          "press": "한국경제",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 17:44",
+          "link": "https://n.news.naver.com/mnews/article/015/0005340220?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[중국증시 마감] AI 하드웨어주 급락 속 에너지∙배터리 강세",
+          "summary": "중동 정세가 교착 상태에 빠진 가운데 원유 가격이 높은 수준을 유지하면서 석유·천연가스 관련주에...",
+          "press": "newspim.com",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 16:23",
+          "link": "https://www.newspim.com/news/view/20261008001118",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[AI시승기] AI는 AI 공격 막아줄 생각 없다···망분리 풀자더니 이제 ...",
+          "summary": "반도체와 AI 모델, 데이터센터, AI PC, 광케이블과 위성망은 지구의 연산 구조를 공학적으로 확장한 새로운 계층이다.",
+          "press": "womaneconomy.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 16:20",
+          "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259492",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[주목 e-기업] \"우주+AI+에너지 인프라\" SpaceXAI … \"우주에 데이터센터...",
+          "summary": "이후 데이터는 지상 광케이블망을 통해 최종 사용자에게 전달된다. 즉, 우주 데이터센터는 '레이저 + RF...",
+          "press": "economytalk.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 11:06",
+          "link": "http://www.economytalk.kr/news/articleView.html?idxno=424543",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "美 빅테크, 중국산 초저가 AI 모델 역습에 '휘청'",
+          "summary": "촉발한 가격 파괴 경쟁으로 인해 폐쇄형 인공지능 모델과 막대한 물리적 설비에 베팅한 월가의 기존 투자...",
+          "press": "coinreaders.com",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 05:02",
+          "link": "http://coinreaders.com/262118",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[의정단상] 대한민국 산업지도를 다시 그린다, AI 중심도시 새만금",
+          "summary": "항만과 공항, 철도가 한곳에서 만나는 ‘트라이포트’가 완성되면 새만금의 제품은 곧장 세계 시장에 닿는다.",
+          "press": "jjan.kr",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 17:50",
+          "link": "https://www.jjan.kr/article/20261007500129",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[현장] 온도계 읽는 로봇, 계약서 검토하는 AI…코엑스에 펼쳐진 미래",
+          "summary": "공사 도중 주 광케이블이 끊어지는 상황을 가정하자 통신 경로가 백업 회선으로 바뀌었다. '자동절체...",
+          "press": "ekn.kr",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 15:44",
+          "link": "https://www.ekn.kr/web/view.php?key=20261007020133369",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "'전력 다음은 광통신'…LS전선, AI 데이터센터 '낙수' 효과 기대",
+          "summary": "가입자망 광케이블 보급률도 91%에서 98%로 끌어올린다는 계획이다. 소재 시장에서도 신호가 나온다.",
+          "press": "fntimes.com",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 15:42",
+          "link": "https://www.fntimes.com/html/view.php?ud=202610071520441994fa6b69a559_18",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"맨날 먹던 맛은 싫어\"…'별미'로 입맛 잡는 식품업계[이번주 Eat템]",
+          "summary": "별미김치 시장도 제품군이 다양해지는 추세다. 대상은 대표적인 별미김치인 깍두기에 '볶음'이라는...",
+          "press": "뉴스1",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 07:30",
+          "link": "https://n.news.naver.com/mnews/article/421/0009219593?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "어디서나 ‘핫’한 K라면…수출 20억 달러 넘본다",
+          "summary": "업계 관계자는 “해외도 1인 가구가 급증하면서 누구나 쉽고 빠르게 만들어 먹을 수 있는 가정간편식(HMR)이 인기이고 라면이 대표주자”라고 말했다.",
+          "press": "중앙일보",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 00:02",
+          "link": "https://n.news.naver.com/mnews/article/353/0000056817?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "643만 캠핑족 잡아라…가을 캠핑 식탁 달구는 간편식 경쟁",
+          "summary": "선선한 날씨와 함께 가을 캠핑 시즌이 돌아오면서 식품업계가 야외에서 간편하게 즐길 수 있는 먹거리 시장...",
+          "press": "세계일보",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 08:22",
+          "link": "https://n.news.naver.com/mnews/article/022/0004165330?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "맛있는 가을축제가 온다…강릉 커피·빵·국수·두부 축제 개막",
+          "summary": "쿠킹쇼와 버스킹, 제면 체험, 국수 컬러링, 밀키트 만들기, 포토존 등 다양한 프로그램을 운영한다. 17일...",
+          "press": "국민일보",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 14:30",
+          "link": "https://n.news.naver.com/mnews/article/005/0001877534?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "빵·국수·두부·커피의 향연···강릉시, 10월 한 달간 미식 축제 연이...",
+          "summary": "더불어 쿠킹쇼, 버스킹 공연, 제면 체험, 국수 컬러링, 밀키트 만들기, 포토존 등 풍성한 체험 행사가...",
+          "press": "이뉴스투데이",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 11:47",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478151",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "빵·국수·두부·커피 다 모였다…10월엔 먹거리 넘치는 강릉으로",
+          "summary": "쿠킹쇼와 버스킹, 제면체험, 국수 컬러링, 밀키트 만들기 등 다양한 프로그램도 운영된다. 축제 장소는...",
+          "press": "뉴스1",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 11:16",
+          "link": "https://n.news.naver.com/mnews/article/421/0009217011?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "중동 맞춤형 K-떡볶이 통했다…누적 수출 40억 달성",
+          "summary": "중동은 엄격한 할랄 기준과 국가별 식문화 차이로 인해 현지 맞춤형 제품 개발이 필요한 시장이다. 특히... 반영한 가정간편식(HMR) 떡볶이 8종을 제품화했다.",
+          "press": "뉴시스",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 10:58",
+          "link": "https://n.news.naver.com/mnews/article/003/0014241198?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"한 달 내내 맛있는 도시\"…10월 강릉, 미식 축제로 물든다",
+          "summary": "쿠킹쇼와 버스킹, 직접 면을 뽑아 보는 제면 체험, 국수 컬러링, 밀키트 만들기 등 즐길거리도 다양하다....",
+          "press": "파이낸셜뉴스",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 10:44",
+          "link": "https://n.news.naver.com/mnews/article/014/0005586620?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "10월 강릉여행 입이 즐겁다…빵굽는 한옥마을부터 커피거리까지",
+          "summary": "또한 쿠킹 쇼와 버스킹, 제면 체험, 국수 컬러링, 밀키트 만들기, 포토존 등 다양한 프로그램을 운영한다....",
+          "press": "연합뉴스",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 10:42",
+          "link": "https://n.news.naver.com/mnews/article/001/0016365185?sid=103",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[포항소식]축산농협 '사골·고기 곰탕' 두바이 첫 수출 등",
+          "summary": "이들 제품은 포항축산농협이 우수 원료를 엄선해 최근 소비 트렌드에 맞는 가정간편식(HMR) 형태로 새롭게...",
+          "press": "뉴시스",
+          "date": "2026-10-07",
+          "datetime": "2026-10-07 16:41",
+          "link": "https://n.news.naver.com/mnews/article/003/0014239816?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 47
+}
