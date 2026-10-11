@@ -1,0 +1,752 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11 10:25",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "알뜰폰 후불 시장 절반 이상 통신3사 계열",
+      "category": "산업",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424185"
+    },
+    {
+      "rank": 2,
+      "headline": "요금제 줄였지만 통신비 선택 여전히 난항",
+      "category": "산업",
+      "link": "https://theviewers.co.kr/View.aspx?No=4254431"
+    },
+    {
+      "rank": 3,
+      "headline": "수조원 투자에도 통신3사 점유율 제자리",
+      "category": "산업",
+      "link": "https://theviewers.co.kr/View.aspx?No=4248181"
+    },
+    {
+      "rank": 4,
+      "headline": "단통법 폐지 후에도 판매점 제재 3천건 달해",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/001/0016368722?sid=100"
+    },
+    {
+      "rank": 5,
+      "headline": "이통3사 3분기 합산 영업익 1.3조 정상화",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/003/0014244641?sid=105"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "통신3사는 여전히 시장 점유율을 유지하며 3분기 영업이익 1조3700억 원을 기록하고, 저이용 부가서비스를 정리하고 AI 기반 신규 서비스로 사업을 재편하고 있다. 알뜰폰·MVNO를 통한 대포폰 적발이 전년 대비 27% 증가하고, 후불 시장 절반 이상이 3사 계열사에 집중되는 등 알뜰폰 시장에서도 3사의 영향력이 크다. LG유플러스는 868만 건의 유심 원격 업데이트와 산악 조난 수색 기술 실증 등 네트워크 활용을 확대하고, 6G 표준에 와이파이 포함 요구와 저궤도 위성 협력이 논의되는 등 차세대 인프라 준비가 진행 중이다. 한편, 판매점 고지 위반 제재가 지속되고 정보보안 책임자들이 국감에 출석하는 등 규제·보안 감시가 강화되고 있다.",
+      "articles": [
+        {
+          "title": "통신사가 생색낸 멤버십 혜택, 가맹점주가 할인비 25~50% 부담",
+          "summary": "SKT 고객이어야 받을 수 있는 혜택이기 때문에 다른 통신사나 알뜰폰 사업자와 차별화되는 지점으로 여겨지기도 한다.",
+          "press": "세계일보",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 16:02",
+          "link": "https://n.news.naver.com/mnews/article/022/0004165502?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "라쿠텐 자체망 구축했다더니...통신 커버리지 과장 논란",
+          "summary": "자체망을 확대하면서 KDDI 망 이용을 줄였고, 올해 10월부터는 로밍 제공 지역을 대폭 축소했다고 밝혔으나 여전히 통신사의 망을 빌려쓰는 알뜰폰 지위에 머무른…",
+          "press": "지디넷코리아",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 08:30",
+          "link": "https://n.news.naver.com/mnews/article/092/0002440372?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] 대포폰 적발, 전년 대비월평균 27% 늘었다",
+          "summary": "통신사별로 보면 알뜰폰을 통한 대포폰 적발이 압도적으로 많았다. 올해 1~8월 알뜰통신사 대포폰 적발... 알뜰폰의 높은 비중은 올해만의 현상도 아니다.",
+          "press": "sisajournal-e.com",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 17:32",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424231",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 후불 시장 절반 이상은 통신3사 계열",
+          "summary": "알뜰폰 가입자가 1000만명을 넘어선 가운데 일반 소비자가 주로 이용하는 후불 휴대전화 시장에서는 SK텔레콤·KT·LG유플러스 등 이동통신3사 자회사의 점유율이…",
+          "press": "sisajournal-e.com",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 09:00",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424185",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신3사 경제학②] 요금제 줄였는데…통신비 선택은 왜 어려울까",
+          "summary": "따라서 SK텔레콤 고객에게 KT나 LG유플러스, 알뜰폰의 더 저렴한 상품까지 비교해 알려주는 것은 아니다. 알뜰폰 역시 초기 의무 대상에서 빠져 있다.",
+          "press": "theviewers.co.kr",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 07:02",
+          "link": "https://theviewers.co.kr/View.aspx?No=4254431",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[와이파이] 10월 2주, 챗GPT서 최적요금제 탐색…LGU+ 외 2가지 통신혜택",
+          "summary": "◇KT, 알뜰폰 서비스 '티티 모바일' 선봬 - 여권만으로 일본 모바일 가입 KT 재팬은 일본 장기 체류 예정인 국내 고객을 대상으로 출국 전 여권과 PASS 간…",
+          "press": "shinailbo.co.kr",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 12:30",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069957",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리은행, '우리WON셀럽' 2종 출시",
+          "summary": "우리은행이 금융거래 실적에 따라 최대 1년간 통신비를 할인해주는 알뜰폰 요금제 '우리WON셀럽' 2종을 선보였다.",
+          "press": "hdhy.co.kr",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 09:54",
+          "link": "https://www.hdhy.co.kr/news/articleView.html?idxno=35366",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신3사 경제학①] 수조원 쓰고 제자리…점유율 순위 왜 안 바뀌나",
+          "summary": "■ 제4이통·알뜰폰 키웠지만…여전히 높은 진입장벽 정부도 오래전부터 이런 시장구조를 바꾸기 위해...",
+          "press": "theviewers.co.kr",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 07:00",
+          "link": "https://theviewers.co.kr/View.aspx?No=4248181",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 22일부터 유심 원격 자동 업데이트…가입자 식별정보 난수...",
+          "summary": "8일 통신업계에 따르면 LG유플러스는 알뜰폰 가입자를 포함한 업데이트 대상 고객에게 안내 문자를 순차적으로 발송하고 있다.",
+          "press": "e-science.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 17:06",
+          "link": "https://www.e-science.co.kr/news/articleView.html?idxno=137028",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 22일부터 868만 가입자 유심 원격 업데이트로 '보안 강화'",
+          "summary": "(사진=LG U+)  LG유플러스가 알뜰폰 가입자를 포함한 868만 건을 대상으로 국제이동가입자식별번호(IMSI) 생성 방식의 보안을 강화하기 위해 오는 22일부…",
+          "press": "whitepaper.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 16:34",
+          "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=267626",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 868만 가입자 유심 원격 업데이트 착수...구형 220만건은 '직접 교...",
+          "summary": "LG유플러스가 알뜰폰 가입자를 포함한 868만 건을 대상으로 유심(USIM) 원격 자동 업데이트 안내 절차에...",
+          "press": "livebiz.today",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 14:32",
+          "link": "https://www.livebiz.today/news/articleView.html?idxno=205440",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] LG유플, 868만 유심 원격 업데이트 안내 착수…구형은 불가",
+          "summary": "LG유플러스가 오늘(8일) 오후부터 알뜰폰 가입자를 포함해 총 868만 건을 대상으로 유심(USIM) 원격 자동...",
+          "press": "biz.sbs.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 13:14",
+          "link": "https://n.news.naver.com/mnews/article/374/0000536874?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 산악 조난자 수색 기술 실증…수색 범위 99% 축소",
+          "summary": "LG유플러스가 이동통신 기지국 정보와 휴대전화 접속 기록을 활용해 산악 지역 조난자 수색 기술을 실증한 결과, 기존 대비 수색 범위를 약 99%나 줄이는 효과를…",
+          "press": "전자신문",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:33",
+          "link": "https://n.news.naver.com/mnews/article/030/0003473774?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"휴대전화 꺼져도 찾는다\"…LGU+, 산악 조난자 수색 범위 99% 줄인다",
+          "summary": "산악 지역에서 조난자의 휴대전화가 꺼지거나 GPS 신호가 잡히지 않아도 이동통신 데이터를 활용해 수색 범위를 99%까지 좁힐 수 있는 기술이 실증됐다.",
+          "press": "뉴시스",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:06",
+          "link": "https://n.news.naver.com/mnews/article/003/0014244701?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"와이파이 없는 6G는 불완전”...국제표준 통합 요구 커진다",
+          "summary": "6G 이동통신의 국제 표준에 와이파이를 핵심 구성요소로 포함해야 한다는 주장이 제기되고 있다.",
+          "press": "지디넷코리아",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 07:30",
+          "link": "https://n.news.naver.com/mnews/article/092/0002440428?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "단통법 폐지 후에도 판매점 제재 3천건…절반은 비용 고지 위반",
+          "summary": "판매점 제재 3천50건 중 1천659건…8월 고지 위반 전년의 2.8배 이연희 \"판매점 고지 의무·불공정 광고 점검해야\" 단말기유통구조개선법(단통법) 폐지 이후에…",
+          "press": "연합뉴스",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 07:30",
+          "link": "https://n.news.naver.com/mnews/article/001/0016368722?sid=100",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사 3분기 합산 영업익 1.3조…해킹·퇴직금 털고 정상화 궤도",
+          "summary": "SK텔레콤, KT, LG유플러스 등 이동통신 3사 합산 영업이익이 1조 3700억원을 돌파할 것으로 전망된다.",
+          "press": "뉴시스",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 07:01",
+          "link": "https://n.news.naver.com/mnews/article/003/0014244641?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "해킹·구조조정 비용 걷히자…통신 3사, 3분기 영업익 1.4조 전망",
+          "summary": "이동통신 3사의 올해 3분기 합산 영업이익이 1조4000억원에 육박할 전망이다.",
+          "press": "IT조선",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 07:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171696",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 산악 긴급구조 고도화 실증…솔빛시스템과 협력",
+          "summary": "이는 이동통신 기지국 정보와 휴대전화 접속 기록을 활용한 기술이다.",
+          "press": "metroseoul.co.kr",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 10:12",
+          "link": "http://www.metroseoul.co.kr/article/20261011500040",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 통신 데이터로 조난자 수색 범위 99% 좁히는 기술 실증",
+          "summary": "LG유플러스는 이동통신 기지국 정보와 휴대전화 접속 기록을 활용해 산악 지역 조난자를 수색하는 범위를 99% 좁히는 기술을 실증했다고 11일 밝혔다.",
+          "press": "it-b.co.kr",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 10:12",
+          "link": "https://www.it-b.co.kr/news/articleView.html?idxno=90186",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[Telecom & Now] LGU+, 통신 데이터 활용 산악 조난자 수색 범위 99% 축소",
+          "summary": "LG유플러스는 이동통신 기지국 정보와 휴대전화 접속 기록을 활용해 산악 지역 조난자의 수색 범위를 약 99% 줄이는 기술을 실증했다고 11일 밝혔다.",
+          "press": "ebn.co.kr",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 10:02",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727309",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 산악 조난자 수색범위 99% 줄였다…통신 데이터 활용",
+          "summary": "LG유플러스가 이동통신 기지국 정보와 휴대전화 접속 기록을 활용해 산악 조난자의 수색 범위를 좁히는 기술을 실증했다.",
+          "press": "slist.kr",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:58",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=772459",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 통신 데이터 활용 산악 조난 수색 범위 축소 기술 실증",
+          "summary": "[LG유플러스]  LG유플러스가 이동통신 기지국의 전파 정보와 휴대전화 접속 기록을 활용해 산악 조난자 예상 수색 범위를 약 99% 줄이는 기술을 실증했다.",
+          "press": "ziksir.com",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:50",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=148880",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "부가서비스도 세대교체… 통신3사, AI 중심으로 사업 재정비",
+          "summary": "국내 이동통신 3사가 이용률이 낮은 기존 부가서비스를 정리하고 인공지능(AI) 기반 신규 서비스 확대에 나서고 있다.",
+          "press": "mediapen.com",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:48",
+          "link": "https://www.mediapen.com/news/view/1129088",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 통신 정보로 산악 조난자 수색 범위 99% 축소",
+          "summary": "LG유플러스는 이동통신 기지국 정보와 휴대전화 접속 기록을 활용해 산악 지역 조난자 수색 범위를 99%까지 축소하는 기술을 실증했다고 11일 밝혔다.",
+          "press": "segyebiz.com",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:20",
+          "link": "http://www.segyebiz.com/newsView/20261011505201?OutUrl=naver",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "휴대전화 꺼져도 '마지막 흔적' 찾는다…LG유플러스, 산악 수색 범위 99...",
+          "summary": "LG유플러스가 이동통신 기지국 정보와 휴대전화 접속 기록을 활용해 산악 지역 조난자를 수색하는 범위를 좁히는 기술을 실증했다고 11일 밝혔다.",
+          "press": "thepublic.kr",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:12",
+          "link": "https://www.thepublic.kr/news/articleView.html?idxno=321647",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 통신 데이터로 산악 조난자 수색 범위 99% 축소",
+          "summary": "LG유플러스가 이동통신 기지국과 휴대전화 접속 정보를 활용해 산악 조난자의 예상 수색 범위를 약 99% 줄이는 기술을 실증했다.",
+          "press": "dailysmart.co.kr",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:06",
+          "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=130854",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 통신 데이터로 산악 조난자 수색 범위 99% 좁혔다",
+          "summary": "전북 운장산서 솔빛시스템과 수색 지원 기술 실증 GPS 기반 측위가 어려운 상황에서도 구조 범위 특정 인더뉴스 이종현 기자ㅣLG유플러스는 이동통신 기지국 정보와…",
+          "press": "inthenews.co.kr",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:02",
+          "link": "https://www.inthenews.co.kr/news/article.html?no=92897",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 통신 데이터로 산악 조난자 수색 범위 99% 줄였다",
+          "summary": "이투데이=김연진 기자 | LG유플러스가 이동통신 기지국 정보와 휴대전화 접속 기록을 활용해 산악 지역 조난자를 수색하는 범위를 좁히는 기술을 실증한 결과 기존 방…",
+          "press": "etoday.co.kr",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:02",
+          "link": "https://www.etoday.co.kr/news/view/2634224",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 수색 지원 기술 실증⋯ “산악 조난자 수색 범위 99% 축소”",
+          "summary": "LG유플러스가 이동통신 기지국 정보와 휴대전화 접속 기록을 활용해 산악 지역 조난자를 수색하는 범위를 좁히는 기술을 실증했다.",
+          "press": "viva100.com",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:02",
+          "link": "https://www.viva100.com/article/20261008500867",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "전기·배터리·전장 부품 수주가 확대되고, 데이터센터·AI 공장용 고효율 전력·UPS 솔루션 개발이 가속화된다. 미국 전력망 규제와 배터리 공급 일정이 변수로 작용하는 가운데, 와이파이 7·다중 LAN 등 연결 기술도 강화되고 있다.",
+        "mercury": "영국 재즈밴드 에즈라 컬렉티브가 머큐리상을 수상한 한편, 통신 분야에서는 EU의 광망 구축 의무화와 와이파이 8 도입이 진행되고 AI 데이터센터의 고속 광통신·VCSEL 수요가 급증해 루멘텀 등 광부품 공급이 2029년까지 완판될 전망이다.",
+        "encreative": "1인 가구와 캠핑 인구 확대로 간편식·라면 수요가 급증해 수출액이 20억~136억 달러 규모로 늘고 있다. 특히 중국·미국 등 해외 시장에서 매운 라면·소스가 큰 호응을 얻고 있다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "\"차세대 배터리·전장부품 수주 결실\"… 전기제품 테마, 거래대금 몰리...",
+          "summary": "2차전지 배터리용 정밀 부품 및 전원 공급 장치, 차세대 전장용 전자부품을 생산하는 기업들을 중심으로...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 12:54",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493717",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "전력반도체 업계, 데이터센터 전력공급장치 효율 높여서 대응",
+          "summary": "KETI는 서버용 전원공급장치(PSU)를 중심으로 데이터센터 전력 효율을 높인다. PSU는 데이터센터에 공급된 전력을 서버가 사용할 수 있도록 변환하는 장치다.",
+          "press": "디일렉",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 16:12",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63444",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자 230만주 거래…필름콘덴서 사업 확장 속 강보합",
+          "summary": "성호전자 주가는 8일 오후 2시24분 기준 코스닥 시장에서 3만2,750원에 거래됐다. 전일보다 100원 올라 0.31...",
+          "press": "job-post.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 14:32",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=231352",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"내 뇌에 전파가\" 전자장치 파손...법무부 6일간 몰랐다 [앵커리포트]",
+          "summary": "지난해 10월 6일에 전자감독장치의 전원 어댑터를 뽑고 차단기까지 내려 약 21분 동안 전원을 차단했고, 같은 달 10일에는 등하교 시간대와 야간외출을 제한하는…",
+          "press": "YTN",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 12:37",
+          "link": "https://n.news.naver.com/mnews/article/052/0002416232?sid=102",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"내 뇌에 전파를 쏜다\" 망상...조두순 전자감독장치 훼손, 엿새간 몰랐다...",
+          "summary": "지난해 10월 6일에 전자감독장치의 전원 어댑터를 뽑고 차단기까지 내려 약 21분 동안 전원을 차단하는가 하면 같은 달 10일에는 등하교 시간대와 야간외출을 제한…",
+          "press": "YTN",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 10:25",
+          "link": "https://n.news.naver.com/mnews/article/052/0002416170?sid=102",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "페트라파워, 데이터센터 첫 배치 2028년 목표…국방 계약 900만달러",
+          "summary": "페트라파워가 고체산화물 연료전지로 데이터센터와 군용 차량의 전력 공급 시장을 겨냥한다. 회사는...",
+          "press": "tokenpost.kr",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 02:16",
+          "link": "https://www.tokenpost.kr/news/ai/420941",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "‘EUV 독점’ ASML, 삼성·SK하이닉스에 부품가격 10% 인상 통보",
+          "summary": "한국 시장에 공급하는 교체용 부품이다. 정기적으로 교체하는 소모품은 물론 정밀 구동장치와 렌즈·반사경...",
+          "press": "joseilbo.com",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 16:25",
+          "link": "https://n.news.naver.com/mnews/article/123/0002391580?sid=004",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "미국 전력망 빗장 건 백악관…현지 공장 세운 변압기 웃고 배터리는 12월...",
+          "summary": "12월 세부 규칙 앞둔 배터리 공급망 변수 배터리 에너지 저장 시스템 분야는 미국 행정 절차의 향방이 핵심 변수로 남아 있다.",
+          "press": "g-enews.com",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 08:14",
+          "link": "https://www.g-enews.com/view.php?ud=202610100804313353fbbec65dfb_1",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "애플·LG 스마트홈 카메라 윤곽…추정 이미지 등장",
+          "summary": "전원 공급을 위한 AC·DC 변환장치와 USB 기판, 와이파이 안테나 2개도 포함된 것으로 전해졌다. 2.4GHz와 5GHz...",
+          "press": "g-enews.com",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 05:02",
+          "link": "https://www.g-enews.com/view.php?ud=2026100819273896219a1f309431_1",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "\"AI 시대, 공장의 경쟁력은 전력 인프라가 좌우\"...슈나이더 일렉트릭, ...",
+          "summary": "고효율 전력 보호 기술을 통해 안정적인 전력 공급을 확보하고, 유틸리티 최적화와 디지털 트윈을 활용해... 무정전 전원장치(UPS)다.",
+          "press": "aitimes.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 17:26",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42231",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에즈라 콜렉티브, 서울 가을밤에 세운 '기쁨의 신전'…\"살아있음을 축하...",
+          "summary": "2023년 영국 재즈 밴드 최초로 머큐리상(Mercury Prize)을 거머쥔 5인조 '에즈라 컬렉티브(Ezra Collective·에즈라 콜렉티브)'.",
+          "press": "뉴시스",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 11:33",
+          "link": "https://m.entertain.naver.com/article/003/0014243323",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "“K2 전차가 왜 철망을 뒤집어썼나”…北 드론에 맞선 ‘전차의 변신’...",
+          "summary": "가격이 저렴해서 FPV 드론처럼 저가의 공격 무기를 막는데 효과적이다. 전자전을 극복하는 유도무기도 저지할 수 있다.",
+          "press": "세계일보",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:32",
+          "link": "https://n.news.naver.com/mnews/article/022/0004165586?sid=100",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"와이파이 없는 6G는 불완전”...국제표준 통합 요구 커진다",
+          "summary": "그런 가운데 시장조사업체 마라베디스는 최근 분석에서 EU가 광통신망 구축을 의무화하면서도 최종 이용자 단말을 연결하는 와이파이 주파수 확보에는 충분히 대응하지 못…",
+          "press": "지디넷코리아",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 07:30",
+          "link": "https://n.news.naver.com/mnews/article/092/0002440428?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "GPU 넘어 소재·냉각까지…日 기업들, AI 데이터센터 특수 누린다",
+          "summary": "광통신과 냉각설비 분야에서도 수요가 늘고 있다.",
+          "press": "theguru.co.kr",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 00:02",
+          "link": "https://www.theguru.co.kr/news/article.html?no=108057",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "대한광통신 5%대 하락, 루멘텀은 5%대 상승…한미 광통신주 디커플링 주...",
+          "summary": "대한광통신 역시 광섬유와 광케이블을 중심으로 통신 인프라 시장에 참여하고 있다.",
+          "press": "cbci.co.kr",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 21:56",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=614138",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[중국증시 마감] AI 하드웨어주 급락 속 에너지∙배터리 강세",
+          "summary": "중동 정세가 교착 상태에 빠진 가운데 원유 가격이 높은 수준을 유지하면서 석유·천연가스 관련주에...",
+          "press": "newspim.com",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 16:23",
+          "link": "https://www.newspim.com/news/view/20261008001118",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[AI시승기] AI는 AI 공격 막아줄 생각 없다···망분리 풀자더니 이제 ...",
+          "summary": "반도체와 AI 모델, 데이터센터, AI PC, 광케이블과 위성망은 지구의 연산 구조를 공학적으로 확장한 새로운 계층이다.",
+          "press": "womaneconomy.co.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 16:20",
+          "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259492",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[주목 e-기업] \"우주+AI+에너지 인프라\" SpaceXAI … \"우주에 데이터센터...",
+          "summary": "이후 데이터는 지상 광케이블망을 통해 최종 사용자에게 전달된다. 즉, 우주 데이터센터는 '레이저 + RF...",
+          "press": "economytalk.kr",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 11:06",
+          "link": "http://www.economytalk.kr/news/articleView.html?idxno=424543",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "차세대 무선 '와이파이 8' 온다… \"속도 경쟁 넘어 연결 품질로\"",
+          "summary": "차세대 무선 네트워크 규격 '와이파이 8(Wi-Fi 8)'의 도입이 가시화되고 있다. 와이파이 8은 기존 와이파이...",
+          "press": "IT조선",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 08:16",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171746",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"1달러에 산 주식이 143달러 돼\" 대박 주식…인화인듐 기판 뭐길래",
+          "summary": "닷컴 붕괴와 中수출통제로 주가 1달러→AI 광통신 수요로 흑자전환 상장 뒤 회사는 여러 차례 큰 위기를 겪었다.",
+          "press": "머니투데이",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 07:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005424402?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"맨날 먹던 맛은 싫어\"…'별미'로 입맛 잡는 식품업계[이번주 Eat템]",
+          "summary": "별미김치 시장도 제품군이 다양해지는 추세다. 대상은 대표적인 별미김치인 깍두기에 '볶음'이라는...",
+          "press": "뉴스1",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 07:30",
+          "link": "https://n.news.naver.com/mnews/article/421/0009219593?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "어디서나 ‘핫’한 K라면…수출 20억 달러 넘본다",
+          "summary": "업계 관계자는 “해외도 1인 가구가 급증하면서 누구나 쉽고 빠르게 만들어 먹을 수 있는 가정간편식(HMR)이 인기이고 라면이 대표주자”라고 말했다.",
+          "press": "중앙일보",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 00:02",
+          "link": "https://n.news.naver.com/mnews/article/353/0000056817?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "643만 캠핑족 잡아라…가을 캠핑 식탁 달구는 간편식 경쟁",
+          "summary": "선선한 날씨와 함께 가을 캠핑 시즌이 돌아오면서 식품업계가 야외에서 간편하게 즐길 수 있는 먹거리 시장...",
+          "press": "세계일보",
+          "date": "2026-10-09",
+          "datetime": "2026-10-09 08:22",
+          "link": "https://n.news.naver.com/mnews/article/022/0004165330?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "맛있는 가을축제가 온다…강릉 커피·빵·국수·두부 축제 개막",
+          "summary": "쿠킹쇼와 버스킹, 제면 체험, 국수 컬러링, 밀키트 만들기, 포토존 등 다양한 프로그램을 운영한다. 17일...",
+          "press": "국민일보",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 14:30",
+          "link": "https://n.news.naver.com/mnews/article/005/0001877534?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "빵·국수·두부·커피의 향연···강릉시, 10월 한 달간 미식 축제 연이...",
+          "summary": "더불어 쿠킹쇼, 버스킹 공연, 제면 체험, 국수 컬러링, 밀키트 만들기, 포토존 등 풍성한 체험 행사가...",
+          "press": "이뉴스투데이",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 11:47",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478151",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "빵·국수·두부·커피 다 모였다…10월엔 먹거리 넘치는 강릉으로",
+          "summary": "쿠킹쇼와 버스킹, 제면체험, 국수 컬러링, 밀키트 만들기 등 다양한 프로그램도 운영된다. 축제 장소는...",
+          "press": "뉴스1",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 11:16",
+          "link": "https://n.news.naver.com/mnews/article/421/0009217011?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "중동 맞춤형 K-떡볶이 통했다…누적 수출 40억 달성",
+          "summary": "중동은 엄격한 할랄 기준과 국가별 식문화 차이로 인해 현지 맞춤형 제품 개발이 필요한 시장이다. 특히... 반영한 가정간편식(HMR) 떡볶이 8종을 제품화했다.",
+          "press": "뉴시스",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 10:58",
+          "link": "https://n.news.naver.com/mnews/article/003/0014241198?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"한 달 내내 맛있는 도시\"…10월 강릉, 미식 축제로 물든다",
+          "summary": "쿠킹쇼와 버스킹, 직접 면을 뽑아 보는 제면 체험, 국수 컬러링, 밀키트 만들기 등 즐길거리도 다양하다....",
+          "press": "파이낸셜뉴스",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 10:44",
+          "link": "https://n.news.naver.com/mnews/article/014/0005586620?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "10월 강릉여행 입이 즐겁다…빵굽는 한옥마을부터 커피거리까지",
+          "summary": "또한 쿠킹 쇼와 버스킹, 제면 체험, 국수 컬러링, 밀키트 만들기, 포토존 등 다양한 프로그램을 운영한다....",
+          "press": "연합뉴스",
+          "date": "2026-10-08",
+          "datetime": "2026-10-08 10:42",
+          "link": "https://n.news.naver.com/mnews/article/001/0016365185?sid=103",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "김·소금까지...롯데호텔, PB 앞세워 K푸드 수요 공략",
+          "summary": "롯데호텔이 자체 브랜드(PB) 소금과 김을 시장에 출시하며 K푸드 영토 확장을 이어가고 있다.",
+          "press": "mediapen.com",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 14:02",
+          "link": "https://www.mediapen.com/news/view/1128918",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 60
+}
