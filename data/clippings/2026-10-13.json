@@ -1,0 +1,764 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13 12:20",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "이통3사, 3분기 합산 영업익 1조 회복 전망",
+      "category": "산업",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=367072"
+    },
+    {
+      "rank": 2,
+      "headline": "방미통위, 전광훈 알뜰폰 위반 시 엄정 대응",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/421/0009223146?sid=105"
+    },
+    {
+      "rank": 3,
+      "headline": "통신비 꼼수 인하 논란…데이터 줄고 요금 제자리",
+      "category": "산업",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871873"
+    },
+    {
+      "rank": 4,
+      "headline": "월 19GB 이용 시 1만원대 20GB 알뜰폰 대안",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/088/0001033457?sid=105"
+    },
+    {
+      "rank": 5,
+      "headline": "단통법 폐지에도 통신비·구독료 부담 여전",
+      "category": "산업",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706436"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "방송미디어통신위원회가 퍼스트모바일(‘전광훈 알뜰폰’)에 대한 조사 지연과 명의도용·개인정보보호 위반 여부를 조속히 마무리하겠다고 밝히며 규제 압력이 고조되고 있다. 5G 보급률이 82%를 넘어 무선사업 성장 여력이 제한되고 알뜰폰·법인 대포폰 증가로 가입자 이탈이 지속되는 가운데, SKT·KT·LG유플러스는 AI 데이터센터 등 신규 사업으로 실적 방어에 나선다. 동시에 부가서비스 무분별 가입과 OTT·AI 구독료 등으로 통신비 부담은 여전히 크다. 스타링크 등 해외 이동통신 진출 소식이 주가에 영향을 미치며 시장 변동성이 커지고 있다.",
+      "articles": [
+        {
+          "title": "방미통위 \"'전광훈 알뜰폰' 조사 조속히 마무리…위반 시 엄정 대응\"",
+          "summary": "신민경 한수민 기자 = 방송미디어통신위원회(방미통위)가 이른바 '전광훈 알뜰폰'으로 알려진 퍼스트모바일에 대한 사실조사를 조속히 마무리하고 위반 사항이 확인될 경…",
+          "press": "뉴스1",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 18:11",
+          "link": "https://n.news.naver.com/mnews/article/421/0009223146?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "김종철 방미통위 위원장 “카카오 ‘브랜드 메시지’ 광고 논란, 엄격한...",
+          "summary": "명의도용과 개인정보보호법 위반 등으로 제재받은 알뜰폰 사업자 퍼스트모바일에 대한 조사도 조만간...",
+          "press": "조선비즈",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 18:02",
+          "link": "https://n.news.naver.com/mnews/article/366/0001197457?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "가입자 이탈에도 실적 방어 SKT·KT…AI 데이터센터로 성장 돌파구",
+          "summary": "5G 보급률이 82%를 넘어서면서 무선사업 성장 여력이 제한된 데다 알뜰폰으로 가입자 이동이 영향을 미쳤다.",
+          "press": "IT조선",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 10:48",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171781",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "현장조사 3차례 하고도 1년 4개월째 결론 못 낸 ‘전광훈 알뜰폰’",
+          "summary": "방송미디어통신위원회(방미통위)가 알뜰폰 사업자 퍼스트모바일의 전기통신사업법 위반 여부를...",
+          "press": "이데일리",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 07:18",
+          "link": "https://n.news.naver.com/mnews/article/018/0006386161?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "방미통위, 퍼스트모바일 1년 4개월째 조사만…'늑장 행정' 논란",
+          "summary": "방송미디어통신위원회(방미통위)가 명의도용과 개인정보보호법 위반 등으로 제재받은 전력이 있는 알뜰폰...",
+          "press": "뉴스1",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 16:04",
+          "link": "https://n.news.naver.com/mnews/article/421/0009220775?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신사가 생색낸 멤버십 혜택, 가맹점주가 할인비 25~50% 부담",
+          "summary": "SKT 고객이어야 받을 수 있는 혜택이기 때문에 다른 통신사나 알뜰폰 사업자와 차별화되는 지점으로 여겨지기도 한다.",
+          "press": "세계일보",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 16:02",
+          "link": "https://n.news.naver.com/mnews/article/022/0004165502?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, 3분기 합산 영업익 1조 회복 전망…'AI 인프라' 재편 가속",
+          "summary": "과거 경쟁사 해킹 등에 따른 반사이익 효과가 사라지며 MNO 및 MVNO 가입자 성장세는 다소 둔화됐으나 AI 데이터센터(AIDC) 사업이 견조한 성장을 이어가며…",
+          "press": "ftoday.co.kr",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 09:04",
+          "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=367072",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스 호실적 기대 속 LG헬로비전, 사업 재편으로 활로",
+          "summary": "LG헬로비전의 2분기 알뜰폰 매출은 전년 동기 대비 9.9% 줄었으며, 렌탈 매출은 31.7% 감소했다.",
+          "press": "thebigdata.co.kr",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 08:30",
+          "link": "https://www.thebigdata.co.kr/view.php?ud=2026101216284955860a47484cf8_23",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "구글·애플·KT·퍼스트모바일…방미통위 '밀린 숙제' 결론 낸다",
+          "summary": "방송미디어통신위원회가 구글·애플의 인앱결제 강제 의혹, KT의 해킹 은폐 의혹, '전광훈 알뜰폰'으로...",
+          "press": "ebn.co.kr",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 20:54",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727498",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[2026 국감] 통신·플랫폼 규제 허점 도마…방미통위 대응 질타(종합)",
+          "summary": "쿠팡과 카카오 등 온라인 플랫폼의 광고 행위에 대해서는 엄격하게 대응하겠다고 나선 가운데, 이른바 '전광훈 알뜰폰'으로 불리는 퍼스트모바일 조사 지연에 대해서는…",
+          "press": "news.tf.co.kr",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 20:02",
+          "link": "https://n.news.naver.com/mnews/article/629/0000541315?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "서천호 의원 \"법인 대포폰 급증…정부 관리체계 재점검 필요\"",
+          "summary": "법인 명의 다회선 개통이 저가 알뜰폰 요금제와 가입자 확인 절차의 허점과 결합하면 보이스피싱이나...",
+          "press": "newspim.com",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 17:42",
+          "link": "https://www.newspim.com/news/view/20261012001276",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사 가입자 많으면 1등? AI가 바꾸는 순위표 [IT+]",
+          "summary": "통신비를 아끼기 위해 알뜰폰으로 이동하거나, 해킹 위험으로 이통사를 변경하는 등 가입자 이동에 영향을 미치는 요인이 다양해지면서 시장의 흐름을 판단하기 어려워졌단…",
+          "press": "thescoop.co.kr",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 16:25",
+          "link": "https://n.news.naver.com/mnews/article/665/0000008345?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "법인 등 사업자 명의 대포폰 적발 건 수 급증",
+          "summary": "이어 “특히 알뜰폰 사업자와 유통점의 부정 개통 실태를 상시 점검하고, 법인 명의 다회선 개통과 실사용자 확인 절차의 사각지대를 해소해야 한다”며 “부실 사업자에…",
+          "press": "viva100.com",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 15:56",
+          "link": "https://www.viva100.com/article/20261012501051",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신비 내렸다더니 '꼼수 인하'…데이터 줄이고 주요 요금 제자리",
+          "summary": "가입자는 현재 통신사 안에서 더 저렴한 요금제를 찾을 수 있어도, 경쟁사나 알뜰폰으로 이동할 경우... 경쟁사와 알뜰폰까지 확대해야 한다\"고 말했다.",
+          "press": "hansbiz.co.kr",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 15:44",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871873",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "더 싼 요금 추천받아도 끝 아니다… 실제 절감액 따져봐야",
+          "summary": "최적요금제라는 명칭과 달리 다른 통신사나 알뜰폰 요금제까지 비교해 시장에서 가장 저렴한 상품을 찾아주는 제도는 아니다.",
+          "press": "the-biz.co.kr",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 15:12",
+          "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=729050",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "서천호 의원 \"법인 등 사업자 명의 대포폰 6,243건… 2024년 대비 195배 ...",
+          "summary": "특히 법인 명의로 다수의 회선을 개통할 수 있는 구조와 저가 알뜰폰 요금제, 부실한 가입자 확인 절차 등이 결합할 경우 보이스피싱·리딩방 사기·불법 도박 등 각종…",
+          "press": "newsgn.com",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 14:10",
+          "link": "https://www.newsgn.com/news/articleView.html?idxno=578498",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이훈기 \"방미통위, 1년 4개월째 '전광훈 알뜰폰' 조사만…\"",
+          "summary": "방송미디어통신위원회(방미통위)가 알뜰폰 사업자 퍼스트모바일의 전기통신사업법 위반 여부를 1년 4개월째 조사하고도 결론을 내리지 않아 늦장 조사라는 비판이 제기됐다…",
+          "press": "mediaus.co.kr",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 10:06",
+          "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=318406",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] 처벌 약했나···LG유플러스·네이버 발신번호변작 방지의무 재...",
+          "summary": "한국케이블텔레콤과 스테이지파이브 등 중소 알뜰폰 기업들을 비롯해 LG유플러스, 네이버클라우드, NHN커머스 등 대기업 계열도 동일 유형의 위반을 반복했다.",
+          "press": "sisajournal-e.com",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 09:46",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424240",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[모닝 리포트] \"SK텔레콤, 통신 정체 넘어 AI 인프라로\"",
+          "summary": "안 연구원은 5G 보급률이 82%를 넘어선 가운데 알뜰폰(MVNO)으로의 가입자 이동에 따른 감소 영향이 불가피하다고 분석했다.",
+          "press": "newspim.com",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 08:14",
+          "link": "https://www.newspim.com/news/view/20261012000076",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "5G 데이터 이월은 KT뿐…월 19GB 쓴다면 1만원대 알뜰폰 20GB가 답",
+          "summary": "그러나 이월은 아직 KT 일부 요금제에서만 되고, 통신비를 크게 줄이는 길은 여전히 알뜰폰 쪽에 있다....",
+          "press": "imaeil.com",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 12:59",
+          "link": "https://n.news.naver.com/mnews/article/088/0001033457?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] 대포폰 적발, 전년 대비월평균 27% 늘었다",
+          "summary": "통신사별로 보면 알뜰폰을 통한 대포폰 적발이 압도적으로 많았다. 올해 1~8월 알뜰통신사 대포폰 적발... 알뜰폰의 높은 비중은 올해만의 현상도 아니다.",
+          "press": "sisajournal-e.com",
+          "date": "2026-10-10",
+          "datetime": "2026-10-10 17:32",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424231",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "오늘이엔엠, 반능동 기지국 안테나 기술 특허 출원",
+          "summary": "오늘이엔엠(192410)이 피지컬 AI 및 5G-Advanced(Advanced) 시대를 겨냥한 ‘반능동(Semi-Active) 이동통신용 안테나 기술’ 특허 출…",
+          "press": "이데일리",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:21",
+          "link": "https://n.news.naver.com/mnews/article/018/0006386955?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "오늘이엔엠, 반능동 이동통신용 안테나 기술 특허 출원",
+          "summary": "이동통신 안테나 전문기업 오늘이엔엠은 '반능동(Semi-Active) 이동통신용 안테나 기술' 특허 출원을 완료했다고 13일 밝혔다.",
+          "press": "뉴시스",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:02",
+          "link": "https://n.news.naver.com/mnews/article/003/0014248957?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'스타링크 충격' SKT·KT 급락…NH證 \"영향 제한적, 우려 과도\"",
+          "summary": "스타링크의 미국 이동통신 시장 진출 움직임에 SK텔레콤(017670)과 KT(030200) 주가가 급락한 데 대해 국내 통신사에 미칠 영향을 과도하게 우려하고 있…",
+          "press": "뉴스1",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 08:37",
+          "link": "https://n.news.naver.com/mnews/article/421/0009223673?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[경제일보] SKT, 통신요금 다음은 AI요금…'토큰 게이트웨이'의 진짜 계...",
+          "summary": "이동통신사는 오랫동안 통화시간과 문자 건수, 데이터 사용량을 측정하고 고객별로 요금을 청구해왔다.",
+          "press": "아주경제",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 08:14",
+          "link": "https://www.ajunews.com/view/20261012003154136",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신요금에 몰래 붙은 부가서비스, 4년 새 85%↑…50대 이상 피해 커",
+          "summary": "2022년 101개→올해 187개 ‘모르는 새 가입’ 지적에도 실태조사 없어 주로 고령층서 피해 발생 이동통신 3사와 손잡은 제휴 부가서비스가 최근 4년 새 85…",
+          "press": "세계일보",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 07:02",
+          "link": "https://n.news.naver.com/mnews/article/022/0004166151?sid=100",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[위클리오늘] 이동통신 소식_SK텔레콤, LG유플러스, KT(10,13)",
+          "summary": "내년에는 주요 통신 서비스로 적용 범위를 넓히고 다국어·음성 기능도 강화해 개인화된 AI 서비스를... 경험을 통신 생활 전반으로 확대하겠다\"고 말했다.",
+          "press": "weeklytoday.com",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 11:28",
+          "link": "http://www.weeklytoday.com/news/articleView.html?idxno=797555",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[TOP's Pick] 오늘이엔엠, 피지컬AI 최적화 기지국 안테나 기술 특허 출...",
+          "summary": "무중단 페일세이프 기술 구현…통신 단절·블랙아웃 원천 차단 국내 이동통신 안테나 전문기업 오늘이엔엠이 피지컬 인공지능(Physical AI) 및 5G 어드밴스드(…",
+          "press": "topdaily.kr",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:31",
+          "link": "https://www.topdaily.kr/articles/112281",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스 'U+one', 검색창서 요금 납부·로밍 처리하는 액셔너블 AI 전...",
+          "summary": "U+one은 이동통신 청구 정보 확인과 부가서비스 신청, 요금제 변경 등 통신사 핵심 대고객 업무를 단일 창구로 모아둔 플랫폼이다.",
+          "press": "ttlnews.com",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:20",
+          "link": "http://www.ttlnews.com/news/articleView.html?idxno=3151309",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 View] 스팸 차단부터 구독·업무 처리까지 'AI First'로 도약",
+          "summary": "이동통신 3사가 인공지능(AI)을 앞세워 고객 경험 혁신에 속도를 내고 있다.",
+          "press": "newscj.com",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:06",
+          "link": "https://www.newscj.com/news/articleView.html?idxno=3439774",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "방미통위가 퍼스트모바일(전광훈 알뜰폰)의 전기통신사업법 위반 여부를 3차 현장조사했지만, 1년 4개월째도 결론을 내지 못하고 있다. 조사가 장기화되면서 규제 대응이 지연되고 있다.",
+      "articles": [
+        {
+          "title": "현장조사 3차례 하고도 1년 4개월째 결론 못 낸 ‘전광훈 알뜰폰’",
+          "summary": "방송미디어통신위원회(방미통위)가 알뜰폰 사업자 퍼스트모바일의 전기통신사업법 위반 여부를...",
+          "press": "이데일리",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 07:18",
+          "link": "https://n.news.naver.com/mnews/article/018/0006386161?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "LG에너지솔루션·삼성SDI가 중심이 된 K‑배터리 생태계가 회복세를 보이며 파워넷·에코프로머티와 안정적 거래를 이어가고, 인피니언은 AI 서버용 27kW 3상 PSU를 출시해 데이터센터 전원 수요에 대응한다. 양사는 LFP·소듐 배터리 사업을 확대해 UPS·ESS·전기차 등 연계 시장을 공략한다.",
+        "mercury": "머큐리와 머큐리광통신을 포함한 광통신·광반도체 관련주가 전반적으로 급락했다. 머큐리 주요 주주의 지분이 크게 감소하고, 저궤도 위성통신 관련 매도세도 이어지고 있다.",
+        "encreative": "한류·글로벌 수요 확대에 발맞춰 K‑푸드 기업들은 현지 맞춤형 소스·밀키트·프리미엄 브랜드를 출시하고, 수펙스 김치는 해외 수출까지 확대한다. 전북은 AI 융합·예산 지원으로 고단백·골건강 원료·밀키트 등 사업화 기반을 강화한다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "K-배터리 생태계 부활하나…LG에너지솔루션·삼성SDI 중심 온기 확산",
+          "summary": "소형 전원공급장치 공급사인 파워넷과 전구체 생산을 담당하는 에코프로머티도 안정적인 거래 흐름을 보여주고 있다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 09:08",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494291",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "인피니언, 차세대 AI 서버용 27kW 3상 전원공급장치 솔루션 출시",
+          "summary": "인피니언 테크놀로지스가 서버 ODM 및 OEM을 위한 27kW 3상 전원공급장치(PSU) 솔루션을 출시했다고 12일 밝혔다.",
+          "press": "디지털데일리",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 11:29",
+          "link": "https://n.news.naver.com/mnews/article/138/0002244352?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "ABB, 포뮬러E서 전력 기술 검증…산업 인프라로 기술 확장",
+          "summary": "한국딜로이트는 국내 데이터센터 시장이 2030년까지 연평균 약 20% 성장할 것으로 전망하며, 입지 선정...",
+          "press": "hansbiz.co.kr",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 09:54",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=872138",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "후이저우 징친 전자부품, KES 2026서 소형 회로보호 부품 'SMD 보호 부품...",
+          "summary": "이들 소형 부품은 LED 조명, 스위칭 전원공급장치, 가전제품, 자동차 전장 분야에 적용되도록... 부품 공급 서비스를 강화하고 있다\"라고 설명했다.",
+          "press": "kr.aving.net",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 09:50",
+          "link": "https://kr.aving.net/news/articleView.html?idxno=1815229",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[산업 뉴스브리핑] 삼성전자 비스포크 냉장고·무빙스타일, 포브스 '스마...",
+          "summary": "전원공급장치(PSU) 솔루션을 출시했다. 소니코리아는 휴대용 블루투스 스피커 '얼트 필드 1(ULT FIELD 1)'의...",
+          "press": "asiatime.co.kr",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 16:00",
+          "link": "https://www.asiatime.co.kr/article/20261012500342",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "AI 서버 기대에도 차익실현 확산…전자장비와기기주 희비",
+          "summary": "인공지능(AI) 서버용 기판과 전장 부품 수요에 대한 중장기 기대는 이어지고 있지만, 3분기 실적 발표를...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 11:02",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494378",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "인피니언, 차세대 AI 서버 전력 아키텍처용 27kW 3상 PSU 솔루션 출시",
+          "summary": "이런 가운데 인피니언테크놀로지스는 이러한 요구에 대응하기 위해 서버 ODM 및 OEM을 위한 27kW 3상 전원공급장치(PSU) 솔루션을 출시한다고 밝혔다.",
+          "press": "epnc.co.kr",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 10:40",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408009",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "삼성SDI ‘원통형 LFP’ 내년 상반기 양산…AI 서버 배터리 시장 겨냥 [...",
+          "summary": "상대적으로 높은 가격 경쟁력과 열적 안정성을 앞세워 급성장하는 데이터센터 배터리 시장 공략에... 전기를 공급하는 장치다.",
+          "press": "헤럴드경제",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 11:10",
+          "link": "https://n.news.naver.com/mnews/article/016/0002708553?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "국립한국해양대, '플라이 아시아 2026'서 미래 친환경 수소선박 핵심 기...",
+          "summary": "전시 부스를 통해 연구개발과제 참여기업인 LS 일렉트릭의 선박용 DC-DC 컨버터와 NK 선박용 연료전지시스템 및 동인엔시스의 지능형 제어반 기술을 공개했다.",
+          "press": "파이낸셜뉴스",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:30",
+          "link": "https://n.news.naver.com/mnews/article/014/0005588276?sid=102",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "LS머트리얼즈, 美에 690억 규모 UC 공급…\"업계 최대 수출\"",
+          "summary": "무정전전원장치(UPS) 등 산업용 중심의 UC 사업을 AI 데이터센터 전력 인프라 분야로 확대하고 있다.",
+          "press": "뉴스1",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:11",
+          "link": "https://n.news.naver.com/mnews/article/421/0009224051?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "그 많던 자동차는 어디로 갔을까 [EDITOR's LETTER]",
+          "summary": "미국에는 폰티악과 올즈모빌, 머큐리가 있었습니다. 스웨덴에는 사브가 있었고 영국에는 로버가 있었습니다....",
+          "press": "한국경제",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 09:16",
+          "link": "https://n.news.naver.com/mnews/article/050/0000111867?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "‘블랙컴뱃 출전’ 니콜라스 산투스, 19세에 사망",
+          "summary": "당시 브라질 오디션을 통해 출전 기회를 얻은 산투스는 ‘머큐리’ 플라비우 다 시우바 산투스와 라이트급 경기를 치렀으나 3라운드 4분 28초 TKO패를 당했다.",
+          "press": "헤럴드경제",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 09:07",
+          "link": "https://m.sports.naver.com/general/article/016/0002707848",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "재즈는 원래 댄스 음악! 관객 뛰놀게 한 영국 재즈 밴드",
+          "summary": "장르 불문 그해 최고의 음반을 선정하는 영국의 권위 있는 음악상 머큐리상을 재즈 장르 최초로 거머쥐었고, 재즈 아티스트 중 처음으로 웸블리 아레나 단독 공연을 했…",
+          "press": "한국일보",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 17:01",
+          "link": "https://n.news.naver.com/mnews/article/469/0000958784?sid=103",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[특징주] 美 광통신주 급락 여파⋯대한광통신ㆍ빛과전자 5%↓",
+          "summary": "이 밖에도 라이콤(-4.79%), 자람테크놀로지(-4.73%), RFHIC(-4.71%), 빛과전자(-4.70%), 대한광통신(-4.58%), LS(-4.10%)…",
+          "press": "etoday.co.kr",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:04",
+          "link": "https://www.etoday.co.kr/news/view/2635046",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "광통신·광반도체 관련주 일제히 하락…한미반도체 9%대 급락, 빛과전자...",
+          "summary": "머큐리는 180원 하락한 5120원으로 3.40% 약세를 나타냈다. 자람테크놀로지는 810원 떨어진 1만2940원으로 5.89% 하락했다.",
+          "press": "cbci.co.kr",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:00",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=614787",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "감자로 몸집 줄인 STX…범한산업 지분율은 94.89%로",
+          "summary": "종전 최대주주인 에이피씨머큐리의 지분율은 출자전환 전 38.67%에서 7.03%로 낮아졌다.",
+          "press": "hansbiz.co.kr",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 09:58",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=872183",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"韓 AI 데이터센터, 전력 확보하면 빅테크 줄 선다\"…美 AI기업 회장의 ...",
+          "summary": "구축한 '광케이블망'이 있었고 여기에 '세금 면제'와 '개발 절차 간소화 정책'이 맞물렸다\"고 말했다.",
+          "press": "머니투데이",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 15:03",
+          "link": "https://n.news.naver.com/mnews/article/008/0005424940?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "티제이이노베이션, 소프트뱅크에 '분산안테나시스템' 공급",
+          "summary": "고출력 광 DAS(분산안테나시스템)를 공급하며 글로벌 시장 공략에 속도를 낸다. 티제이이노베이션은 최근...",
+          "press": "이데일리",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 10:32",
+          "link": "https://n.news.naver.com/mnews/article/018/0006386330?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "AI 병목 뚫는 ‘빛의 고속도로’… 美 주문 쌓이는 K-광케이블",
+          "summary": "해외에서는 쿠웨이트 광케이블 생산 법인을 거점으로 현지 시장과 사우디아라비아·카타르 등 주변 국가로...",
+          "press": "조선일보",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 06:01",
+          "link": "https://n.news.naver.com/mnews/article/023/0004003267?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "“K2 전차가 왜 철망을 뒤집어썼나”…北 드론에 맞선 ‘전차의 변신’...",
+          "summary": "가격이 저렴해서 FPV 드론처럼 저가의 공격 무기를 막는데 효과적이다. 전자전을 극복하는 유도무기도 저지할 수 있다.",
+          "press": "세계일보",
+          "date": "2026-10-11",
+          "datetime": "2026-10-11 09:32",
+          "link": "https://n.news.naver.com/mnews/article/022/0004165586?sid=100",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"반짝 흥행 안돼\" 한류 덕에 뜬 K브랜드 생존법…\"현지서 뿌리 내려라\"",
+          "summary": "매년 K브랜드는 글로벌 시장 전반에서 수요가 높아지고 있다는 방증이다. ◆ \"넥스트 K푸드는 소스·간편식...",
+          "press": "머니투데이",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 07:30",
+          "link": "https://n.news.naver.com/mnews/article/008/0005425250?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"한류 타고 팔렸다, 그다음은?\"…K브랜드 해외 '현지 안착' 관건",
+          "summary": "매년 K브랜드는 글로벌 시장 전반에서 수요가 높아지고 있다는 방증이다. \"넥스트 K푸드는 소스·간편식...",
+          "press": "머니투데이",
+          "date": "2026-10-12",
+          "datetime": "2026-10-12 06:30",
+          "link": "https://n.news.naver.com/mnews/article/008/0005424615?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "창영이팩토리 이창영 대표, 프리미엄 퓨전 중식 브랜드 '면쿵면쿵' 시흥...",
+          "summary": "창영이팩토리는 HACCP 인증 제조시설을 기반으로, 각종 소스와 면류, 밀키트, 간편식 등을 개발·생산하는...",
+          "press": "fntoday.co.kr",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:26",
+          "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=395137",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "워커힐, 11월14일 '김장 담그는 날' 개최… 수펙스 김치 비법 체험",
+          "summary": "남북정상회담과 주요 국제 행사 식탁에 오른 수펙스 김치는 지난 7월 미국 수출에도 나서며 해외 시장으로...",
+          "press": "koreaittimes.com",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 09:58",
+          "link": "https://www.koreaittimes.com/news/articleView.html?idxno=158040",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "전북, AI 융합 K-푸드 산업 육성 '탄력'…내년 정부예산 15억여원 반영",
+          "summary": "기업 협력 생태계 조성과 사업화 실증, 고령친화 골건강 소재 및 고단백 제품 핵심원료 개발, 밀키트...",
+          "press": "newspim.com",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 09:55",
+          "link": "https://www.newspim.com/news/view/20261013000335",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "K-소비재 수출 역대 최고 실적…\"맞춤형 수출전략 필요\"",
+          "summary": "라면 수출의 88%를 담당하는 중견 제조사들의 성장에 힘입어 K-푸드 수출에서 중견기업이 차지하는 비중은 40.1%에서 61.8%로 상승했다.",
+          "press": "뉴스1",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 12:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009224469?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "K-소비재 수출 10년 새 4.2배…미국·유럽 10배 늘 때 중국은 ‘정체’",
+          "summary": "미국과 유럽 수출이 각각 10배 이상 증가하면서 중국·홍콩에 집중됐던 수출시장도 다변화됐다.",
+          "press": "경향신문",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 12:00",
+          "link": "https://n.news.naver.com/mnews/article/032/0003475945?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "K-소비재 수출 10년간 4.2배↑…\"중소기업 성장 지원해야\"",
+          "summary": "K-푸드는 중국·미국·일본이 상위 3대 수출국 자리를 지킨 가운데, 라면·조미김·간식류 3개 품목 기준으로는 미국이 중국을 제치고 최대 수출국이 됐다.",
+          "press": "연합뉴스",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 12:00",
+          "link": "https://n.news.naver.com/mnews/article/001/0016373236?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "佛 마트 400곳, 냉장고 해킹으로 식품 ‘전량 폐기’… 유럽 식탁 덮친...",
+          "summary": "밤새 녹아내린 신선·냉동식품은 통째로 버려졌고, 일부 매장에서는 불까지 났다. 유럽 내 주요 인프라를...",
+          "press": "조선비즈",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:41",
+          "link": "https://n.news.naver.com/mnews/article/366/0001197566?sid=104",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "농생명자원에 AI를 더하다…전북도, K-푸드 미래산업 거점 도약",
+          "summary": "전북특별자치도는 풍부한 농생명 자원과 국가식품클러스터를 발판 삼아, 인공지능(AI)을 접목한 K-푸드...",
+          "press": "전자신문",
+          "date": "2026-10-13",
+          "datetime": "2026-10-13 10:13",
+          "link": "https://n.news.naver.com/mnews/article/030/0003474341?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 61
+}
