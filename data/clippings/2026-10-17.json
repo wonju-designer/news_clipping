@@ -1,0 +1,554 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17 09:54",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "NIA 요금제 추천서비스 중복투입 논란",
+      "category": "산업",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=579313"
+    },
+    {
+      "rank": 2,
+      "headline": "통신비 절약 방법 1위에 '알뜰폰 이용'",
+      "category": "산업",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=773590"
+    },
+    {
+      "rank": 3,
+      "headline": "외면받는 e심, 정부 비용·개통절차 개선",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/008/0005426480?sid=105"
+    },
+    {
+      "rank": 4,
+      "headline": "중소 알뜰폰 가입자 성장과 질적 과제",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/030/0003475063?sid=105"
+    },
+    {
+      "rank": 5,
+      "headline": "이통3사 3분기 영업익 1.4조원 전망",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/001/0016382448?sid=105"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "이동통신 3사는 해킹과 희망퇴직 비용 등의 기저효과에 힘입어 올해 3분기 합산 영업이익이 전년 동기 대비 80% 이상 증가한 1조4000억원에 달할 전망이다. 애플의 첫 폴더블폰 아이폰 듀오 사전예약 개시로 통신사들의 혜택 경쟁이 시작됐으나, 초도 물량 부족으로 차수별 순차 개통이 예고됐다. 통신비 절감을 위해 알뜰폰 요금제를 택하거나 결합할인 및 신용카드 혜택을 활용하는 소비자가 늘고 있다. 독립계 중소 알뜰폰은 통신 3사 자회사를 추월해 가입자 우위를 잇고 있지만 질적 성장은 과제로 지목된다. 정부와 통신사의 요금제 도입에도 불구하고 가계 통신비 부담이 여전히 크고 망 투자가 줄었다는 비판도 이어진다.",
+      "articles": [
+        {
+          "title": "글로벌 디지털 경쟁력 평가 하락...'IT 강국'韓, 네트워크 정책 재점검 ...",
+          "summary": "통신요금 인허가 제도나 도매대가 관리, 알뜰폰 활성화 등 국민의 보편적 통신서비스 이용을 강조한 것이다.",
+          "press": "파이낸셜뉴스",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 18:20",
+          "link": "https://n.news.naver.com/mnews/article/014/0005589960?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"6G 온다\" 각국 품질 경쟁… 韓, AI·네트워크 투자 유인 시급 [AI시대, ...",
+          "summary": "알뜰폰 활성화와 도매대가 인하로 가격경쟁을 유도하고, 5G 중간요금제와 청년·고령층 대상 상품을 확대한 게 대표적이다.",
+          "press": "파이낸셜뉴스",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 18:16",
+          "link": "https://n.news.naver.com/mnews/article/014/0005589940?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "편리한 'e심', 한국선 외면… 정부, 비용·개통절차 손본다",
+          "summary": "알뜰폰 시장에서는 미디어로그의 e심 사용자가 약 113만4200명(점유율 3.5%)으로 가장 많았다. 이어 LG헬로비전...",
+          "press": "머니투데이",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 03:54",
+          "link": "https://n.news.naver.com/mnews/article/008/0005426480?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "중소 알뜰폰, 이통 자회사 가입자 앞섰지만…질적 성장은 과제",
+          "summary": "독립계 중소 알뜰폰(MVNO) 가입자가 지난해 이동통신 3사 자회사를 추월한 이후 올해까지 우위를 유지하고 있다.",
+          "press": "전자신문",
+          "date": "2026-10-14",
+          "datetime": "2026-10-14 15:57",
+          "link": "https://n.news.naver.com/mnews/article/030/0003475063?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신비 줄이는 법 따로 있다?…소비자들이 택한 절약법은",
+          "summary": "매달 빠져나가는 통신비를 줄이기 위해 알뜰폰 요금제를 선택하거나 통신사 결합할인, 신용카드 혜택을 활용하는 소비자들이 늘고 있다.",
+          "press": "dailian.co.kr",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 09:01",
+          "link": "https://n.news.naver.com/mnews/article/119/0003143793?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[오늘의 카드] KB국민카드·하나카드·BC카드·카드고릴라",
+          "summary": "설문조사 결과, 소비자가 이동통신요금 절약을 위해 가장 많이 선택한 방법은 '알뜰폰 요금제 이용'(30.1...",
+          "press": "financialreview.co.kr",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 15:00",
+          "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=45535",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "서천호 의원 \"NIA, 유사 요금제 추천서비스 있는데 9억8천만원 또 투입…...",
+          "summary": "그러나 한국통신사업자연합회(KTOA)는 이미 지난 2012년부터 '스마트초이스'를 통해 통신3사와 알뜰폰...",
+          "press": "newsgn.com",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 14:36",
+          "link": "https://www.newsgn.com/news/articleView.html?idxno=579313",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[산업의 암살자⑤] 기지국의 시대 흔드는 스타링크…통신사, AI로 활로 ...",
+          "summary": "알뜰폰 시장에서도 같은 달 5G 가입자는 58만4315명으로 전체 알뜰폰 가입자의 5.6%에 그쳤다. 물론 가입자 감소가 곧바로 실적 악화를 뜻하지는 않는다.",
+          "press": "pointdaily.co.kr",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 13:26",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322418",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신비 카드로 절약, 5명중 1명",
+          "summary": "이동통신요금을 할인하기 위해 일반 소비자들이 가장 선호하는 것은 알뜰폰 요금제라고 꼽았다. 한때...",
+          "press": "naeil.com",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 13:08",
+          "link": "https://www.naeil.com/news/read/605250?ref=naver",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "카드고릴라, 통신비 절약 설문 '알뜰폰 이용' 1위…혜택 카드 활용 17.6%",
+          "summary": "카드고릴라 웹사이트 방문자를 대상으로 한 이동통신요금 절약 설문에서 알뜰폰 요금제 이용이 가장...",
+          "press": "slist.kr",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 08:42",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=773590",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[혼삶 체험기] 통신비 아끼려고 '알뜰폰'으로 갈아탔다…요금·데이터 ...",
+          "summary": "기존에는 이동통신 3사 중 한 곳인 LG유플러스를 이용했지만, 통신비를 줄일 방법을 찾다가 알뜰폰 요금제를...",
+          "press": "dailypop.kr",
+          "date": "2026-10-14",
+          "datetime": "2026-10-14 11:26",
+          "link": "http://www.dailypop.kr/news/articleView.html?idxno=103357",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "공급량 허덕이는 아이폰듀오...이통사, 차수별 순차 개통 불가피",
+          "summary": "애플 첫 폴더블폰 아이폰 듀오의 초도 물량이 부족한 가운데, 이동통신 3사가 사전예약 신청자에게 단말기를 차수별로 순차 개통에 나설 것으로 보인다.",
+          "press": "지디넷코리아",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 07:00",
+          "link": "https://n.news.naver.com/mnews/article/092/0002441293?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사 영업익 5조원 시대 열리나…3분기 1.4조원 전망",
+          "summary": "해킹·희망퇴직 비용 기저효과에 실적 회복…SKT 영업익 10배 전망 AI 데이터센터·클라우드 투자 확대…신사업 수익화가 관건 국내 이동통신 3사의 올해 3분기 합…",
+          "press": "연합뉴스",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 06:55",
+          "link": "https://n.news.naver.com/mnews/article/001/0016382448?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신비는 비싸고 망 투자는 줄고… 정부 통신정책 비판 확산",
+          "summary": "정부와 이동통신사들은 올해 2만원대 5G 요금제와 데이터 안심옵션(QoS) 도입 등을 발표했지만 국회와 시민단체는 통신비 부담이 여전히 크다고 지적한다.",
+          "press": "IT조선",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 06:30",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172151",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“오늘 주문하면 내년에 받는다?”…아이폰 듀오, ‘품귀’ 본격화 조짐",
+          "summary": "이동통신사 사전예약 사이트에도 아이폰 듀오 구매를 원하는 소비자들의 접속이 몰렸다.",
+          "press": "매일경제",
+          "date": "2026-10-16",
+          "datetime": "2026-10-16 22:56",
+          "link": "https://n.news.naver.com/mnews/article/009/0005749865?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"329만원짜리인데 내년에 받으라고?\"…아이폰 듀오, 예약 개시 30분 만에...",
+          "summary": "이동통신사 사전예약 사이트에도 구매를 원하는 소비자들의 접속이 몰렸다.",
+          "press": "뉴시스",
+          "date": "2026-10-16",
+          "datetime": "2026-10-16 22:18",
+          "link": "https://n.news.naver.com/mnews/article/003/0014259261?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, '영업익 5조 시대' 눈앞…3분기만 1.4조원 육박",
+          "summary": "국내 이동통신 3사의 올해 3분기 합산 영업이익이 1조4천억원에 육박할 것으로 전망되면서, 연간 영업이익 5조원 시대 개막 여부에 업계의 이목이 쏠리고 있다.",
+          "press": "newsroad.co.kr",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 09:06",
+          "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=65936",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'해킹·희망퇴직 털어냈다'···통신 3사, 3Q 영업이익 80% 성장 전망",
+          "summary": "SK텔레콤과 KT, LG유플러스 등 이동통신 3사의 올해 3분기 합산 영업이익이 전년 동기 대비 80% 이상 증가할 것으로 전망된다.",
+          "press": "seoulfn.com",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 08:30",
+          "link": "https://www.seoulfn.com/news/articleView.html?idxno=640287",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, AIDC 성장·기저 효과에 3Q 영업익 90%↑ 전망",
+          "summary": "LG유플러스의 3분기 마케팅비는 6천억원 수준으로 매출 대비 비율로 따지면 5세대 이동통신(5G) 도입 이후 평균인 21.8%를 하회할 것으로 예상된다.",
+          "press": "news.einfomax.co.kr",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 08:02",
+          "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439736",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "애플 첫 폴더블 ‘아이폰 듀오’ 사전판매 시작…고가 전략 변수",
+          "summary": "이동통신 3사는 사전예약 고객을 대상으로 단말 할인, 중고폰 추가 보상, 제휴카드 할인 등 다양한 프로모션을 내세워 고객 유치에 나서고 있다.",
+          "press": "sentv.co.kr",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 08:02",
+          "link": "https://www.sentv.co.kr/article/view/sentv202610160134",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[아이폰 듀오] 7.6인치 대화면에 주름 줄였다…애플 '아이폰 듀오' 23일...",
+          "summary": "이동통신 3사는 사전예약자를 대상으로 다양한 혜택을 내세우고 있다.",
+          "press": "cbci.co.kr",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 00:00",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=616350",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "최소 329만원 '아이폰 듀오' 사전예약 시작...이통3사 혜택 경쟁",
+          "summary": "이에 이동통신 3사는 각종 혜택을 제공하는 등 본격적인 경쟁에 들어갔다.",
+          "press": "etoday.co.kr",
+          "date": "2026-10-16",
+          "datetime": "2026-10-16 18:30",
+          "link": "https://www.etoday.co.kr/news/view/2636856",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "LFP 배터리주에 매수세가 유입되며 파워넷도 상승 대열에 합류했다. 2차전지 밸류체인 전반으로 매수세가 확산 중이나, 전기차 수요 회복 속도와 배터리 공장 가동률, 원재료 가격 변화에 따라 기업별 실적 개선 폭은 달라질 수 있다.",
+        "mercury": "머큐리는 에어큐브·코닉글로리와 무선망 은닉·보안 플랫폼을 구축하고, 5G·6G·위성·고대역폭 광통신 투자 확대와 함께 통신장비 기업들의 주가 상승 흐름에 동참하고 있다.",
+        "encreative": "",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "탑머티리얼·엘앤에프 상승랠리…LFP 배터리주 매수세 유입",
+          "summary": "파워넷과 브이티, 팬스타엔터프라이즈, 소프트센, 아모그린텍도 상승 대열에 합류했다. EG 역시 오름세를... 시장 확대 기대만으로 실적 개선을 단정하기보다",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-14",
+          "datetime": "2026-10-14 10:06",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495132",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "유진테크놀로지·엘앤에프 급등… 2차전지 밸류체인 매수세 확산",
+          "summary": "다만 전기차 수요 회복 속도와 배터리 공장 가동률, 원재료 가격 변화에 따라 기업별 실적 개선 폭은 달라질...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-14",
+          "datetime": "2026-10-14 09:52",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495118",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[영상] 노보센스, KES 2026서 산업용·로봇용 반도체 기술 선보여",
+          "summary": "지난 2022년 한국 시장에 진출한 노보센스는 자동차와 산업용 장비, 전력 시스템에 사용되는 반도체를...",
+          "press": "전자신문",
+          "date": "2026-10-16",
+          "datetime": "2026-10-16 17:12",
+          "link": "https://n.news.naver.com/mnews/article/030/0003475893?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "마우저, 알레그로 절연형 SiC 게이트 드라이버 칩셋 공급",
+          "summary": "글로벌 시장에 유통한다. 16일 마우저 일렉트로닉스는 알레그로 마이크로시스템즈(Allegro MicroSystems)의...",
+          "press": "디지털데일리",
+          "date": "2026-10-16",
+          "datetime": "2026-10-16 11:58",
+          "link": "https://n.news.naver.com/mnews/article/138/0002244976?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "“AI 경쟁, 결국 전력의 문제”… 솔루엠, 고효율 전원 솔루션으로 데이...",
+          "summary": "배터리 백업 유닛(BBU)용 26kW급 고전압 DC-DC 컨버터는 샘플 검증을 마쳤으며, 2027년 양산을 목표로 하고 있다.",
+          "press": "전자신문",
+          "date": "2026-10-16",
+          "datetime": "2026-10-16 09:01",
+          "link": "https://n.news.naver.com/mnews/article/030/0003475668?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이텀 17.43% 올라…평판형 변압기 적용 확대 주목",
+          "summary": "에이텀은 16일 오후 2시37분 기준 코스닥 시장에서 7,950원에 거래됐다. 전 거래일보다 1,180원 오른 가격으로...",
+          "press": "job-post.co.kr",
+          "date": "2026-10-16",
+          "datetime": "2026-10-16 14:48",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=232875",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자 0.55% 상승…전원장치 사업 수익성 점검",
+          "summary": "16일 오후 1시44분 기준 코스닥 시장에서 등락률은 +0.55%로 나타났다. 저가 2만5,750원을 기록한 뒤 고가는 2만7,650원까지 올라갔다.",
+          "press": "job-post.co.kr",
+          "date": "2026-10-16",
+          "datetime": "2026-10-16 13:58",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=232807",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[특징주] 빅텍, 한화시스템과 105억 규모 방산 공급계약",
+          "summary": "빅텍은 1990년 빅텍파워시스템으로 설립돼 2003년 코스닥시장에 상장한 방산·민수사업 전문기업이다.",
+          "press": "newstnt.com",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 11:00",
+          "link": "https://www.newstnt.com/news/articleView.html?idxno=723093",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "한울반도체, 대만 델타전자 계열사에 MLCC 검사장비 공급",
+          "summary": "델타전자 그룹은 전원공급장치와 열관리 솔루션을 주력으로 하는 글로벌 기업이다. 연결 기준 연매출은 약...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-14",
+          "datetime": "2026-10-14 16:40",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495347",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[더벨][i-point] 한울반도체, 대만 델타전자 자회사에 MLCC 검사 장비 공...",
+          "summary": "델타전자 그룹은 전원공급장치 및 열관리 솔루션 분야의 글로벌 기업으로 연결 기준 연매출은 약 25조원... 기술검증과 공급 협의를 확대할 계획이다.",
+          "press": "thebell.co.kr",
+          "date": "2026-10-14",
+          "datetime": "2026-10-14 14:42",
+          "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610141406141720107212",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에어큐브, 지상군페스티벌서 무선보안 '스텔스넷' 공개",
+          "summary": "여기에 머큐리가 무선망 은닉 및 네트워크 보안을, 코닉글로리가 무선침입방지시스템(WIPS) 기반 위협 탐지·대응을 맡아 통합 무선보안 플랫폼을 구축하고 있다.",
+          "press": "IT조선",
+          "date": "2026-10-16",
+          "datetime": "2026-10-16 14:46",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172175",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "에어큐브, 지상군페스티벌서 ‘스텔스넷’ 전시… 국방·공공 무선보안...",
+          "summary": "에어큐브는 사용자 단말 인증 및 보안 기술 연계를 담당하며, 머큐리는 무선망 은닉 및 네트워크 보안 기능을, 코닉글로리는 무선침입방지시스템(WIPS) 기반 무선…",
+          "press": "서울신문",
+          "date": "2026-10-16",
+          "datetime": "2026-10-16 09:37",
+          "link": "https://n.news.naver.com/mnews/article/081/0003689568?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"대만 찍고 미국 간다\" 한미반도체, 세미콘 웨스트 참가",
+          "summary": "한편 한미반도체는 반도체 장비 수요 증가에 대응하기 위해 최근 1300억원을 추가로 투입해 8공장을 구축하기로 했다.",
+          "press": "파이낸셜뉴스",
+          "date": "2026-10-14",
+          "datetime": "2026-10-14 10:01",
+          "link": "https://n.news.naver.com/mnews/article/014/0005588897?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "큰 일교차와 습도 변화에 대비하는 병해 예방",
+          "summary": "바이엘크롭싸이언스㈜ 머큐리슈퍼 액상수화제  - 다양한 작물에 발생하는 흰가루병의 보호 및 치료효과에 탁월 - 병원균의 세포에 영양을 공급하는 미토콘드리아에 연속…",
+          "press": "newsam.co.kr",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 01:54",
+          "link": "https://www.newsam.co.kr/news/article.html?no=44237",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "5G 넘어 6G·위성통신으로…통신장비주 투자심리 달아올랐다",
+          "summary": "라닉스와 아이즈비전, 현대에이치티, 머큐리, 쓰리에이로직스 등 네트워크·통신 관련 기업들도 상승 흐름을 이어갔다.",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-16",
+          "datetime": "2026-10-16 13:02",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495903",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "통신장비 상장기업 브랜드평판 2026년 10월 빅데이터…1위 RFHIC·2위 케이...",
+          "summary": "2026년 10월 통신장비 상장기업 브랜드평판 1위부터 15위까지의 순위는 RFHIC, 케이엠더블유, 쏠리드, 삼지전자, 코맥스, 오이솔루션, 한국첨단소재, 에이…",
+          "press": "cbci.co.kr",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 10:22",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=615723",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"美없었으면 한국도 대만도 반도체 성공 못했다\"",
+          "summary": "25년 전에도 광섬유 케이블이 큰 관심을 받았다. 전기 신호를 빛으로 바꿔 광섬유 케이블로 보내는... 올해의 엄청난 성장에는 가격 상승도 큰 몫을 했다.",
+          "press": "디일렉",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 00:16",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63829",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[2026 국감] 韓 인터넷 속도 22위 지적에···과기정통부 “측정기준 불...",
+          "summary": "인공지능(AI) 데이터센터·클라우드 확산으로 유선망 중요성이 커진 만큼 설비투자를 늘려야 한다는...",
+          "press": "전자신문",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 15:50",
+          "link": "https://n.news.naver.com/mnews/article/030/0003475536?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "정부, '韓 인터넷 속도 세계 22위'에 \"측정 기준 없는 통계 유감\"",
+          "summary": "그는 \"광케이블 수준으로 보면 2025년도 OECD 통계에서 100Mbps급 이상 인터넷 가입자 수와 전체 유선인터넷...",
+          "press": "뉴시스",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 13:30",
+          "link": "https://n.news.naver.com/mnews/article/003/0014255799?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "韓 유선인터넷 속도 세계 22위 논란…과기정통부 \"측정 기준 불명확\"",
+          "summary": "이 의원은 AI 데이터센터와 클라우드 확산으로 대용량 데이터 전송 수요가 급증하는 만큼 광통신망의...",
+          "press": "뉴스1",
+          "date": "2026-10-15",
+          "datetime": "2026-10-15 13:15",
+          "link": "https://n.news.naver.com/mnews/article/421/0009229783?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 42
+}
