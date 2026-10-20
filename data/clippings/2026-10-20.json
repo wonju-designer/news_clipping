@@ -1,0 +1,742 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20 10:25",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "알뜰폰 혜택 경쟁에 60만원 노린 '쌀먹족' 등장",
+      "category": "산업",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172303"
+    },
+    {
+      "rank": 2,
+      "headline": "번호이동 수수료 5년간 209억원…용처 논란",
+      "category": "산업",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424400"
+    },
+    {
+      "rank": 3,
+      "headline": "KB국민은행, 외국인 전용 알뜰폰 요금제 출시",
+      "category": "산업",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=118333"
+    },
+    {
+      "rank": 4,
+      "headline": "6개월 반짝 할인 넘어 평생…알뜰폰 생존경쟁",
+      "category": "산업",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172156"
+    },
+    {
+      "rank": 5,
+      "headline": "통신3사, 3분기 영업익 82% 급증 전망",
+      "category": "산업",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026101915501135872"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "알뜰폰 시장에서 현금성 혜택과 ‘평생 할인’ 등 차별화된 요금제로 이용자 전환이 활발히 일어나고 있다. 설문조사에서 알뜰폰 이용이 통신비 절감 1위로 꼽히는 등 ‘쌀먹족’이라 불리는 저가·혜택 중심 고객층이 확대되고 있다. KB국민은행은 7 GB 월 1만 9900 원 등 외국인 전용 요금제를 출시해 287만 명 규모의 체류 외국인 시장을 적극 공략하고 있다. 한편 이동통신 3사는 번호이동 수수료 209 억 원 규모와 3분기 영업이익 82 % 상승 등 실적 회복세를 보이며, 5G 품질 평가를 속도·안정성으로 확대하고 AIDC·AI 토큰 등 신사업 투자에 박차를 가하고 있다.",
+      "articles": [
+        {
+          "title": "알뜰폰 혜택 경쟁에 60만원 노린 '쌀먹족' 등장",
+          "summary": "알뜰폰 시장에서 통신요금이나 데이터 제공량보다 현금성 혜택을 따져 통신사를 옮기는 이용자가...",
+          "press": "IT조선",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 16:34",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172303",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "6개월 반짝 할인 넘어 '평생'… 알뜰폰 생존경쟁 격화",
+          "summary": "알뜰폰 업계가 가입자를 지키기 위해 '평생 할인' 요금제까지 꺼내 들었다.",
+          "press": "IT조선",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 08:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172156",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB국민은행, 외국인 전용 알뜰폰 요금제 출시…월 1만9900원",
+          "summary": "KB국민은행이 외국인등록증을 소지한 외국인 고객을 대상으로 알뜰폰 요금제를 출시했다.",
+          "press": "sateconomy.co.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 10:06",
+          "link": "https://sateconomy.co.kr/news/view/1065572198264652",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독] 한국통신사업자연합회, 번호이동 수수료 5년 간 209억···용처는...",
+          "summary": "사업자와 알뜰폰 사업자에 부과한 '번호이동 수수료'가 209억원을 넘어선 것으로 나타났다. 연간...",
+          "press": "sisajournal-e.com",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 09:58",
+          "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424400",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB국민은행, 외국인 전용 알뜰폰 요금제 출시",
+          "summary": "KB국민은행(은행장 이환주)이 외국인 고객을 대상으로 월 1만9900원에 데이터와 상해보험 혜택을 제공하는 알뜰폰 요금제를 출시했다.",
+          "press": "press9.kr",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 09:44",
+          "link": "http://www.press9.kr/news/articleView.html?idxno=84429",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB리브모바일, 외국인 전용 요금제 출시",
+          "summary": "KB국민은행의 알뜰폰 서비스 KB리브모바일이 외국인 고객을 위한 전용 요금제를 내놨다. KB리브모바일은...",
+          "press": "newsfreezone.co.kr",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 09:24",
+          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714559",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB국민은행, 외국인 전용 알뜰폰 요금제 출시…월 1만9900원에 7GB",
+          "summary": "그래픽=KB국민은행 외국인등록증을 소지한 외국인이 월 1만9900원에 데이터 7GB를 이용하고, 기본 제공량을 모두 사용한 뒤에도 최대 3Mbps 속도로 데이터를…",
+          "press": "businessplus.kr",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 22:34",
+          "link": "https://www.businessplus.kr/news/articleView.html?idxno=118333",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB리브모바일, 외국인 전용 요금제 출시",
+          "summary": "KB국민은행의 알뜰폰 브랜드 KB리브모바일이 외국인 고객을 위한 전용 요금제를 선보였다.",
+          "press": "delighti.co.kr",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 14:42",
+          "link": "https://www.delighti.co.kr/news/articleView.html?idxno=123419",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "외국인 287만 시대…KB국민은행, 알뜰폰으로 이용층 넓힌다",
+          "summary": "KB국민은행이 외국인 전용 알뜰폰 요금제를 내놓으며 국내 체류 외국인 가입자 확보에 속도를 낸다....",
+          "press": "shinailbo.co.kr",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 14:28",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072991",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB리브모바일, 외국인 전용 알뜰폰 요금제 출시",
+          "summary": "KB국민은행의 이동통신서비스 KB리브모바일이 국내 거주 외국인의 통신비 부담을 줄이고 생활 편의를 높이기 위해 전용 요금제와 보험 혜택을 결합한 새로운 서비스를…",
+          "press": "job-post.co.kr",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 13:52",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=232942",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB리브모바일, 외국인 고객 전용 'KB Global Star 7GB+' 요금제 출시",
+          "summary": "KB국민은행은 알뜰폰 서비스인 KB리브모바일을 통해 외국인 고객의 통신 이용과 국내 생활 편의를 지원하기 위한 외국인 전용 요금제 'KB Global Star 7…",
+          "press": "getnews.co.kr",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 13:36",
+          "link": "https://www.getnews.co.kr/news/articleView.html?idxno=883895",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"통신비 아끼는 가장 현명한 방법은?\"…1위는 '알뜰폰 사용'",
+          "summary": "' 설문조사에서 '알뜰폰 요금제 이용'이 통신비 절약 방법 1위를 차지했다.",
+          "press": "bizwnews.com",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 13:34",
+          "link": "http://www.bizwnews.com/news/articleView.html?idxno=149123",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB리브모바일, 외국인 전용 요금제 출시…상생금융 보폭 넓혀",
+          "summary": "KB국민은행의 알뜰폰(MVNO) 서비스 KB리브모바일이 급증하는 국내 체류 외국인 고객을 겨냥해 통신비 절감과 생활 안전망 보장을 동시에 아우르는 전용 상품을 선…",
+          "press": "globalepic.co.kr",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 12:30",
+          "link": "https://www.globalepic.co.kr/view.php?ud=202610181224536427cc35ccc5c_29",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "월 1만9900원에 데이터 무제한···'KB 글로벌 스타 7GB+' 요금제",
+          "summary": "KB국민은행의 알뜰폰 서비스 KB리브모바일이 외국인 고객을 위한 전용 요금제 'KB 글로벌 스타 7GB+'를 출시했다.",
+          "press": "thereport.co.kr",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 12:08",
+          "link": "https://www.thereport.co.kr/news/articleView.html?idxno=92396",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB리브모바일, 외국인 전용 요금제 선봬…단체상해보험 1년 무료",
+          "summary": "KB국민은행의 알뜰폰 서비스 KB리브모바일은 외국인 고객을 위한 전용 요금제 'KB Global Star 7GB+'를 출시했다.",
+          "press": "ziksir.com",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 11:18",
+          "link": "https://www.ziksir.com/news/articleView.html?idxno=149771",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB리브모바일, 외국인 전용 요금제 출시…상해보험 결합",
+          "summary": "보험과 금융 혜택을 결합하면서 외국인 고객의 국내 체류 과정에서 필요한 서비스를 하나의 접점으로 묶었다.",
+          "press": "kdfnews.com",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 10:40",
+          "link": "http://www.kdfnews.com/news/articleView.html?idxno=189447",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "국민은행, 알뜰폰 앞세워 외국인 시장 선점 나서",
+          "summary": "알뜰폰 사업의 선도 주자로 자리 잡은 KB국민은행이 통신 서비스를 외국인 고객 확보를 위한 새로운 접점으로 활용하는 모습이다.",
+          "press": "straightnews.co.kr",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 10:18",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=313353",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB리브모바일, 외국인 전용 알뜰폰 요금제 선봬...데이터 무제한·보험 ...",
+          "summary": "KB국민은행은 KB리브모바일을 통해 국내 거주 외국인 고객 전용 상품인 'KB 글로벌 스타(Global Star) 7GB+' 요금제를 출시했다.",
+          "press": "pointdaily.co.kr",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 09:56",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322670",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "KB리브모바일, 외국인 전용 'KB Global Star 7GB+' 출시… 1만원대 통신·...",
+          "summary": "KB국민은행의 알뜰폰 서비스 KB리브모바일은 국내 거주 외국인들의 통신비 부담을 낮추고 생활 안전망을 강화하기 위한 전용 요금제를 선보였다고 18일 밝혔다.",
+          "press": "popcornnews.net",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 09:08",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=136336",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[2026 국감] \"교체율이 30%밖에 안 됩니다\"…구형 유심 220만명은 원격 ...",
+          "summary": "LG유플러스는 지난 8일부터 알뜰폰을 포함해 868만건을 대상으로 원격 업데이트 안내 문자를 보내고 있다.",
+          "press": "rightknow.co.kr",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 20:26",
+          "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=35128",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "숲으로 간 LGU+…기술 품은 화담숲서 장기 고객 잡는다 [현장+]",
+          "summary": "최근 이동통신사 간 장기 고객 유치 경쟁이 치열해지는 가운데 단순 혜택의 양보다 고객이 체감하는 경험의 차별화로 브랜드 충성도를 높이겠다는 전략이다.",
+          "press": "블로터",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 09:00",
+          "link": "https://n.news.naver.com/mnews/article/293/0000091821?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[르포] 10년 고객에만 열린 화담숲…LGU+ 고객 경험서 답을 찾다",
+          "summary": "LG유플러스의 이동통신 고객 약 1100만명 가운데 가입 기간 10년 이상 고객은 약 258만명에 달한다.",
+          "press": "ebn.co.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 09:04",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728392",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[비즈+]LG유플러스, 멤버십 패러다임 전환…\"할인 대신 체험에 투자\"",
+          "summary": "/사진=LG유플러스 LG유플러스가 단순 가격 할인 위주였던 이동통신 멤버십 혜택의 중심축을 오프라인 체험형 프로그램으로 전면 수정한다.",
+          "press": "businessplus.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 09:00",
+          "link": "https://www.businessplus.kr/news/articleView.html?idxno=118405",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "정부, 5G SA 상용화 앞두고 품질 평가 손질…속도 외 요소 반영 촉각",
+          "summary": "[사진: 셔터스톡] 이동통신 3사의 5G 품질 경쟁이 다운로드 속도 중심에서 네트워크 안정성을 겨루는 방식으로 전환될 전망이다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 08:00",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708230",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사, 3Q 영업익 82% 급증 전망…실적 반등에도 온도차",
+          "summary": "이동통신 3사의 올해 3분기 합산 영업이익이 전년 동기 대비 82% 증가하며 1조원대를 회복할 전망이다.",
+          "press": "newsway.co.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 07:14",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026101915501135872",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "SKT·KT·LGU+, 미래 신사업 AIDC에 ‘사활’…“전력난 해소, ‘발등의 ...",
+          "summary": "20일 통신업계에 따르면 SK텔레콤과 KT, LG유플러스 등 이동통신 3사는 AIDC를 차세대 성장동력으로 삼고 대규모 인프라 투자에 속도를 내고 있다.",
+          "press": "ceoscoredaily.com",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 07:02",
+          "link": "https://www.ceoscoredaily.com/page/view/2026101913371467343",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "AI 시대 돈 되는 건 '토큰'…이통사, 새 먹거리 선점 경쟁",
+          "summary": "인공지능(AI) 사용 확산에 따라 이동통신 3사가 토큰을 생성·관리하고 과금하는 사업을 새로운 수익모델로 삼고 시장 선점에 나서고 있다.",
+          "press": "ebn.co.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 06:00",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728309",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "LG유플러스 자회사 유모바일은 10월 15일부터 26일까지 22GB+ 요금제 가입자에게 네이버페이 최대 15만원을 지급한다. 프리티는 월 3300원에 데이터 200GB·통화 200분·문자 100건을 제공하며 알뜰폰 생존 경쟁이 격화되고 있다.",
+      "articles": [
+        {
+          "title": "알뜰폰 혜택 경쟁에 60만원 노린 '쌀먹족' 등장",
+          "summary": "LG유플러스의 알뜰폰 자회사 유모바일은 10월 15일부터 26일까지 '22GB+' 요금제 가입자에게 네이버페이를 최대 15만원 지급한다.",
+          "press": "IT조선",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 16:34",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172303",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "6개월 반짝 할인 넘어 '평생'… 알뜰폰 생존경쟁 격화",
+          "summary": "또 다른 알뜰폰 업체인 프리티는 월 3300원에 데이터 200GB와 통화 200분·문자 100건을 제공하는 요금제를 판매하고 있다.",
+          "press": "IT조선",
+          "date": "2026-10-18",
+          "datetime": "2026-10-18 08:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172156",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "전기차·ESS와 AI 데이터센터 수요 확대에 배터리·슈퍼캡·전원장치 시장이 활기를 띠며, 비나텍·위슨테크·삼성SDI·LG에너지솔루션 등 주요 기업이 수주·시험·안전 기준 마련에 집중하고 있다.",
+        "mercury": "AI 투자 우려로 기술주가 하락하면서 머큐리·머큐리광통신도 소폭 하락했지만, 방위·국방 통신 장비 탑재와 SK텔레콤·KT 등과의 협업·인프라 활용을 통해 광통신·광반도체 수요 확대와 AI 데이터센터용 광케이블 시장 성장에 연계되고 있다.",
+        "encreative": "롯데웰푸드가 치즈통돈까스로 냉동 HMR 라인을 강화하고, aT는 AI 기반 농식품 수출정보 서비스로 금상 수상·11월 말 출시 예정이다. 식약처는 CODEX 참여로 비관세장벽 해소를 추진하며, K‑푸드가 파리 미식시장에 김치·불닭소스 등 신제품으로 진출한다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "전기차·ESS 성장 기대에 2차전지株 들썩…소재·장비주 주목",
+          "summary": "시장 성장 기대가 이어지고 있지만 실제 기업 실적은 전기차 수요와 배터리 생산량, 원재료 가격, 가동률...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 10:26",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496389",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "비나텍, 하반기 데이터센터용 슈퍼캡 수주 2000억 돌파",
+          "summary": "아크벨폴리테크는 인공지능(AI) 데이터센터용 고전압 직류(HVDC) 전력 시스템과 서버용 전원공급장치(PSU)를 생산하는 기업이다.",
+          "press": "디일렉",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 17:58",
+          "link": "https://www.thelec.kr/news/articleView.html?idxno=63919",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이루트 앤에스알시, 대만 종합반도체사에 노광장비 공급 계약 체결",
+          "summary": "시스템, 전원공급장치(PSU) 등의 핵심 부품으로 쓰인다. 앤에스알시는 이번 노광장비 공급을 통해 글로벌 AI...",
+          "press": "머니투데이",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 15:02",
+          "link": "https://n.news.naver.com/mnews/article/008/0005428366?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이루트 子 NSRC, 대만 반도체 기업향 노광장비 수주",
+          "summary": "전원공급장치와 전원모듈 등 주요 인프라의 안정적인 구동을 담당한다.",
+          "press": "뉴시스",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 13:40",
+          "link": "https://n.news.naver.com/mnews/article/003/0014262928?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[특징주]비나텍, 대만 ACBEL과 1천230억 원 슈퍼커패시터 계약에 11.09% 오...",
+          "summary": "비나텍은 전날 대만 전원공급장치 제조사 ACBEL POLYTECH와 1천230억 원 규모의 슈퍼커패시터 공급계약을...",
+          "press": "namdonews.com",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 09:48",
+          "link": "https://www.namdonews.com/news/articleView.html?idxno=926623",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[특징주] 비나텍, 슈퍼커패시터 공급 계약…주가 13%↑",
+          "summary": "코스닥 시장엔 지난 2020년 상장됐다. 주가의 흐름은 회사가 전날 공시한 슈퍼커패시터 계약이 영향을 끼친 것으로 풀이된다.",
+          "press": "newsdream.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 09:32",
+          "link": "http://www.newsdream.kr/news/articleView.html?idxno=120355",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "비나텍, 1230억원 규모 데이터센터용 공급계약에 14%대 강세[특징주]",
+          "summary": "아크벨폴리테크는 인공지능(AI) 데이터센터용 고전압 직류 전력 시스템과 서버용 전원공급장치를 생산하는 기업이다.",
+          "press": "newsway.co.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 09:28",
+          "link": "https://www.newsway.co.kr/news/view?ud=2026102009152414259",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "비나텍, 대만에 데이터센터 슈퍼커패시터 공급",
+          "summary": "ACBEL과 계약…2025년 매출의 149.60% 비나텍이 대만 ACBEL POLYTECH INC에 데이터센터용 슈퍼커패시터를...",
+          "press": "vegannews.co.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 05:42",
+          "link": "https://www.vegannews.co.kr/news/article.html?no=394391",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "에이루트 자회사 앤에스알시, 대만 반도체기업 노광장비 수주",
+          "summary": "인공지능(AI) 서버의 전원공급장치와 전원모듈 등에도 사용된다. 에이루트 로고. [사진=에이루트]...",
+          "press": "newspim.com",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 15:57",
+          "link": "https://www.newspim.com/news/view/20261019001239",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "앤에스알시, 대만 반도체 기업에 노광장비 공급",
+          "summary": "반도체 장비 시장 공략 가속화…\"AI 데이터센터 밸류체인 진입\" 코스닥 상장사 ‘에이루트’의 반도체 장비...",
+          "press": "dealsite.co.kr",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 15:26",
+          "link": "https://dealsite.co.kr/articles/170915",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "美 AI 투자 우려에 기술주 충격… 광통신주 주가도 '우수수'",
+          "summary": "같은 시각 빛샘전자(2.45%), 대한광통신(2.40%), 라이콤(2.27%), RFHIC(1.69%), 빛과전자(1.39%), 머큐리(1.34%), 성호전자(1…",
+          "press": "머니투데이",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 09:20",
+          "link": "https://n.news.naver.com/mnews/article/008/0005428098?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[군사·안보 백브리핑] ‘핵 명령 중계’ 미국 차세대 전략 통신기 1차 ...",
+          "summary": "오) E-6B 머큐리'입니다. 보잉 707 여객기의 내부를 비워서, 통신 장비들을 탑재시킨 항공기인데요. 해군이 1989년에 첫 E-6A를 인수했습니다.",
+          "press": "voakorea.com",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 04:02",
+          "link": "https://www.voakorea.com/a/military-tacamo-101926/8212945.html",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[STX 미래전략②] STX 인수한 범한산업, 사업 재편 시험대",
+          "summary": "이후 STX는 자본구조 조정에 나서며 채권자의 출자전환 증권(한국산업은행 등 일부 채권자 제외) 및 APC머큐리의 증권 전량을 무상 소각하고 기 발행주식을 103…",
+          "press": "goodkyung.com",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 21:48",
+          "link": "https://www.goodkyung.com/news/articleView.html?idxno=292545",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[STX 미래전략 ①] 범한산업, 자본잠식 STX 인수… 재무 리스크 연쇄 전...",
+          "summary": "기존 채권자의 채무 중 상당 부분을 출자전환하며 출자전환증권 중 약 570만주와 기존 최대주주 APC머큐리의 지분(1199만5657주) 전량을 소각한다.",
+          "press": "goodkyung.com",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 21:22",
+          "link": "https://www.goodkyung.com/news/articleView.html?idxno=292543",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "대한광통신·빛과전자 19일 하락…광통신·광반도체주 혼조",
+          "summary": "머큐리는 30원(0.62%) 내린 4820원이다.",
+          "press": "cbci.co.kr",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 10:42",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=616908",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "SK텔레콤 \"KCSI 등 고객만족도 3대 조사 1위\"…AI 기반 서비스·국방 기술...",
+          "summary": "SK텔레콤은 SK텔링크, 테크트리이노베이션, 인핸스, 머큐리, KCS, 파블로항공 등과 협력해 관련 기술의 국방 현장 적용 가능성을 제시했다.",
+          "press": "webeconomy.co.kr",
+          "date": "2026-10-17",
+          "datetime": "2026-10-17 18:04",
+          "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2337585",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "\"누가 다 쓰나\"···SK·GS 초대형 AI데이터센터 '과잉 투자' 우려",
+          "summary": "과잉투자 논란은 AI 시장의 성장 자체보다는 국내 확충 규모를 뒷받침할 수요가 충분한지에 초점이 맞춰져...",
+          "press": "이뉴스투데이",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 08:00",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2481819",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "AI 붐 타고 데이터센터 늘리려 했는데…네오클라우드 흔들리자 돈줄 비...",
+          "summary": "금리 상승과 채권시장 악화로 AI 데이터센터 임대·운영업체인 네오클라우드 기업들이 흔들리자 인프라...",
+          "press": "서울경제",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 23:07",
+          "link": "https://n.news.naver.com/mnews/article/011/0004672910?sid=104",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "지으면 안 남고 멈추면 경제가 망한다…‘10조’ 베팅 美데이터센터의...",
+          "summary": "철도·광섬유망은 사회에 큰 혜택을 줬지만 투자자들이 기대한 수익까지 보장하지는 못했다는 것이다.",
+          "press": "매일경제",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 22:06",
+          "link": "https://n.news.naver.com/mnews/article/009/0005750920?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "日기업, 몽골서 ‘역대급 초원 화재’…“불법낚시? 특권층이냐” 분노...",
+          "summary": "모비콤이 사회 공헌 차원에서 국경초소에 4세대(4G) 이동통신망을, 검문소에 고속 광케이블을 설치한 것을...",
+          "press": "서울신문",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 21:48",
+          "link": "https://n.news.naver.com/mnews/article/081/0003690448?sid=104",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "롯데웰푸드, 통모짜렐라 47% 담은 '쉐푸드 치즈통돈까스' 출시",
+          "summary": "롯데웰푸드가 냉동 간편식(HMR) 시장에서 두각을 나타내고 있는 '쉐푸드'의 돈까스 제품군을 보강하며...",
+          "press": "newsdream.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 09:14",
+          "link": "http://www.newsdream.kr/news/articleView.html?idxno=120343",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "전북도, 농생명 자원-AI 결합…\"K-푸드 핵심 거점으로\"",
+          "summary": "원료와 밀키트 개발, 다품종 소량생산이 가능한 제조·실증 인프라 확충 등을 추진한다.",
+          "press": "agrinet.co.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 08:28",
+          "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=408011",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "웃돈 줬는데 장부는 0원…적자 닥터로빈, 귀뚜라미는 왜 품었을까",
+          "summary": "수프 가정간편식(HMR) 출시 계획을 피력하기도 했다. 다만 최 씨가 현재까지 경영 일선에 참여하고 있는지 여부는 확인되지 않는다.",
+          "press": "news.tf.co.kr",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 00:01",
+          "link": "https://n.news.naver.com/mnews/article/629/0000543507?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "aT, 농식품 수출정보 AI로 과학기술혁신대상 금상 수상",
+          "summary": "개선된 채티 서비스는 올해 11월말 오픈 예정이다.",
+          "press": "뉴시스",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 09:48",
+          "link": "https://n.news.naver.com/mnews/article/003/0014264708?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "식약처, 국제 식품교역 기준 논의 참여…비관세장벽 해소 추진",
+          "summary": "식약처는 지난 12일부터 17일까지 호주 퍼스에서 열린 제28회 국제식품규격위원회(CODEX) 수출입검사 및...",
+          "press": "뉴스1",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 09:26",
+          "link": "https://n.news.naver.com/mnews/article/421/0009237720?sid=103",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "FTA가 문 열어도 수출은 기업 몫…관건은 '활용 역량'",
+          "summary": "자유무역협정(FTA) 확대는 관세 장벽을 낮추며 우리 농식품의 해외시장 진출 기회를 넓혔고, 라면·김치 등 K-푸드에서 참외·포도·딸기 같은 신선농산물까지 수출…",
+          "press": "뉴스1",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 07:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009237461?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "영천시, 태국·말레이시아 해외 무역사절단 파견",
+          "summary": "해외시장 판로 개척과 수출 확대에 나선다고 20일 밝혔다. 이번 무역사절단 파견은 지역 중소기업의... 청아냉동식품, 티웰 , 한울 등이다.",
+          "press": "헤럴드경제",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 06:36",
+          "link": "https://n.news.naver.com/mnews/article/016/0002711514?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "영천시 무역사절단, 태국·말레이 파견… \"수출길 개척\"",
+          "summary": "청아냉동식품, 티웰, 한울 등이 참여한다. 친환경 비료, 프로틴 콤부차, ABC 쥬스, 반려동물 사료, 농업용 기계...",
+          "press": "세계일보",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 20:02",
+          "link": "https://n.news.naver.com/mnews/article/022/0004167936?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "영천시, 태국·말레이시아 무역사절단 파견",
+          "summary": "영천시가 지역 중소기업의 해외 판로 확대를 위해 동남아시아 시장 공략에 나선다. 시는 19일부터 24일까지... 청아냉동식품, 티웰, 한울이 명단에 포함됐다.",
+          "press": "이뉴스투데이",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 18:03",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2481900",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "영천시 무역사절단, 태국·말레이 파견…\"수출길 개척\"",
+          "summary": "청아냉동식품, 티웰, 한울 등이 참여한다. 친환경 비료, 프로틴 콤부차, ABC 쥬스, 반려동물 사료, 농업용 기계...",
+          "press": "뉴시스",
+          "date": "2026-10-19",
+          "datetime": "2026-10-19 16:04",
+          "link": "https://n.news.naver.com/mnews/article/003/0014263691?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 59
+}
