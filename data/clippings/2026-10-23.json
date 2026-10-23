@@ -1,0 +1,786 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23 10:06",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "알뜰폰 100명 들어올 때 98명 이통3사로…알뜰폰 순유입 2년 새 '실종'",
+      "category": "산업",
+      "link": "https://www.betanews.net/article/view/beta202610230005"
+    },
+    {
+      "rank": 2,
+      "headline": "알뜰폰 순유입 2년 새 94% 급감…100명 중 98명 통신3사로",
+      "category": "산업",
+      "link": "https://www.koit.co.kr/news/articleView.html?idxno=209627"
+    },
+    {
+      "rank": 3,
+      "headline": "월 1000원도 안 되는 알뜰폰…할인 끝나면 얼마 낼까",
+      "category": "산업",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709206"
+    },
+    {
+      "rank": 4,
+      "headline": "[단독]알뜰폰 100명 들어오면 98명 떠나…\"이통3사 보조금 경쟁에\"",
+      "category": "산업",
+      "link": "https://n.news.naver.com/mnews/article/008/0005430494?sid=100"
+    },
+    {
+      "rank": 5,
+      "headline": "LG유플러스, 유심 보안 강화·차세대 통신망 기술 확보 병행",
+      "category": "산업",
+      "link": "http://www.dailypop.kr/news/articleView.html?idxno=103666"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "최근 알뜰폰은 2년 새 순유입이 94% 급감해 100명 유입 시 98명이 대형 3사로 돌아가는 등 실질적인 고객 감소가 나타나고 있다. 통신 3사는 보안 강화를 위해 유심 자동 업데이트와 무상 교체를 진행하고, 5년간 2.4조 원을 투자한다. 동시에 장기고객 프로그램 확대와 외국인 전용 저가 요금제 출시 등 차별화·고객 확보 전략을 강화하고 있다. 이러한 흐름은 저가 알뜰폰 시장의 축소와 기존 이동통신사의 보안·서비스 경쟁 심화를 보여준다.",
+      "articles": [
+        {
+          "title": "[단독]알뜰폰 100명 들어오면 98명 떠나…\"이통3사 보조금 경쟁에\"",
+          "summary": "올해 이동통신 3사에서 알뜰폰으로 100명이 옮겨올 때 알뜰폰에서 이통3사로도 98명이 이동한 것으로 나타났다.",
+          "press": "머니투데이",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 06:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005430494?sid=100",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 22일부터 유심 자동 업데이트",
+          "summary": "자동 업데이트 대상에는 미성년자·외국인을 포함한 개인 고객과 법인 고객, 알뜰폰 및 eSIM 이용 고객 등이 포함된다.",
+          "press": "디지털타임스",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 18:03",
+          "link": "https://n.news.naver.com/mnews/article/029/0003054467?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 전파사용료 90% 감면한다지만…가입자 절반 이상은 '혜택 밖'",
+          "summary": "대기업·금융권 계열 사업자 혜택 제외 알뜰폰 운영하는 케이블·위성방송 업계 '이중고' 과기정통부 \"비대칭 규제, 알뜰폰 제도 도입 취지 부합\" 아주경제=나선혜 기…",
+          "press": "아주경제",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 18:00",
+          "link": "https://www.ajunews.com/view/20261021145931398",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 유심·이심 보안 강화…22일부터 자동 업데이트",
+          "summary": "LG유플러스는 교체의 편의성을 끌어올리고 빠르게 강화된 보안을 적용할 수 있도록 자동 업데이트 시행 시점을 기존 계획보다 한 달가량 앞당겼다",
+          "press": "매일경제",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 16:30",
+          "link": "https://n.news.naver.com/mnews/article/009/0005751898?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰도 할인 혜택 경쟁···티플러스, 편의점·영화관 혜택 확대",
+          "summary": "통신비 할인만으로는 차별화가 쉽지 않은 상황에서 편의점과 생활용품, 영화관 등 소비자가 자주 이용하는...",
+          "press": "이뉴스투데이",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 10:33",
+          "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482575",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "“같은 알뜰폰인데 누구는 37만원, 누구는 0원”…'성지·떴다방' 변질된...",
+          "summary": "과거 이통시장 마케팅 불법 행태였던 ‘성지’나 ‘떴다방’식 차별 영업이 알뜰폰 시장으로 전이되고 있다는 지적이 나온다.",
+          "press": "이데일리",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 10:10",
+          "link": "https://n.news.naver.com/mnews/article/018/0006392676?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 22일부터 유심 자동 업데이트…매장 방문 불필요",
+          "summary": "개인 고객(미성년자·외국인 포함)과 법인 고객, 알뜰폰(MVNO) 이용자, eSIM 고객도 포함된다.",
+          "press": "연합뉴스",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 10:00",
+          "link": "https://n.news.naver.com/mnews/article/001/0016390487?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "Customers Targeting Budget Phone Benefits Emerge",
+          "summary": "\" A Ministry of Science and ICT official also said, \"We are conducting a comprehensive rev…",
+          "press": "IT조선",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 12:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172359",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 100명 들어올 때 98명 이통3사로…알뜰폰 순유입 2년 새 '실종'",
+          "summary": "과학기술정보방송통신위원회 소속 더불어민주당 이주희 의원(비례대표)이 과학기술정보통신부로부터 제출받은 자료에 따르면, 이통 3사에서 알뜰폰으로의 번호이동 순유입(이…",
+          "press": "betanews.net",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 09:46",
+          "link": "https://www.betanews.net/article/view/beta202610230005",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 순유입 2년 새 94% 급감…100명 중 98명 통신3사로",
+          "summary": "'알뜰폰 스퀘어' 외부 전경. [사진=KMVNO협회] 알뜰폰으로 유입되는 이동통신 가입자보다",
+          "press": "koit.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 09:08",
+          "link": "https://www.koit.co.kr/news/articleView.html?idxno=209627",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "월 1000원도 안 되는 알뜰폰…할인 끝나면 얼마 낼까",
+          "summary": "월 1000원도 안 되는 초저가 알뜰폰 요금제가 잇따라 등장하면서 가계 통신비 절감에 기여하는 모습이다....",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 07:30",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709206",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 유심 보안 강화·차세대 통신망 기술 확보 병행",
+          "summary": "개인과 법인 고객을 비롯해 알뜰폰 및 eSIM 이용 고객도 포함된다. 다만 해외 체류 고객은 국내 통신망을 이용할 수 없어 자동 업데이트 대상에서 제외된다.",
+          "press": "dailypop.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 18:16",
+          "link": "http://www.dailypop.kr/news/articleView.html?idxno=103666",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "홍범식 LGU+ 대표, 유심 자동 업데이트 승부수…고객 신뢰 되찾을까",
+          "summary": "개인·법인 가입자는 물론 알뜰폰과 eSIM 이용자 가운데 자동 적용이 가능한 회선이 대상이다.",
+          "press": "insightkorea.co.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 15:44",
+          "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257056",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "집토끼 지켜라…통신3사, 장기고객 프로그램 확대 나서",
+          "summary": "가입자가 꾸준히 늘고있는 알뜰폰과 차별화 하고, 브랜드 충성도를 높이는 식이다.",
+          "press": "metroseoul.co.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 13:36",
+          "link": "http://www.metroseoul.co.kr/article/20261022500249",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "유심교체 나선 LGU+, 자동 업데이트로 잔여 고객 보안 강화",
+          "summary": "LG유플러스는 22일부터 이동통신 가입자(알뜰폰 포함)를 대상으로 유심 자동 업데이트를 순차적으로...",
+          "press": "sisaweek.com",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 13:16",
+          "link": "https://www.sisaweek.com/news/articleView.html?idxno=238518",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 유심 자동 업데이트 한 달 앞당겨…22일부터 순차 적용",
+          "summary": "개인(미성년자·외국인 포함)과 법인은 물론 알뜰폰 및 eSIM 가입자도 포함된다. 다만 해외에 체류 중인 고객은 국내 통신망을 쓰지 못해 대상에서 제외된다.",
+          "press": "hansbiz.co.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 09:30",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874739",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "외국인 고객 확보 경쟁, 신용점수 없는 외국인까지…보증금 카드 허용",
+          "summary": "KB국민은행은 알뜰폰 서비스 KB리브모바일을 통해 외국인 전용 요금제 ‘KB Global Star 7GB+’를 출시했다고 지난 18일 밝혔다.",
+          "press": "raonnews.com",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 08:56",
+          "link": "https://www.raonnews.com/news/article.html?no=62092",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사, 보안에 5년간 2.4조 투자…침해사고 후속 조치 시험대",
+          "summary": "KT는 지난해 11월부터 KT망 알뜰폰 가입자를 포함한 이용자를 대상으로 유심(USIM) 무상 교체를 지원했으며, 해지 위약금 면제와 기납부 위약금 환급 절차도…",
+          "press": "socialvalue.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 07:06",
+          "link": "https://www.socialvalue.kr/news/view/1065583012569630",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 유심 자동 업데이트 돌입…IMSI 체계 보안 강화",
+          "summary": "자동 업데이트 대상에는 개인·법인 고객을 비롯해 알뜰폰과 eSIM 이용 고객도 포함된다.",
+          "press": "m-i.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 19:48",
+          "link": "https://www.m-i.kr/news/articleView.html?idxno=2008793",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 22일부터 유심 자동 업데이트 진행",
+          "summary": "자동 업데이트 대상에는 개인 및 법인 고객은 물론 알뜰폰 및 eSIM 이용 고객까지 포함된다.",
+          "press": "getnews.co.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 18:42",
+          "link": "https://www.getnews.co.kr/news/articleView.html?idxno=884377",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 유심 자동 업데이트…보안 강화",
+          "summary": "개인·법인·알뜰폰·eSIM 이용자가 대상이다. 다만, 해외 체류 중인 고객은 국내 통신망을 이용할 수 없어 자동 업데이트가 진행되지 않는다.",
+          "press": "kfenews.co.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 18:16",
+          "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=666657",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 유심 자동 업데이트 시행",
+          "summary": "대상은 아직 업데이트나 교체를 하지 않은 고객 가운데 자동 업데이트가 가능한 개인(미성년자·외국인 포함)·법인·알뜰폰·eSIM 이용 고객이며 해외 체류 중인 고객…",
+          "press": "pointdaily.co.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 18:12",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323156",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 22일부터 유심 자동 업데이트…미완료 고객 순차 적용",
+          "summary": "개인 고객은 물론 미성년자와 외국인, 법인, 알뜰폰, eSIM 이용자도 대상에 포함된다.",
+          "press": "newsinside.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 17:52",
+          "link": "https://www.newsinside.kr/news/articleView.html?idxno=5030150",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 22일부터 유심 자동 업데이트",
+          "summary": "개인과 법인, 알뜰폰, eSIM 이용 고객도 포함되지만 해외 체류자는 제외된다.",
+          "press": "bizwork.co.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 17:18",
+          "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420098",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 유심 자동 업데이트 22일 시작…당초보다 한 달 앞당겨",
+          "summary": "개인(미성년자·외국인 포함)과 법인 고객은 물론 알뜰폰과 eSIM 이용 고객도 포함된다.",
+          "press": "popcornnews.net",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 17:02",
+          "link": "http://www.popcornnews.net/news/articleView.html?idxno=136829",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 22일부터 유심 자동 업데이트…알뜰폰·eSIM도 매장 방문 없...",
+          "summary": "미성년자와 외국인을 포함한 개인 고객뿐 아니라 법인 고객, LG유플러스망을 이용하는 알뜰폰 고객, eSIM 이용자도 포함된다.",
+          "press": "todayeconomic.com",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 16:56",
+          "link": "https://www.todayeconomic.com/news/article.html?no=32529",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'언제 어디서나' 유심 자동 보안 업데이트…LG유플러스, 22일부터 순차 ...",
+          "summary": "알뜰폰·eSIM 고객 포함 평일 오전 10시~오후 5시 적용 원치 않으면 연말까지 연기 가능 사칭 스미싱 문자...",
+          "press": "kgnews.co.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 16:56",
+          "link": "https://www.kgnews.co.kr/news/article.html?no=916205",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 유심 보안 강화... 22일부터 자동 업데이트",
+          "summary": "대상은 미성년자와 외국인을 포함한 개인 고객과 법인 고객, 알뜰폰 고객, eSIM 이용자다.",
+          "press": "meconomynews.com",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 16:50",
+          "link": "https://www.meconomynews.com/news/articleView.html?idxno=202788",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+, 22일부터 유심 자동 업데이트…상담 채널도 운영",
+          "summary": "개인(미성년자·외국인 포함) 가입자와 법인 가입자는 물론 알뜰폰∙이심(eSIM) 이용자도 자동 업데이트 대상에 포함된다.",
+          "press": "segyebiz.com",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 16:42",
+          "link": "http://www.segyebiz.com/newsView/20261021519824?OutUrl=naver",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG전자, '하프코 2026'서 시스템 에어컨 신제품 공개…LG유플러스, 22일부...",
+          "summary": "개인·법인 고객은 물론 알뜰폰, eSIM 이용 고객도 포함된다. 해외 체류 고객은 국내 통신망을 이용할 수 없어 제외된다.",
+          "press": "sisaon.co.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 16:32",
+          "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205346",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "",
+      "articles": []
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "티플러스가 올리브영·CU·다이소 등 생활 브랜드와 제휴한 요금제를 21일 출시했다. 이를 통해 생활밀착형 혜택을 담은 ‘라이프스타일 통신’ 차별화를 강화하고 있다.",
+      "articles": [
+        {
+          "title": "티플러스, 올리브영·CU 묶은 요금제…’라이프스타일 통신' 강화",
+          "summary": "알뜰폰 브랜드 티플러스가 생활 브랜드 혜택을 통신 요금제에 결합하고 있다.",
+          "press": "디지털데일리",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 10:01",
+          "link": "https://n.news.naver.com/mnews/article/138/0002245422?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "티플러스, 생활밀착형 제휴 요금제 확대…알뜰폰 차별화 나서",
+          "summary": "태광그룹 계열사 한국케이블텔레콤(KCT)의 알뜰폰 브랜드 티플러스(tplus)는 올리브영·CU 등 생활 브랜드 혜택을 담은 제휴 요금제를 출시했다고 21일 밝혔다…",
+          "press": "dailian.co.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 13:27",
+          "link": "https://n.news.naver.com/mnews/article/119/0003145169?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "티플러스, 올리브영·다이소 제휴 확대… '라이프스타일 통신' 차별화",
+          "summary": "태광그룹 계열사 한국케이블텔레콤(kct)의 알뜰폰 브랜드 티플러스(tplus)가 올리브영·CU 등 생활 브랜드 혜택을 담은 제휴 요금제를 21일 출시했다.",
+          "press": "itdaily.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 09:16",
+          "link": "https://www.itdaily.kr/news/articleView.html?idxno=242330",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "전동화와 글로벌 AI 인프라 투자 확대가 차세대 전력반도체 수요를 급증시켜 관련 기업 실적 개선 기대가 커지고, 빅텍·비나텍 등 주가가 20% 이상 급등한 반면, 성호전자는 수익성 우려로 8.6% 하락했다.",
+        "mercury": "‘머큐리’라는 명칭이 우주시계 제작, STX 이사회 구성, AI 대형 모델, 인도네시아 굴착기 리스 소송 등 다양한 분야에서 등장해 기업·산업 전반에 걸친 관심을 드러냈다. AI·반도체·데이터센터 투자 확대와 같은 기술·인프라 흐름이 관련 기업들의 전략적 움직임과 맞물리고 있다.",
+        "encreative": "이노하스는 SIAL Paris 2026에 참가해 유럽 시장을 공략하고, 지난해 미국에 PB 냉동김밥을 수출했다. 아워홈은 B2B 급식·식자재와 B2C 가정간편식·외식 브랜드를 동시에 확대하고, 공주는 ‘공주알밤한우’ 명품 브랜드와 HMR 상품으로 젊은층·관광객을 겨냥한다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "차세대 전력반도체 테마 '후끈'…전기차·AI 서버 수요 급증에 쾌속질주",
+          "summary": "기업들의 실적 개선 모멘텀이 강화되는 모습이다. 글로벌 AI 인프라 투자 확대와 전동화 기조가 맞물리며...",
+          "press": "pinpointnews.co.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 09:16",
+          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497100",
+          "badge": "자사",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "AI 데이터센터 전력 수요 확대…솔루엠, 차세대 전력 인프라 사업 진출...",
+          "summary": "전력변환 시장은 기존 공급업체를 중심으로 형성돼 있어 신규 업체의 진입을 위해서는 제품 검증과 공급 이력 확보가 요구된다.",
+          "press": "헤럴드경제",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 09:01",
+          "link": "https://n.news.naver.com/mnews/article/016/0002712718?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "빅텍 주가, 연일 급등세... 최근 흐름은?",
+          "summary": "코스닥시장에 상장했다.",
+          "press": "ggilbo.com",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 09:16",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1188659",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자 8.65% 하락…전자부품 수익성 확인",
+          "summary": "코스닥 시장에서 전일보다 2500원 내린 가격이다. 장중 저가는 2만6250원, 고가는 2만9150원이었다.",
+          "press": "job-post.co.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 17:04",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=233950",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "빅텍, 20% 급등하며 3750원선 돌파…김여정 발언에 방산주 관심 집중",
+          "summary": "실제 기업의 실적 변화보다 안보 관련 소식에 대한 시장의 반응이 단기적인 주가 움직임에 영향을 줄 수 있기 때문이다.",
+          "press": "cbci.co.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 11:06",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=618148",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "비나텍 주가 장중 19%대 급등, 1195억 규모 데이터센터용 슈퍼커패시터...",
+          "summary": "22일 오전 10시38분 기준 코스닥시장에서 비나텍 주식은 전날보다 19.43%(1만8400원) 오른 11만3100원에...",
+          "press": "businesspost.co.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 11:00",
+          "link": "https://www.businesspost.co.kr/BP?command=article_view&num=450003",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[공시셀렉트] 데이터센터용 슈퍼커패시터 대규모 수주한 비나텍…생산...",
+          "summary": "대만 전원공급장치 전문제조기업 아크벨폴리테크(ACBEL POLYTECH)에 2028년 2월 1일까지 각각 데이터센터용 슈퍼커패시터를 공급한다.",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 10:52",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709085",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[오늘의 특징주] 엠에스바이오 136% 폭등...SKAI·에이전트AI 상한가, 비...",
+          "summary": "비나텍·유니퀘스트, AI 인프라 투자 확대가 대규모 수주로 AI 데이터센터와 고성능컴퓨팅(HPC) 시장 확대에...",
+          "press": "ppss.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 10:44",
+          "link": "https://www.ppss.kr/news/articleView.html?idxno=316747",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "빅텍 주가, 16%대 급등... 최근 공시는?",
+          "summary": "코스닥시장에 상장했다.",
+          "press": "ggilbo.com",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 10:24",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1188406",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[공모주 현황] AI 영상분석 기업 인텔리빅스, 코스닥 입성 앞두고 공모...",
+          "summary": "AI 관제 시스템 관련 서버에는 그래픽처리장치(GPU), 중앙처리장치(CPU), HDD, SSD, 메인보드, 전원공급장치...",
+          "press": "cbci.co.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 09:34",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=618062",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[속보] 대한광통신·라이콤·RF머트리얼즈 상승…광반도체·광통신 관련...",
+          "summary": "머큐리는 4800원으로 1.48%, 자람테크놀로지는 1만2150원으로 2.36% 올랐다. 광통신은 빛을 이용해 정보를 전달하는 기술이다.",
+          "press": "cbci.co.kr",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 09:38",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=617670",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "하늘부터 바다·땅에 이르기까지…확장되는 브라이틀링의 세계관 [더 하...",
+          "summary": "당시 미국 최초의 우주비행사 그룹 머큐리 7의 일원이었던 스콧 카펜터는 우주비행을 앞두고 브라이틀링에 24시간 표시 방식을 갖춘 시계를 제작해 달라 요청했다.",
+          "press": "중앙일보",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 08:00",
+          "link": "https://n.news.naver.com/mnews/article/025/0003559982?sid=103",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "STX, '이사회 재편' 최대주주와 소통·견제 병행",
+          "summary": "과거 에이피씨머큐리가 STX를 인수한 직후 이사회는 사내이사 1명, 기타비상무이사 2명, 사외이사 1명으로 구성됐다.",
+          "press": "블로터",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 14:59",
+          "link": "https://n.news.naver.com/mnews/article/293/0000091977?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "레이 아미, 12년 만의 금의환향…'케데헌' 신드롬 지나 가장 한국적인 ...",
+          "summary": "세일러 머큐리(미즈노 아미)의 이름을 결합한 것이다. 그에게 이 예명은 모순적인 두 자아를 봉합하지 않고 공존시키겠다는 미학적 결단이었다.",
+          "press": "뉴시스",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 01:00",
+          "link": "https://m.entertain.naver.com/article/003/0014269987",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "인셉션, 최고 성능 dLLM '머큐리 3' 공개...\"오픈AI·앤트로픽 맞먹어\"",
+          "summary": "5'보다 높은 품질을 내세운 dLLM '머큐리 3(Mercury 3)'를 출시했다. 모델 규모를 이전 세대보다 40배 이상...",
+          "press": "AI타임스",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 17:52",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216483",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[영상] 5시간 체공·300㎞ 정찰…우크라 신형 수직이착륙 드론 공개",
+          "summary": "정찰드론 '머큐리'를 공개했습니다. 우크라이나 군사전문매체 밀리타르니는 ANT가 20일(현지시간) 개량형 머큐리의 영상과 주요 성능을 공개했다고 보도했습니다.",
+          "press": "연합뉴스",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 13:46",
+          "link": "https://n.news.naver.com/mnews/article/001/0016391400?sid=104",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "“포스트잇 회사가 AI 수혜주?”…아마존·MS까지 러브콜",
+          "summary": "정해진 가격에 살 수 있는 권리를 부여했다고 밝혔다. 이를 통해 아마존은 앞으로 7년간 3M 주식 최대 약...",
+          "press": "한국경제",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 08:42",
+          "link": "https://n.news.naver.com/mnews/article/050/0000112276?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "아마존 손 잡더니 이틀 새 8% 껑충…'포스트잇 회사'의 반전 [오기자의...",
+          "summary": "EBO는 광섬유 연결부에서 빛의 폭을 넓혀 신호를 전달하는 기술이다. 연결면이 직접 맞닿는 방식보다...",
+          "press": "한국경제",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 14:32",
+          "link": "https://n.news.naver.com/mnews/article/015/0005345378?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[기획] 앞으로 1경원 더… 화수분 AI 투자 ‘닷컴버블’ 직전",
+          "summary": "장기적으로 시장을 이끌었다는 점을 짚었다.",
+          "press": "디지털타임스",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 19:13",
+          "link": "https://n.news.naver.com/mnews/article/029/0003054497?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[Biz-inside,China] ‘감자의 고장’ 中 우란차부의 대변신...초원 도시,...",
+          "summary": "우란차부에서 베이징까지는 초고속 광케이블이 직접 연결돼 있어 단방향 데이터 전송 지연시간이 2....",
+          "press": "중앙일보",
+          "date": "2026-10-21",
+          "datetime": "2026-10-21 17:44",
+          "link": "https://n.news.naver.com/mnews/article/025/0003559531?sid=104",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "이노하스, 'SIAL Paris 2026' 참가… 한식 간편식으로 유럽 공략",
+          "summary": "지난해에는 글로벌 유통사의 PB 냉동김밥 4종을 생산해 미국으로 첫 선적을 진행했으며 같은 해 '제3회 K-푸드+ 수출탑'에서 우수상인 500만 불 수출탑을 수상…",
+          "press": "한국경제",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 09:35",
+          "link": "https://n.news.naver.com/mnews/article/050/0000112284?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"김장철엔 김치, 평소엔 세컨드 냉장고\"…쿠쿠, 미니 김치냉장고 선봬",
+          "summary": "김치 보관뿐 아니라 음료·주류·밀키트 등을 저장하는 세컨드 냉장고로도 활용할 수 있도록 설계했다....",
+          "press": "뉴스1",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 17:10",
+          "link": "https://n.news.naver.com/mnews/article/421/0009244992?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "롯데웰푸드, '시알 파리'서 빼빼로·기능껌 선봬…해외 시장 공략 박차",
+          "summary": "글로벌 시장을 공략한다고 22일 밝혔다. 지난 17일부터 21일까지 진행된 '시알 파리'는 글로벌 산업의 최신...",
+          "press": "뉴시스",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 10:36",
+          "link": "https://n.news.naver.com/mnews/article/003/0014270741?sid=103",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "바이오포트, 첫 냉동 HMR ‘멕시칸 치킨 퀘사디아’ 코스트코 출시…세...",
+          "summary": "K-푸드 전문기업 바이오포트가 첫 냉동 가정간편식(HMR) 제품을 선보이며 간편식 사업 영역 확장과 글로벌 시장 공략에 속도를 낸다.",
+          "press": "매일경제",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 09:03",
+          "link": "https://n.news.naver.com/mnews/article/009/0005752200?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[경제일보] '참치 넘어 미래 산업으로'…동원 57년 이끈 '체인 이노베이...",
+          "summary": "시대가 필요로 하는 시장을 먼저 개척하고 기존 사업에서 쌓은 기술과 역량을 새로운 산업으로 연결해온...",
+          "press": "아주경제",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 08:38",
+          "link": "https://www.ajunews.com/view/20261019135114635",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "남아공 간 K뷰티·이슬람권 뚫은 떡볶이… ‘바이 코리아’ 뜨거웠다",
+          "summary": "“저희 같은 청년 기업도 좋은 아이템과 실행력이 있다면 충분히 세계 시장에 진출할 수 있다는 걸...",
+          "press": "국민일보",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 01:15",
+          "link": "https://n.news.naver.com/mnews/article/005/0001880144?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "AI 쇼핑 거래액 4배 ‘껑충’…네이버, 결제까지 넘본다[IT클로즈업]",
+          "summary": "예컨대 캠핑 장비를 검색하거나 구매한 이용자에게 캠핑용 밀키트를 추천하는 식이다. 단순히 관심 상품을...",
+          "press": "디지털데일리",
+          "date": "2026-10-20",
+          "datetime": "2026-10-20 10:34",
+          "link": "https://n.news.naver.com/mnews/article/138/0002245277?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "찰진 밥맛으로 학교 급식 소비 증가",
+          "summary": "'미호'는 가정간편식 및 대량 급식 시장 확대를 겨냥해 개발한 저아밀로스 쌀 품종이다. 아밀로스 함량이 11.2%로 일반 쌀과 찹쌀의 중간 특성을 지녔다.",
+          "press": "bokuennews.com",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 09:46",
+          "link": "http://www.bokuennews.com/news/article.html?no=285973",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "[SIAL PARIS] [2026] 전준범 아워홈 전략실장 \"K푸드 글로벌 문화 정착 앞...",
+          "summary": "아워홈은 기업 간 거래(B2B) 사업인 단체급식과 식자재 유통뿐 아니라 기업과 소비자 간 거래(B2C) 사업인 가정간편식(HMR), 외식 브랜드까지 운영하고 있다…",
+          "press": "dealsite.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 08:34",
+          "link": "https://dealsite.co.kr/articles/171195",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "공주시, ‘공주알밤한우’ 명품 브랜드 육성… 품질·유통 경쟁력 강화",
+          "summary": "아울러 공식 캐릭터 ‘우공심’을 활용한 홍보 콘텐츠와 가정간편식(HMR) 상품 개발을 통해 젊은 소비층과 관광객을 공략할 예정이다. 최원철 공주시장은...",
+          "press": "breaknews.com",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 07:50",
+          "link": "http://www.breaknews.com/1245119",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 63
+}
