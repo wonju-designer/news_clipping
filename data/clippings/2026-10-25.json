@@ -1,0 +1,776 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25 09:42",
+  "top5": [
+    {
+      "rank": 1,
+      "headline": "[통신 맥락읽기] 월 10원 알뜰폰의 함정…'평생 할인' 찾는 법",
+      "category": "산업",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323448"
+    },
+    {
+      "rank": 2,
+      "headline": "OTT·AI 시대인데… '통신'에 갇힌 정부 정책",
+      "category": "산업",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172639"
+    },
+    {
+      "rank": 3,
+      "headline": "알뜰폰 과열 마케팅 지적에…통신 자회사 \"서비스 개선 집중\"",
+      "category": "산업",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282304"
+    },
+    {
+      "rank": 4,
+      "headline": "이주희 \"알뜰폰 순유입, 37.7만건에서 1.8만건으로 2년 새 급감\"",
+      "category": "산업",
+      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193642"
+    },
+    {
+      "rank": 5,
+      "headline": "[이슈국감] 알뜰폰 '탈출 행렬'…100명 들어와도 98명 이탈",
+      "category": "산업",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875652"
+    }
+  ],
+  "sections": [
+    {
+      "id": "industry",
+      "num": "①",
+      "title": "산업 동향",
+      "digest": "정부는 알뜰폰 활성화와 단말기 지원금 등 통신비 인하 정책을 발표했지만, 최근 자료에 따르면 알뜰폰 순유입이 2년 새 94% 이상 급감하고 100명 중 98명이 다시 3사로 이동하고 있다. 알뜰폰 사업자는 초저가 요금제로 경쟁을 벌이며 마케팅 과열이 지적되고, 일부는 서비스 개선에 집중한다. 이동통신 3사는 eSIM·유심 자동 업데이트 등 차세대 기술과 보안 강화, 장기고객 프로그램 확대 등으로 차별화를 시도하고 있다. 월 1천원 이하 초저가 요금제는 가계 통신비 절감에 기여하고 있다.",
+      "articles": [
+        {
+          "title": "OTT·AI 시대인데… '통신'에 갇힌 정부 정책",
+          "summary": "알뜰폰 활성화와 단말기 지원금 경쟁 촉진 등 통신비 인하 대책도 발표했다.",
+          "press": "IT조선",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 09:00",
+          "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172639",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[단독]알뜰폰 100명 들어오면 98명 떠나…\"이통3사 보조금 경쟁에\"",
+          "summary": "올해 이동통신 3사에서 알뜰폰으로 100명이 옮겨올 때 알뜰폰에서 이통3사로도 98명이 이동한 것으로 나타났다.",
+          "press": "머니투데이",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 06:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005430494?sid=100",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[통신 맥락읽기] 월 10원 알뜰폰의 함정…'평생 할인' 찾는 법",
+          "summary": "이동통신 시장의 '숨은 강자' 알뜰폰 업계가 파격적인 요금제 경쟁을 벌이고 있다.",
+          "press": "pointdaily.co.kr",
+          "date": "2026-10-25",
+          "datetime": "2026-10-25 05:00",
+          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323448",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 과열 마케팅 지적에…통신 자회사 \"서비스 개선 집중\"",
+          "summary": "최근 국감 자료에 따르면 일부 알뜰폰 사업자들이 동일 요금제임에도 자사 홈페이지와 입점 플랫폼 간 최대...",
+          "press": "financialpost.co.kr",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 07:00",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282304",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이주희 \"알뜰폰 순유입, 37.7만건에서 1.8만건으로 2년 새 급감\"",
+          "summary": "SKT·KT·LG유플러스 등 이동통신 3사에서 알뜰폰으로 옮기는 이용자는 제자리인 반면 알뜰폰에서 이통 3사로 옮기는 이용자가 늘면서 알뜰폰의 번호이동 순유입이…",
+          "press": "wikileaks-kr.org",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 14:28",
+          "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193642",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[이슈국감] 알뜰폰 '탈출 행렬'…100명 들어와도 98명 이탈",
+          "summary": "올해 1~9월 이통3사에서 알뜰폰으로의 번호이동 순유입은 1만8007건으로 집계됐다.",
+          "press": "hansbiz.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 12:14",
+          "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875652",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[2026국감] 알뜰폰 100명 오면 98명 떠났다…이통 3사로 '역주행'",
+          "summary": "저렴한 요금을 앞세워 이동통신 3사를 견제해 온 알뜰폰 시장의 가입자 유입세가 급격히 둔화하고 있다.",
+          "press": "straightnews.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 11:46",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=313811",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "우리銀, 모바일 신분증 받고 꿀머니 챙겨볼까?",
+          "summary": "지난해 4월 알뜰폰 서비스 '우리WON모바일'을 출시하고 월 5000원부터 3만원대까지 다양한 요금제를 선보였다.",
+          "press": "straightnews.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 11:12",
+          "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=313802",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 100명 들어올 때 98명 이통3사로…알뜰폰 순유입 2년 새 '실종'",
+          "summary": "과학기술정보방송통신위원회 소속 더불어민주당 이주희 의원(비례대표)이 과학기술정보통신부로부터 제출받은 자료에 따르면, 이통 3사에서 알뜰폰으로의 번호이동 순유입(이…",
+          "press": "betanews.net",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 09:46",
+          "link": "https://www.betanews.net/article/view/beta202610230005",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "알뜰폰 순유입 2년 새 94% 급감…100명 중 98명 통신3사로",
+          "summary": "'알뜰폰 스퀘어' 외부 전경. [사진=KMVNO협회] 알뜰폰으로 유입되는 이동통신 가입자보다",
+          "press": "koit.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 09:08",
+          "link": "https://www.koit.co.kr/news/articleView.html?idxno=209627",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "월 1000원도 안 되는 알뜰폰…할인 끝나면 얼마 낼까",
+          "summary": "월 1000원도 안 되는 초저가 알뜰폰 요금제가 잇따라 등장하면서 가계 통신비 절감에 기여하는 모습이다....",
+          "press": "digitaltoday.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 07:30",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709206",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LG유플러스, 유심 보안 강화·차세대 통신망 기술 확보 병행",
+          "summary": "개인과 법인 고객을 비롯해 알뜰폰 및 eSIM 이용 고객도 포함된다. 다만 해외 체류 고객은 국내 통신망을 이용할 수 없어 자동 업데이트 대상에서 제외된다.",
+          "press": "dailypop.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 18:16",
+          "link": "http://www.dailypop.kr/news/articleView.html?idxno=103666",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "홍범식 LGU+ 대표, 유심 자동 업데이트 승부수…고객 신뢰 되찾을까",
+          "summary": "개인·법인 가입자는 물론 알뜰폰과 eSIM 이용자 가운데 자동 적용이 가능한 회선이 대상이다.",
+          "press": "insightkorea.co.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 15:44",
+          "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257056",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "집토끼 지켜라…통신3사, 장기고객 프로그램 확대 나서",
+          "summary": "가입자가 꾸준히 늘고있는 알뜰폰과 차별화 하고, 브랜드 충성도를 높이는 식이다.",
+          "press": "metroseoul.co.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 13:36",
+          "link": "http://www.metroseoul.co.kr/article/20261022500249",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "유심교체 나선 LGU+, 자동 업데이트로 잔여 고객 보안 강화",
+          "summary": "LG유플러스는 22일부터 이동통신 가입자(알뜰폰 포함)를 대상으로 유심 자동 업데이트를 순차적으로...",
+          "press": "sisaweek.com",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 13:16",
+          "link": "https://www.sisaweek.com/news/articleView.html?idxno=238518",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신망으로 드론 위협 줄인다...기지국으로 감시",
+          "summary": "이동통신 기지국을 드론 탐지망으로 활용하려는 움직임이 구체화되고 있다.",
+          "press": "지디넷코리아",
+          "date": "2026-10-25",
+          "datetime": "2026-10-25 08:00",
+          "link": "https://n.news.naver.com/mnews/article/092/0002442255?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"PASS 축소·폐지?, 과기정통부가 행안부와 충분히 협의해야\"",
+          "summary": "행정안전부가 이동통신 3사의 패스(PASS) 모바일 신분확인 서비스 축소와 폐지를 검토하는 가운데, 과학기술정보통신부가 행안부와 충분히 협의해 국민 피해를 최소화…",
+          "press": "지디넷코리아",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 19:08",
+          "link": "https://n.news.naver.com/mnews/article/092/0002442221?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "\"330만원 주고 샀는데\"…갤럭시에 완패한 아이폰 듀오 '굴욕'",
+          "summary": "화면 주름, 수리비, 초기 공급 부족 문제도 제기되면서 경쟁 제품인 삼성전자 갤럭시Z폴드8와도 비교된다는...",
+          "press": "한국경제",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 17:28",
+          "link": "https://n.news.naver.com/mnews/article/015/0005345882?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "갤럭시Z폴드8보다 101만원 비싼 ‘아이폰 듀오’...지금 주문하면 내년...",
+          "summary": "이동통신 3사(SK텔레콤·KT·LG플러스) 사전판매 물량이 조기 완판됐고 국내 공식 온라인 스토어에선 예약 개시 30여 분 만에 배송 예정일이 내년 1월 말까지…",
+          "press": "중앙일보",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 16:52",
+          "link": "https://n.news.naver.com/mnews/article/025/0003560094?sid=101",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "LGU+ '이용자 보호 매우 우수' 홍보 논란…홍범식 \"죄송하다\"",
+          "summary": "LG유플러스가 침해사고 은폐·조사 방해 의혹으로 수사 의뢰된 가운데 '2025년도 전기통신사업자 이용자 보호업무 평가'에서 이동통신 3사 중 유일하게 '매우 우수…",
+          "press": "뉴스1",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 16:01",
+          "link": "https://n.news.naver.com/mnews/article/421/0009246953?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "취임 1년 정재헌 SKT 대표···통신 정상화 넘어 AI 성장 본격화",
+          "summary": "지난해 4분기 2175만명까지 감소했던 이동통신 가입자는 올해 1분기 2195만8000명, 2분기 2197만명으로 2개 분기 연속 증가했다.",
+          "press": "seoulfn.com",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 10:00",
+          "link": "https://www.seoulfn.com/news/articleView.html?idxno=640855",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "애플 첫 폴더블폰 ‘아이폰 듀오’ 출시 직후 품귀...배송 내년 1월까지...",
+          "summary": "SK텔레콤과 KT, LG유플러스 등 국내 이동통신 3사도 공식 판매에 돌입했지만 매장 내 즉시 구매는 제한적인 것으로 알려졌다.",
+          "press": "m-economynews.com",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 07:52",
+          "link": "https://www.m-economynews.com/news/article.html?no=72062",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'아이폰 듀오' 출시부터 품귀…갤럭시 Z 폴드8 반사이익 얻을까",
+          "summary": "이동통신 3사 역시 확보한 단말을 사전예약 고객에게 우선 배정하고 추가 물량을 확보하는 방식으로 대응하고 있다.",
+          "press": "dailian.co.kr",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 06:01",
+          "link": "https://n.news.naver.com/mnews/article/119/0003146479?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "[패트롤] 인천시-인천시의회-인천시교육청-인천교통공사",
+          "summary": "인천교통공사(사장 최정규)는 과학기술정보통신부, 이동통신 3사(SKT·KT·LGU+)와 공동 추진한 '지하철 Wi-Fi 고도화 시범사업'을 마무리하고 전 객차에서…",
+          "press": "ekn.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 22:38",
+          "link": "https://www.ekn.kr/web/view.php?key=20261023028430611",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신망 투자 줄이고 AI로 눈 돌린 이통3사...R&D 감소는 과제",
+          "summary": "23일 통신업계에 따르면, 올해 상반기 이동통신 3사의 합산 설비투자액은 2조1370억원으로 지난해 같은 기간(2조3132억원)보다 7.6% 감소했다.",
+          "press": "thebigdata.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 17:20",
+          "link": "https://www.thebigdata.co.kr/view.php?ud=202610231712213050a47484cf8_23",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "이통3사, AIDC 영토 넓힌다…수조원 매출 정조준",
+          "summary": "안정상 중앙대 커뮤니케이션대학원 겸임교수는 \"이통3사의 이동통신사업이 성장 한계에 직면하면서 새로운 성장 동력 발굴이 중요한 과제로 떠오른 지 오래\"라며 \"이러한…",
+          "press": "srtimes.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 17:02",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=215704",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "329만원 폴더블 아이폰 듀오…갤럭시보다 무겁고 두꺼운데, 멀티태스킹...",
+          "summary": "국내 이동통신 3사와 자급제 채널에 배정된 초기 물량은 기존 플래그십의 10% 수준인 총 3만대 안팎으로 알려졌다.",
+          "press": "dizzotv.com",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 16:38",
+          "link": "https://www.dizzotv.com/site/data/html_dir/2026/10/23/2026102380168.html",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "'500만원대' 아이폰 듀오 상륙…통신 3사 보험·보상 경쟁",
+          "summary": "이동통신 3사가 애플의 첫 폴더블 스마트폰 '아이폰 듀오' 출시에 맞춰 전용 보험과 반납 보상 상품을 일제히 내놨다. 출고가가 역대 아이폰 중 최고 수준인 데다",
+          "press": "sisaon.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 16:38",
+          "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205445",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "통신3사 미환급금 30억원, 'SKT 14억 최다'···\"미온적 환급기준 바꿔...",
+          "summary": "이동통신 3사가 가입자들에게 돌려주지 않은 미환급금 액수가 최근 5년간 30억원 안팎에서 줄어들지 않고 제자리걸음을 하고 있는 것으로 나타났다.",
+          "press": "koreastocknews.com",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 16:34",
+          "link": "http://www.koreastocknews.com/news/articleView.html?idxno=121901",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        },
+        {
+          "title": "아이폰 듀오 '사전예약 1분 만에 완판'…통신 3사 고객 잡기 총력전",
+          "summary": "가운데 이동통신 3사가 고객 유치전에 나섰다.",
+          "press": "news.tf.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 16:32",
+          "link": "https://n.news.naver.com/mnews/article/629/0000545089?sid=105",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "num": "②",
+      "title": "자사 동향",
+      "digest": "아이즈비전은 2028 회계연도 ROE 8.5% 달성을 목표로 설정했다. 동시에 PBR 0.59배를 제시하고 신사업 확대와 비용 효율화로 수익성 개선을 추진한다.",
+      "articles": [
+        {
+          "title": "아이즈비전, 2028년 ROE 8.5% 목표…수익성 개선 추진",
+          "summary": "PBR 0.59배 제시…신사업·비용 효율화 계획 아이즈비전이 2028 회계연도 자기자본이익률(ROE) 8.5% 달성을 목표로 제시했다.",
+          "press": "vegannews.co.kr",
+          "date": "2026-10-25",
+          "datetime": "2026-10-25 08:00",
+          "link": "https://www.vegannews.co.kr/news/article.html?no=396729",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "competitor",
+      "num": "③",
+      "title": "경쟁사 동향",
+      "digest": "국회 국정감사에서 알뜰폰 온라인 채널별 경품 차별 지급이 지적돼 통신 자회사가 마케팅 과열을 비판받았다. 이에 서비스 개선에 집중한다는 입장을 밝혔다.",
+      "articles": [
+        {
+          "title": "알뜰폰 과열 마케팅 지적에…통신 자회사 \"서비스 개선 집중\"",
+          "summary": "국회 과학기술정보방송통신위원회의 국정감사에서 알뜰폰 시장의 온라인 채널별 경품 차별 지급 문제가...",
+          "press": "financialpost.co.kr",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 07:00",
+          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282304",
+          "badge": "",
+          "subgroup": "",
+          "subgroup_label": ""
+        }
+      ]
+    },
+    {
+      "id": "group",
+      "num": "④",
+      "title": "그룹 동향",
+      "digest": {
+        "powernet": "이디엠가젯이 데이터센터 에너지 최적화 솔루션을 소개했다. 투자기관은 각 트랙에 5개사씩 총 10개사가 참여해 기업별 기술 경쟁력과 시장 진출 가능성 등을 살펴봤다. 시장에서 2만6300원에 거래 중이다.",
+        "mercury": "미국 최초 우주비행사 그룹 머큐리 7의 스콧 카펜터가 24시간 표시 시계 제작을 브라이틀링에 요청한 사례가, 브라이틀링이 우주·바다·땅까지 세계관을 확장하고 있음을 보여준다.",
+        "encreative": "CJ제일제당은 30년 노하우로 즉석밥·HMR 생산을 확대해 40억→6500억 규모 시장을 일상식으로 전환하고, 캠핑 등 야외에서도 활용가치가 높아졌다. 한편 대구는 떡·떡볶이 중심으로 식품 수출이 30.2% 늘며 K‑푸드 수요가 확대되고 있다.",
+        "ritco": ""
+      },
+      "articles": [
+        {
+          "title": "경기혁신센터, 스타트업 12곳·투자사 10곳 연결한 연합 IR 개최",
+          "summary": "이디엠가젯이 데이터센터 에너지 최적화 솔루션을 소개했다. 블루에이펙스는 모빌리티 상황 인지·판단... 전원공급장치를 선보였다.",
+          "press": "전자신문",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 21:44",
+          "link": "https://n.news.naver.com/mnews/article/030/0003478208?sid=102",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "경기창조경제혁신센터, '제40회 스타트업 815 IR' 개최…AI·딥테크 기업...",
+          "summary": "투자기관은 각 트랙에 5개사씩 총 10개사가 참여해 기업별 기술 경쟁력과 시장 진출 가능성 등을 살펴봤다....",
+          "press": "job-post.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 17:18",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=234266",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "성호전자 2만6300원…필름콘덴서 수요와 수익성 점검",
+          "summary": "시장에서 2만6300원에 거래 중이다. 전일 대비 변동률은 -0.75%다. 장중 저가 2만4500원을 기록한 뒤 고가는 2만6750원까지 올라갔다.",
+          "press": "job-post.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 15:28",
+          "link": "https://www.job-post.co.kr/news/articleView.html?idxno=234216",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[조명, 다시 켜다(Re;turn-on)] 유니온전자통신, 복잡·다양한 고객 요구...",
+          "summary": "필두로 SMPS, SSR, 노이즈 필터 등 다양한 제품 라인업을 갖추고 고객의 복잡·다양한 요구에 대응하고 있으며, 일본과 유럽, 북미 등 글로벌 인증을 확보해…",
+          "press": "electimes.com",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 15:00",
+          "link": "https://www.electimes.com/news/articleView.html?idxno=373759",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[타이트로닉스 현장③] 대만 기업들, 반도체 넘어 우주로…AI·전력·자...",
+          "summary": "서버 시스템은 혼하이(Foxconn)가 담당하고 나머지 설비와 시스템 모니터링은 TECO가 맡는 협력 구조도...",
+          "press": "epnc.co.kr",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 11:00",
+          "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408668",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "빅텍 주가, 연일 급등세... 최근 흐름은?",
+          "summary": "코스닥시장에 상장했다.",
+          "press": "ggilbo.com",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 09:16",
+          "link": "https://www.ggilbo.com/news/articleView.html?idxno=1188659",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "[오늘의 특징주] 엠에스바이오 136% 폭등...SKAI·에이전트AI 상한가, 비...",
+          "summary": "앞서 19일에는 대만 전원공급장치 업체 아크벨폴리테크(AcBel Polytech)와 약 1,230억원 규모의 공급계약을...",
+          "press": "ppss.kr",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 10:44",
+          "link": "https://www.ppss.kr/news/articleView.html?idxno=316747",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "슈나이더 일렉트릭, AIDC용 차세대 모듈형 전력 솔루션 공개",
+          "summary": "최근 생성형 AI와 고성능 컴퓨팅(HPC) 시장이 확대되면서 데이터센터의 전력 공급 능력이 주요 경쟁 요소로...",
+          "press": "서울경제",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 17:05",
+          "link": "https://n.news.naver.com/mnews/article/011/0004674555?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "슈나이더 일렉트릭, AI 데이터센터 전력 인프라 구축 기간 6개월로 단축",
+          "summary": "전력 공급 장치에는 슈나이더 일렉트릭의 무정전 전원장치(UPS) 기술인 '갤럭시 VXL(Galaxy VXL)'이 적용됐다.... 거쳐 공급된다.",
+          "press": "지디넷코리아",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 14:34",
+          "link": "https://n.news.naver.com/mnews/article/092/0002442182?sid=105",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "K-건설, 인니 AI 데이터센터서 1억700만달러 수주",
+          "summary": "국내 기업이 해외 상업용 데이터센터 시장에 들어간 것도, AI-Ready 데이터센터를 해외에서 구축...",
+          "press": "파이낸셜뉴스",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 12:22",
+          "link": "https://n.news.naver.com/mnews/article/014/0005593554?sid=101",
+          "badge": "산업",
+          "subgroup": "powernet",
+          "subgroup_label": "파워넷"
+        },
+        {
+          "title": "하늘부터 바다·땅에 이르기까지…확장되는 브라이틀링의 세계관 [더 하...",
+          "summary": "당시 미국 최초의 우주비행사 그룹 머큐리 7의 일원이었던 스콧 카펜터는 우주비행을 앞두고 브라이틀링에 24시간 표시 방식을 갖춘 시계를 제작해 달라 요청했다.",
+          "press": "중앙일보",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 08:00",
+          "link": "https://n.news.naver.com/mnews/article/025/0003559982?sid=103",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "STX, '이사회 재편' 최대주주와 소통·견제 병행",
+          "summary": "과거 에이피씨머큐리가 STX를 인수한 직후 이사회는 사내이사 1명, 기타비상무이사 2명, 사외이사 1명으로 구성됐다.",
+          "press": "블로터",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 14:59",
+          "link": "https://n.news.naver.com/mnews/article/293/0000091977?sid=101",
+          "badge": "자사",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "게르마늄값 2배 ‘껑충’…재조명받는 고려아연의 ‘선견지명’ [비즈3...",
+          "summary": "맞물리면서 가격 상승 압력이 커지고 있다. 수요도 꾸준히 늘고 있다.",
+          "press": "헤럴드경제",
+          "date": "2026-10-25",
+          "datetime": "2026-10-25 08:01",
+          "link": "https://n.news.naver.com/mnews/article/016/0002713902?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "중동 확전 우려에 유가↑·뉴욕 증시↓...우리 경제는?",
+          "summary": "이 광케이블을 공격하게 되면 어떤 일이 벌어지느냐. 석유 수송은 물론이고 석유의 공급 차질을 넘어서 세계 금융, 통신, 물류시스템이 마비가 됩니다. 그러다",
+          "press": "YTN",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 18:40",
+          "link": "https://n.news.naver.com/mnews/article/052/0002423155?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "조경태 의원 “올해까지 구리선 100% 광케이블로 바꾼다더니… KT에 27만...",
+          "summary": "과기정통부는 2023년 통신시장 경쟁촉진 방안에서 구리선 26%, 광케이블 74%인 통신망을 2026년까지 전부 광케이블로 바꾸겠다고 밝혔다.",
+          "press": "조선비즈",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 14:38",
+          "link": "https://n.news.naver.com/mnews/article/366/0001199940?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[2026 국감] \"KT 구리 통신선, 매각 내역 조사해야\"...배경훈 \"관련 자료...",
+          "summary": "조 의원은 \"구리는 단순한 폐자원이 아니다\"라며 \"AI 데이터센터와 전력망, 차세대 통신망이 확대될수록 구리 수요와 경제적 가치가 커지고 있다\"고 강조했다.",
+          "press": "아이뉴스24",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 12:25",
+          "link": "https://n.news.naver.com/mnews/article/031/0001068752?sid=105",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "“포스트잇 회사가 AI 수혜주?”…아마존·MS까지 러브콜",
+          "summary": "정해진 가격에 살 수 있는 권리를 부여했다고 밝혔다. 이를 통해 아마존은 앞으로 7년간 3M 주식 최대 약...",
+          "press": "한국경제",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 08:42",
+          "link": "https://n.news.naver.com/mnews/article/050/0000112276?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "아마존 손 잡더니 이틀 새 8% 껑충…'포스트잇 회사'의 반전 [오기자의...",
+          "summary": "EBO는 광섬유 연결부에서 빛의 폭을 넓혀 신호를 전달하는 기술이다. 연결면이 직접 맞닿는 방식보다...",
+          "press": "한국경제",
+          "date": "2026-10-22",
+          "datetime": "2026-10-22 14:32",
+          "link": "https://n.news.naver.com/mnews/article/015/0005345378?sid=101",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "‘감자의 首都’ 中 우란차부, AI산업 심장부로 거듭났다 [김규환의 핸...",
+          "summary": "막대한 전력을 지속적으로 소비하는 AI 데이터센터 운영업체로서는 결코 무시할 수 없는 비용 차이라고...",
+          "press": "dailian.co.kr",
+          "date": "2026-10-25",
+          "datetime": "2026-10-25 07:02",
+          "link": "https://n.news.naver.com/mnews/article/119/0003146642?sid=104",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "KT 구리선 18만톤 어디로 갔나…정부 '100% 광전환' 실적 논란",
+          "summary": "과기정통부는 2023년 통신시장 경쟁 촉진 대책에서 당시 26% 수준이던 구리선 비율을 2026년까지 전량 광케이블로 대체하겠다고 발표했다.",
+          "press": "thedailypost.kr",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 23:22",
+          "link": "https://www.thedailypost.kr/news/articleView.html?idxno=116404",
+          "badge": "산업",
+          "subgroup": "mercury",
+          "subgroup_label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "title": "[현장] “갓 도정한 쌀로 밥맛 극대화”…‘즉석밥 대명사’ 햇반 진천...",
+          "summary": "햇반을 비롯해 냉동편의식품, 육가공품, 가정간편식(HMR) 등 CJ제일제당의 주요 제품이 이곳에서 생산된다....",
+          "press": "동아일보",
+          "date": "2026-10-25",
+          "datetime": "2026-10-25 08:31",
+          "link": "https://n.news.naver.com/mnews/article/020/0003757369?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "40억 시장이 6500억으로…‘비상식량’에서 ‘일상밥’된 즉석밥",
+          "summary": "등 가정간편식(HMR) 12만t을 생산한다. 1996년 CJ제일제당이 햇반을 처음 출시했을 때부터 쌓인 30년 노하우가...",
+          "press": "중앙일보",
+          "date": "2026-10-25",
+          "datetime": "2026-10-25 08:30",
+          "link": "https://n.news.naver.com/mnews/article/025/0003560232?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"집 밖으로 나온 간편식\" 가을 캠핑 식탁도 바꾼다",
+          "summary": "보관과 조리가 간편하면서도 다양한 맛과 영양을 챙길 수 있는 가정간편식(HMR)이 야외 먹거리의 새로운...",
+          "press": "뉴시스",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 13:53",
+          "link": "https://n.news.naver.com/mnews/article/003/0014274317?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"K-푸드 열풍\"…대구 식료품 수출 30.2% 증가",
+          "summary": "대구의 식료품 수출이 떡과 떡볶이를 중심으로 크게 늘었다.",
+          "press": "뉴스1",
+          "date": "2026-10-25",
+          "datetime": "2026-10-25 09:35",
+          "link": "https://n.news.naver.com/mnews/article/421/0009248026?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "30년간 10조 팔린 '햇반'…이젠 미국인 샐러드볼과도 '찰떡궁합'",
+          "summary": "CJ제일제당은 현재 미국에서 판매되는 햇반 백미 제품을 전량 국내에서 생산해 수출하고 있으며, 향후...",
+          "press": "연합뉴스",
+          "date": "2026-10-25",
+          "datetime": "2026-10-25 08:30",
+          "link": "https://n.news.naver.com/mnews/article/001/0016398527?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "수출 늘고 팝업 북적…K-소비재, 유럽 시장 공략",
+          "summary": "농림축산식품부에 따르면 지난 1∼9월 유럽연합으로의 K-푸드 수출액은 약 7억 3천만 달러로, 1년 전보다 23.5% 늘었습니다.",
+          "press": "연합뉴스TV",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 18:11",
+          "link": "https://n.news.naver.com/mnews/article/422/0000919107?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "전남테크노파크, 진도 공동브랜드 지식재산 경쟁력 강화…글로벌 판로...",
+          "summary": "10월 19일 공항철도 서울역에 정식 개관한 '글로벌 디지털 K-푸드 허브'는 글로벌 여행 플랫폼 클룩(Klook)을...",
+          "press": "전자신문",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 09:11",
+          "link": "https://n.news.naver.com/mnews/article/030/0003478228?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"다음날 새벽 도착\" 대만도 놀랐다...입소문 탄 쿠팡 '로켓 성장'",
+          "summary": "쿠팡 대만 앱에선 통이푸드(統一企業)와 웨이취안(味全), 광취엔(光泉), 이두(義美) 등 현지 식품 대기업이 만든 유제품과 냉동식품, 컵라면 등도 찾을 수 있다.…",
+          "press": "머니투데이",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 07:00",
+          "link": "https://n.news.naver.com/mnews/article/008/0005430999?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "수출은 했는데 라벨 하나에 막혔다…K-푸드 가로막는 비관세장벽",
+          "summary": "K-푸드 수출이 세계 시장으로 외연을 넓히고 있지만 농식품 수출 현장에서는 관세보다 까다로운 '비관세장벽'이 새로운 변수로 떠오르고 있다. 국가마다",
+          "press": "뉴스1",
+          "date": "2026-10-24",
+          "datetime": "2026-10-24 07:00",
+          "link": "https://n.news.naver.com/mnews/article/421/0009247348?sid=101",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        },
+        {
+          "title": "\"한국 떡볶이 넘버원\" 말레이 바이어, K-푸드에 엄지척",
+          "summary": "23일 칠곡군에 따르면 말레이시아 쿠알라룸푸르에서 열린 칠곡군 시장개척단 수출상담회에서 현지 바이어가 식품기업 ㈜샘초롱의 떡볶이를 시식한 뒤 만족스러운 표정을 지…",
+          "press": "뉴시스",
+          "date": "2026-10-23",
+          "datetime": "2026-10-23 16:15",
+          "link": "https://n.news.naver.com/mnews/article/003/0014274901?sid=102",
+          "badge": "산업",
+          "subgroup": "encreative",
+          "subgroup_label": "이앤크리에이티브"
+        }
+      ],
+      "subgroups": [
+        {
+          "id": "powernet",
+          "label": "파워넷"
+        },
+        {
+          "id": "mercury",
+          "label": "머큐리 & 머큐리광통신"
+        },
+        {
+          "id": "encreative",
+          "label": "이앤크리에이티브"
+        },
+        {
+          "id": "ritco",
+          "label": "리트코"
+        }
+      ]
+    }
+  ],
+  "total": 62
+}
